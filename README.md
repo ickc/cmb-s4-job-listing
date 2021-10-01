@@ -46,7 +46,7 @@ CMB-S4 Next Generation CMB Experiment
 
 # Job listings
 
-This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt](/cdn-cgi/l/email-protection#4023283229333429212e6e32252923282132243400352e292d252c226e2524356e2135).
+This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt](/cdn-cgi/l/email-protection#07646f756e74736e66692975626e646f667563734772696e6a626b6529626372296672).
 
 -   [Postdoc at University of Ferrara, Sep 30, 2021](#ferrara)
 -   [Chamberlain Fellowships at LBNL, Oct 17, 2021](#lbnl)
