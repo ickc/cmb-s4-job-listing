@@ -31,7 +31,9 @@ jobs:
       run: make README.md -B
     - name: Commit changes
       run: |
-        git config --global user.name 'GitHub Actions Bot'
-        git config --global user.email 'ickc@users.noreply.github.com'
-        git commit -am "Automated commit"
-        git push
+        if \! git diff --exit-code; then
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'ickc@users.noreply.github.com'
+          git commit -am "Automated commit"
+          git push
+        fi
