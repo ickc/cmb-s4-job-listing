@@ -24,7 +24,9 @@ jobs:
         [[ ${{ matrix.pandoc-version }} == "latest" ]] && url="https://github.com/jgm/pandoc/releases/latest" || url="https://github.com/jgm/pandoc/releases/tag/${{ matrix.pandoc-version }}"
         downloadUrl="https://github.com$(curl -L $url | grep -o '/jgm/pandoc/releases/download/.*-amd64\.deb')"
         wget --quiet "$downloadUrl"
-        sudo dpkg -i "${downloadUrl##*/}"
+        filename="${downloadUrl##*/}"
+        sudo dpkg -i "$filename"
+        rm -f "$filename"
     - name: download README.md
       run: make README.md
     - name: Commit changes
