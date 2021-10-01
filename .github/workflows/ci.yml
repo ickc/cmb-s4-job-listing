@@ -28,7 +28,7 @@ jobs:
         sudo dpkg -i "$filename"
         rm -f "$filename"
     - name: download README.md
-      run: make README.md
+      run: make README.md -B
     - name: Commit changes
       run: |
         git config --global user.name 'GitHub Actions Bot'
