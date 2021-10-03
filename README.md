@@ -52,6 +52,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Chamberlain Fellowships at LBNL, Oct 17, 2021](#lbnl)
 -   [Staff Physicists at Argonne National Laboratory, Oct 31, 2021](#argonne)
 -   [Postdoctoral Position at KIPAC, Stanford/SLAC, Nov 1, 2021](#kipac)
+-   [Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](#galactic)
 -   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
@@ -101,6 +102,14 @@ We seek candidates with experience in data analysis, simulations, and/or instrum
 4\. Application of CMB detector and readout technology in new concepts for low-mass dark matter searches, THz photon sensing, and qubit-based sensors for physics.
 
 Successful candidates will have ample opportunities to test their ideas on data from the South Pole Telescope and the BICEP/Keck Array telescopes, and to make significant contributions to the design of the next-generation CMB experiment CMB-S4. They will work with CMB scientists in the aforementioned collaborations and interact with the local CMB and cosmology groups, making connections to other exciting opportunities for measurements in cosmology and physics. KIPAC provides a stimulating intellectual environment for interactions with scientists pursuing observational, experimental, computational, and theoretical research relevant to the above areas.
+
+------------------------------------------------------------------------
+
+**[Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](https://academicjobsonline.org/ajo/jobs/19433)**
+
+The Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University seeks recent Ph.D. scientists for a postdoctoral research position in Galactic magnetism and interstellar medium science. Candidates should have or expect to receive a Ph.D. in astronomy or physics prior to starting their appointment. Knowledge of the interstellar medium, astrophysical magnetic fields, or polarization data will be an asset. Candidates with a strong background in other astronomical data analysis and an interest in learning more about interstellar magnetic fields are also encouraged to apply. The successful candidate will join the Cosmic Magnetism & Interstellar Physics Group at Stanford, a group of researchers working on a diverse set of problems involving Galactic and extragalactic magnetism, 3D ISM structure, interstellar turbulence, star formation, and polarized cosmological foregrounds, among other topics. There will also be the opportunity to work on Galactic science with CMB experiment data. KIPAC is playing a leading role in CMB experiments including BICEP/Keck Array, the South Pole Telescope, the Atacama Cosmology Telescope, LiteBIRD, Ali, Simons Observatory, and planning for CMB-S4.
+
+KIPAC offers significant computational resources for data analysis, and also provides the opportunity to participate in cross-disciplinary activities through the Stanford Data Science Initiative. This position offers excellent benefits (<https://postdocbenefits.stanford.edu/>) and salary, and the appointment will be made for a term of three years. Please contact [Susan Clark](https://kipac.stanford.edu/people/susan-clark) for more information on this position.
 
 ------------------------------------------------------------------------
 
