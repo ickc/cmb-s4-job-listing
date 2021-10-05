@@ -55,10 +55,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](#galactic)
 -   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
+-   [Postdoc at USC, Nov 30, 2021](#usc)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
 -   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
--   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Dec 15, 2021](#stockholm)
+-   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 
 ------------------------------------------------------------------------
@@ -127,7 +128,17 @@ The research group in Ferrara includes M. Gerbino, A. Gruppuso, M. Lattanzi, P. 
 
 Topics of particular interest for the fellowship include the cosmological phenomenology of light relics such as neutrinos (both active and sterile), axions and axion-like particles, majorons, in view of future observations of cosmic microwave background anisotropies and of large-scale structures.
 
-Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data.
+Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data
+
+.
+
+------------------------------------------------------------------------
+
+**[Postdoc at USC, Nov 30, 2021](https://academicjobsonline.org/ajo/jobs/19898)**
+
+The Department of Physics and Astronomy at the University of Southern California in Los Angeles invites applications for a postdoctoral research position in theoretical, observational or computational cosmology. The cosmology group at USC is committed to providing a welcoming and vibrant intellectual environment for all. We are particularly interested in candidates who are underrepresented minorities and in candidates who will foster a commitment to improving diversity, equity and inclusion in the department.
+
+The successful candidate will have the opportunity to participate in theory, simulation or data analysis efforts within the Atacama Cosmology Telescope, the Simons Observatory, CMB-S4 and the Rubin Observatory LSST Dark Energy Science Collaboration. The postdoctoral researcher will work closely with Mathew Madhavacheril whose research interests include theory and data analysis of the cosmic microwave background and large-scale structure. They will have the opportunity to collaborate with other faculty and postdoctoral researchers in theoretical cosmology at USC.
 
 ------------------------------------------------------------------------
 
@@ -157,7 +168,7 @@ Of high priority for all faculty positions is a commitment to excellence in teac
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Dec 15, 2021](https://www.su.se/english/about-the-university/work-at-su/available-jobs?rmpage=job&rmjob=15896&rmlang=UK)**
+**[Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](https://www.su.se/english/about-the-university/work-at-su/available-jobs?rmpage=job&rmjob=15896&rmlang=UK)**
 
 We are advertising a postdoc position to work with Dr. Jon E. Gudmundsson on novel research in instrumentation, simulation, and data analysis for experiments studying the cosmic microwave background (CMB), including SPIDER, the Simons Observatory, the LiteBIRD satellite, and CMB-S4. Potential research topics include: data analysis, high-fidelity simulations of optical systematics, development of systems for mm-wave characterization of optical components, and pipeline development for next-generation CMB experiments. Candidates are encouraged to define their own research projects within the scope of the efforts above.
 
