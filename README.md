@@ -59,6 +59,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
 -   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
+-   [Staff Scientist at LBNL, Dec 15, 2021](#stafflbnl)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 
@@ -165,6 +166,14 @@ The Department of Physics at the University of Texas at Austin invites applicati
 The department, in collaboration with the College of Natural Sciences, values candidates who are committed to building a diverse and inclusive educational environment and have demonstrated a commitment to improving the diversity, equity and inclusivity of their academic communities.
 
 Of high priority for all faculty positions is a commitment to excellence in teaching.
+
+------------------------------------------------------------------------
+
+**[Staff Scientist at LBNL, Dec 15, 2021](https://academicjobsonline.org/ajo/jobs/19991)**
+
+The Physics Division at Lawrence Berkeley National Laboratory (LBNL) invites applications from scientists with a record of substantial accomplishment and creative ability for a Staff Scientist position in the Cosmic Microwave Background (CMB) experimental group.   The appointment may be either career-track or career, depending on seniority.   The career-track Staff Scientist position is a five-year appointment with the expectation of promotion to a career position as Staff Scientist. Applicants should have demonstrated leadership and original achievements in research. We welcome all applicants with exceptional promise to advance the art of experimentation in CMB science;  expertise in instrumentation, especially related to the design, construction and operation of microwave telescopes, optics,  and related technologies is desirable.
+
+The Staff Scientist is expected to play a leading role in her/his scientific field and will be encouraged to contribute to research that may enable transformational advances or new opportunities in LBNL’s CMB research program.  LBNL has a long tradition of pioneering work developing new detectors, devices, and methods for fundamental physics.  LBNL has been selected by the Department of Energy to lead the CMB-S4 project (<https://cmb-s4.org/>), a next generation experiment with multiple telescopes and 500,000 cryogenic superconducting detectors with the potential to transform the field.
 
 ------------------------------------------------------------------------
 
