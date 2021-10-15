@@ -48,13 +48,13 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Postdoc at University of Ferrara, Sep 30, 2021](#ferrara)
 -   [Chamberlain Fellowships at LBNL, Oct 17, 2021](#lbnl)
 -   [Staff Physicists at Argonne National Laboratory, Oct 31, 2021](#argonne)
 -   [Postdoctoral Position at KIPAC, Stanford/SLAC, Nov 1, 2021](#kipac)
 -   [Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](#galactic)
 -   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
+-   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
 -   [Postdoc at USC, Nov 30, 2021](#usc)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
@@ -70,14 +70,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 The Cosmological Physics and Advanced Computing (CPAC) Group in the High Energy Physics (HEP) division at Argonne National Laboratory is seeking a highly qualified candidate in the area of cosmic microwave background (CMB) instrumentation and data analysis to contribute to current projects including SPT-3G and CMB-S4, as well as to develop future opportunities.
 
 The successful candidate must have a PhD in physics or related fields and appropriate postdoctoral experience. Areas of technical expertise include cryogenic receiver design and operation, superconducting detector and readout system design and implementation, CMB receiver integration and commissioning, and CMB data analysis ranging from low-level processing, instrumental systematics verification to cosmological constraints. Experience with high performance computing and AI/ML expertise would be helpful. A demonstrated record of student and/or postdoctoral mentorship and proposal writing, along with strong oral and written communication skills, is highly desirable. The selected candidate will work in a highly collaborative environment within CPAC, HEP division, and Argonne National Laboratory, and with academia and other national laboratories.  CPAC hosts wide-ranging programs in theory, modeling, and simulation and in experiment and observation focusing on optical and CMB surveys, including CMB-S4, DES, DESI, Rubin Observatory’s LSST, SPHEREx, and SPT-3G.
-
-------------------------------------------------------------------------
-
-**[Postdoc at University of Ferrara, Sep 30, 2021](https://academicjobsonline.org/ajo/jobs/19021)**
-
-The Cosmology group at the Department of Physics and Earth Science, University of Ferrara (UNIFE), Italy, invites expressions of interest for a fixed-term staff position\* from outstanding candidates with a strong research record in cosmic microwave background (CMB) and large scale structure (LSS) data analysis and interpretation. The research topics include: pipeline development for next generation CMB experiments, cross-correlation of CMB data with large-scale-structure surveys, likelihood analysis, cosmological model building and investigation of fundamental physics with upcoming cosmological datasets.
-
-The Cosmology group at UNIFE is active on several complementary aspects of the research in cosmology, covering a wide range of activities, from cosmo-particle projects with a mostly-theoretical flavour to the development and validation of data analysis pipelines. The group is deeply involved in several scientific collaborations such as LiteBIRD, Euclid, LSPE, Simons Observatory, CMB-S4.
 
 ------------------------------------------------------------------------
 
@@ -129,9 +121,13 @@ The research group in Ferrara includes M. Gerbino, A. Gruppuso, M. Lattanzi, P. 
 
 Topics of particular interest for the fellowship include the cosmological phenomenology of light relics such as neutrinos (both active and sterile), axions and axion-like particles, majorons, in view of future observations of cosmic microwave background anisotropies and of large-scale structures.
 
-Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data
+Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data.
 
-.
+------------------------------------------------------------------------
+
+**[Wilson Fellowship at Fermilab, Nov 19, 2021](https://academicjobsonline.org/ajo/jobs/19983)**
+
+The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the [Fermilab particle physics](https://www.fnal.gov/pub/science/particle-physics/index.html "https://www.fnal.gov/pub/science/particle-physics/index.html") experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments.
 
 ------------------------------------------------------------------------
 
