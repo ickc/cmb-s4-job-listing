@@ -52,6 +52,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Staff Physicists at Argonne National Laboratory, Oct 31, 2021](#argonne)
 -   [Postdoctoral Position at KIPAC, Stanford/SLAC, Nov 1, 2021](#kipac)
 -   [Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](#galactic)
+-   [Mossman postdoctoral fellowship at Yale, Nov 1, 2021](#mossman)
+-   [YCAA postdoctoral fellowship at Yale, Nov 5, 2021](#ycaa)
 -   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
 -   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
@@ -60,6 +62,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
 -   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
 -   [Staff Scientist at LBNL, Dec 15, 2021](#stafflbnl)
+-   [Cosmology postdoc at Argonne, Dec 15, 2021](#argonnepost)
+-   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 
@@ -104,6 +108,26 @@ Successful candidates will have ample opportunities to test their ideas on data 
 The Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University seeks recent Ph.D. scientists for a postdoctoral research position in Galactic magnetism and interstellar medium science. Candidates should have or expect to receive a Ph.D. in astronomy or physics prior to starting their appointment. Knowledge of the interstellar medium, astrophysical magnetic fields, or polarization data will be an asset. Candidates with a strong background in other astronomical data analysis and an interest in learning more about interstellar magnetic fields are also encouraged to apply. The successful candidate will join the Cosmic Magnetism & Interstellar Physics Group at Stanford, a group of researchers working on a diverse set of problems involving Galactic and extragalactic magnetism, 3D ISM structure, interstellar turbulence, star formation, and polarized cosmological foregrounds, among other topics. There will also be the opportunity to work on Galactic science with CMB experiment data. KIPAC is playing a leading role in CMB experiments including BICEP/Keck Array, the South Pole Telescope, the Atacama Cosmology Telescope, LiteBIRD, Ali, Simons Observatory, and planning for CMB-S4.
 
 KIPAC offers significant computational resources for data analysis, and also provides the opportunity to participate in cross-disciplinary activities through the Stanford Data Science Initiative. This position offers excellent benefits (<https://postdocbenefits.stanford.edu/>) and salary, and the appointment will be made for a term of three years. Please contact [Susan Clark](https://kipac.stanford.edu/people/susan-clark) for more information on this position.
+
+------------------------------------------------------------------------
+
+**[Mossman postdoctoral fellowship at Yale, Nov 1, 2021](https://jobregister.aas.org/ad/0fed164c)**
+
+The Yale Physics Department invites applications for the Yale Mossman Postdoctoral Fellowship. This fellowship is intended to support promising physicists in the early stages of their careers.
+
+This year’s fellowship will be in any subfield of physics. The fellowship provides a three-year appointment with a competitive stipend, discretionary annual research fund, and comprehensive health insurance.
+
+Yale has an active and engaged community in most subfields of physics both experimental and theoretical. The faculty of the Physics Department work in astrophysics and cosmology, atomic physics, biophysics, condensed matter, gravitational physics, nuclear and particle physics, as well as quantum science. More information about the department’s research activities can be found at physics.yale.edu/research.
+
+------------------------------------------------------------------------
+
+**[YCAA postdoctoral fellowship at Yale, Nov 5, 2021](https://jobregister.aas.org/ad/762cadf2)**
+
+The Yale Center for Astronomy and Astrophysics invites applications for the YCAA Postdoctoral Prize Fellowship. The YCAA is part of a vibrant research community in the Astronomy and Physics departments at Yale. The Fellowship is for three years (renewed annually subject to performance) and offers salary, benefits and research funds comparable to the Hubble and other similar prize fellowships.
+
+Yale offers a lively intellectual environment and access to world-class astronomical facilities, including the Keck and Palomar telescopes, and to Chilean telescopes through an ongoing Chilean collaboration. Because Yale is an institutional member of the SDSS-IV and SDSS-V collaborations, YCAA Fellows can automatically join both. YCAA Fellows also have access to High-Performance Computing facilities at Yale.
+
+Fellows are free to carry out their own research program, although research interests that intersect with those of Yale astrophysics faculty (see <https://ycaa.yale.edu/people/faculty>) are preferred. Active research at Yale spans most areas in astrophysics and includes theoretical, observational, and instrumentation efforts.
 
 ------------------------------------------------------------------------
 
@@ -170,6 +194,22 @@ Of high priority for all faculty positions is a commitment to excellence in teac
 The Physics Division at Lawrence Berkeley National Laboratory (LBNL) invites applications from scientists with a record of substantial accomplishment and creative ability for a Staff Scientist position in the Cosmic Microwave Background (CMB) experimental group.   The appointment may be either career-track or career, depending on seniority.   The career-track Staff Scientist position is a five-year appointment with the expectation of promotion to a career position as Staff Scientist. Applicants should have demonstrated leadership and original achievements in research. We welcome all applicants with exceptional promise to advance the art of experimentation in CMB science;  expertise in instrumentation, especially related to the design, construction and operation of microwave telescopes, optics,  and related technologies is desirable.
 
 The Staff Scientist is expected to play a leading role in her/his scientific field and will be encouraged to contribute to research that may enable transformational advances or new opportunities in LBNL’s CMB research program.  LBNL has a long tradition of pioneering work developing new detectors, devices, and methods for fundamental physics.  LBNL has been selected by the Department of Energy to lead the CMB-S4 project (<https://cmb-s4.org/>), a next generation experiment with multiple telescopes and 500,000 cryogenic superconducting detectors with the potential to transform the field.
+
+------------------------------------------------------------------------
+
+**[Cosmology postdoc at Argonne, Dec 15, 2021](https://jobregister.aas.org/ad/9f6a49a7)**
+
+Cosmological research at Argonne covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two.
+
+Staff members include Matt Becker, Amy Bender, Lindsey Bleem, Clarence Chang, JD Emberson, Salman Habib, Andrew Hearin, Katrin Heitmann, Eve Kovacs, Patricia Larsen, Adrian Pope, Nesar Ramachandra, Esteban Rangel, and Gensheng Wang. Current postdocs are Alex Alarcon, Michael Buehlmann, Nicholas Frontiere, Riccardo Gualtieri, Florian Keruzore, Zhaodi Pan, Markus Rau, and Antonio Villarreal; the effort includes a number of graduate and undergraduate students.
+
+------------------------------------------------------------------------
+
+**[Postdoc at Yale, Jan 14, 2022](https://jobregister.aas.org/ad/fcb78db2)**
+
+We invite applications for a postdoctoral position in experimental cosmology within the Physics Department at Yale University. The successful candidate will work with Prof. Laura Newburgh on CHIME ([https://chime-experiment.ca/en](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchime-experiment.ca%2Fen&data=04%7C01%7Cgeriana.vanatta%40yale.edu%7Cfaf012871a334449b3da08d96d8743eb%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637661250005796859%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=n8pAaShFfO%2FbnP%2Bntcv09%2FaONpq55C%2Bg%2BmXLks%2Bw%2Fmk%3D&reserved=0)). You would focus on data analysis for the CHIME cosmology survey currently underway.
+
+Appropriately qualified applicants will have the opportunity to pursue other avenues of related research. This position is for a two-year appointment, to be renewed for an additional year, contingent upon satisfactory performance
 
 ------------------------------------------------------------------------
 
