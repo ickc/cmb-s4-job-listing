@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [YCAA postdoctoral fellowship at Yale, Nov 5, 2021](#ycaa)
 -   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
+-   [Postdoc at UCSD, Nov 15, 2021](#ucsd)
 -   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
 -   [Postdoc at USC, Nov 30, 2021](#usc)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
@@ -146,6 +147,12 @@ The research group in Ferrara includes M. Gerbino, A. Gruppuso, M. Lattanzi, P. 
 Topics of particular interest for the fellowship include the cosmological phenomenology of light relics such as neutrinos (both active and sterile), axions and axion-like particles, majorons, in view of future observations of cosmic microwave background anisotropies and of large-scale structures.
 
 Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data.
+
+------------------------------------------------------------------------
+
+**[Postdoc at UCSD, Nov 15, 2021](https://apol-recruit.ucsd.edu/JPF02882)**
+
+The Cosmology group at the University of California, San Diego (UCSD) invites applications for a postdoctoral position on the Simons Array (SA) project. The SA receivers will provide maps of Cosmic Microwave Background intensity and polarization with unprecedented sensitivity at small angular scales, enabling a wide variety of science, in particular the measurement of the properties of light relativistic particles such as neutrinos in the early universe. UCSD plays a leading role in the SA project in data analysis and participates in the project at all levels. The position will include analysis of data from the SA receivers deployed to the telescope.
 
 ------------------------------------------------------------------------
 
