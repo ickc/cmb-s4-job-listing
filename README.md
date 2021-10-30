@@ -48,7 +48,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Chamberlain Fellowships at LBNL, Oct 17, 2021](#lbnl)
 -   [Staff Physicists at Argonne National Laboratory, Oct 31, 2021](#argonne)
 -   [Postdoctoral Position at KIPAC, Stanford/SLAC, Nov 1, 2021](#kipac)
 -   [Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](#galactic)
@@ -61,8 +60,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc at USC, Nov 30, 2021](#usc)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
+-   [Postdoc at University of Geneva, Dec 1, 2021](#geneva)
 -   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
 -   [Staff Scientist at LBNL, Dec 15, 2021](#stafflbnl)
+-   [DESI Data Management positions at LBNL, Dec 15, 2021](#desilbnl)
 -   [Cosmology postdoc at Argonne, Dec 15, 2021](#argonnepost)
 -   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
@@ -75,14 +76,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 The Cosmological Physics and Advanced Computing (CPAC) Group in the High Energy Physics (HEP) division at Argonne National Laboratory is seeking a highly qualified candidate in the area of cosmic microwave background (CMB) instrumentation and data analysis to contribute to current projects including SPT-3G and CMB-S4, as well as to develop future opportunities.
 
 The successful candidate must have a PhD in physics or related fields and appropriate postdoctoral experience. Areas of technical expertise include cryogenic receiver design and operation, superconducting detector and readout system design and implementation, CMB receiver integration and commissioning, and CMB data analysis ranging from low-level processing, instrumental systematics verification to cosmological constraints. Experience with high performance computing and AI/ML expertise would be helpful. A demonstrated record of student and/or postdoctoral mentorship and proposal writing, along with strong oral and written communication skills, is highly desirable. The selected candidate will work in a highly collaborative environment within CPAC, HEP division, and Argonne National Laboratory, and with academia and other national laboratories.  CPAC hosts wide-ranging programs in theory, modeling, and simulation and in experiment and observation focusing on optical and CMB surveys, including CMB-S4, DES, DESI, Rubin Observatory’s LSST, SPHEREx, and SPT-3G.
-
-------------------------------------------------------------------------
-
-**[Chamberlain Fellowships at LBNL, Oct 17, 2021](https://academicjobsonline.org/ajo/jobs/19306)**
-
-The Physics Division of the Lawrence Berkeley National Laboratory announces the competition for the 2022 Owen Chamberlain Fellowships in Experimental Particle Physics and Cosmology.
-
-The Physics Division pursues a broad suite of experimental research.  It has a long tradition of advanced detector development, computational research (including a strong focus on machine learning) and a new initiative in quantum information science (both quantum computing and quantum sensing) and microelectronics.  Our experimental portfolio encompasses high-energy collider physics (ATLAS), neutrino physics (DUNE), direct detection of dark matter (LZ, TESSERACT), Mu2e, experimental cosmology (DESI, Rubin Observatory DESC, Type Ia Supernovae), CMB (Simons Array, Simons Observatory, CMB-S4). Chamberlain Fellows may join any of the active research programs, subject to funding availability.
 
 ------------------------------------------------------------------------
 
@@ -186,6 +179,14 @@ The University of Illinois at Urbana-Champaign invites applications for a postdo
 
 ------------------------------------------------------------------------
 
+**[Postdoc at University of Geneva, Dec 1, 2021](https://academicjobsonline.org/ajo/jobs/20083)**
+
+We invite applications for a postdoctoral position in cosmology at the University of Geneva, starting in Fall 2022 or earlier. The position is for two years initially with possibility of extension, funded by a SNSF grant associated to Prof. Carron with main focus Cosmic Microwave Background data analysis.
+
+The Cosmology and Astroparticle physics group is also strongly involved in galaxy clustering, weak gravitational lensing, gravitational waves, dark energy, and modified gravity (see <http://cosmology.unige.ch/>).
+
+------------------------------------------------------------------------
+
 **[Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](https://apply.interfolio.com/95382)**
 
 The Department of Physics at the University of Texas at Austin invites applications for a tenure-track faculty position (subject to the availability of funding) in Experimental and/or Data Driven Cosmology, with possible consideration in allied areas, at the Assistant Professor level.  Well-qualified candidates at a higher rank will also be considered.
@@ -201,6 +202,14 @@ Of high priority for all faculty positions is a commitment to excellence in teac
 The Physics Division at Lawrence Berkeley National Laboratory (LBNL) invites applications from scientists with a record of substantial accomplishment and creative ability for a Staff Scientist position in the Cosmic Microwave Background (CMB) experimental group.   The appointment may be either career-track or career, depending on seniority.   The career-track Staff Scientist position is a five-year appointment with the expectation of promotion to a career position as Staff Scientist. Applicants should have demonstrated leadership and original achievements in research. We welcome all applicants with exceptional promise to advance the art of experimentation in CMB science;  expertise in instrumentation, especially related to the design, construction and operation of microwave telescopes, optics,  and related technologies is desirable.
 
 The Staff Scientist is expected to play a leading role in her/his scientific field and will be encouraged to contribute to research that may enable transformational advances or new opportunities in LBNL’s CMB research program.  LBNL has a long tradition of pioneering work developing new detectors, devices, and methods for fundamental physics.  LBNL has been selected by the Department of Energy to lead the CMB-S4 project (<https://cmb-s4.org/>), a next generation experiment with multiple telescopes and 500,000 cryogenic superconducting detectors with the potential to transform the field.
+
+------------------------------------------------------------------------
+
+**[DESI Data Management positions at LBNL, Dec 15, 2021](https://academicjobsonline.org/ajo/jobs/20176)**
+
+We have a job opportunity at LBL with the DESI Data Management team — we’re looking for scientists who can engage with the DESI science analyses and connect those needs back to improving spectroscopic data quality issues and algorithms.
+
+The position will be filled at the postdoc or project scientist level depending upon the experience and qualifications of the candidate.  For more information about the position and how to apply, please see the [AJO job ad here](https://academicjobsonline.org/ajo/jobs/20174). If you received your PhD Summer 2019 or later, please apply [here instead](https://academicjobsonline.org/ajo/jobs/20176).
 
 ------------------------------------------------------------------------
 
