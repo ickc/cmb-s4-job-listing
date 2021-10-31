@@ -61,6 +61,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
 -   [Postdoc at University of Geneva, Dec 1, 2021](#geneva)
+-   [Postdoc on CCAT-prime at University of British Columbia, Dec 1, 2021](#ubc)
 -   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
 -   [Staff Scientist at LBNL, Dec 15, 2021](#stafflbnl)
 -   [DESI Data Management positions at LBNL, Dec 15, 2021](#desilbnl)
@@ -184,6 +185,14 @@ The University of Illinois at Urbana-Champaign invites applications for a postdo
 We invite applications for a postdoctoral position in cosmology at the University of Geneva, starting in Fall 2022 or earlier. The position is for two years initially with possibility of extension, funded by a SNSF grant associated to Prof. Carron with main focus Cosmic Microwave Background data analysis.
 
 The Cosmology and Astroparticle physics group is also strongly involved in galaxy clustering, weak gravitational lensing, gravitational waves, dark energy, and modified gravity (see <http://cosmology.unige.ch/>).
+
+------------------------------------------------------------------------
+
+**[Postdoc on CCAT-prime at University of British Columbia, Dec 1, 2021](https://jobregister.aas.org/ad/addaa28c)**
+
+Applications are invited for a postdoctoral research position in experimental cosmology and astrophysics at the University of British Columbia in Vancouver, BC. Members of our group study the CMB and astrophysics as participants in the South Pole Telescope (SPT, <https://pole.uchicago.edu/>), CCAT-prime (<https://www.ccatobservatory.org/>), Polarbear/Simons-Array, ACT, and CMB-S4 collaborations.
+
+UBC is funded to build the polarization sensitive, 850GHz (350um) KID-based camera for the CCAT-prime telescope. The successful applicant will have the opportunity to actively contribute to the design, construction and testing of this instrument, with close collaboration with the Cornell CCATp group. The applicant will also have opportunities for cosmological/astrophysical analysis of data from the SPT-3G receiver and Polarbear-2/SA, as well as in technology development for CMB-S4. Applicants are encouraged to contact Prof. Chapman for further details.
 
 ------------------------------------------------------------------------
 
