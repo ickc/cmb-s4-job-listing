@@ -55,9 +55,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [YCAA postdoctoral fellowship at Yale, Nov 5, 2021](#ycaa)
 -   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
+-   [Information Systems Analyst at UCSD, Nov 10, 2021](#progucsd)
 -   [Postdoc at UCSD, Nov 15, 2021](#ucsd)
 -   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
 -   [Postdoc at USC, Nov 30, 2021](#usc)
+-   [Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](#cal)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
 -   [Postdoc at University of Geneva, Dec 1, 2021](#geneva)
@@ -144,6 +146,14 @@ Other research lines currently being pursued by the group include the phenomenol
 
 ------------------------------------------------------------------------
 
+**[Information Systems Analyst as UCSD, Nov 10, 2021](https://employment.ucsd.edu/112678-information-systems-analyst/job/17914163)**
+
+The laboratory of Professors Brian Keating and Kam Arnold does research on the cosmic microwave background (CMB) and the near-infrared background (NIRB). All experiments are computer-controlled. Electronics are both commercial and specially built-in Professor Arnold and Keating’s laboratories. The group does extensive data analysis using both commercial and special software which the group writes. For more information on the UCSD Cosmology research group and projects conducted, please visit <http://cosmology.ucsd.edu/>.
+
+The incumbent will be expected to perform procedures related to the testing and development of a cryogenic microwave telescope and associated subsystems that are undergoing the last steps prior to shipment to Chile to observe the cosmic microwave background. Assist with software development for a variety of DAQ devices as well as data analysis and quality assurance. Software development includes python and jupyter programming in our custom observatory control software framework, updating and maintenance of github repositories, as well as managing the local setup and networking of devices. Assist with design and implementation of both mechanical and electrical subsystems in the lab as well as prepare devices and develop procedures related to the telescope deployment to Chile. Assist with program documentation including procedures, inventory, device calibrations, and other routine lab duties as needed. Other duties could include soldering, placing orders, managing incoming and outgoing shipments, and restocking the lab.
+
+------------------------------------------------------------------------
+
 **[Postdoc at UCSD, Nov 15, 2021](https://apol-recruit.ucsd.edu/JPF02882)**
 
 The Cosmology group at the University of California, San Diego (UCSD) invites applications for a postdoctoral position on the Simons Array (SA) project. The SA receivers will provide maps of Cosmic Microwave Background intensity and polarization with unprecedented sensitivity at small angular scales, enabling a wide variety of science, in particular the measurement of the properties of light relativistic particles such as neutrinos in the early universe. UCSD plays a leading role in the SA project in data analysis and participates in the project at all levels. The position will include analysis of data from the SA receivers deployed to the telescope.
@@ -161,6 +171,22 @@ The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of ex
 The Department of Physics and Astronomy at the University of Southern California in Los Angeles invites applications for a postdoctoral research position in theoretical, observational or computational cosmology. The cosmology group at USC is committed to providing a welcoming and vibrant intellectual environment for all. We are particularly interested in candidates who are underrepresented minorities and in candidates who will foster a commitment to improving diversity, equity and inclusion in the department.
 
 The successful candidate will have the opportunity to participate in theory, simulation or data analysis efforts within the Atacama Cosmology Telescope, the Simons Observatory, CMB-S4 and the Rubin Observatory LSST Dark Energy Science Collaboration. The postdoctoral researcher will work closely with Mathew Madhavacheril whose research interests include theory and data analysis of the cosmic microwave background and large-scale structure. They will have the opportunity to collaborate with other faculty and postdoctoral researchers in theoretical cosmology at USC.
+
+------------------------------------------------------------------------
+
+**[Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](https://aprecruit.berkeley.edu/JPF02884)**
+
+The Department of Physics at the University of California, Berkeley seeks applications for (1) an postdoctoral fellow and (2) an Assistant Project Scientist to work in the area of experimental cosmology, specifically in the area of cosmic microwave background (CMB) experiment.
+
+The positions will be in Adrian Lee’s group in the Physics Department of UC Berkeley. The group focuses on observations of the cosmic microwave background (CMB). The research in this position will be focused on developing the Small Aperture Telescopes (SATs) of the Simons Observatory where one of the SATs is being built at Berkeley/LBNL. The SATs have compact refractive optics with a 42 cm diameter aperture. The 100 mK focal planes are instrumented with Horn- or Planar-Antenna-Coupled, dichroic, Transition-Edge Sensor (TES) bolometer arrays. The TESes are readout using a microwave MUX system.
+
+If you will have less than 3 years of postdoctoral experience, please apply for:
+
+<https://aprecruit.berkeley.edu/apply/JPF02886>
+
+If you will have more than 3 years of postdoctoral experience, please apply for:
+
+<https://aprecruit.berkeley.edu/apply/JPF02884>
 
 ------------------------------------------------------------------------
 
