@@ -48,14 +48,9 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Staff Physicists at Argonne National Laboratory, Oct 31, 2021](#argonne)
--   [Postdoctoral Position at KIPAC, Stanford/SLAC, Nov 1, 2021](#kipac)
--   [Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](#galactic)
--   [Mossman postdoctoral fellowship at Yale, Nov 1, 2021](#mossman)
--   [YCAA postdoctoral fellowship at Yale, Nov 5, 2021](#ycaa)
--   [Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](#profchicago)
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
 -   [Information Systems Analyst at UCSD, Nov 10, 2021](#progucsd)
+-   [HIRAX Project Manager at UKNZ, Nov 12, 2021](#uknz)
 -   [Postdoc at UCSD, Nov 15, 2021](#ucsd)
 -   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
 -   [Postdoc at USC, Nov 30, 2021](#usc)
@@ -71,66 +66,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
-
-------------------------------------------------------------------------
-
-**[Staff Physicists at Argonne National Laboratory, Oct 31, 2021](https://jobregister.aas.org/ad/5e2f8de1)**
-
-The Cosmological Physics and Advanced Computing (CPAC) Group in the High Energy Physics (HEP) division at Argonne National Laboratory is seeking a highly qualified candidate in the area of cosmic microwave background (CMB) instrumentation and data analysis to contribute to current projects including SPT-3G and CMB-S4, as well as to develop future opportunities.
-
-The successful candidate must have a PhD in physics or related fields and appropriate postdoctoral experience. Areas of technical expertise include cryogenic receiver design and operation, superconducting detector and readout system design and implementation, CMB receiver integration and commissioning, and CMB data analysis ranging from low-level processing, instrumental systematics verification to cosmological constraints. Experience with high performance computing and AI/ML expertise would be helpful. A demonstrated record of student and/or postdoctoral mentorship and proposal writing, along with strong oral and written communication skills, is highly desirable. The selected candidate will work in a highly collaborative environment within CPAC, HEP division, and Argonne National Laboratory, and with academia and other national laboratories.  CPAC hosts wide-ranging programs in theory, modeling, and simulation and in experiment and observation focusing on optical and CMB surveys, including CMB-S4, DES, DESI, Rubin Observatory’s LSST, SPHEREx, and SPT-3G.
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Position at KIPAC, Stanford/SLAC, Nov 1, 2021](https://academicjobsonline.org/ajo/jobs/19563)**
-
-Applications are invited for several postdoctoral positions at the Kavli Institute of Particle Astrophysics and Cosmology (KIPAC) at Stanford University and the SLAC National Accelerator Laboratory with a focus on Cosmic Microwave Background (CMB) surveys. The positions are primarily intended to expand our work with the CMB experiments BICEP/Keck Array, the South Pole Telescope (SPT), Simons Observatory, and CMB-S4, but also to develop applications and methods in other areas of cosmology and physics.
-
-We seek candidates with experience in data analysis, simulations, and/or instrumentation development in observational cosmology or particle astrophysics, and expect them to work in one or more of the following areas:
-
-1\. Science analyses of data from current-generation CMB experiments, and if relevant, jointly with data from surveys such as DESI, Rubin Observatory, or intensity mapping experiments.
-
-2\. Forecasts and systematics studies informing the design of CMB-S4.
-
-3\. Development of CMB-S4 instrumentation prototypes and software, especially in the area of superconducting transition-edge sensors and their SQUID-amplified readout.
-
-4\. Application of CMB detector and readout technology in new concepts for low-mass dark matter searches, THz photon sensing, and qubit-based sensors for physics.
-
-Successful candidates will have ample opportunities to test their ideas on data from the South Pole Telescope and the BICEP/Keck Array telescopes, and to make significant contributions to the design of the next-generation CMB experiment CMB-S4. They will work with CMB scientists in the aforementioned collaborations and interact with the local CMB and cosmology groups, making connections to other exciting opportunities for measurements in cosmology and physics. KIPAC provides a stimulating intellectual environment for interactions with scientists pursuing observational, experimental, computational, and theoretical research relevant to the above areas.
-
-------------------------------------------------------------------------
-
-**[Postdoc in Galactic Magnetism and Interstellar medium at Stanford, Nov 1, 2021](https://academicjobsonline.org/ajo/jobs/19433)**
-
-The Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University seeks recent Ph.D. scientists for a postdoctoral research position in Galactic magnetism and interstellar medium science. Candidates should have or expect to receive a Ph.D. in astronomy or physics prior to starting their appointment. Knowledge of the interstellar medium, astrophysical magnetic fields, or polarization data will be an asset. Candidates with a strong background in other astronomical data analysis and an interest in learning more about interstellar magnetic fields are also encouraged to apply. The successful candidate will join the Cosmic Magnetism & Interstellar Physics Group at Stanford, a group of researchers working on a diverse set of problems involving Galactic and extragalactic magnetism, 3D ISM structure, interstellar turbulence, star formation, and polarized cosmological foregrounds, among other topics. There will also be the opportunity to work on Galactic science with CMB experiment data. KIPAC is playing a leading role in CMB experiments including BICEP/Keck Array, the South Pole Telescope, the Atacama Cosmology Telescope, LiteBIRD, Ali, Simons Observatory, and planning for CMB-S4.
-
-KIPAC offers significant computational resources for data analysis, and also provides the opportunity to participate in cross-disciplinary activities through the Stanford Data Science Initiative. This position offers excellent benefits (<https://postdocbenefits.stanford.edu/>) and salary, and the appointment will be made for a term of three years. Please contact [Susan Clark](https://kipac.stanford.edu/people/susan-clark) for more information on this position.
-
-------------------------------------------------------------------------
-
-**[Mossman postdoctoral fellowship at Yale, Nov 1, 2021](https://jobregister.aas.org/ad/0fed164c)**
-
-The Yale Physics Department invites applications for the Yale Mossman Postdoctoral Fellowship. This fellowship is intended to support promising physicists in the early stages of their careers.
-
-This year’s fellowship will be in any subfield of physics. The fellowship provides a three-year appointment with a competitive stipend, discretionary annual research fund, and comprehensive health insurance.
-
-Yale has an active and engaged community in most subfields of physics both experimental and theoretical. The faculty of the Physics Department work in astrophysics and cosmology, atomic physics, biophysics, condensed matter, gravitational physics, nuclear and particle physics, as well as quantum science. More information about the department’s research activities can be found at physics.yale.edu/research.
-
-------------------------------------------------------------------------
-
-**[YCAA postdoctoral fellowship at Yale, Nov 5, 2021](https://jobregister.aas.org/ad/762cadf2)**
-
-The Yale Center for Astronomy and Astrophysics invites applications for the YCAA Postdoctoral Prize Fellowship. The YCAA is part of a vibrant research community in the Astronomy and Physics departments at Yale. The Fellowship is for three years (renewed annually subject to performance) and offers salary, benefits and research funds comparable to the Hubble and other similar prize fellowships.
-
-Yale offers a lively intellectual environment and access to world-class astronomical facilities, including the Keck and Palomar telescopes, and to Chilean telescopes through an ongoing Chilean collaboration. Because Yale is an institutional member of the SDSS-IV and SDSS-V collaborations, YCAA Fellows can automatically join both. YCAA Fellows also have access to High-Performance Computing facilities at Yale.
-
-Fellows are free to carry out their own research program, although research interests that intersect with those of Yale astrophysics faculty (see <https://ycaa.yale.edu/people/faculty>) are preferred. Active research at Yale spans most areas in astrophysics and includes theoretical, observational, and instrumentation efforts.
-
-------------------------------------------------------------------------
-
-**[Tenure track Assistant Professor in Physics at the University of Chicago, Nov 5, 2021](https://apply.interfolio.com/89616)**
-
-The Department of Physics at the University of Chicago, together with research institutes and centers including the Enrico Fermi Institute and the James Franck Institute, is conducting a search at the rank of tenure-track Assistant Professor. The search is open to all subfields of experimental and theoretical physics.  Please see the [announcement](https://protect-au.mimecast.com/s/m9TqCP7yBlsKn5K4LtzHzt9?domain=apply.interfolio.com) (<https://apply.interfolio.com/89616>) for more information and to apply.   Review of applications will begin on November 5, 2021 and will continue until the position is filled. If applicants would like to be considered for appointments in 2022, they are strongly encouraged to submit their applications by November 5, 2021.
 
 ------------------------------------------------------------------------
 
@@ -151,6 +86,14 @@ Other research lines currently being pursued by the group include the phenomenol
 The laboratory of Professors Brian Keating and Kam Arnold does research on the cosmic microwave background (CMB) and the near-infrared background (NIRB). All experiments are computer-controlled. Electronics are both commercial and specially built-in Professor Arnold and Keating’s laboratories. The group does extensive data analysis using both commercial and special software which the group writes. For more information on the UCSD Cosmology research group and projects conducted, please visit <http://cosmology.ucsd.edu/>.
 
 The incumbent will be expected to perform procedures related to the testing and development of a cryogenic microwave telescope and associated subsystems that are undergoing the last steps prior to shipment to Chile to observe the cosmic microwave background. Assist with software development for a variety of DAQ devices as well as data analysis and quality assurance. Software development includes python and jupyter programming in our custom observatory control software framework, updating and maintenance of github repositories, as well as managing the local setup and networking of devices. Assist with design and implementation of both mechanical and electrical subsystems in the lab as well as prepare devices and develop procedures related to the telescope deployment to Chile. Assist with program documentation including procedures, inventory, device calibrations, and other routine lab duties as needed. Other duties could include soldering, placing orders, managing incoming and outgoing shipments, and restocking the lab.
+
+------------------------------------------------------------------------
+
+**[HIRAX Project Manager at UKNZ, Nov 12, 2021](https://hirax.ukzn.ac.za/hirax-project-manager/)**
+
+The Hydrogen Intensity and Real-time Analysis experiment (HIRAX) is a major radio astronomy telescope slated for construction in a radio-quiet area in South Africa. It will detect the effects of dark energy on the distribution of galaxies, traced by their neutral hydrogen emission. Operating between 400 and 800 MHz, HIRAX will also be a world-leading facility for studies of radio transients, pulsars, and hydrogen absorbers. HIRAX is led by the University of KwaZulu-Natal, and so UKZN seeks to appoint a Project Manager who will play a critical role in its development.   
+  
+The Project Manager will direct the daily operations and manage construction and design requirements of HIRAX and the telescope site. The role includes the procurement of telescope hardware and building links with industry partners. The Project Manager will be responsible for the delivery of telescope sub-systems as per project timelines, financial and contractual management of the project, and the coordination of HIRAX project activities. The incumbent will report directly to the Principal Investigator of the project. The contract will be for an estimated period of 3 years.
 
 ------------------------------------------------------------------------
 
