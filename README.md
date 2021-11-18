@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
 -   [Postdoc at USC, Nov 30, 2021](#usc)
 -   [Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](#cal)
+-   [Postdoc in Cosmology at Cambridge, Nov 30, 2021](#cambridge)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
 -   [Postdoc at University of Geneva, Dec 1, 2021](#geneva)
@@ -130,6 +131,14 @@ If you will have less than 3 years of postdoctoral experience, please apply for:
 If you will have more than 3 years of postdoctoral experience, please apply for:
 
 <https://aprecruit.berkeley.edu/apply/JPF02884>
+
+------------------------------------------------------------------------
+
+**[Postdoc in Cosmology at Cambridge, Nov 30, 2021](https://jobregister.aas.org/ad/26e2385a)**
+
+We invite applications for a postdoctoral position in Cosmology at the University of Cambridge. This ERC-funded position will be based at the Department of Applied Mathematics and Theoretical Physics and the Kavli Institute for Cosmology, Cambridge.
+
+Candidates should be qualified to undertake research in the areas of CMB, large-scale structure, cosmological tests of fundamental physics, or other areas of cosmology. While the main criterion is research excellence and strong researchers in any area of cosmology will be seriously considered, candidates interested in working on CMB gravitational lensing, CMB polarization, large-scale structure or combined probes with Dr Blake Sherwin (and potentially the ACT, POLARBEAR, Simons Observatory, and/or CMB-S4 collaborations) may be of particular interest.
 
 ------------------------------------------------------------------------
 
