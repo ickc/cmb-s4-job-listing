@@ -49,7 +49,6 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 -   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
--   [Information Systems Analyst at UCSD, Nov 10, 2021](#progucsd)
 -   [HIRAX Project Manager at UKNZ, Nov 12, 2021](#uknz)
 -   [Postdoc at UCSD, Nov 15, 2021](#ucsd)
 -   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
@@ -57,7 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](#cal)
 -   [Postdoc in Cosmology at Cambridge, Nov 30, 2021](#cambridge)
 -   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
--   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](#uiuc)
+-   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Jan 7, 2022](#uiuc)
 -   [Postdoc at University of Geneva, Dec 1, 2021](#geneva)
 -   [Postdoc on CCAT-prime at University of British Columbia, Dec 1, 2021](#ubc)
 -   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
@@ -79,14 +78,6 @@ The research group in Ferrara includes M. Gerbino, A. Gruppuso, M. Lattanzi, P. 
 Topics of particular interest for the fellowship include the cosmological phenomenology of light relics such as neutrinos (both active and sterile), axions and axion-like particles, majorons, in view of future observations of cosmic microwave background anisotropies and of large-scale structures.
 
 Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data.
-
-------------------------------------------------------------------------
-
-**[Information Systems Analyst as UCSD, Nov 10, 2021](https://employment.ucsd.edu/112678-information-systems-analyst/job/17914163)**
-
-The laboratory of Professors Brian Keating and Kam Arnold does research on the cosmic microwave background (CMB) and the near-infrared background (NIRB). All experiments are computer-controlled. Electronics are both commercial and specially built-in Professor Arnold and Keating’s laboratories. The group does extensive data analysis using both commercial and special software which the group writes. For more information on the UCSD Cosmology research group and projects conducted, please visit <http://cosmology.ucsd.edu/>.
-
-The incumbent will be expected to perform procedures related to the testing and development of a cryogenic microwave telescope and associated subsystems that are undergoing the last steps prior to shipment to Chile to observe the cosmic microwave background. Assist with software development for a variety of DAQ devices as well as data analysis and quality assurance. Software development includes python and jupyter programming in our custom observatory control software framework, updating and maintenance of github repositories, as well as managing the local setup and networking of devices. Assist with design and implementation of both mechanical and electrical subsystems in the lab as well as prepare devices and develop procedures related to the telescope deployment to Chile. Assist with program documentation including procedures, inventory, device calibrations, and other routine lab duties as needed. Other duties could include soldering, placing orders, managing incoming and outgoing shipments, and restocking the lab.
 
 ------------------------------------------------------------------------
 
@@ -152,7 +143,7 @@ Topics of investigation at Kavli IPMU include theoretical and observational cosm
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral Fellowship in Experimental Cosmology at UIUC, Dec 1, 2021](https://physics.illinois.edu/people/job-openings)**
+**[Postdoctoral Fellowship in Experimental Cosmology at UIUC, Jan 7, 2022](https://my.physics.illinois.edu/submit/go.asp?id=1602)**
 
 The University of Illinois at Urbana-Champaign invites applications for a postdoctoral position in experimental and observational cosmology. The successful candidate will join the research group of Professor Jeff Filippini, with a primary focus on one or more of the following efforts: (1) cryogenic camera development and commissioning for the Terahertz Intensity Mapper (TIM), a balloon-borne spectrometer that will make a path-breaking measurement of cosmic star formation history; (2) development of next-generation cosmic microwave background instruments, CMB-S4 and Taurus (a new ultra-long-duration balloon to measure reionization and Galactic foregrounds). Candidates may also participate in (and add to) broader analysis and instrumentation efforts within the group.
 
