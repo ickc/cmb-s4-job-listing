@@ -48,10 +48,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](#infn2)
--   [HIRAX Project Manager at UKNZ, Nov 12, 2021](#uknz)
--   [Postdoc at UCSD, Nov 15, 2021](#ucsd)
--   [Wilson Fellowship at Fermilab, Nov 19, 2021](#wilson)
 -   [Postdoc at USC, Nov 30, 2021](#usc)
 -   [Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](#cal)
 -   [Postdoc in Cosmology at Cambridge, Nov 30, 2021](#cambridge)
@@ -65,39 +61,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Cosmology postdoc at Argonne, Dec 15, 2021](#argonnepost)
 -   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
+-   [Two postdocs at Princeton, Jan 15, 2022](#princeton)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Position at INFN/Ferrara, Nov 9, 2021](https://web.infn.it/CSN4/index.php/it/17-esperimenti/179-indark-news)**
-
-INFN is offering a post-doctoral fellowship for research activities to be carried on within InDark, in the Ferrara INFN research unit in the area of “Neutrinos and other light relics in view of future cosmological observations”.
-
-The research group in Ferrara includes M. Gerbino, A. Gruppuso, M. Lattanzi, P. Natoli, L. Pagano, T. Brinckmann, in addition to several PhD students. The members of the group are involved in the activities of several experimental collaborations (LiteBIRD, LSPE, Simons Observatory, CMB-S4, Euclid). Visit [the group website](https://www.fe.infn.it/cosmologia/?lang=en) for more details on the members and on the activities of the group.
-
-Topics of particular interest for the fellowship include the cosmological phenomenology of light relics such as neutrinos (both active and sterile), axions and axion-like particles, majorons, in view of future observations of cosmic microwave background anisotropies and of large-scale structures.
-
-Other research lines currently being pursued by the group include the phenomenology of dark matter candidates, CMB polarization as a probe for new physics, CMB anomalies, the development of robust statistical tools for the analysis and interpretation of cosmological data.
-
-------------------------------------------------------------------------
-
-**[HIRAX Project Manager at UKNZ, Nov 12, 2021](https://hirax.ukzn.ac.za/hirax-project-manager/)**
-
-The Hydrogen Intensity and Real-time Analysis experiment (HIRAX) is a major radio astronomy telescope slated for construction in a radio-quiet area in South Africa. It will detect the effects of dark energy on the distribution of galaxies, traced by their neutral hydrogen emission. Operating between 400 and 800 MHz, HIRAX will also be a world-leading facility for studies of radio transients, pulsars, and hydrogen absorbers. HIRAX is led by the University of KwaZulu-Natal, and so UKZN seeks to appoint a Project Manager who will play a critical role in its development.   
-  
-The Project Manager will direct the daily operations and manage construction and design requirements of HIRAX and the telescope site. The role includes the procurement of telescope hardware and building links with industry partners. The Project Manager will be responsible for the delivery of telescope sub-systems as per project timelines, financial and contractual management of the project, and the coordination of HIRAX project activities. The incumbent will report directly to the Principal Investigator of the project. The contract will be for an estimated period of 3 years.
-
-------------------------------------------------------------------------
-
-**[Postdoc at UCSD, Nov 15, 2021](https://apol-recruit.ucsd.edu/JPF02882)**
-
-The Cosmology group at the University of California, San Diego (UCSD) invites applications for a postdoctoral position on the Simons Array (SA) project. The SA receivers will provide maps of Cosmic Microwave Background intensity and polarization with unprecedented sensitivity at small angular scales, enabling a wide variety of science, in particular the measurement of the properties of light relativistic particles such as neutrinos in the early universe. UCSD plays a leading role in the SA project in data analysis and participates in the project at all levels. The position will include analysis of data from the SA receivers deployed to the telescope.
-
-------------------------------------------------------------------------
-
-**[Wilson Fellowship at Fermilab, Nov 19, 2021](https://academicjobsonline.org/ajo/jobs/19983)**
-
-The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the [Fermilab particle physics](https://www.fnal.gov/pub/science/particle-physics/index.html "https://www.fnal.gov/pub/science/particle-physics/index.html") experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments.
 
 ------------------------------------------------------------------------
 
@@ -212,6 +177,18 @@ Appropriately qualified applicants will have the opportunity to pursue other ave
 We are advertising a postdoc position to work with Dr. Jon E. Gudmundsson on novel research in instrumentation, simulation, and data analysis for experiments studying the cosmic microwave background (CMB), including SPIDER, the Simons Observatory, the LiteBIRD satellite, and CMB-S4. Potential research topics include: data analysis, high-fidelity simulations of optical systematics, development of systems for mm-wave characterization of optical components, and pipeline development for next-generation CMB experiments. Candidates are encouraged to define their own research projects within the scope of the efforts above.
 
 The successful candidate will be part of the Oskar Klein Centre for Cosmoparticle Physics (<http://www.okc.albanova.se/>) in Stockholm, a rich scientific environment that comprises more than a hundred researchers working in both theory and experiment in the fields of astronomy, astrophysics and particle physics at both Stockholm University and the Royal Institute for Technology. The OKC hosts a vibrant research program on dark matter, dark energy, transient and multimessenger astrophysics, galaxy evolution, structure formation, and related particle physics questions. Postdoctoral associates are also welcome to participate in Scientific Programs at Nordita, the Nordic Institute for Theoretical Physics, which bring together groups of leading experts to work on specific topics for extended periods.
+
+------------------------------------------------------------------------
+
+**[Two postdocs at Princeton, Jan 15, 2022](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23562)**
+
+The Department of Physics at Princeton seeks applicants for a postdoctoral research associate or more senior position for research in experimental cosmology with the Simons Observatory (SO) project. SO is a cosmic microwave background (CMB) survey experiment currently being built for observations from the Atacama Desert in Chile. The SO experimental group at Princeton, with faculty members Lyman Page and Suzanne Staggs, focuses on laboratory development of instrumentation, field deployments, and associated analyses, all aimed at the fundamental goal of measuring the polarization and temperature anisotropy in the CMB.
+
+There are two open positions:
+
+<https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23562>
+
+<https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23563>
 
 ------------------------------------------------------------------------
 
