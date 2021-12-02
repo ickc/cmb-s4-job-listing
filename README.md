@@ -59,6 +59,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Staff Scientist at LBNL, Dec 15, 2021](#stafflbnl)
 -   [DESI Data Management positions at LBNL, Dec 15, 2021](#desilbnl)
 -   [Cosmology postdoc at Argonne, Dec 15, 2021](#argonnepost)
+-   [Postdoc in CMB Cosmology at Cambridge, Dec 22, 2021](#cambridge2)
 -   [Postdoc at Washington University in St Louis, Jan 7, 2022](#wust)
 -   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
@@ -106,6 +107,18 @@ The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)
 The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Vera Rubin Observatory LSST, Simons Observatory, CMB-S4, and the LiteBIRD satellite mission.
 
 Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy evolution, optical transients (supernova), numerical simulations, quasar studies, high-energy astrophysics, and multi-messenger astronomy. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
+
+------------------------------------------------------------------------
+
+**[Postdoc in CMB Cosmology at Cambridge, Dec 22, 2021](https://jobregister.aas.org/ad/e0fee95c)**
+
+The Institute of Astronomy (IoA), Cambridge, invites applications for a postdoctoral researcher position in cosmic microwave background (CMB) cosmology to work within Anthony Challinor’s group. The research will be focused on scientific interpretation of the first temperature and polarization data from the Simons Observatory and its combination with other CMB and large-scale structure datasets.
+
+The IoA provides a vibrant research environment in cosmology. The interdepartmental Kavli Institute for Cosmology, Cambridge (KICC) is co-located on the IoA site, fostering connections with other groups conducting complementary cosmological research across Cambridge.
+
+The successful applicant will be expected to pursue independent and collaborative research, develop a high degree of interaction with the faculty, other postdoctoral researchers, and research students, and actively contribute to the life of the department and of KICC. They will disseminate their research findings via publications or other appropriate media, such as international workshops and conferences. They will be encouraged to participate in the teaching and learning programmes of the department as well as in the supervision of postgraduate research students and outreach events.
+
+For the present position, expertise in the analysis of CMB data, or other cosmological datasets, would be particularly valuable. Candidates with experience of CMB lensing, CMB polarization or cluster cosmology may be of particular interest.
 
 ------------------------------------------------------------------------
 
