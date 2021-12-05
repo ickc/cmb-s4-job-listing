@@ -61,6 +61,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Cosmology postdoc at Argonne, Dec 15, 2021](#argonnepost)
 -   [Postdoc in CMB Cosmology at Cambridge, Dec 22, 2021](#cambridge2)
 -   [Postdoc at Washington University in St Louis, Jan 7, 2022](#wust)
+-   [Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](#lbnlsim)
 -   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [Two postdocs at Princeton, Jan 15, 2022](#princeton)
@@ -174,15 +175,19 @@ The position will be filled at the postdoc or project scientist level depending 
 
 Cosmological research at Argonne covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two.
 
-Staff members include Matt Becker, Amy Bender, Lindsey Bleem, Clarence Chang, JD Emberson, Salman Habib, Andrew Hearin, Katrin Heitmann, Eve Kovacs, Patricia Larsen, Adrian Pope, Nesar Ramachandra, Esteban Rangel, and Gensheng Wang. Current postdocs are Alex Alarcon, Michael Buehlmann, Nicholas Frontiere, Riccardo Gualtieri, Florian Keruzore, Zhaodi Pan, Markus Rau, and Antonio Villarreal; the effort includes a number of graduate and undergraduate students
-
-.
+Staff members include Matt Becker, Amy Bender, Lindsey Bleem, Clarence Chang, JD Emberson, Salman Habib, Andrew Hearin, Katrin Heitmann, Eve Kovacs, Patricia Larsen, Adrian Pope, Nesar Ramachandra, Esteban Rangel, and Gensheng Wang. Current postdocs are Alex Alarcon, Michael Buehlmann, Nicholas Frontiere, Riccardo Gualtieri, Florian Keruzore, Zhaodi Pan, Markus Rau, and Antonio Villarreal; the effort includes a number of graduate and undergraduate students.
 
 ------------------------------------------------------------------------
 
 **[Postdoc at Washington University in St Louis, Jan 7, 2022](https://sites.wustl.edu/cmblab/contact/postdoc_ad/)**
 
 Applications are invited for a postdoctoral position with the Physics Department at Washington University in St. Louis to work with Prof. Johanna Nagy’s group on CMB instrumentation and data analysis. The Nagy Lab works on a combination of balloon- and ground-based experiments, including Spider, Taurus, and CMB-S4, with a particular emphasis on detector characterization, optical design, telescope calibration, and data analysis. The successful candidate will have considerable freedom in choosing their research projects.
+
+------------------------------------------------------------------------
+
+**[Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](https://academicjobsonline.org/ajo/jobs/20689)**
+
+In this exciting role, you will assist the CMB-S4 data analysis and simulation team, working on the development of realistic models of emission of foreground emission in the frequency range of CMB-S4 observations (30-300 GHz), as well as on the development of models of slow drifts and systematic errors due to the terrestrial environment (atmosphere, ground pickup, thermal instabilities). Your responsibilities will include supporting the development of a global simulation pipeline for CMB-S4, and contributing to the generation of mock CMB data for CMB-S4 data challenges.
 
 ------------------------------------------------------------------------
 
