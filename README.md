@@ -62,9 +62,12 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc in CMB Cosmology at Cambridge, Dec 22, 2021](#cambridge2)
 -   [Postdoc at Washington University in St Louis, Jan 7, 2022](#wust)
 -   [Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](#lbnlsim)
+-   [Lectureship in Superconducting Detector Physics and Technology at Cardiff, Jan 7, 2022](#cardiff)
+-   [Asst Professor in Experimental Astrophysics at University of Toronto, Jan 10, 2022](#toronto)
 -   [Postdoc at Yale, Jan 14, 2022](#yale)
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [Two postdocs at Princeton, Jan 15, 2022](#princeton)
+-   [Postdoc in Cosmology at IAP, Jan 15, 2022](#iap)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 
 ------------------------------------------------------------------------
@@ -187,7 +190,25 @@ Applications are invited for a postdoctoral position with the Physics Department
 
 **[Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](https://academicjobsonline.org/ajo/jobs/20689)**
 
-In this exciting role, you will assist the CMB-S4 data analysis and simulation team, working on the development of realistic models of emission of foreground emission in the frequency range of CMB-S4 observations (30-300 GHz), as well as on the development of models of slow drifts and systematic errors due to the terrestrial environment (atmosphere, ground pickup, thermal instabilities). Your responsibilities will include supporting the development of a global simulation pipeline for CMB-S4, and contributing to the generation of mock CMB data for CMB-S4 data challenges.
+In this exciting role, you will assist the CMB-S4 data analysis and simulation team, working on the development of realistic models of emission of foreground emission in the frequency range of CMB-S4 observations (30-300 GHz), as well as on the development of models of slow drifts and systematic errors due to the terrestrial environment (atmosphere, ground pickup, thermal instabilities). Your responsibilities will include supporting the development of a global simulation pipeline for CMB-S4, and contributing to the generation of mock CMB data for CMB-S4 data.
+
+------------------------------------------------------------------------
+
+[Lectureship in Superconducting Detector Physics and Technology at Cardiff, Jan 7, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1890391_5460)
+
+The School of Physics and Astronomy and its Astronomy Instrumentation Group (AIG) seek a talented and highly-motivated academic with expertise in superconducting detector physics and technology. This position will strengthen the AIG’s core research and instrumentation development with an emphasis on kinetic inductance detector arrays and systems, and potentially other novel technologies, for applications in experimental astronomy and cosmology, and will also contribute to the School’s undergraduate and postgraduate teaching programmes.
+
+The Cardiff Astronomy Instrumentation Group has an outstanding record in developing instrumentation for ground-based and space-borne observatories and experiments in far infrared to millimetre wavelength astronomy and Cosmic Microwave Background (CMB) cosmology, as well as promoting applications of its technology in other scientific fields and in industry. It has advanced laboratories and facilities, and collaborates with leading institutes worldwide. This academic position will further enhance its strong programme in superconducting detector systems for the next generation of instruments.
+
+------------------------------------------------------------------------
+
+[Asst Professor in Experimental Astrophysics at University of Toronto, Jan 10, 2022](https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Experimental-Astrophysics-ON/552287117)
+
+The [David A. Dunlap Department of Astronomy and Astrophysics](http://www.astro.utoronto.ca/) (DADDAA) and the [Dunlap Institute for Astronomy and Astrophysics](http://www.dunlap.utoronto.ca/) in the Faculty of Arts and Science at the University of Toronto together invite applications for a full-time tenure-stream position in the area of experimental astrophysics. This is a joint appointment between DADDAA (51%) and the Dunlap Institute (49%) at the rank of Assistant Professor, with an anticipated start date of July 1, 2022.
+
+Applicants must have earned a PhD degree in astronomy, astrophysics, or a related area by the time of appointment, or shortly thereafter. We further require a demonstrated record of excellence in research and teaching. The selection will be based on this record of excellence. Demonstrated excellence in teaching at undergraduate and/or graduate levels, as well as in public outreach is also required.
+
+We seek applicants in astronomical instrumentation or experimental astrophysics whose research and teaching interests complement and enhance the strengths of [DADDAA](http://www.astro.utoronto.ca/) and the [Dunlap Institute](https://www.dunlap.utoronto.ca/). The successful candidate is expected to establish and lead an innovative, externally funded instrumentation-driven research program; supervise research projects carried out by graduate and undergraduate students; teach undergraduate and postgraduate courses; and engage in university service activities.
 
 ------------------------------------------------------------------------
 
@@ -216,6 +237,15 @@ There are two open positions:
 <https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23562>
 
 <https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23563>
+
+------------------------------------------------------------------------
+
+**[Postdoc in Cosmology at IAP, Jan 15, 2022](https://emploi.cnrs.fr/Offres/CDD/UMR7095-SILGAL-004/Default.aspx?lang=EN)**
+
+We are seeking to fill a position of 3 year duration (2 years extendable, depending on performance). The start date is flexible within fall 2022. Salary will be commensurate with experience, and a generous travel budget is included in the positions.
+
+  
+The Institut d’astrophysique de Paris is located in the heart of Paris. It is one of the leading institutes in cosmology and astrophysics with more than 60 staff researchers and 150 total members. The successful applicant will have the possibility to collaborate and interact closely with some of the leaders of the Planck satellite mission including Drs. François Bouchet, Karim Benabed, Eric Hivon, Jean-François Cardoso and many others. Dr. Galli and her collaborators are part of the IAP research group « grandes structures et univers profond », which includes about 20 researchers working on the cosmological analysis of the CMB, gravitational lensing, large scale structure of the universe (in particular, the ESA satellite mission Euclid), numerical simulations. More in general, the IAP hosts researchers working on a wide range of topics in astrophysics and theoretical physics, including galaxy formation, gravitational waves and the physics of the early universe. The successful applicant will have access to the extensive computational resources of the Infinity cluster (~3000 cores) and the GPU Henon cluster located at IAP, as well as to the numerical resources of the SPT collaboration.
 
 ------------------------------------------------------------------------
 
