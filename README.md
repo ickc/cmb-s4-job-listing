@@ -48,18 +48,7 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Postdoc at USC, Nov 30, 2021](#usc)
--   [Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](#cal)
--   [Postdoc in Cosmology at Cambridge, Nov 30, 2021](#cambridge)
--   [Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](#ipmu)
 -   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Jan 7, 2022](#uiuc)
--   [Postdoc at University of Geneva, Dec 1, 2021](#geneva)
--   [Postdoc on CCAT-prime at University of British Columbia, Dec 1, 2021](#ubc)
--   [Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](#austin)
--   [Staff Scientist at LBNL, Dec 15, 2021](#stafflbnl)
--   [DESI Data Management positions at LBNL, Dec 15, 2021](#desilbnl)
--   [Cosmology postdoc at Argonne, Dec 15, 2021](#argonnepost)
--   [Postdoc in CMB Cosmology at Cambridge, Dec 22, 2021](#cambridge2)
 -   [Postdoc at Washington University in St Louis, Jan 7, 2022](#wust)
 -   [Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](#lbnlsim)
 -   [Lectureship in Superconducting Detector Physics and Technology at Cardiff, Jan 7, 2022](#cardiff)
@@ -68,61 +57,9 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
 -   [Two postdocs at Princeton, Jan 15, 2022](#princeton)
 -   [Postdoc in Cosmology at IAP, Jan 15, 2022](#iap)
+-   [Postdoc in Cosmology at Cardiff, Jan 31, 2022](#cardiffpostdoc)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
-
-------------------------------------------------------------------------
-
-**[Postdoc at USC, Nov 30, 2021](https://academicjobsonline.org/ajo/jobs/19898)**
-
-The Department of Physics and Astronomy at the University of Southern California in Los Angeles invites applications for a postdoctoral research position in theoretical, observational or computational cosmology. The cosmology group at USC is committed to providing a welcoming and vibrant intellectual environment for all. We are particularly interested in candidates who are underrepresented minorities and in candidates who will foster a commitment to improving diversity, equity and inclusion in the department.
-
-The successful candidate will have the opportunity to participate in theory, simulation or data analysis efforts within the Atacama Cosmology Telescope, the Simons Observatory, CMB-S4 and the Rubin Observatory LSST Dark Energy Science Collaboration. The postdoctoral researcher will work closely with Mathew Madhavacheril whose research interests include theory and data analysis of the cosmic microwave background and large-scale structure. They will have the opportunity to collaborate with other faculty and postdoctoral researchers in theoretical cosmology at USC.
-
-------------------------------------------------------------------------
-
-**[Postdoc and project scientist positions at UC Berkeley, Nov 30, 2021](https://aprecruit.berkeley.edu/JPF02884)**
-
-The Department of Physics at the University of California, Berkeley seeks applications for (1) an postdoctoral fellow and (2) an Assistant Project Scientist to work in the area of experimental cosmology, specifically in the area of cosmic microwave background (CMB) experiment.
-
-The positions will be in Adrian Lee’s group in the Physics Department of UC Berkeley. The group focuses on observations of the cosmic microwave background (CMB). The research in this position will be focused on developing the Small Aperture Telescopes (SATs) of the Simons Observatory where one of the SATs is being built at Berkeley/LBNL. The SATs have compact refractive optics with a 42 cm diameter aperture. The 100 mK focal planes are instrumented with Horn- or Planar-Antenna-Coupled, dichroic, Transition-Edge Sensor (TES) bolometer arrays. The TESes are readout using a microwave MUX system.
-
-If you will have less than 3 years of postdoctoral experience, please apply for:
-
-<https://aprecruit.berkeley.edu/apply/JPF02886>
-
-If you will have more than 3 years of postdoctoral experience, please apply for:
-
-<https://aprecruit.berkeley.edu/apply/JPF02884>
-
-------------------------------------------------------------------------
-
-**[Postdoc in Cosmology at Cambridge, Nov 30, 2021](https://jobregister.aas.org/ad/26e2385a)**
-
-We invite applications for a postdoctoral position in Cosmology at the University of Cambridge. This ERC-funded position will be based at the Department of Applied Mathematics and Theoretical Physics and the Kavli Institute for Cosmology, Cambridge.
-
-Candidates should be qualified to undertake research in the areas of CMB, large-scale structure, cosmological tests of fundamental physics, or other areas of cosmology. While the main criterion is research excellence and strong researchers in any area of cosmology will be seriously considered, candidates interested in working on CMB gravitational lensing, CMB polarization, large-scale structure or combined probes with Dr Blake Sherwin (and potentially the ACT, POLARBEAR, Simons Observatory, and/or CMB-S4 collaborations) may be of particular interest.
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Fellowships in Cosmology and Astrophysics at Kavli IPMU, Dec 1, 2021](https://jobregister.aas.org/ad/92513d41)**
-
-The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) invites applications for the Kavli IPMU postdoctoral fellowship program. We intend to appoint several positions in astrophysics and cosmology with 3-year terms.
-
-The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Vera Rubin Observatory LSST, Simons Observatory, CMB-S4, and the LiteBIRD satellite mission.
-
-Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy evolution, optical transients (supernova), numerical simulations, quasar studies, high-energy astrophysics, and multi-messenger astronomy. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
-
-------------------------------------------------------------------------
-
-**[Postdoc in CMB Cosmology at Cambridge, Dec 22, 2021](https://jobregister.aas.org/ad/e0fee95c)**
-
-The Institute of Astronomy (IoA), Cambridge, invites applications for a postdoctoral researcher position in cosmic microwave background (CMB) cosmology to work within Anthony Challinor’s group. The research will be focused on scientific interpretation of the first temperature and polarization data from the Simons Observatory and its combination with other CMB and large-scale structure datasets.
-
-The IoA provides a vibrant research environment in cosmology. The interdepartmental Kavli Institute for Cosmology, Cambridge (KICC) is co-located on the IoA site, fostering connections with other groups conducting complementary cosmological research across Cambridge.
-
-The successful applicant will be expected to pursue independent and collaborative research, develop a high degree of interaction with the faculty, other postdoctoral researchers, and research students, and actively contribute to the life of the department and of KICC. They will disseminate their research findings via publications or other appropriate media, such as international workshops and conferences. They will be encouraged to participate in the teaching and learning programmes of the department as well as in the supervision of postgraduate research students and outreach events.
-
-For the present position, expertise in the analysis of CMB data, or other cosmological datasets, would be particularly valuable. Candidates with experience of CMB lensing, CMB polarization or cluster cosmology may be of particular interest.
+-   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 
 ------------------------------------------------------------------------
 
@@ -131,54 +68,6 @@ For the present position, expertise in the analysis of CMB data, or other cosmol
 The University of Illinois at Urbana-Champaign invites applications for a postdoctoral position in experimental and observational cosmology. The successful candidate will join the research group of Professor Jeff Filippini, with a primary focus on one or more of the following efforts: (1) cryogenic camera development and commissioning for the Terahertz Intensity Mapper (TIM), a balloon-borne spectrometer that will make a path-breaking measurement of cosmic star formation history; (2) development of next-generation cosmic microwave background instruments, CMB-S4 and Taurus (a new ultra-long-duration balloon to measure reionization and Galactic foregrounds). Candidates may also participate in (and add to) broader analysis and instrumentation efforts within the group.
 
 ------------------------------------------------------------------------
-
-**[Postdoc at University of Geneva, Dec 1, 2021](https://academicjobsonline.org/ajo/jobs/20083)**
-
-We invite applications for a postdoctoral position in cosmology at the University of Geneva, starting in Fall 2022 or earlier. The position is for two years initially with possibility of extension, funded by a SNSF grant associated to Prof. Carron with main focus Cosmic Microwave Background data analysis.
-
-The Cosmology and Astroparticle physics group is also strongly involved in galaxy clustering, weak gravitational lensing, gravitational waves, dark energy, and modified gravity (see <http://cosmology.unige.ch/>).
-
-------------------------------------------------------------------------
-
-**[Postdoc on CCAT-prime at University of British Columbia, Dec 1, 2021](https://jobregister.aas.org/ad/addaa28c)**
-
-Applications are invited for a postdoctoral research position in experimental cosmology and astrophysics at the University of British Columbia in Vancouver, BC. Members of our group study the CMB and astrophysics as participants in the South Pole Telescope (SPT, <https://pole.uchicago.edu/>), CCAT-prime (<https://www.ccatobservatory.org/>), Polarbear/Simons-Array, ACT, and CMB-S4 collaborations.
-
-UBC is funded to build the polarization sensitive, 850GHz (350um) KID-based camera for the CCAT-prime telescope. The successful applicant will have the opportunity to actively contribute to the design, construction and testing of this instrument, with close collaboration with the Cornell CCATp group. The applicant will also have opportunities for cosmological/astrophysical analysis of data from the SPT-3G receiver and Polarbear-2/SA, as well as in technology development for CMB-S4. Applicants are encouraged to contact Prof. Chapman for further details.
-
-------------------------------------------------------------------------
-
-**[Asst Professor in Experimental and/or Data Driven Cosmology at UT Austin, Dec 6, 2021](https://apply.interfolio.com/95382)**
-
-The Department of Physics at the University of Texas at Austin invites applications for a tenure-track faculty position (subject to the availability of funding) in Experimental and/or Data Driven Cosmology, with possible consideration in allied areas, at the Assistant Professor level.  Well-qualified candidates at a higher rank will also be considered.
-
-The department, in collaboration with the College of Natural Sciences, values candidates who are committed to building a diverse and inclusive educational environment and have demonstrated a commitment to improving the diversity, equity and inclusivity of their academic communities.
-
-Of high priority for all faculty positions is a commitment to excellence in teaching.
-
-------------------------------------------------------------------------
-
-**[Staff Scientist at LBNL, Dec 15, 2021](https://academicjobsonline.org/ajo/jobs/19991)**
-
-The Physics Division at Lawrence Berkeley National Laboratory (LBNL) invites applications from scientists with a record of substantial accomplishment and creative ability for a Staff Scientist position in the Cosmic Microwave Background (CMB) experimental group.   The appointment may be either career-track or career, depending on seniority.   The career-track Staff Scientist position is a five-year appointment with the expectation of promotion to a career position as Staff Scientist. Applicants should have demonstrated leadership and original achievements in research. We welcome all applicants with exceptional promise to advance the art of experimentation in CMB science;  expertise in instrumentation, especially related to the design, construction and operation of microwave telescopes, optics,  and related technologies is desirable.
-
-The Staff Scientist is expected to play a leading role in her/his scientific field and will be encouraged to contribute to research that may enable transformational advances or new opportunities in LBNL’s CMB research program.  LBNL has a long tradition of pioneering work developing new detectors, devices, and methods for fundamental physics.  LBNL has been selected by the Department of Energy to lead the CMB-S4 project (<https://cmb-s4.org/>), a next generation experiment with multiple telescopes and 500,000 cryogenic superconducting detectors with the potential to transform the field.
-
-------------------------------------------------------------------------
-
-**[DESI Data Management positions at LBNL, Dec 15, 2021](https://academicjobsonline.org/ajo/jobs/20176)**
-
-We have a job opportunity at LBL with the DESI Data Management team — we’re looking for scientists who can engage with the DESI science analyses and connect those needs back to improving spectroscopic data quality issues and algorithms.
-
-The position will be filled at the postdoc or project scientist level depending upon the experience and qualifications of the candidate.  For more information about the position and how to apply, please see the [AJO job ad here](https://academicjobsonline.org/ajo/jobs/20174). If you received your PhD Summer 2019 or later, please apply [here instead](https://academicjobsonline.org/ajo/jobs/20176).
-
-------------------------------------------------------------------------
-
-**[Cosmology postdoc at Argonne, Dec 15, 2021](https://jobregister.aas.org/ad/9f6a49a7)**
-
-Cosmological research at Argonne covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two.
-
-Staff members include Matt Becker, Amy Bender, Lindsey Bleem, Clarence Chang, JD Emberson, Salman Habib, Andrew Hearin, Katrin Heitmann, Eve Kovacs, Patricia Larsen, Adrian Pope, Nesar Ramachandra, Esteban Rangel, and Gensheng Wang. Current postdocs are Alex Alarcon, Michael Buehlmann, Nicholas Frontiere, Riccardo Gualtieri, Florian Keruzore, Zhaodi Pan, Markus Rau, and Antonio Villarreal; the effort includes a number of graduate and undergraduate students.
 
 ------------------------------------------------------------------------
 
@@ -244,8 +133,17 @@ There are two open positions:
 
 We are seeking to fill a position of 3 year duration (2 years extendable, depending on performance). The start date is flexible within fall 2022. Salary will be commensurate with experience, and a generous travel budget is included in the positions.
 
-  
 The Institut d’astrophysique de Paris is located in the heart of Paris. It is one of the leading institutes in cosmology and astrophysics with more than 60 staff researchers and 150 total members. The successful applicant will have the possibility to collaborate and interact closely with some of the leaders of the Planck satellite mission including Drs. François Bouchet, Karim Benabed, Eric Hivon, Jean-François Cardoso and many others. Dr. Galli and her collaborators are part of the IAP research group « grandes structures et univers profond », which includes about 20 researchers working on the cosmological analysis of the CMB, gravitational lensing, large scale structure of the universe (in particular, the ESA satellite mission Euclid), numerical simulations. More in general, the IAP hosts researchers working on a wide range of topics in astrophysics and theoretical physics, including galaxy formation, gravitational waves and the physics of the early universe. The successful applicant will have access to the extensive computational resources of the Infinity cluster (~3000 cores) and the GPU Henon cluster located at IAP, as well as to the numerical resources of the SPT collaboration.
+
+------------------------------------------------------------------------
+
+**[Postdoc in Cosmology at Cardiff, Jan 31, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1906541_5460)**
+
+The ERC-funded project CMBforward at Cardiff University led by Prof. Erminia Calabrese is seeking applications to fill the position of Postdoctoral Research Associate in cosmology.  
+  
+The research associates will work on characterization and interpretation of state-of-the-art Cosmic Microwave Background (CMB) data from the Atacama Cosmology Telescope and the Simons Observatory, and will engage with the current efforts in designing a new CMB satellite mission. We are seeking researchers with an established track record in characterization and cosmological exploitation of CMB data.  
+  
+The research associates will fit within the active and diverse Cardiff Hub for Astrophysics Research and Technology <https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/chart>. Other members of the astronomy and instrumentation groups play leading roles in the search for signals from gamma-ray bursts, modelling and detecting gravitational waves, supernovae, cosmic dust, star formation and building the next generation ground and space-based telescopes.
 
 ------------------------------------------------------------------------
 
@@ -256,5 +154,15 @@ The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomp
 This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (VRO) and the Legacy Survey of Space and Time (LSST), SDSS-V, South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of VRO. Illinois is an institutional member of the SPT collaboration and participating in the design and planning for CMB-S4.
 
 The selected candidate will be part of the new Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/) . This year we anticipate prioritizing candidates with a research emphasis towards the long-wavelength regime and engagement towards CMB-S4 and/or ngVLA.
+
+------------------------------------------------------------------------
+
+**[Richard S Morrison C, Jan 2 – May 1, 2022](https://academicjobsonline.org/ajo/fellowship/20769)**
+
+The position is expected to start October 1, 2022 (earlier/later start dates may be negotiated). Applications containing a CV, publication list, statement of research interests and three letters of recommendation should be submitted through Academic Jobs Online at <https://academicjobsonline.org/ajo/fellowship/20769>. If electronic submission is not possible, paper applications may be submitted to “Richard Morrison Post-Doctoral Fellowship Search c/o G. Starkman,” Department of Physics, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, Ohio 44106-7079 USA. Review of applications will commence on a rolling basis on Jan 2, 2022. The position will be open until filled. Please keep this in mind when submitting application materials, as we expect this to occur in advance of the posted deadline.
+
+Information about the research interests of the Particle Physics, Astrophysics and Cosmology group can be found on the [Department of Physics webpage](https://physics.case.edu/research/research-focus-cosmology-astrophysics/). Questions regarding the position may be directed to Glenn Starkman at [\[email protected\]](). The successful applicant is likely to be interested in a focused collaboration with him, the current Morrison Fellow, Yashar Arkami, and colleagues at CWRU, Imperial College London, the University of Pittsburgh, and the Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe.  Candidates with expertise in Machine Learning and/or other advanced numerical techniques are particularly encouraged to apply.  
+
+ 
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
