@@ -60,6 +60,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc in Cosmology at Cardiff, Jan 31, 2022](#cardiffpostdoc)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
+-   [Postdoctoral Fellowships at Florida State University, Mar15; Jun 1, 2022](#fsu)
 
 ------------------------------------------------------------------------
 
@@ -139,10 +140,10 @@ The Institut d’astrophysique de Paris is located in the heart of Paris. It is 
 
 **[Postdoc in Cosmology at Cardiff, Jan 31, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1906541_5460)**
 
-The ERC-funded project CMBforward at Cardiff University led by Prof. Erminia Calabrese is seeking applications to fill the position of Postdoctoral Research Associate in cosmology.  
-  
-The research associates will work on characterization and interpretation of state-of-the-art Cosmic Microwave Background (CMB) data from the Atacama Cosmology Telescope and the Simons Observatory, and will engage with the current efforts in designing a new CMB satellite mission. We are seeking researchers with an established track record in characterization and cosmological exploitation of CMB data.  
-  
+The ERC-funded project CMBforward at Cardiff University led by Prof. Erminia Calabrese is seeking applications to fill the position of Postdoctoral Research Associate in cosmology.
+
+The research associates will work on characterization and interpretation of state-of-the-art Cosmic Microwave Background (CMB) data from the Atacama Cosmology Telescope and the Simons Observatory, and will engage with the current efforts in designing a new CMB satellite mission. We are seeking researchers with an established track record in characterization and cosmological exploitation of CMB data.
+
 The research associates will fit within the active and diverse Cardiff Hub for Astrophysics Research and Technology <https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/chart>. Other members of the astronomy and instrumentation groups play leading roles in the search for signals from gamma-ray bursts, modelling and detecting gravitational waves, supernovae, cosmic dust, star formation and building the next generation ground and space-based telescopes.
 
 ------------------------------------------------------------------------
@@ -157,11 +158,21 @@ The selected candidate will be part of the new Center for Astrophysical Surveys 
 
 ------------------------------------------------------------------------
 
-**[Richard S Morrison C, Jan 2 – May 1, 2022](https://academicjobsonline.org/ajo/fellowship/20769)**
+**[Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](https://academicjobsonline.org/ajo/fellowship/20769)**
 
 The position is expected to start October 1, 2022 (earlier/later start dates may be negotiated). Applications containing a CV, publication list, statement of research interests and three letters of recommendation should be submitted through Academic Jobs Online at <https://academicjobsonline.org/ajo/fellowship/20769>. If electronic submission is not possible, paper applications may be submitted to “Richard Morrison Post-Doctoral Fellowship Search c/o G. Starkman,” Department of Physics, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, Ohio 44106-7079 USA. Review of applications will commence on a rolling basis on Jan 2, 2022. The position will be open until filled. Please keep this in mind when submitting application materials, as we expect this to occur in advance of the posted deadline.
 
-Information about the research interests of the Particle Physics, Astrophysics and Cosmology group can be found on the [Department of Physics webpage](https://physics.case.edu/research/research-focus-cosmology-astrophysics/). Questions regarding the position may be directed to Glenn Starkman at [\[email protected\]](). The successful applicant is likely to be interested in a focused collaboration with him, the current Morrison Fellow, Yashar Arkami, and colleagues at CWRU, Imperial College London, the University of Pittsburgh, and the Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe.  Candidates with expertise in Machine Learning and/or other advanced numerical techniques are particularly encouraged to apply.  
+Information about the research interests of the Particle Physics, Astrophysics and Cosmology group can be found on the [Department of Physics webpage](https://physics.case.edu/research/research-focus-cosmology-astrophysics/). Questions regarding the position may be directed to Glenn Starkman at [\[email protected\]](). The successful applicant is likely to be interested in a focused collaboration with him, the current Morrison Fellow, Yashar Arkami, and colleagues at CWRU, Imperial College London, the University of Pittsburgh, and the Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe.  Candidates with expertise in Machine Learning and/or other advanced numerical techniques are particularly encouraged to apply.
+
+------------------------------------------------------------------------
+
+**[Postdoctoral Fellowships at Florida State University, Mar15; Jun 1, 2022](https://opda.fsu.edu/fellowships-and-awards/postdoctoral-fellowships-and-stipend-support/provost-postdoctoral-fellowship)**
+
+Florida State University invites applicants to the Provost Postdoctoral Fellowship Program, which covers all academic fields.  This program is dedicated to enhancing and diversifying the academic pipeline to faculty careers.  
+  
+In Prof. Kevin Huffenberger’s group, work on cosmology and astrophysics includes projects related to CMB B-modes, foregrounds, large-scale structure cross-correlations, mm-wave compact sources, and transients.  We work in collaboration with the Atacama Cosmology Telescope, the Simons Observatory, and CMB-S4.  
+  
+Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
 
  
 
