@@ -26,7 +26,7 @@ CMB-S4 Next Generation CMB Experiment
     -   [Job listings](https://cmb-s4.org/team/job-postings/)
 -   [/ outreach /](https://cmb-s4.org/outreach/)
     -   [overview](https://cmb-s4.org/outreach/)
-    -   [upcoming events](https://cmb-s4.org/outreach/upcoming-events/)
+    -   [Upcoming Events](https://cmb-s4.org/outreach/upcoming-events/)
     -   [Past Events](https://cmb-s4.org/outreach/past-events/)
     -   [events calendar](https://cmb-s4.org/outreach/events-calendar/)
     -   [parents](https://cmb-s4.org/outreach/parents/)
