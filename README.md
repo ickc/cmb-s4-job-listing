@@ -43,6 +43,8 @@ CMB-S4 Next Generation CMB Experiment
     -   [bylaws](https://cmb-s4.org/governance/bylaws/)
     -   [acknowledgements](https://cmb-s4.org/governance/acknowledgements/)
 -   [/ team login /](https://cmb-s4.org/?page_id=17)
+-   [English](#pll_switcher)
+    -   [Español](https://cmb-s4.org/es/equipo/ofertas-de-empleo/)
 
 # Job listings
 
