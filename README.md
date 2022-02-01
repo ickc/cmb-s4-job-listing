@@ -50,96 +50,18 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Postdoctoral Fellowship in Experimental Cosmology at UIUC, Jan 7, 2022](#uiuc)
--   [Postdoc at Washington University in St Louis, Jan 7, 2022](#wust)
--   [Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](#lbnlsim)
--   [Lectureship in Superconducting Detector Physics and Technology at Cardiff, Jan 7, 2022](#cardiff)
--   [Asst Professor in Experimental Astrophysics at University of Toronto, Jan 10, 2022](#toronto)
--   [Postdoc at Yale, Jan 14, 2022](#yale)
--   [Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](#stockholm)
--   [Two postdocs at Princeton, Jan 15, 2022](#princeton)
--   [Postdoc in Cosmology at IAP, Jan 15, 2022](#iap)
 -   [Postdoc in Cosmology at Cardiff, Jan 31, 2022](#cardiffpostdoc)
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
+-   [QUP Postdoctoral Fellowship at KEK, Feb 28, 2022](#kek)
 -   [MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1, 2022](#mcss)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
 
-------------------------------------------------------------------------
-
-**[Postdoctoral Fellowship in Experimental Cosmology at UIUC, Jan 7, 2022](https://my.physics.illinois.edu/submit/go.asp?id=1602)**
-
-The University of Illinois at Urbana-Champaign invites applications for a postdoctoral position in experimental and observational cosmology. The successful candidate will join the research group of Professor Jeff Filippini, with a primary focus on one or more of the following efforts: (1) cryogenic camera development and commissioning for the Terahertz Intensity Mapper (TIM), a balloon-borne spectrometer that will make a path-breaking measurement of cosmic star formation history; (2) development of next-generation cosmic microwave background instruments, CMB-S4 and Taurus (a new ultra-long-duration balloon to measure reionization and Galactic foregrounds). Candidates may also participate in (and add to) broader analysis and instrumentation efforts within the group.
+ 
 
 ------------------------------------------------------------------------
 
-------------------------------------------------------------------------
-
-**[Postdoc at Washington University in St Louis, Jan 7, 2022](https://sites.wustl.edu/cmblab/contact/postdoc_ad/)**
-
-Applications are invited for a postdoctoral position with the Physics Department at Washington University in St. Louis to work with Prof. Johanna Nagy’s group on CMB instrumentation and data analysis. The Nagy Lab works on a combination of balloon- and ground-based experiments, including Spider, Taurus, and CMB-S4, with a particular emphasis on detector characterization, optical design, telescope calibration, and data analysis. The successful candidate will have considerable freedom in choosing their research projects.
-
-------------------------------------------------------------------------
-
-**[Postdoc on CMB-S4 simulations at LBNL, Jan 7, 2022](https://academicjobsonline.org/ajo/jobs/20689)**
-
-In this exciting role, you will assist the CMB-S4 data analysis and simulation team, working on the development of realistic models of emission of foreground emission in the frequency range of CMB-S4 observations (30-300 GHz), as well as on the development of models of slow drifts and systematic errors due to the terrestrial environment (atmosphere, ground pickup, thermal instabilities). Your responsibilities will include supporting the development of a global simulation pipeline for CMB-S4, and contributing to the generation of mock CMB data for CMB-S4 data.
-
-------------------------------------------------------------------------
-
-[Lectureship in Superconducting Detector Physics and Technology at Cardiff, Jan 7, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1890391_5460)
-
-The School of Physics and Astronomy and its Astronomy Instrumentation Group (AIG) seek a talented and highly-motivated academic with expertise in superconducting detector physics and technology. This position will strengthen the AIG’s core research and instrumentation development with an emphasis on kinetic inductance detector arrays and systems, and potentially other novel technologies, for applications in experimental astronomy and cosmology, and will also contribute to the School’s undergraduate and postgraduate teaching programmes.
-
-The Cardiff Astronomy Instrumentation Group has an outstanding record in developing instrumentation for ground-based and space-borne observatories and experiments in far infrared to millimetre wavelength astronomy and Cosmic Microwave Background (CMB) cosmology, as well as promoting applications of its technology in other scientific fields and in industry. It has advanced laboratories and facilities, and collaborates with leading institutes worldwide. This academic position will further enhance its strong programme in superconducting detector systems for the next generation of instruments.
-
-------------------------------------------------------------------------
-
-[Asst Professor in Experimental Astrophysics at University of Toronto, Jan 10, 2022](https://jobs.utoronto.ca/job/Toronto-Assistant-Professor-Experimental-Astrophysics-ON/552287117)
-
-The [David A. Dunlap Department of Astronomy and Astrophysics](http://www.astro.utoronto.ca/) (DADDAA) and the [Dunlap Institute for Astronomy and Astrophysics](http://www.dunlap.utoronto.ca/) in the Faculty of Arts and Science at the University of Toronto together invite applications for a full-time tenure-stream position in the area of experimental astrophysics. This is a joint appointment between DADDAA (51%) and the Dunlap Institute (49%) at the rank of Assistant Professor, with an anticipated start date of July 1, 2022.
-
-Applicants must have earned a PhD degree in astronomy, astrophysics, or a related area by the time of appointment, or shortly thereafter. We further require a demonstrated record of excellence in research and teaching. The selection will be based on this record of excellence. Demonstrated excellence in teaching at undergraduate and/or graduate levels, as well as in public outreach is also required.
-
-We seek applicants in astronomical instrumentation or experimental astrophysics whose research and teaching interests complement and enhance the strengths of [DADDAA](http://www.astro.utoronto.ca/) and the [Dunlap Institute](https://www.dunlap.utoronto.ca/). The successful candidate is expected to establish and lead an innovative, externally funded instrumentation-driven research program; supervise research projects carried out by graduate and undergraduate students; teach undergraduate and postgraduate courses; and engage in university service activities.
-
-------------------------------------------------------------------------
-
-**[Postdoc at Yale, Jan 14, 2022](https://jobregister.aas.org/ad/fcb78db2)**
-
-We invite applications for a postdoctoral position in experimental cosmology within the Physics Department at Yale University. The successful candidate will work with Prof. Laura Newburgh on CHIME ([https://chime-experiment.ca/en](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fchime-experiment.ca%2Fen&data=04%7C01%7Cgeriana.vanatta%40yale.edu%7Cfaf012871a334449b3da08d96d8743eb%7Cdd8cbebb21394df8b4114e3e87abeb5c%7C0%7C0%7C637661250005796859%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=n8pAaShFfO%2FbnP%2Bntcv09%2FaONpq55C%2Bg%2BmXLks%2Bw%2Fmk%3D&reserved=0)). You would focus on data analysis for the CHIME cosmology survey currently underway.
-
-Appropriately qualified applicants will have the opportunity to pursue other avenues of related research. This position is for a two-year appointment, to be renewed for an additional year, contingent upon satisfactory performance
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Fellow in instrumentation and data analysis for CMB experiments at Stockholm Univ., Jan 15, 2022](https://www.su.se/english/about-the-university/work-at-su/available-jobs?rmpage=job&rmjob=15896&rmlang=UK)**
-
-We are advertising a postdoc position to work with Dr. Jon E. Gudmundsson on novel research in instrumentation, simulation, and data analysis for experiments studying the cosmic microwave background (CMB), including SPIDER, the Simons Observatory, the LiteBIRD satellite, and CMB-S4. Potential research topics include: data analysis, high-fidelity simulations of optical systematics, development of systems for mm-wave characterization of optical components, and pipeline development for next-generation CMB experiments. Candidates are encouraged to define their own research projects within the scope of the efforts above.
-
-The successful candidate will be part of the Oskar Klein Centre for Cosmoparticle Physics ([http://www.okc.albanova.se/](http://www.okc.albanova.se/)) in Stockholm, a rich scientific environment that comprises more than a hundred researchers working in both theory and experiment in the fields of astronomy, astrophysics and particle physics at both Stockholm University and the Royal Institute for Technology. The OKC hosts a vibrant research program on dark matter, dark energy, transient and multimessenger astrophysics, galaxy evolution, structure formation, and related particle physics questions. Postdoctoral associates are also welcome to participate in Scientific Programs at Nordita, the Nordic Institute for Theoretical Physics, which bring together groups of leading experts to work on specific topics for extended periods.
-
-------------------------------------------------------------------------
-
-**[Two postdocs at Princeton, Jan 15, 2022](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23562)**
-
-The Department of Physics at Princeton seeks applicants for a postdoctoral research associate or more senior position for research in experimental cosmology with the Simons Observatory (SO) project. SO is a cosmic microwave background (CMB) survey experiment currently being built for observations from the Atacama Desert in Chile. The SO experimental group at Princeton, with faculty members Lyman Page and Suzanne Staggs, focuses on laboratory development of instrumentation, field deployments, and associated analyses, all aimed at the fundamental goal of measuring the polarization and temperature anisotropy in the CMB.
-
-There are two open positions:
-
-<https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23562>
-
-<https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=23563>
-
-------------------------------------------------------------------------
-
-**[Postdoc in Cosmology at IAP, Jan 15, 2022](https://emploi.cnrs.fr/Offres/CDD/UMR7095-SILGAL-004/Default.aspx?lang=EN)**
-
-We are seeking to fill a position of 3 year duration (2 years extendable, depending on performance). The start date is flexible within fall 2022. Salary will be commensurate with experience, and a generous travel budget is included in the positions.
-
-The Institut d’astrophysique de Paris is located in the heart of Paris. It is one of the leading institutes in cosmology and astrophysics with more than 60 staff researchers and 150 total members. The successful applicant will have the possibility to collaborate and interact closely with some of the leaders of the Planck satellite mission including Drs. François Bouchet, Karim Benabed, Eric Hivon, Jean-François Cardoso and many others. Dr. Galli and her collaborators are part of the IAP research group « grandes structures et univers profond », which includes about 20 researchers working on the cosmological analysis of the CMB, gravitational lensing, large scale structure of the universe (in particular, the ESA satellite mission Euclid), numerical simulations. More in general, the IAP hosts researchers working on a wide range of topics in astrophysics and theoretical physics, including galaxy formation, gravitational waves and the physics of the early universe. The successful applicant will have access to the extensive computational resources of the Infinity cluster (~3000 cores) and the GPU Henon cluster located at IAP, as well as to the numerical resources of the SPT collaboration.
-
-------------------------------------------------------------------------
+ 
 
 **[Postdoc in Cosmology at Cardiff, Jan 31, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1906541_5460)**
 
@@ -158,6 +80,14 @@ The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomp
 This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (VRO) and the Legacy Survey of Space and Time (LSST), SDSS-V, South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of VRO. Illinois is an institutional member of the SPT collaboration and participating in the design and planning for CMB-S4.
 
 The selected candidate will be part of the new Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/) . This year we anticipate prioritizing candidates with a research emphasis towards the long-wavelength regime and engagement towards CMB-S4 and/or ngVLA.
+
+------------------------------------------------------------------------
+
+**[QUP Postdoctoral Fellowship at KEK, Feb 28, 2022](https://academicjobsonline.org/ajo/programs/21028)**
+
+We are seeking candidates who are interested in our broad range of sciences and engineering. Our postdoctoral fellows are for three years with the possibility of a 2-year renewal based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs, and provided with salaries comparable to those at other prestigious institutions. Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. We may offer a higher position, at the rank of assistant professor, for five years with the possibility of a 2-year renewal to outstanding candidates. Each appointee will receive financial support for starting-up research, and have opportunities to work with 13 initial PIs who are active in experimental cosmology, experimental and theoretical particle physics, data science, electromagnetic analyses, and device engineering. More information on their research activities can be found at the end. As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. We will build a diverse community of scientists, and we strongly encourage female and international applicants. About 40% of initial PIs at QUP are female.
+
+QUP’s broad area of research led by 13 initial PIs include superconducting detector development and implementation to the LiteBIRD satellite, “Project Q,” a new project for new particle searches (including theoretical studies,) super rad-hard detector development and implementation to accelerator-based projects etc., development of new quantum field measurement systems beyond existing quantum sensors,a new device with quantum-field Casimir effects, innovation in analog-digital-mixed ASICs design, applications of machine learning to cosmology and particle physics, advancing systems engineering and systems science through projects at QUP
 
 ------------------------------------------------------------------------
 
