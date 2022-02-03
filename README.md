@@ -56,12 +56,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1, 2022](#mcss)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
+-   [Process Engineer or Microfabrication Scientist NIST, until filled](#nist)
 
  
 
 ------------------------------------------------------------------------
-
- 
 
 **[Postdoc in Cosmology at Cardiff, Jan 31, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1906541_5460)**
 
@@ -113,6 +112,13 @@ In Prof. Kevin Huffenberger’s group, work on cosmology and astrophysics includ
 
 Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
 
- 
+------------------------------------------------------------------------
+
+**[Process Engineer or Microfabrication Scientist NIST, until filled]()**
+
+The Fabrication Project (https://www.nist.gov/programs-projects/fabrication) within in the Quantum Sensors Group (<https://www.nist.gov/pml/quantum-electromagnetics/quantum-sensors>) at NIST (Boulder, Colorado) is seeking a Process Engineer or Microfabrication Scientist.  The Quantum Sensors Group designs, fabricates, and tests detectors and readout electronics that achieve world class performance for microwave, x-ray, and gamma-ray sensing. Low temperature, superconducting, and quantum phenomena are harnessed to achieve extreme performance metrics. Example devices include the Superconducting Quantum Interference Device (SQUID), Transition Edge Sensor (TES), and Microwave Kinetic Inductance Device (MKID). The Fabrication Project utilizes the state-of-the-art Boulder Microfabrication Facility (<https://www.nist.gov/programs-projects/boulder-microfabrication-facility>).
+
+  
+Candidates are expected to have an advanced technical degree and micro-fabrication experience, including direct handling of wafers. Equivalent practical experience may be considered instead of an advanced degree. A background in low-temperature device fabrication is desirable, but not required. The successful candidate is expected to become proficient in a range of micro-fabrication sub-areas including CAD layout, lithography, physical vapor deposition, and plasma etching and deposition.  The successful candidate is also encouraged to play a major role in equipment maintenance, the acquisition of new equipment, process development, and the development and realization of new devices. We will consider both junior and senior level applicants. Interested candidates should contact Dr. Joel Ullom ([\[email protected\]]()).
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
