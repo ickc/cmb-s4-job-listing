@@ -54,6 +54,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 -   [QUP Postdoctoral Fellowship at KEK, Feb 28, 2022](#kek)
 -   [MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1, 2022](#mcss)
+-   [Presidential Society of STEM Postdoc Fellowship at CWRU, Mar 25, 2022](#cwru2)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
 -   [Process Engineer or Microfabrication Scientist NIST, until filled](#nist)
@@ -92,7 +93,15 @@ QUP’s broad area of research led by 13 initial PIs include superconducting det
 
 **[MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1,, 2022](https://mcss.wustl.edu/news/postdoctoral-fellowship-opening)**
 
-The McDonnell Center for the Space Sciences (MCSS) at Washington University in St. Louis invites applications for a postdoctoral position in the broad field of space sciences.  We welcome applicants with interests in Astromaterials, Cosmochemistry, or Meteoritics; Experimental, theoretical, or observational Astrophysics; Planetary Science; Particle and Nuclear Physics, Cosmology and Gravitation; and Earth as a Planet. In their application materials, the candidate should describe their research interests and list potential collaborators from among the faculty fellows of the MCSS.  Any prospective applicant interested in working with the CMB group should contact Johanna Nagy.  Opportunities are available for multiple projects including SPIDER, Taurus, and CMB-S4 with both instrumentation and analysis
+The McDonnell Center for the Space Sciences (MCSS) at Washington University in St. Louis invites applications for a postdoctoral position in the broad field of space sciences.  We welcome applicants with interests in Astromaterials, Cosmochemistry, or Meteoritics; Experimental, theoretical, or observational Astrophysics; Planetary Science; Particle and Nuclear Physics, Cosmology and Gravitation; and Earth as a Planet. In their application materials, the candidate should describe their research interests and list potential collaborators from among the faculty fellows of the MCSS.  Any prospective applicant interested in working with the CMB group should contact Johanna Nagy.  Opportunities are available for multiple projects including SPIDER, Taurus, and CMB-S4 with both instrumentation and analysis.
+
+------------------------------------------------------------------------
+
+**[Presidential Society of STEM Postdoc Fellowship at CWRU, Mar 25, 2022](https://case.edu/provost/presidential-fellows)**
+
+At Case Western Reserve, we believe that great researchers can also be great teachers. As such, we have created the Presidential Society of STEM Post-Doctoral Fellows to be focused on excellence in the future of STEM teaching and research, with an emphasis on encouraging diversity, equity, and inclusion in teaching, research, and service.  We are searching for stellar individuals eager to build a community of STEM scholars who help define the future of learning for the next generation of students, the future of STEM research that crosses disciplines, and the future of diversity, equity and inclusion in all interactions including with neighbors and residents of Cleveland. This approach to scholarship and teaching and service is core to the values and approach of CWRU, as articulated in our strategic plan, [Think Big](http://case.edu/thinkbig).
+
+The inaugural class of four Fellows will help co-design the future of the program, alongside the President, Provost, and Deans. We anticipate this program will ultimately grow to a community of eight Fellows at any one time. This three-year experience will allow Fellows to engage in research with key mentors, eventually moving into grant support with those mentor scholars by year three of the term. At the end of the three years, the Fellows will have taught STEM introductory courses, continued their research trajectories, built research partnerships across disciplines and into the community, published in their fields, and gained an understanding of how great researchers are also great teachers. Along the way, they will also be change agents at the university, building a culture that breaks boundaries, both visible and invisible.
 
 ------------------------------------------------------------------------
 
@@ -118,7 +127,6 @@ Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()
 
 The Fabrication Project (https://www.nist.gov/programs-projects/fabrication) within in the Quantum Sensors Group (<https://www.nist.gov/pml/quantum-electromagnetics/quantum-sensors>) at NIST (Boulder, Colorado) is seeking a Process Engineer or Microfabrication Scientist.  The Quantum Sensors Group designs, fabricates, and tests detectors and readout electronics that achieve world class performance for microwave, x-ray, and gamma-ray sensing. Low temperature, superconducting, and quantum phenomena are harnessed to achieve extreme performance metrics. Example devices include the Superconducting Quantum Interference Device (SQUID), Transition Edge Sensor (TES), and Microwave Kinetic Inductance Device (MKID). The Fabrication Project utilizes the state-of-the-art Boulder Microfabrication Facility (<https://www.nist.gov/programs-projects/boulder-microfabrication-facility>).
 
-  
 Candidates are expected to have an advanced technical degree and micro-fabrication experience, including direct handling of wafers. Equivalent practical experience may be considered instead of an advanced degree. A background in low-temperature device fabrication is desirable, but not required. The successful candidate is expected to become proficient in a range of micro-fabrication sub-areas including CAD layout, lithography, physical vapor deposition, and plasma etching and deposition.  The successful candidate is also encouraged to play a major role in equipment maintenance, the acquisition of new equipment, process development, and the development and realization of new devices. We will consider both junior and senior level applicants. Interested candidates should contact Dr. Joel Ullom ([\[email protected\]]()).
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
