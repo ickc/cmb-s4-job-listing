@@ -50,8 +50,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Postdoc in Cosmology at Cardiff, Jan 31, 2022](#cardiffpostdoc)
--   [CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](#ncsa)
 -   [QUP Postdoctoral Fellowship at KEK, Feb 28, 2022](#kek)
 -   [MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1, 2022](#mcss)
 -   [Software Systems Engineer at MSU, Mar 9, 2022](#msu)
@@ -59,28 +57,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
 -   [Process Engineer or Microfabrication Scientist NIST, until filled](#nist)
+-   [South Pole Telescope winterover, until filled](#spt)
+-   [South Pole science machinist, until filled](#machinist)
 
  
-
-------------------------------------------------------------------------
-
-**[Postdoc in Cosmology at Cardiff, Jan 31, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=1906541_5460)**
-
-The ERC-funded project CMBforward at Cardiff University led by Prof. Erminia Calabrese is seeking applications to fill the position of Postdoctoral Research Associate in cosmology.
-
-The research associates will work on characterization and interpretation of state-of-the-art Cosmic Microwave Background (CMB) data from the Atacama Cosmology Telescope and the Simons Observatory, and will engage with the current efforts in designing a new CMB satellite mission. We are seeking researchers with an established track record in characterization and cosmological exploitation of CMB data.
-
-The research associates will fit within the active and diverse Cardiff Hub for Astrophysics Research and Technology <https://www.cardiff.ac.uk/physics-astronomy/research/research-groups/chart>. Other members of the astronomy and instrumentation groups play leading roles in the search for signals from gamma-ray bursts, modelling and detecting gravitational waves, supernovae, cosmic dust, star formation and building the next generation ground and space-based telescopes.
-
-------------------------------------------------------------------------
-
-**[CAPS Postdoctoral Fellowship at NCSA and UIUC, Feb 15, 2022](https://caps.ncsa.illinois.edu/get-involved/pd_fellowship_210215/)**
-
-The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomputer Applications (NCSA) and the University of Illinois at Urbana-Champaign invite applications from Ph.D. scientists for the CAPS postdoctoral fellowship. This independent fellowship is for 3 years and offers a competitive salary, benefits, and research funds.
-
-This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (VRO) and the Legacy Survey of Space and Time (LSST), SDSS-V, South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of VRO. Illinois is an institutional member of the SPT collaboration and participating in the design and planning for CMB-S4.
-
-The selected candidate will be part of the new Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/) . This year we anticipate prioritizing candidates with a research emphasis towards the long-wavelength regime and engagement towards CMB-S4 and/or ngVLA.
 
 ------------------------------------------------------------------------
 
@@ -137,5 +117,17 @@ Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()
 The Fabrication Project (https://www.nist.gov/programs-projects/fabrication) within in the Quantum Sensors Group (<https://www.nist.gov/pml/quantum-electromagnetics/quantum-sensors>) at NIST (Boulder, Colorado) is seeking a Process Engineer or Microfabrication Scientist.  The Quantum Sensors Group designs, fabricates, and tests detectors and readout electronics that achieve world class performance for microwave, x-ray, and gamma-ray sensing. Low temperature, superconducting, and quantum phenomena are harnessed to achieve extreme performance metrics. Example devices include the Superconducting Quantum Interference Device (SQUID), Transition Edge Sensor (TES), and Microwave Kinetic Inductance Device (MKID). The Fabrication Project utilizes the state-of-the-art Boulder Microfabrication Facility (<https://www.nist.gov/programs-projects/boulder-microfabrication-facility>).
 
 Candidates are expected to have an advanced technical degree and micro-fabrication experience, including direct handling of wafers. Equivalent practical experience may be considered instead of an advanced degree. A background in low-temperature device fabrication is desirable, but not required. The successful candidate is expected to become proficient in a range of micro-fabrication sub-areas including CAD layout, lithography, physical vapor deposition, and plasma etching and deposition.  The successful candidate is also encouraged to play a major role in equipment maintenance, the acquisition of new equipment, process development, and the development and realization of new devices. We will consider both junior and senior level applicants. Interested candidates should contact Dr. Joel Ullom ([\[email protected\]]()).
+
+------------------------------------------------------------------------
+
+**[South Pole Telescope winterover, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR15347-1)**
+
+The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months, is required. The position begins in November 2022 and ends in November 2023.
+
+------------------------------------------------------------------------
+
+**[South Pole station machinist, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/South-Pole-Machinist_JR15348)**
+
+The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required. The position begins 1/15/23 and ends 11/30/23.
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
