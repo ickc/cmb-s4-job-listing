@@ -50,7 +50,7 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [QUP Postdoctoral Fellowship at KEK, Feb 28, 2022](#kek)
+-   [QUP Postdoctoral Fellowship at KEK, Apr 30, 2022](#kek)
 -   [MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1, 2022](#mcss)
 -   [Software Systems Engineer at MSU, Mar 9, 2022](#msu)
 -   [Presidential Society of STEM Postdoc Fellowship at CWRU, Mar 25, 2022](#cwru2)
@@ -64,7 +64,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 ------------------------------------------------------------------------
 
-**[QUP Postdoctoral Fellowship at KEK, Feb 28, 2022](https://academicjobsonline.org/ajo/programs/21028)**
+**[QUP Postdoctoral Fellowship at KEK, Apr 30, 2022](https://academicjobsonline.org/ajo/programs/21028)**
 
 We are seeking candidates who are interested in our broad range of sciences and engineering. Our postdoctoral fellows are for three years with the possibility of a 2-year renewal based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs, and provided with salaries comparable to those at other prestigious institutions. Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. We may offer a higher position, at the rank of assistant professor, for five years with the possibility of a 2-year renewal to outstanding candidates. Each appointee will receive financial support for starting-up research, and have opportunities to work with 13 initial PIs who are active in experimental cosmology, experimental and theoretical particle physics, data science, electromagnetic analyses, and device engineering. More information on their research activities can be found at the end. As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. We will build a diverse community of scientists, and we strongly encourage female and international applicants. About 40% of initial PIs at QUP are female.
 
