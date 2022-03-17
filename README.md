@@ -53,6 +53,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [QUP Postdoctoral Fellowship at KEK, Apr 30, 2022](#kek)
 -   [MCSS Postdoctoral Fellowship at Washington University in St Louis, Mar 1, 2022](#mcss)
 -   [Software Systems Engineer at MSU, Mar 9, 2022](#msu)
+-   [Postdoc on CHIME at UBC, Mar 19, 2022](#ubc)
 -   [Presidential Society of STEM Postdoc Fellowship at CWRU, Mar 25, 2022](#cwru2)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
@@ -83,6 +84,16 @@ The McDonnell Center for the Space Sciences (MCSS) at Washington University in
 MSUs ICER and the MSU particle astrophysics and cosmology research group are hiring a software engineer to work on: ● A cloud-based platform to support time-domain transient-source data streams from observatories such as IceCube, LIGO, and the Vera Rubin Observatory ●Data acquisition and reduction for SPT-3G and CMB-S4 experiments.
 
 This effort will focus on data produced by several large-scale facilities observing different astronomical messenger particles, including the IceCube Neutrino Observatory, a kilometer-scale neutrino detector at the South Pole, gravitational wave detectors such as LIGO, astronomical survey instruments such as the Vera Rubin Observatory, and cosmic microwave background experiments including SPT-3G and CMB-S4. The time-domain transient-source data processing will be part of the multi-institution SCiMMA project, and will involve collaboration with developers across multiple universities. SCiMMA is developing a distributed processing system that rapidly coordinates multi-messenger observations of neutrino, gravitational wave, gamma-ray, and optical events between observatories. The data-acquisition and reduction component will be a part of the CMB-S4 and SPT-3G projects and will likewise involve cross-institution collaboration. Work will involve the development of pub-sub systems for transient event alert distribution and experimental control monitoring, real-time data analysis and visualization tools for data and experiment controls, and data archival solutions. This work will also involve design and development of high-speed networking and software interfaces for non-pub/sub experimental data and distributed processing of the data collected. In this position you will: design, develop, and deploy high-throughput data acquisition and processing frameworks for CMB-S4. Design, develop, and deploy cloud based services for handling astrophysical multi-messenger alert streams from IceCube, LIGO, Vera Rubin, and other observatories. Implement automated systems for deploying data distribution systems and managing distributed consumers in a cloud and remote experimental environment. Design data storage systems to enable archival and bulk analysis of collected data and alert events. Develop, document, and extend data formats and develop conversion and analysis tools. Architect cloud-hosted JupyterLab data visualization environments to enable end-users to use the developed tools. On-site work is encouraged but remote work is possible.
+
+------------------------------------------------------------------------
+
+**[Postdoc on CHIME at UBC, Mar 19, 2022](https://jobregister.aas.org/ad/6977d0b2)**
+
+We invite applications for a Postdoctoral position in 21cm cosmology to work on CHIME data analysis and map-making pipeline. The successful applicant will have a strong research record in data analysis, and/or instrumentation. This postdoctoral position is for two years initially, with possibility of renewal. An immediate start date is desirable. This position is based out of Dept of Physics & Astronomy at University of British Columbia, Vancouver, Canada.
+
+The Canadian Hydrogen Intensity Mapping Experiment (CHIME, [http://chime-experiment.ca](http://www.chime-experiment.ca/)) is designed to map neutral hydrogen over the redshift range 0.8 to 2.5 to constrain the expansion history of the Universe. CHIME operates 24/7 and scans the sky in 400MHz to 800MHz radio frequency range. The successful candidate will be based at UBC, Vancouver campus, and will be joining a team of 40 researchers and faculty members spread across multiple institutions. The successful applicant will report to Professor Mark Halpern and Gary Hinshaw.
+
+Qualifications: PhD in Physics, Astronomy or closely related field. Relevant experience in radio instrumentation and observations, signal processing, statistical data analysis, numerical data analysis, and software development are welcome assets.
 
 ------------------------------------------------------------------------
 
