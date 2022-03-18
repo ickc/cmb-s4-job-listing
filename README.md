@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Software Systems Engineer at MSU, Mar 9, 2022](#msu)
 -   [Postdoc on CHIME at UBC, Mar 19, 2022](#ubc)
 -   [Presidential Society of STEM Postdoc Fellowship at CWRU, Mar 25, 2022](#cwru2)
+-   [Postdoc position in mm/submm detector development at Caltech, Apr 1, 2022 or until filled](#caltech)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
 -   [Process Engineer or Microfabrication Scientist NIST, until filled](#nist)
@@ -102,6 +103,22 @@ Qualifications: PhD in Physics, Astronomy or closely related field. Relevant ex
 At Case Western Reserve, we believe that great researchers can also be great teachers. As such, we have created the Presidential Society of STEM Post-Doctoral Fellows to be focused on excellence in the future of STEM teaching and research, with an emphasis on encouraging diversity, equity, and inclusion in teaching, research, and service.  We are searching for stellar individuals eager to build a community of STEM scholars who help define the future of learning for the next generation of students, the future of STEM research that crosses disciplines, and the future of diversity, equity and inclusion in all interactions including with neighbors and residents of Cleveland. This approach to scholarship and teaching and service is core to the values and approach of CWRU, as articulated in our strategic plan, [Think Big](http://case.edu/thinkbig).
 
 The inaugural class of four Fellows will help co-design the future of the program, alongside the President, Provost, and Deans. We anticipate this program will ultimately grow to a community of eight Fellows at any one time. This three-year experience will allow Fellows to engage in research with key mentors, eventually moving into grant support with those mentor scholars by year three of the term. At the end of the three years, the Fellows will have taught STEM introductory courses, continued their research trajectories, built research partnerships across disciplines and into the community, published in their fields, and gained an understanding of how great researchers are also great teachers. Along the way, they will also be change agents at the university, building a culture that breaks boundaries, both visible and invisible.
+
+------------------------------------------------------------------------
+
+**[Postdoc position in mm/submm detector development at Caltech, Apr 1, 2022 or until filled](https://academicjobsonline.org/ajo/jobs/21191)**
+
+We are seeking to hire a postdoc to participate in the development of millimeter and submillimeter detectors. The successful applicant would have the opportunity to work on the development of detector technologies for continuum imaging and low-resolution spectroscopy in the 30-420 GHz range, possibly higher, for the study of CMB polarization, galaxy clusters via the Sunyaev-Zeldovich effect, thermal sources such as dusty, star-forming galaxies and star forming regions and the ISM in our galaxy, and spectral line emission, including: 
+
+-   microstrip-coupled titanium nitride and aluminum kinetic inductance detectors (KIDs)
+-   crystalline and amorphous silicon as a dielectric for KID capacitors and superconducting microstripline
+-   multiscale phased-array superconducting antennas for mm/submm wavelengths
+
+ 
+
+The successful applicant may also join our effort on etched silicon metamaterial optics for these frequencies or observational work on the thermal and kinematic SZ effects in galaxy clusters.
+
+ 
 
 ------------------------------------------------------------------------
 
