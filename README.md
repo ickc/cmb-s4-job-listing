@@ -56,8 +56,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoc position in mm/submm detector development at Caltech, Apr 1, 2022 or until filled](#caltech)
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
+-   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
 -   [South Pole Telescope winterover, until filled](#spt)
 -   [South Pole science machinist, until filled](#machinist)
+-   [BICEP winterover scientist, until filled](#bicep)
 
  
 
@@ -107,6 +109,18 @@ Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()
 
 ------------------------------------------------------------------------
 
+**[Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](https://www.su.se/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-instrumentation-for-cmb-experiments-1.608431)**
+
+We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E. Gudmundsson on a project in cryogenic optics funded by an ERC Starting Grant. The CMBeam program involves aspects in optical instrumentation, simulation, and analysis for experiments studying the cosmic microwave background, including the Simons Observatory, the LiteBIRD satellite, and the Taurus balloon-borne experiment.  
+  
+The principal aim of CMBeam is to advance aspects of cryogenic optics for millimetre wavelengths. Efforts include the construction of a state-of-the-art cryogenic holography facility for the purposes of testing optical systems of current and future experiments. This infrastructure will facilitate calibration efforts for upcoming CMB experiments such as the Simons Observatory and enable the development of optical measurement techniques that are critical for next-generation experiments.
+
+ 
+
+Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\]]()) to learn more about these efforts.
+
+------------------------------------------------------------------------
+
 **[South Pole Telescope winterover, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR15347-1)**
 
 The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months, is required. The position begins in November 2022 and ends in November 2023.
@@ -116,5 +130,13 @@ The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-pe
 **[South Pole station machinist, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/South-Pole-Machinist_JR15348)**
 
 The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required. The position begins 1/15/23 and ends 11/30/23.
+
+------------------------------------------------------------------------
+
+**[BICEP winterover scientist, until filled](https://hr.myu.umn.edu/psc/hrprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=347615&PostingSeq=1&)**
+
+The BICEP winter-over scientists will start work in fall 2022 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2023. Once the austral summer team leaves the site in February 2023, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
+
+The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
