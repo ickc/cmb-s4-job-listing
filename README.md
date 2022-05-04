@@ -57,6 +57,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
 -   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
+-   [Professorship in Astrophysical devices at Cologne, Jun 15, 2022](#cologne)
 -   [South Pole Telescope winterover, until filled](#spt)
 -   [South Pole science machinist, until filled](#machinist)
 -   [BICEP winterover scientist, until filled](#bicep)
@@ -111,13 +112,17 @@ Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()
 
 **[Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](https://www.su.se/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-instrumentation-for-cmb-experiments-1.608431)**
 
-We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E. Gudmundsson on a project in cryogenic optics funded by an ERC Starting Grant. The CMBeam program involves aspects in optical instrumentation, simulation, and analysis for experiments studying the cosmic microwave background, including the Simons Observatory, the LiteBIRD satellite, and the Taurus balloon-borne experiment.  
-  
+We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E. Gudmundsson on a project in cryogenic optics funded by an ERC Starting Grant. The CMBeam program involves aspects in optical instrumentation, simulation, and analysis for experiments studying the cosmic microwave background, including the Simons Observatory, the LiteBIRD satellite, and the Taurus balloon-borne experiment.
+
 The principal aim of CMBeam is to advance aspects of cryogenic optics for millimetre wavelengths. Efforts include the construction of a state-of-the-art cryogenic holography facility for the purposes of testing optical systems of current and future experiments. This infrastructure will facilitate calibration efforts for upcoming CMB experiments such as the Simons Observatory and enable the development of optical measurement techniques that are critical for next-generation experiments.
 
- 
-
 Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\]]()) to learn more about these efforts.
+
+------------------------------------------------------------------------
+
+**[Professorship in Astrophysical devices at the University of Cologne, Jun 15, 2022](https://berufungen.uni-koeln.de/?lang=en)**
+
+The 1st Institudte of Physics (PH1) is a founding member of the CCAT-prime Submillimetre Observatory/FYST telescope in Chile, which will carry out large-area surveys of the universe and interstellar matter in the Milky Way, in nearby galaxies, and in distant galaxies starting 2023. Our objective is to fundamentally enhance the PH1 instrumentation program with the installation of this new Professorship in Astro- physical Devices. The successful candidate will take over the lead of laboratories responsible for device development including the microstructure laboratory, with the goal to establish a program that will result in breakthrough developments in technologies required for future generations of instrumentation (e.g., large format cameras, ultra-broad-band spectrometers), and to expand PH1’s key role in new and future observatories. The education of students in physics and astrophysics is another expected part of the responsibilities of this professorship, as well as a committed engagement in academic self-governance.
 
 ------------------------------------------------------------------------
 
