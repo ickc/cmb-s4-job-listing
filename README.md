@@ -52,51 +52,21 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [QUP Postdoctoral Fellowship at KEK or Berkeley, Apr 30, 2022](#kek)
--   [Postdoc position in mm/submm detector development at Caltech, Apr 1, 2022 or until filled](#caltech)
--   [Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](#cwru)
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
 -   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
 -   [Professorship in Astrophysical devices at Cologne, Jun 15, 2022](#cologne)
+-   [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
 -   [South Pole Telescope winterover, until filled](#spt)
 -   [South Pole science machinist, until filled](#machinist)
 -   [BICEP winterover scientist, until filled](#bicep)
 
- 
-
 ------------------------------------------------------------------------
 
-**[QUP Postdoctoral Fellowship at KEK or Berkeley, Apr 30, 2022](https://academicjobsonline.org/ajo/programs/21028)**
+**[Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled]()**
 
-We are seeking candidates who are interested in our broad range of sciences and engineering. Our postdoctoral fellows are for three years with the possibility of a 2-year renewal based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs, and provided with salaries comparable to those at other prestigious institutions. Applicants should have a Ph.D. in Physics or a related field by the time the appointment begins. We may offer a higher position, at the rank of assistant professor, for five years with the possibility of a 2-year renewal to outstanding candidates. Each appointee will receive financial support for starting-up research, and have opportunities to work with 13 initial PIs who are active in experimental cosmology, experimental and theoretical particle physics, data science, electromagnetic analyses, and device engineering. More information on their research activities can be found at the end. As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. We will build a diverse community of scientists, and we strongly encourage female and international applicants. About 40% of initial PIs at QUP are female.
+The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with some flexibility) of January 3, 2023,  is renewable annually for up to three years based on satisfactory performance.
 
-QUP’s broad area of research led by 13 initial PIs include superconducting detector development and implementation to the LiteBIRD satellite, “Project Q,” a new project for new particle searches (including theoretical studies,) super rad-hard detector development and implementation to accelerator-based projects etc., development of new quantum field measurement systems beyond existing quantum sensors,a new device with quantum-field Casimir effects, innovation in analog-digital-mixed ASICs design, applications of machine learning to cosmology and particle physics, advancing systems engineering and systems science through projects at QUP.
-
-The LiteBIRD mission was selected by JAXA in 2019 and is scheduled to fly late this decade.  The detector systems are baselined to be delivered by the U.S. and will be partly funded by QUP.  The Low-Frequency Telescope (LFT) will be integrated in Japan, and the Middle- and High-Frequency Telescopes (MFT and HFT)  will be integrated in Europe.  The positions can be predominantly in the U.S. or in Japan.
-
-------------------------------------------------------------------------
-
-**[Postdoc position in mm/submm detector development at Caltech, Apr 1, 2022 or until filled](https://academicjobsonline.org/ajo/jobs/21191)**
-
-We are seeking to hire a postdoc to participate in the development of millimeter and submillimeter detectors. The successful applicant would have the opportunity to work on the development of detector technologies for continuum imaging and low-resolution spectroscopy in the 30-420 GHz range, possibly higher, for the study of CMB polarization, galaxy clusters via the Sunyaev-Zeldovich effect, thermal sources such as dusty, star-forming galaxies and star forming regions and the ISM in our galaxy, and spectral line emission, including: 
-
--   microstrip-coupled titanium nitride and aluminum kinetic inductance detectors (KIDs)
--   crystalline and amorphous silicon as a dielectric for KID capacitors and superconducting microstripline
--   multiscale phased-array superconducting antennas for mm/submm wavelengths
-
- 
-
-The successful applicant may also join our effort on etched silicon metamaterial optics for these frequencies or observational work on the thermal and kinematic SZ effects in galaxy clusters.
-
- 
-
-------------------------------------------------------------------------
-
-**[Richard S Morrison Postdoc Fellowship at CWRU, Jan 2 – May 1, 2022](https://academicjobsonline.org/ajo/fellowship/20769)**
-
-The position is expected to start October 1, 2022 (earlier/later start dates may be negotiated). Applications containing a CV, publication list, statement of research interests and three letters of recommendation should be submitted through Academic Jobs Online at <https://academicjobsonline.org/ajo/fellowship/20769>. If electronic submission is not possible, paper applications may be submitted to “Richard Morrison Post-Doctoral Fellowship Search c/o G. Starkman,” Department of Physics, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, Ohio 44106-7079 USA. Review of applications will commence on a rolling basis on Jan 2, 2022. The position will be open until filled. Please keep this in mind when submitting application materials, as we expect this to occur in advance of the posted deadline.
-
-Information about the research interests of the Particle Physics, Astrophysics and Cosmology group can be found on the [Department of Physics webpage](https://physics.case.edu/research/research-focus-cosmology-astrophysics/). Questions regarding the position may be directed to Glenn Starkman at [\[email protected\]](). The successful applicant is likely to be interested in a focused collaboration with him, the current Morrison Fellow, Yashar Arkami, and colleagues at CWRU, Imperial College London, the University of Pittsburgh, and the Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe.  Candidates with expertise in Machine Learning and/or other advanced numerical techniques are particularly encouraged to apply.
+Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to  world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged. For more information on the CPAC group and our activities please see: <https://cpac.hep.anl.gov/>.
 
 ------------------------------------------------------------------------
 
@@ -114,9 +84,13 @@ Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()
 
 We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E. Gudmundsson on a project in cryogenic optics funded by an ERC Starting Grant. The CMBeam program involves aspects in optical instrumentation, simulation, and analysis for experiments studying the cosmic microwave background, including the Simons Observatory, the LiteBIRD satellite, and the Taurus balloon-borne experiment.
 
+ 
+
 The principal aim of CMBeam is to advance aspects of cryogenic optics for millimetre wavelengths. Efforts include the construction of a state-of-the-art cryogenic holography facility for the purposes of testing optical systems of current and future experiments. This infrastructure will facilitate calibration efforts for upcoming CMB experiments such as the Simons Observatory and enable the development of optical measurement techniques that are critical for next-generation experiments.
 
 Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\]]()) to learn more about these efforts.
+
+ 
 
 ------------------------------------------------------------------------
 
