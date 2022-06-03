@@ -53,6 +53,7 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 -   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
+-   [Research Asst Professor at University of Chicago, Jun 13, 2022, until filled](#chicago)
 -   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
 -   [Professorship in Astrophysical devices at Cologne, Jun 15, 2022](#cologne)
 -   [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
@@ -77,6 +78,14 @@ Florida State University invites applicants to the Provost Postdoctoral Fellowsh
 In Prof. Kevin Huffenberger’s group, work on cosmology and astrophysics includes projects related to CMB B-modes, foregrounds, large-scale structure cross-correlations, mm-wave compact sources, and transients.  We work in collaboration with the Atacama Cosmology Telescope, the Simons Observatory, and CMB-S4.
 
 Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
+
+------------------------------------------------------------------------
+
+**[Research Asst Professor at University of Chicago, Jun 13, 2022, until filled](https://apply.interfolio.com/106884)**
+
+The Department of Astronomy & Astrophysics at The University of Chicago invites applications for a Research Assistant Professor position. The Research Assistant Professor will work in cosmic microwave background (CMB) science and contribute to the Department’s CMB research program, in particular in the operation of and analysis of data from the South Pole Telescope (SPT) and developing the design of the next-generation CMB experiment CMB-S4. The person hired will be responsible for designing and writing software to control large telescopes and in developing low-level and high-level data analysis code.  
+  
+The term of the appointment will be for up to three years with the possibility of renewal, and is expected to begin in summer 2022.
 
 ------------------------------------------------------------------------
 
