@@ -77,7 +77,7 @@ Florida State University invites applicants to the Provost Postdoctoral Fellowsh
 
 In Prof. Kevin Huffenberger’s group, work on cosmology and astrophysics includes projects related to CMB B-modes, foregrounds, large-scale structure cross-correlations, mm-wave compact sources, and transients.  We work in collaboration with the Atacama Cosmology Telescope, the Simons Observatory, and CMB-S4.
 
-Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
+Potential applicants should contact Kevin Huffenberger ([\[email protected\]edu]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
 
 ------------------------------------------------------------------------
 
