@@ -57,6 +57,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
 -   [Professorship in Astrophysical devices at Cologne, Jun 15, 2022](#cologne)
 -   [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
+-   [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 -   [South Pole Telescope winterover, until filled](#spt)
 -   [South Pole science machinist, until filled](#machinist)
 -   [BICEP winterover scientist, until filled](#bicep)
@@ -77,14 +78,14 @@ Florida State University invites applicants to the Provost Postdoctoral Fellowsh
 
 In Prof. Kevin Huffenberger’s group, work on cosmology and astrophysics includes projects related to CMB B-modes, foregrounds, large-scale structure cross-correlations, mm-wave compact sources, and transients.  We work in collaboration with the Atacama Cosmology Telescope, the Simons Observatory, and CMB-S4.
 
-Potential applicants should contact Kevin Huffenberger ([\[email protected\]edu]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
+Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
 
 ------------------------------------------------------------------------
 
 **[Research Asst Professor at University of Chicago, Jun 13, 2022, until filled](https://apply.interfolio.com/106884)**
 
-The Department of Astronomy & Astrophysics at The University of Chicago invites applications for a Research Assistant Professor position. The Research Assistant Professor will work in cosmic microwave background (CMB) science and contribute to the Department’s CMB research program, in particular in the operation of and analysis of data from the South Pole Telescope (SPT) and developing the design of the next-generation CMB experiment CMB-S4. The person hired will be responsible for designing and writing software to control large telescopes and in developing low-level and high-level data analysis code.  
-  
+The Department of Astronomy & Astrophysics at The University of Chicago invites applications for a Research Assistant Professor position. The Research Assistant Professor will work in cosmic microwave background (CMB) science and contribute to the Department’s CMB research program, in particular in the operation of and analysis of data from the South Pole Telescope (SPT) and developing the design of the next-generation CMB experiment CMB-S4. The person hired will be responsible for designing and writing software to control large telescopes and in developing low-level and high-level data analysis code.
+
 The term of the appointment will be for up to three years with the possibility of renewal, and is expected to begin in summer 2022.
 
 ------------------------------------------------------------------------
@@ -106,6 +107,14 @@ Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[ema
 **[Professorship in Astrophysical devices at the University of Cologne, Jun 15, 2022](https://berufungen.uni-koeln.de/?lang=en)**
 
 The 1st Institudte of Physics (PH1) is a founding member of the CCAT-prime Submillimetre Observatory/FYST telescope in Chile, which will carry out large-area surveys of the universe and interstellar matter in the Milky Way, in nearby galaxies, and in distant galaxies starting 2023. Our objective is to fundamentally enhance the PH1 instrumentation program with the installation of this new Professorship in Astro- physical Devices. The successful candidate will take over the lead of laboratories responsible for device development including the microstructure laboratory, with the goal to establish a program that will result in breakthrough developments in technologies required for future generations of instrumentation (e.g., large format cameras, ultra-broad-band spectrometers), and to expand PH1’s key role in new and future observatories. The education of students in physics and astrophysics is another expected part of the responsibilities of this professorship, as well as a committed engagement in academic self-governance.
+
+------------------------------------------------------------------------
+
+**[Research Scientist in meta-material coatings at FNAL, until filled](https://apply.interfolio.com/107622)**
+
+The Department of Astronomy & Astrophysics at the University of Chicago invites applications for the position of Research Scientist, working in Associate Professor Jeff McMahon’s lab. The primary responsibility for this position involves day-to-day management of the development and fabrication of a novel anti-reflection coating for Cosmic Microwave Background (CMB) instruments in the metamaterial laboratory at the Fermi National Accelerator Laboratory. Duties will include developing and optimizing the process and workflow, ensuring the design, fabrication, and testing of these optics meet the requirements. The Research Scientist will participate directly in this operation through calculations, fabrication, measurements, and analysis, as well as support the PI with mentorship of researchers who will collaborate on the project.
+
+The Research Scientist will also have opportunities to collaborate more broadly in Simons Observatory and other CMB projects. This work could involve instrument development, instrument testing, calibration, and data analysis. The Research Scientist is expected to give public presentations at conferences and help prepare grants and reports on their research.
 
 ------------------------------------------------------------------------
 
