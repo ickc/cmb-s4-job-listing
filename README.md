@@ -61,6 +61,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [South Pole Telescope winterover, until filled](#spt)
 -   [South Pole science machinist, until filled](#machinist)
 -   [BICEP winterover scientist, until filled](#bicep)
+-   [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 
 ------------------------------------------------------------------------
 
@@ -135,5 +136,20 @@ The South Pole Machinist operates and maintains the MAPO machine shop, which is 
 The BICEP winter-over scientists will start work in fall 2022 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2023. Once the austral summer team leaves the site in February 2023, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
 
 The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
+
+------------------------------------------------------------------------
+
+**[Postdoctoral positions at Stanford/SLAC, until filled](https://academicjobsonline.org/ajo/jobs/21892)**
+
+Applications are invited for 1-2 postdoctoral positions at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University and the SLAC National Accelerator Laboratory with a focus on Cosmic Microwave Background (CMB) surveys. The positions are primarily intended to expand our work with the CMB experiments BICEP/Keck Array, the South Pole Telescope (SPT), Simons Observatory, and CMB-S4, but also to develop applications and methods in other areas of cosmology and physics.
+
+We seek candidates with experience in instrumentation development, and/or data analysis and simulations in observational cosmology, particle astrophysics, or high-energy physics and expect them to work in one or more of the following areas:  
+  
+1. Development of CMB-S4 instrumentation prototypes and software, especially in the area of superconducting transition-edge sensors and their SQUID-amplified readout.  
+2. Application of CMB detector and readout technology in new concepts for low-mass dark matter searches, THz photon sensing, and qubit-based sensors for physics.
+
+Candidates with prior expertise in low temperature detectors and readout are particularly encouraged to apply.  Candidates interested in science analyses from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
+
+For further information regarding the positions, please contact [Dr. Zeeshan Ahmed](https://kipac.stanford.edu/people/zeeshan-ahmed) and [Dr. Shawn Henderson](https://kipac.stanford.edu/people/shawn-wesley-henderson). Additionally, several staff scientists and faculty are available to advise on this and related opportunities at KIPAC: [Dr. Kimmy Wu](https://kipac.stanford.edu/people/wl-kimmy-wu), [Dr. Noah Kurinsky](https://kipac.stanford.edu/people/noah-kurinsky-0), [Professor Chao-Lin Kuo](https://kipac.stanford.edu/people/chao-lin-kuo), and [Professor Kent Irwin](https://kipac.stanford.edu/people/kent-irwin).
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
