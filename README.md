@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Research Asst Professor at University of Chicago, Jun 13, 2022, until filled](#chicago)
 -   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
 -   [Professorship in Astrophysical devices at Cologne, Jun 15, 2022](#cologne)
+-   [Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](#qup)
 -   [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
 -   [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 -   [South Pole Telescope winterover, until filled](#spt)
@@ -99,7 +100,7 @@ We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E
 
 The principal aim of CMBeam is to advance aspects of cryogenic optics for millimetre wavelengths. Efforts include the construction of a state-of-the-art cryogenic holography facility for the purposes of testing optical systems of current and future experiments. This infrastructure will facilitate calibration efforts for upcoming CMB experiments such as the Simons Observatory and enable the development of optical measurement techniques that are critical for next-generation experiments.
 
-Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\]]()) to learn more about these efforts.
+Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\].su.se]()) to learn more about these efforts.
 
  
 
@@ -108,6 +109,16 @@ Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[ema
 **[Professorship in Astrophysical devices at the University of Cologne, Jun 15, 2022](https://berufungen.uni-koeln.de/?lang=en)**
 
 The 1st Institudte of Physics (PH1) is a founding member of the CCAT-prime Submillimetre Observatory/FYST telescope in Chile, which will carry out large-area surveys of the universe and interstellar matter in the Milky Way, in nearby galaxies, and in distant galaxies starting 2023. Our objective is to fundamentally enhance the PH1 instrumentation program with the installation of this new Professorship in Astro- physical Devices. The successful candidate will take over the lead of laboratories responsible for device development including the microstructure laboratory, with the goal to establish a program that will result in breakthrough developments in technologies required for future generations of instrumentation (e.g., large format cameras, ultra-broad-band spectrometers), and to expand PH1’s key role in new and future observatories. The education of students in physics and astrophysics is another expected part of the responsibilities of this professorship, as well as a committed engagement in academic self-governance.
+
+------------------------------------------------------------------------
+
+**[Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](https://academicjobsonline.org/ajo/jobs/21845)**
+
+We seek a candidate at the rank of Associate Professor or Assistant Professor in experimental astrophysics and cosmology. The position is for five years with the possibility of renewal or promotion to a tenured position based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salary is comparable to those at other prestigious institutions. The appointee will receive financial support for starting-up research. 
+
+The appointee will work with Professor Masashi Hazumi and the LiteBIRD team, and will serve as the project manager for the LiteBIRD low-frequency telescope focal-plane system development. Development and characterization of the new superconducting detector system for LiteBIRD, JAXA’s strategic L-class mission to be launched in the late 2020s to map polarization of the Cosmic Microwave Background (CMB), is QUP’s flagship mission. We are interested in outstanding scientists who are willing to take on new challenges, with an excellent track record, international recognition, experiences and skills in astrophysics, cosmology, particle physics, superconducting sensor development, cryogenic systems, or related fields. 
+
+ 
 
 ------------------------------------------------------------------------
 
@@ -143,9 +154,9 @@ The BICEP3 and BICEP Array telescopes represent an investment of approximately $
 
 Applications are invited for 1-2 postdoctoral positions at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University and the SLAC National Accelerator Laboratory with a focus on Cosmic Microwave Background (CMB) surveys. The positions are primarily intended to expand our work with the CMB experiments BICEP/Keck Array, the South Pole Telescope (SPT), Simons Observatory, and CMB-S4, but also to develop applications and methods in other areas of cosmology and physics.
 
-We seek candidates with experience in instrumentation development, and/or data analysis and simulations in observational cosmology, particle astrophysics, or high-energy physics and expect them to work in one or more of the following areas:  
-  
-1. Development of CMB-S4 instrumentation prototypes and software, especially in the area of superconducting transition-edge sensors and their SQUID-amplified readout.  
+We seek candidates with experience in instrumentation development, and/or data analysis and simulations in observational cosmology, particle astrophysics, or high-energy physics and expect them to work in one or more of the following areas:
+
+1\. Development of CMB-S4 instrumentation prototypes and software, especially in the area of superconducting transition-edge sensors and their SQUID-amplified readout.  
 2. Application of CMB detector and readout technology in new concepts for low-mass dark matter searches, THz photon sensing, and qubit-based sensors for physics.
 
 Candidates with prior expertise in low temperature detectors and readout are particularly encouraged to apply.  Candidates interested in science analyses from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
