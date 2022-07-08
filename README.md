@@ -100,7 +100,7 @@ We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E
 
 The principal aim of CMBeam is to advance aspects of cryogenic optics for millimetre wavelengths. Efforts include the construction of a state-of-the-art cryogenic holography facility for the purposes of testing optical systems of current and future experiments. This infrastructure will facilitate calibration efforts for upcoming CMB experiments such as the Simons Observatory and enable the development of optical measurement techniques that are critical for next-generation experiments.
 
-Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\].su.se]()) to learn more about these efforts.
+Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\]]()) to learn more about these efforts.
 
  
 
