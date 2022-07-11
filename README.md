@@ -52,10 +52,10 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
--   [Postdoctoral Fellowships at Florida State University, Mar 15; Jun 1, 2022](#fsu)
--   [Research Asst Professor at University of Chicago, Jun 13, 2022, until filled](#chicago)
--   [Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](#stockholm)
--   [Professorship in Astrophysical devices at Cologne, Jun 15, 2022](#cologne)
+-   [Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](#appphysfermi)
+-   [Computational Physics Developer for Cosmological Surveys at Fermilab, Jul 22, 2022](#physdevfermi)
+-   [Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](#itfn)
+-   [Research Asst Professor at University of Chicago,  until filled](#chicago)
 -   [Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](#qup)
 -   [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
 -   [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
@@ -74,17 +74,7 @@ Our postdocs can benefit from strong collaborations with cosmologists, applied m
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral Fellowships at Florida State University, Mar15; Jun 1, 2022](https://opda.fsu.edu/fellowships-and-awards/postdoctoral-fellowships-and-stipend-support/provost-postdoctoral-fellowship)**
-
-Florida State University invites applicants to the Provost Postdoctoral Fellowship Program, which covers all academic fields.  This program is dedicated to enhancing and diversifying the academic pipeline to faculty careers.
-
-In Prof. Kevin Huffenberger’s group, work on cosmology and astrophysics includes projects related to CMB B-modes, foregrounds, large-scale structure cross-correlations, mm-wave compact sources, and transients.  We work in collaboration with the Atacama Cosmology Telescope, the Simons Observatory, and CMB-S4.
-
-Potential applicants should contact Kevin Huffenberger ([\[email protected\]]()) to learn more about the program and request an internal nomination letter.  There are two selection rounds with deadlines of 15 March 2022 and 1 June 2022.  Decisions follow the deadlines shortly and selected fellows can initiate their appointments as soon as possible.
-
-------------------------------------------------------------------------
-
-**[Research Asst Professor at University of Chicago, Jun 13, 2022, until filled](https://apply.interfolio.com/106884)**
+**[Research Asst Professor at University of Chicago, until filled](https://apply.interfolio.com/106884)**
 
 The Department of Astronomy & Astrophysics at The University of Chicago invites applications for a Research Assistant Professor position. The Research Assistant Professor will work in cosmic microwave background (CMB) science and contribute to the Department’s CMB research program, in particular in the operation of and analysis of data from the South Pole Telescope (SPT) and developing the design of the next-generation CMB experiment CMB-S4. The person hired will be responsible for designing and writing software to control large telescopes and in developing low-level and high-level data analysis code.
 
@@ -92,23 +82,21 @@ The term of the appointment will be for up to three years with the possibility o
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral fellow in instrumentation for CMB experiments at Stockholm, Jun 15, 2022](https://www.su.se/department-of-physics/about-the-department/work-with-us/postdoctoral-fellow-in-instrumentation-for-cmb-experiments-1.608431)**
+**[Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Rubin-Observatory-LSST-Cosmological-Survey---Applications-Physicist-I_R_005716)**
 
-We are advertising a 3-year postdoctoral fellow position, to work with Dr. Jon E. Gudmundsson on a project in cryogenic optics funded by an ERC Starting Grant. The CMBeam program involves aspects in optical instrumentation, simulation, and analysis for experiments studying the cosmic microwave background, including the Simons Observatory, the LiteBIRD satellite, and the Taurus balloon-borne experiment.
-
- 
-
-The principal aim of CMBeam is to advance aspects of cryogenic optics for millimetre wavelengths. Efforts include the construction of a state-of-the-art cryogenic holography facility for the purposes of testing optical systems of current and future experiments. This infrastructure will facilitate calibration efforts for upcoming CMB experiments such as the Simons Observatory and enable the development of optical measurement techniques that are critical for next-generation experiments.
-
-Potential applicants are encouraged to get in touch with Jon Gudmundsson ([\[email protected\].su.se]()) to learn more about these efforts.
-
- 
+This position is for an astronomer/physicist to play a critical role in the reduction of the data of LSST. The position entails working with the interim data facility on a Google Cloud platform and with the United States Data Facility (USDF) at SLAC National Laboratory, using workflows for the data reduction that span the USDF, the UK Data Facility and the France Data Facility. For the right candidate there are options to extend your responsibilities to survey strategy and progress metrics and/or to the DESC data production at the National Energy Research Scientific Computing Center (NERSC). If you come from a physics background, we want to hear about data processing across multiple sites, the grid, or the cloud, about getting databases connected to processing, about data movement, about how you managed large campaigns of simulations or processing. If you are from an astrophysical background, we want to hear about experience in large surveys, about how you dealt with data flow from the telescope to the scientist, about databases and reduction software, how you work in large, distributed teams, and how fast you learn unfamiliar software systems that perform the astronomy you do understand. The position comes with a 20% research fraction for the time spent on Rubin operations.
 
 ------------------------------------------------------------------------
 
-**[Professorship in Astrophysical devices at the University of Cologne, Jun 15, 2022](https://berufungen.uni-koeln.de/?lang=en)**
+**[Computational Physics Developer for Cosmological Surveys at Fermilab, Jul 22, 2022](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Rubin-Observatory-LSST-Cosmological-Survey---Applications-Physicist-I_R_005716)**
 
-The 1st Institudte of Physics (PH1) is a founding member of the CCAT-prime Submillimetre Observatory/FYST telescope in Chile, which will carry out large-area surveys of the universe and interstellar matter in the Milky Way, in nearby galaxies, and in distant galaxies starting 2023. Our objective is to fundamentally enhance the PH1 instrumentation program with the installation of this new Professorship in Astro- physical Devices. The successful candidate will take over the lead of laboratories responsible for device development including the microstructure laboratory, with the goal to establish a program that will result in breakthrough developments in technologies required for future generations of instrumentation (e.g., large format cameras, ultra-broad-band spectrometers), and to expand PH1’s key role in new and future observatories. The education of students in physics and astrophysics is another expected part of the responsibilities of this professorship, as well as a committed engagement in academic self-governance.
+This position is for a computational physicist to play a critical role in the operation of the Rubin Observatory United States Data Facility and the software that supports the LSST data production. The position entails working with specialized large scale data movement system Rucio (developed at CERN), combining it with the Rubin developed Butler metadata catalog and its Postgresql backend, to develop the system to handle data movement for production and the transport of metadata about the production back into the Butler. The role involves developing software for the management and tracking of campaigns of production for the yearly data releases. Expertise in Kubernetes systems and the deployment of infrastructure using infrastructure as code technologies such as Puppet or Terraform is part of the job of ensuring the distributed production system is ready for the differing needs of Rucio, the Butler, and production with the LSST software stack. The job is to make sure the complicated systems function for the data production scientists to move the campaigns of data through the system.
+
+------------------------------------------------------------------------
+
+**[Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](https://www.unitn.it/en/ateneo/107285/national-phd-program-in-space-science-and-technology-sst)**
+
+The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#5638223a263a371623383f3033783f22)).
 
 ------------------------------------------------------------------------
 
