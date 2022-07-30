@@ -57,6 +57,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](#itfn)
 -   [Research Asst Professor at University of Chicago,  until filled](#chicago)
 -   [Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](#qup)
+-   [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
+-   [Computational research support engineer at Princeton, until filled](#princeton)
 -   [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
 -   [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 -   [South Pole Telescope winterover, until filled](#spt)
@@ -96,7 +98,7 @@ This position is for a computational physicist to play a critical role in the op
 
 **[Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](https://www.unitn.it/en/ateneo/107285/national-phd-program-in-space-science-and-technology-sst)**
 
-The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#8fe1fbe3ffe3eecffae1e6e9eaa1e6fb)).
+The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#e9879d85998588a99c87808f8cc7809d)).
 
 ------------------------------------------------------------------------
 
@@ -104,9 +106,36 @@ The Italian Ministry of University has started a new national PhD program on Spa
 
 We seek a candidate at the rank of Associate Professor or Assistant Professor in experimental astrophysics and cosmology. The position is for five years with the possibility of renewal or promotion to a tenured position based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salary is comparable to those at other prestigious institutions. The appointee will receive financial support for starting-up research. 
 
-The appointee will work with Professor Masashi Hazumi and the LiteBIRD team, and will serve as the project manager for the LiteBIRD low-frequency telescope focal-plane system development. Development and characterization of the new superconducting detector system for LiteBIRD, JAXA’s strategic L-class mission to be launched in the late 2020s to map polarization of the Cosmic Microwave Background (CMB), is QUP’s flagship mission. We are interested in outstanding scientists who are willing to take on new challenges, with an excellent track record, international recognition, experiences and skills in astrophysics, cosmology, particle physics, superconducting sensor development, cryogenic systems, or related fields. 
+The appointee will work with Professor Masashi Hazumi and the LiteBIRD team, and will serve as the project manager for the LiteBIRD low-frequency telescope focal-plane system development. Development and characterization of the new superconducting detector system for LiteBIRD, JAXA’s strategic L-class mission to be launched in the late 2020s to map polarization of the Cosmic Microwave Background (CMB), is QUP’s flagship mission. We are interested in outstanding scientists who are willing to take on new challenges, with an excellent track record, international recognition, experiences and skills in astrophysics, cosmology, particle physics, superconducting sensor development, cryogenic systems, or related fields.
 
- 
+------------------------------------------------------------------------
+
+**Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022**
+
+The Simons Observatory:UK (SO:UK) project is currently recruiting for six postdoctoral positions and two software engineer positions. SO:UK is a major UK contribution to the Simons Observatory (SO) ([https://simonsobservatory.org](https://simonsobservatory.org/)) Cosmic Microwave Background project. In addition to a significant role in the SO instrumentation/infrastructure, the UK contribution includes a UK-based data centre and a program of data processing algorithm development. Both of these latter aspects are focussed on the production and delivery of the Science-Ready Data Products (SRDPs) arising from the SO observations. The available positions are as follows:  
+  
+1. Data management/data processing postdocs – Closing date: 30th September 2022
+
+There are five postdoctoral positions on offer in this area (at Manchester, Cambridge, Oxford and Imperial College London). One of these is the UK-based data centre manager role; the other four positions are to work on algorithm development and the production of the science-ready data products arising from the SO observations. There is a single application for all five positions. For further details, and to apply, see here: [https://www.jobs.manch](https://www.jobs.manch/)[https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22910](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22910)  
+  
+2. Data Centre Software Engineers – Closing date: 31st August 2022
+
+We are also seeking two software engineers to work in the data centre at Manchester. For further details, and to apply, see here:[https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22746](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22746)  
+  
+3. Postdoc/fellow in KIDs development – Closing date: 16th August 2022
+
+We are seeking a postdoc/fellow to work on Kinetic Inductance Detectors (KIDs) development at Cardiff. For further details, and to apply, see here:  
+[https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30011&siteid=5460#jobDetails=1973431_5460](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30011&siteid=5460#jobDetails=1973431_5460)
+
+------------------------------------------------------------------------
+
+**[Computational research support engineer at Princeton, until filled](https://act.princeton.edu/job-opportunities)**
+
+Princeton Research Computing are seeking to recruit a computational research support engineer to work on the [Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT) and [Simons Observatory ](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsimonsobservatory.org%2F&data=05%7C01%7Cjjupiter%40princeton.edu%7Cdc321356d980498e579008da71690c77%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637946993240525715%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2Yj32bjJQN0hlPYN9tED8cYuKmsR6bepSPl%2BzpnBA8M%3D&reserved=0)(SO) projects. These projects make high-fidelity microwave maps of half the sky, for a variety of scientific goals from probing the early universe to measuring asteroids in our solar system.
+
+The position will involve a variety of work covering aspects of delivery of data and accompanying software both internally and to the public. It will include managing data movement between HPC clusters, upkeep of modules and the database that tracks products; working with the collaborations to prepare public data deliveries, visualizations and tutorials; and installation and deployment of custom map-manipulation software. Working with ACT and SO Data Management team members including Jo Dunkley, Simone Aiola, Matthew Hasselfield, Mathew Madhavacheril, Sigurd Naess & Adri Duivenvoorden, the position will initially focus on the final data releases of the ACT project, then transition to the SO project.  
+  
+Ideal candidates will have significant experience in using Python for numerical analysis as well as data management tasks in a Unix environment, familiarity with collaborative development tools such as git and github, and significant familiarity with modern HTML and Javascript. Experience with client and server side web application frameworks is valued.
 
 ------------------------------------------------------------------------
 
