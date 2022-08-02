@@ -55,7 +55,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 -   [Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](#appphysfermi)
 -   [Computational Physics Developer for Cosmological Surveys at Fermilab, Jul 22, 2022](#physdevfermi)
 -   [Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](#itfn)
--   [Research Asst Professor at University of Chicago,  until filled](#chicago)
 -   [Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](#qup)
 -   [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
 -   [Computational research support engineer at Princeton, until filled](#princeton)
@@ -76,13 +75,7 @@ Our postdocs can benefit from strong collaborations with cosmologists, applied m
 
 ------------------------------------------------------------------------
 
-**[Research Asst Professor at University of Chicago, until filled](https://apply.interfolio.com/106884)**
-
-The Department of Astronomy & Astrophysics at The University of Chicago invites applications for a Research Assistant Professor position. The Research Assistant Professor will work in cosmic microwave background (CMB) science and contribute to the Department’s CMB research program, in particular in the operation of and analysis of data from the South Pole Telescope (SPT) and developing the design of the next-generation CMB experiment CMB-S4. The person hired will be responsible for designing and writing software to control large telescopes and in developing low-level and high-level data analysis code.
-
-The term of the appointment will be for up to three years with the possibility of renewal, and is expected to begin in summer 2022.
-
-------------------------------------------------------------------------
+ 
 
 **[Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Rubin-Observatory-LSST-Cosmological-Survey---Applications-Physicist-I_R_005716)**
 
@@ -98,7 +91,7 @@ This position is for a computational physicist to play a critical role in the op
 
 **[Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](https://www.unitn.it/en/ateneo/107285/national-phd-program-in-space-science-and-technology-sst)**
 
-The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#402e342c302c2100352e2926256e2934)).
+The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#2d4359415d414c6d5843444b48034459)).
 
 ------------------------------------------------------------------------
 
@@ -133,8 +126,8 @@ We are seeking a postdoc/fellow to work on Kinetic Inductance Detectors (KIDs) d
 
 Princeton Research Computing are seeking to recruit a computational research support engineer to work on the [Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT) and [Simons Observatory ](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsimonsobservatory.org%2F&data=05%7C01%7Cjjupiter%40princeton.edu%7Cdc321356d980498e579008da71690c77%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637946993240525715%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2Yj32bjJQN0hlPYN9tED8cYuKmsR6bepSPl%2BzpnBA8M%3D&reserved=0)(SO) projects. These projects make high-fidelity microwave maps of half the sky, for a variety of scientific goals from probing the early universe to measuring asteroids in our solar system.
 
-The position will involve a variety of work covering aspects of delivery of data and accompanying software both internally and to the public. It will include managing data movement between HPC clusters, upkeep of modules and the database that tracks products; working with the collaborations to prepare public data deliveries, visualizations and tutorials; and installation and deployment of custom map-manipulation software. Working with ACT and SO Data Management team members including Jo Dunkley, Simone Aiola, Matthew Hasselfield, Mathew Madhavacheril, Sigurd Naess & Adri Duivenvoorden, the position will initially focus on the final data releases of the ACT project, then transition to the SO project.  
-  
+The position will involve a variety of work covering aspects of delivery of data and accompanying software both internally and to the public. It will include managing data movement between HPC clusters, upkeep of modules and the database that tracks products; working with the collaborations to prepare public data deliveries, visualizations and tutorials; and installation and deployment of custom map-manipulation software. Working with ACT and SO Data Management team members including Jo Dunkley, Simone Aiola, Matthew Hasselfield, Mathew Madhavacheril, Sigurd Naess & Adri Duivenvoorden, the position will initially focus on the final data releases of the ACT project, then transition to the SO project.
+
 Ideal candidates will have significant experience in using Python for numerical analysis as well as data management tasks in a Unix environment, familiarity with collaborative development tools such as git and github, and significant familiarity with modern HTML and Javascript. Experience with client and server side web application frameworks is valued.
 
 ------------------------------------------------------------------------
