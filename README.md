@@ -62,7 +62,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [South Pole Telescope winterover, until filled](#spt)
 - [South Pole science machinist, until filled](#machinist)
-- [BICEP winterover scientist, until filled](#bicep)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 
 ------------------------------------------------------------------------
@@ -74,8 +73,6 @@ The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites 
 Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to  world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged. For more information on the CPAC group and our activities please see: <https://cpac.hep.anl.gov/>.
 
 ------------------------------------------------------------------------
-
- 
 
 **[Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Rubin-Observatory-LSST-Cosmological-Survey---Applications-Physicist-I_R_005716)**
 
@@ -91,7 +88,7 @@ This position is for a computational physicist to play a critical role in the op
 
 **[Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](https://www.unitn.it/en/ateneo/107285/national-phd-program-in-space-science-and-technology-sst)**
 
-The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#e789938b978b86a792898e8182c98e93)).
+The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#68061c04180409281d06010e0d46011c)).
 
 ------------------------------------------------------------------------
 
@@ -149,14 +146,6 @@ The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-pe
 **[South Pole station machinist, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/South-Pole-Machinist_JR15348)**
 
 The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required. The position begins 1/15/23 and ends 11/30/23.
-
-------------------------------------------------------------------------
-
-**[BICEP winterover scientist, until filled](https://hr.myu.umn.edu/psc/hrprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=347615&PostingSeq=1&)**
-
-The BICEP winter-over scientists will start work in fall 2022 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2023. Once the austral summer team leaves the site in February 2023, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
-
-The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 ------------------------------------------------------------------------
 
