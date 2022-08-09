@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](#appphysfermi)
 - [Computational Physics Developer for Cosmological Surveys at Fermilab, Jul 22, 2022](#physdevfermi)
 - [Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](#itfn)
+- [Postdoc on MKIDs at Cardiff, Aug 16, 2022](#cardiff)
 - [Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](#qup)
 - [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
 - [Computational research support engineer at Princeton, until filled](#princeton)
@@ -88,7 +89,21 @@ This position is for a computational physicist to play a critical role in the op
 
 **[Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](https://www.unitn.it/en/ateneo/107285/national-phd-program-in-space-science-and-technology-sst)**
 
-The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#91ffe5fde1fdf0d1e4fff8f7f4bff8e5)).
+The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#f19f859d819d90b1849f989794df9885)).
+
+------------------------------------------------------------------------
+
+**[Postdoc on MKIDs at Cardiff, Aug 16, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30011&siteid=5460#jobDetails=1973431_5460)**
+
+The Astronomy Instrumentation Group at Cardiff University is seeking applications to fill the position of Postdoctoral Research Assistant / Fellow.  
+  
+The successful applicant will work within the Astronomy Instrumentation Group (AIG) to work on an exciting and ambitious research programme to develop and deploy a full Microwave Kinetic Inductance Detector (MKID) based focal plane as part of the Simons Observatory. The arrays will be integrated into a full optical and cryogenic system being built at Cardiff and will be installed on the Simons Observatory’s 6-m large aperture telescope. This project will be the first deployment of Kinetic Inductance detectors in a Cosmic Microwave Background (CMB) experiment and will be used to prove and accelerate the use of this technology for future CMB applications.  
+  
+The successful applicant will work with a team of researchers developing detector technology at Cardiff as well as the wider Simon Observatory Collaboration and will contribute to the development of three MKID based multi-chroic and polarisation-sensitive detector modules totalling 5000 detectors. The successful applicant will also work closely with senior process engineers working in the new Institute for Compound Semiconductors (ICS) facility at Cardiff to develop the processing techniques and designs required to realise the MKID array architecture and meet the stringent requirements of a world-class observatory.  
+  
+This post provides a unique opportunity for the successful candidate to demonstrate work on a large-scale and prestigious project as well as creating opportunities for the deployment of MKID technology in future CMB experiments.  
+  
+Applicants can contact the PIs Dr Simon Doyle [\[email protected\]](/cdn-cgi/l/email-protection) or Prof Erminia [\[email protected\]](/cdn-cgi/l/email-protection) ahead of application and we reserve the right to close this application early.
 
 ------------------------------------------------------------------------
 
