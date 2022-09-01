@@ -52,11 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](#appphysfermi)
-- [Computational Physics Developer for Cosmological Surveys at Fermilab, Jul 22, 2022](#physdevfermi)
-- [Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](#itfn)
-- [Postdoc on MKIDs at Cardiff, Aug 16, 2022](#cardiff)
-- [Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](#qup)
 - [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
@@ -72,46 +67,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with some flexibility) of January 3, 2023,  is renewable annually for up to three years based on satisfactory performance.
 
 Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to  world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged. For more information on the CPAC group and our activities please see: <https://cpac.hep.anl.gov/>.
-
-------------------------------------------------------------------------
-
-**[Applications Physicist for Cosmological Surveys at Fermilab, Jul 22, 2022](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Rubin-Observatory-LSST-Cosmological-Survey---Applications-Physicist-I_R_005716)**
-
-This position is for an astronomer/physicist to play a critical role in the reduction of the data of LSST. The position entails working with the interim data facility on a Google Cloud platform and with the United States Data Facility (USDF) at SLAC National Laboratory, using workflows for the data reduction that span the USDF, the UK Data Facility and the France Data Facility. For the right candidate there are options to extend your responsibilities to survey strategy and progress metrics and/or to the DESC data production at the National Energy Research Scientific Computing Center (NERSC). If you come from a physics background, we want to hear about data processing across multiple sites, the grid, or the cloud, about getting databases connected to processing, about data movement, about how you managed large campaigns of simulations or processing. If you are from an astrophysical background, we want to hear about experience in large surveys, about how you dealt with data flow from the telescope to the scientist, about databases and reduction software, how you work in large, distributed teams, and how fast you learn unfamiliar software systems that perform the astronomy you do understand. The position comes with a 20% research fraction for the time spent on Rubin operations.
-
-------------------------------------------------------------------------
-
-**[Computational Physics Developer for Cosmological Surveys at Fermilab, Jul 22, 2022](https://fermilab.wd5.myworkdayjobs.com/en-US/FermilabCareers/details/Rubin-Observatory-LSST-Cosmological-Survey---Applications-Physicist-I_R_005716)**
-
-This position is for a computational physicist to play a critical role in the operation of the Rubin Observatory United States Data Facility and the software that supports the LSST data production. The position entails working with specialized large scale data movement system Rucio (developed at CERN), combining it with the Rubin developed Butler metadata catalog and its Postgresql backend, to develop the system to handle data movement for production and the transport of metadata about the production back into the Butler. The role involves developing software for the management and tracking of campaigns of production for the yearly data releases. Expertise in Kubernetes systems and the deployment of infrastructure using infrastructure as code technologies such as Puppet or Terraform is part of the job of ensuring the distributed production system is ready for the differing needs of Rucio, the Butler, and production with the LSST software stack. The job is to make sure the complicated systems function for the data production scientists to move the campaigns of data through the system.
-
-------------------------------------------------------------------------
-
-**[Italian PhD Course on Space Science and Technology – positions available at the University of Ferrara and SISSA, Aug 8, 2022](https://www.unitn.it/en/ateneo/107285/national-phd-program-in-space-science-and-technology-sst)**
-
-The Italian Ministry of University has started a new national PhD program on Space Science and Technology. The program includes a Curriculum dedicated to Observations of the Universe, which includes the Cosmic Microwave Background (CMB) future probes. The University of Ferrara ([www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca/](https://www.fe.infn.it/cosmologia/index.php/attivita-di-ricerca)) and the International School for Advanced Studies (SISSA, [www.sissa.it/ap](http://www.sissa.it/ap) ) stimulate the application of candidates in relation to the preparatory work concerning the cosmological programs LiteBIRD, Euclid, Stage-IV, Simons Observatory, Legacy of Planck. The call will be issued officially on July 8^(th) and applications will be accepted till August 8th, for  The procedures for application will be appearing at this [link](https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst "https://www.unitn.it/en/ateneo/107285/national-doctoral-programme-in-space-science-and-technology-sst"). For further information, please contact Carlo Baccigalupi ([\[email protected\]]()) and Paolo Natoli ([\[email protected\]](/cdn-cgi/l/email-protection#3759435b475b567742595e5152195e43)).
-
-------------------------------------------------------------------------
-
-**[Postdoc on MKIDs at Cardiff, Aug 16, 2022](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30011&siteid=5460#jobDetails=1973431_5460)**
-
-The Astronomy Instrumentation Group at Cardiff University is seeking applications to fill the position of Postdoctoral Research Assistant / Fellow.  
-  
-The successful applicant will work within the Astronomy Instrumentation Group (AIG) to work on an exciting and ambitious research programme to develop and deploy a full Microwave Kinetic Inductance Detector (MKID) based focal plane as part of the Simons Observatory. The arrays will be integrated into a full optical and cryogenic system being built at Cardiff and will be installed on the Simons Observatory’s 6-m large aperture telescope. This project will be the first deployment of Kinetic Inductance detectors in a Cosmic Microwave Background (CMB) experiment and will be used to prove and accelerate the use of this technology for future CMB applications.  
-  
-The successful applicant will work with a team of researchers developing detector technology at Cardiff as well as the wider Simon Observatory Collaboration and will contribute to the development of three MKID based multi-chroic and polarisation-sensitive detector modules totalling 5000 detectors. The successful applicant will also work closely with senior process engineers working in the new Institute for Compound Semiconductors (ICS) facility at Cardiff to develop the processing techniques and designs required to realise the MKID array architecture and meet the stringent requirements of a world-class observatory.  
-  
-This post provides a unique opportunity for the successful candidate to demonstrate work on a large-scale and prestigious project as well as creating opportunities for the deployment of MKID technology in future CMB experiments.  
-  
-Applicants can contact the PIs Dr Simon Doyle [\[email protected\]](/cdn-cgi/l/email-protection) or Prof Erminia [\[email protected\]](/cdn-cgi/l/email-protection) ahead of application and we reserve the right to close this application early.
-
-------------------------------------------------------------------------
-
-**[Asst/Assoc Professorship in experimental astrophysics and cosmology at QUP/KEK, Jul 31, 2022](https://academicjobsonline.org/ajo/jobs/21845)**
-
-We seek a candidate at the rank of Associate Professor or Assistant Professor in experimental astrophysics and cosmology. The position is for five years with the possibility of renewal or promotion to a tenured position based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salary is comparable to those at other prestigious institutions. The appointee will receive financial support for starting-up research. 
-
-The appointee will work with Professor Masashi Hazumi and the LiteBIRD team, and will serve as the project manager for the LiteBIRD low-frequency telescope focal-plane system development. Development and characterization of the new superconducting detector system for LiteBIRD, JAXA’s strategic L-class mission to be launched in the late 2020s to map polarization of the Cosmic Microwave Background (CMB), is QUP’s flagship mission. We are interested in outstanding scientists who are willing to take on new challenges, with an excellent track record, international recognition, experiences and skills in astrophysics, cosmology, particle physics, superconducting sensor development, cryogenic systems, or related fields.
 
 ------------------------------------------------------------------------
 
