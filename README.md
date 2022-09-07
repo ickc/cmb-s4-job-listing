@@ -53,11 +53,10 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
+- [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
-- [South Pole Telescope winterover, until filled](#spt)
-- [South Pole science machinist, until filled](#machinist)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 
 ------------------------------------------------------------------------
@@ -67,6 +66,16 @@ This page is for advertising positions related to CMB research broadly defined, 
 The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with some flexibility) of January 3, 2023,  is renewable annually for up to three years based on satisfactory performance.
 
 Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to  world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged. For more information on the CPAC group and our activities please see: <https://cpac.hep.anl.gov/>.
+
+------------------------------------------------------------------------
+
+**[Postdoc fellowships at Kavli IPMU, Dec 1, 2022](https://jobregister.aas.org/ad/e8f09060)**
+
+The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) invites applications for the Kavli IPMU postdoctoral fellowship program. We intend to appoint several positions in astrophysics and cosmology with 3-year terms.
+
+The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Rubin Observatory, Simons Observatory, CMB-S4, the LiteBIRD satellite, and COSI (MeV) NASA mission.
+
+Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy/quasar evolution, transients (supernova), numerical simulations, cosmic baryon census with FRBs, high-energy astrophysics, and astroparticle physics. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
 
 ------------------------------------------------------------------------
 
@@ -104,18 +113,6 @@ Ideal candidates will have significant experience in using Python for numerical 
 The Department of Astronomy & Astrophysics at the University of Chicago invites applications for the position of Research Scientist, working in Associate Professor Jeff McMahon’s lab. The primary responsibility for this position involves day-to-day management of the development and fabrication of a novel anti-reflection coating for Cosmic Microwave Background (CMB) instruments in the metamaterial laboratory at the Fermi National Accelerator Laboratory. Duties will include developing and optimizing the process and workflow, ensuring the design, fabrication, and testing of these optics meet the requirements. The Research Scientist will participate directly in this operation through calculations, fabrication, measurements, and analysis, as well as support the PI with mentorship of researchers who will collaborate on the project.
 
 The Research Scientist will also have opportunities to collaborate more broadly in Simons Observatory and other CMB projects. This work could involve instrument development, instrument testing, calibration, and data analysis. The Research Scientist is expected to give public presentations at conferences and help prepare grants and reports on their research.
-
-------------------------------------------------------------------------
-
-**[South Pole Telescope winterover, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR15347-1)**
-
-The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months, is required. The position begins in November 2022 and ends in November 2023.
-
-------------------------------------------------------------------------
-
-**[South Pole station machinist, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/South-Pole-Machinist_JR15348)**
-
-The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required. The position begins 1/15/23 and ends 11/30/23.
 
 ------------------------------------------------------------------------
 
