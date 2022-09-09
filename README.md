@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
+- [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 
@@ -66,6 +67,14 @@ This page is for advertising positions related to CMB research broadly defined, 
 The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with some flexibility) of January 3, 2023,  is renewable annually for up to three years based on satisfactory performance.
 
 Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to  world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged. For more information on the CPAC group and our activities please see: <https://cpac.hep.anl.gov/>.
+
+------------------------------------------------------------------------
+
+**[Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](https://academicjobsonline.org/ajo/jobs/22482)**
+
+The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
+
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#9cfff3f2f2f3f0f0e5dcecf4e5eff5ffefb2f3efe9b2f9f8e9).
 
 ------------------------------------------------------------------------
 
