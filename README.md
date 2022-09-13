@@ -28,7 +28,7 @@ CMB-S4 Next Generation CMB Experiment
   - [Job listings](https://cmb-s4.org/team/job-postings/)
 - [/ outreach /](https://cmb-s4.org/outreach/)
   - [overview](https://cmb-s4.org/outreach/)
-  - [upcoming events](https://cmb-s4.org/outreach/upcoming-events/)
+  - [Upcoming Events](https://cmb-s4.org/outreach/upcoming-events/)
   - [past events](https://cmb-s4.org/outreach/past-events/)
   - [events calendar](https://cmb-s4.org/outreach/events-calendar/)
   - [parents](https://cmb-s4.org/outreach/parents/)
@@ -74,7 +74,7 @@ Our postdocs can benefit from strong collaborations with cosmologists, applied m
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#ec8f83828283808095ac9c84959f858f9fc2839f99c2898899).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#5b38343535343737221b2b3322283238287534282e753e3f2e).
 
 ------------------------------------------------------------------------
 
