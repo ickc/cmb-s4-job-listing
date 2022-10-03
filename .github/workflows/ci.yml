@@ -9,24 +9,11 @@ on:
 jobs:
   ci:
     runs-on: ubuntu-latest
-    strategy:
-      fail-fast: false
-      matrix:
-        pandoc-version:
-          - latest
 
     steps:
     - name: Checkout
       uses: actions/checkout@v2
-    - name: Install dependencies—pandoc
-      run: |
-        # pandoc
-        [[ ${{ matrix.pandoc-version }} == "latest" ]] && url="https://github.com/jgm/pandoc/releases/latest" || url="https://github.com/jgm/pandoc/releases/tag/${{ matrix.pandoc-version }}"
-        downloadUrl="https://github.com$(curl -L $url | grep -o '/jgm/pandoc/releases/download/.*-amd64\.deb')"
-        wget --quiet "$downloadUrl"
-        filename="${downloadUrl##*/}"
-        sudo dpkg -i "$filename"
-        rm -f "$filename"
+    - uses: nikeee/setup-pandoc@v1
     - name: download README.md
       run: make README.md -B
     - name: Commit changes
