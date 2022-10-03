@@ -53,20 +53,46 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
+- [Kavli Institute Fellowships at Cambridge, Oct 24, 2022](#cambridge)
+- [Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022](#chicago)
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [Computational research support engineer at Princeton, until filled](#princeton)
-- [Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](#argonne)
+- [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 
 ------------------------------------------------------------------------
 
-**[Postdoc in Galaxy Cluster Cosmology at Argonne, Aug 1, 2022, until filled](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Associate--CPAC_413433)**
+**[Kavli Institute Fellowships at Cambridge, Oct 24, 2022](https://jobregister.aas.org/ad/eb2fffd8)**
 
-The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with some flexibility) of January 3, 2023,  is renewable annually for up to three years based on satisfactory performance.
+The Kavli Institute for Cosmology, Cambridge, is offering one or more Kavli Fellowships in Cosmology and Astrophysics.
 
-Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to  world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged. For more information on the CPAC group and our activities please see: <https://cpac.hep.anl.gov/>.
+Applicants must have a PhD in Astrophysics or a related field, or have submitted their PhD thesis by the start date of the fellowship. We welcome applications from observers and theorists with interests relevant to one or more of the scientific themes of the Kavli Institute (see http://www.kicc.cam.ac.uk), i.e., the cosmic microwave background and the early Universe, the formation and evolution of galaxies and of supermassive black holes, the epoch of cosmic reionization, evolution of the intergalactic medium, the nature of dark matter, large-scale structure and precision cosmology, and gravitational waves.
+
+------------------------------------------------------------------------
+
+**Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022**
+
+[KICP Fellowship](https://kicp-fellowship.uchicago.edu/) (Deadline Oct 31) – KICP is an interdisciplinary environment that brings together physicists and astronomers ranging from experimentalists to observers, simulators, and theorists, to stimulate new ideas and push the forefront of cosmological research. Areas of active study include (but are not limited to) theoretical cosmology theory, observational cosmology, particle astrophysics, dark matter searches, and instrumentation.
+
+[Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) (Deadline Oct 31) – Open to all areas of astronomy and astrophysics including theory, simulation, observation, and instrumentation. Areas of active study include (but are not limited to) exoplanets, Galactic and extragalactic astronomy, high-energy astrophysics, cosmology, and computational astrophysics.
+
+[Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program) (Deadline Nov 3) – Open to all areas of astronomy and astrophysics, but with a focus on supporting research in observational cosmology, particularly complementing and capitalizing on space science, including topics such as the first stars, the cosmic distance scale, and the development of large-scale structure. The Brinson Prize Fellowship can be taken to one of four institutions including UChicago.
+
+[The Enrico Fermi, Robert R. McCormick, & Mafalda and Reinhard Oehme Postdoctoral Research Fellowships](https://academicjobsonline.org/ajo/jobs/22604) (Deadline Nov 6) The Enrico Fermi Institute is an interdisciplinary research unit encompassing topics including: string theory and theoretical high-energy physics, experimental high-energy physics, theoretical astrophysics and cosmology, experimental particle astrophysics, infrared and optical astronomy, cosmic microwave background observations, general relativity and gravitational waves, and cosmochemistry.
+
+[Instrumentation Postdoc](https://academicjobsonline.org/ajo/jobs/22567) (Deadline Oct 31) – This is a position working with Alex Drlica-Wagner and the instrumentation groups at UChicago and Fermilab to demonstrate the capabilities of novel ultra-low noise Skipper CCDs for applications in optical/near-infrared astronomy with future NASA/DOE missions. The position will involve a combination of laboratory testing, instrument construction, and data collection/analysis using the SOAR Integral Field Spectrograph.
+
+------------------------------------------------------------------------
+
+**[Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022, until filled](https://jobregister.aas.org/ad/f68292d1)**
+
+Applications are invited for post-doctoral positions in the Cosmological Physics and Advanced Computing Group (CPAC) Group in Argonne National Laboratory’s High Energy Physics Division. Cosmological research within CPAC covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, redshift-space distortions, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two. Applicants for group-wide positions will be automatically be considered for an additional open position working with Andrew Hearin on forward-modeling galaxy SEDs and the galaxy–halo connection, and Lindsey Bleem on galaxy cluster cosmology; applicants with particular interest in these research areas are encouraged to reach out directly to Hearin and Bleem, respectively.
+
+Staff members include Matt Becker, Amy Bender, Lindsey Bleem, Clarence Chang, JD Emberson, Salman Habib, Katie Harrington, Andrew Hearin, Katrin Heitmann, Eve Kovacs, Patricia Larsen, Adrian Pope, Nesar Ramachandra, Esteban Rangel, and Gensheng Wang. Current postdocs are Alex Alarcon, Michael Buehlmann, Nicholas Frontiere, Riccardo Gualtieri, Florian Keruzore, Zhaodi Pan, Markus Rau, and Gillian Beltz-Mohrmann; the group also includes a number of graduate and undergraduate students.
+
+Postdocs can benefit from strong collaborations with applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to state-of-the-art microfabrication facilities and world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged.
 
 ------------------------------------------------------------------------
 
@@ -74,7 +100,7 @@ Our postdocs can benefit from strong collaborations with cosmologists, applied m
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#fa9995949495969683ba8a928389939989d495898fd49f9e8f).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#3a59555454555656437a4a5243495359491455494f145f5e4f).
 
 ------------------------------------------------------------------------
 
