@@ -52,10 +52,13 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022](#souk)
 - [Kavli Institute Fellowships at Cambridge, Oct 24, 2022](#cambridge)
 - [Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022](#chicago)
+- [Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](#expaustin)
+- [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](#schramm)
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
+- [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
+- [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
@@ -86,6 +89,44 @@ Applicants must have a PhD in Astrophysics or a related field, or have submitted
 
 ------------------------------------------------------------------------
 
+**[Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](https://academicjobsonline.org/ajo/jobs/23091)**
+
+A postdoctoral position in experimental cosmology is available within the Department of Physics at the University of Texas at Austin. Candidates with experience in experimental physics or astrophysics are encouraged to apply. Particular areas of interest include millimeter/submillimeter optical metrology, cryogenics, instrument field-deployment, and balloon-borne experiments. The position will involve a combination of laboratory testing, instrument design and fabrication, and data collection/analysis.
+
+The successful candidate will work with Prof. Nicholas Galitzki on one of several projects: \* Development of the cryogenic camera, optical system, and associated metrology techniques for the proposed Balloon-borne Large Aperture Submillimeter Telescope Observatory (BLAST-Obs). \* Research opportunities within the CMB-S4 collaboration, specifically with the small aperture telescope design and associated technologies. \* Research focused on the implementation of the Simons Observatory small aperture telescope field calibration and the development of the associated pipeline and analysis software using data from on-site calibration and observations.
+
+------------------------------------------------------------------------
+
+**[David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](https://academicjobsonline.org/ajo/jobs/23080)**
+
+Fermilab is pleased to invite applications for the David N. Schramm Postdoctoral Fellowship in experimental particle astrophysics and cosmology.
+
+The Schramm Fellowship is aimed at recent PhD recipients with a proven research record and prior experience in experimental particle astrophysics, cosmology, or closely related fields. This position provides the opportunity to bridge existing experimental efforts and participate in the development of new experimental projects. The successful candidate is expected to do original research that will capitalize on the scientific, computing, engineering, and technical expertise available at Fermilab.
+
+The successful candidate will be hosted by the Fermilab Cosmic Physics Center (FCPC). The FCPC plays a critical role in a wide range of experimental efforts in the disciplines of dark energy (DES, DESI, and Rubin LSST), cosmic microwave background (SPT-3G and CMB- S4), and dark matter direct detection (ADMX, SuperCDMS, SENSEI, and Oscura), as well as hosting an active group in theoretical astrophysics and cosmology. The Schramm Fellowship provides the opportunity to participate in the development of new projects targeting dark energy, dark matter, early-universe physics, and related detector R&D leveraging the strengths of Fermilab.
+
+------------------------------------------------------------------------
+
+**[TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](https://academicjobsonline.org/ajo/fellowship/23069)**
+
+The newly established Texas Center for Cosmology and Astroparticle Physics (TCCAP) at The University of Texas at Austin invites applications for its first TCCAP Postdoctoral Fellowships, to start September 2023. The initial appointments are for two years, extendable to a third year, subject to availability of funding and satisfactory performance.
+
+We anticipate 2 to 3 Fellowships in the area of theoretical cosmology, astrophysics, or astroparticle physics (e.g. dark matter, CMB, structure formation, galaxy formation, cosmic dawn, and the 21-cm background). One Fellow will be hired to work in Prof. Kimberly Boddy’s group, and another will be hired to work in Prof. Julian Muñoz’s group. There may be available funding for a separate third Fellowship. Contact Kimberly Boddy and Julian Muñoz ([\[email protected\]](/cdn-cgi/l/email-protection), [\[email protected\]](/cdn-cgi/l/email-protection)) for questions about these positions.
+
+All TCCAP Fellows will benefit from interaction with TCCAP faculty (Kimberly Boddy, Mike Boylan-Kolchin, Volker Bromm, Katherine Freese, Nicholas Galitzki, Julian Muñoz, and Paul Shapiro) and join the excitement of a broad community of active researchers in cosmology and related physics and astrophysics, with additional members of the Physics and Astronomy Departments, including the Weinberg Theory Group, the Center for Gravitational Physics, and McDonald Observatory. Fellows will also have access to the world-class supercomputing facilities of the Texas Advanced Computing Center (TACC).
+
+------------------------------------------------------------------------
+
+**[TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](https://academicjobsonline.org/ajo/fellowship/23072)**
+
+The newly-established Texas Center for Cosmology and Astroparticle Physics (TCCAP) at The University of Texas at Austin invites applications for one of the inaugural TCCAP Postdoctoral Fellowships, to start September 2023. The candidate will be expected to play a leading role in early cosmological analysis of data from the Simons Observatory (SO), while being involved with other science of similar nature, such as learning about cosmology from a combination of large scale structure and CMB data. The initial appointment is for two years, extendable to a third year, subject to availability of funding and satisfactory performance.
+
+The Fellow will be hired to work in close collaboration with Profs. Katherine Freese and Nicholas Galitzki.
+
+All TCCAP Fellows will benefit from close interaction with TCCAP faculty (Kimberly Boddy, Mike Boylan-Kolchin, Volker Bromm, Katherine Freese, Nicholas Galitzki, Julian Muñoz, and Paul Shapiro) and join the excitement of a broad community of active researchers in cosmology and related physics and astrophysics, with additional members of the Physics and Astronomy Departments, including the Weinberg Theory Group, the Center for Gravitational Physics, and McDonald Observatory. Fellows will also have access to the world-class supercomputing facilities of the Texas Advanced Computing Center (TACC).
+
+------------------------------------------------------------------------
+
 **[Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022, until filled](https://jobregister.aas.org/ad/f68292d1)**
 
 Applications are invited for post-doctoral positions in the Cosmological Physics and Advanced Computing Group (CPAC) Group in Argonne National Laboratory’s High Energy Physics Division. Cosmological research within CPAC covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, redshift-space distortions, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two. Applicants for group-wide positions will be automatically be considered for an additional open position working with Andrew Hearin on forward-modeling galaxy SEDs and the galaxy–halo connection, and Lindsey Bleem on galaxy cluster cosmology; applicants with particular interest in these research areas are encouraged to reach out directly to Hearin and Bleem, respectively.
@@ -100,7 +141,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#b0d3dfdededfdcdcc9f0c0d8c9c3d9d3c39edfc3c59ed5d4c5).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#53303c3d3d3c3f3f2a13233b2a203a30207d3c20267d363726).
 
 ------------------------------------------------------------------------
 
@@ -111,25 +152,6 @@ The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)
 The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Rubin Observatory, Simons Observatory, CMB-S4, the LiteBIRD satellite, and COSI (MeV) NASA mission.
 
 Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy/quasar evolution, transients (supernova), numerical simulations, cosmic baryon census with FRBs, high-energy astrophysics, and astroparticle physics. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
-
-------------------------------------------------------------------------
-
-**Multiple roles at Simons Observatory: UK, Aug 16 – Sep 30, 2022**
-
-The Simons Observatory:UK (SO:UK) project is currently recruiting for six postdoctoral positions and two software engineer positions. SO:UK is a major UK contribution to the Simons Observatory (SO) ([https://simonsobservatory.org](https://simonsobservatory.org/)) Cosmic Microwave Background project. In addition to a significant role in the SO instrumentation/infrastructure, the UK contribution includes a UK-based data centre and a program of data processing algorithm development. Both of these latter aspects are focussed on the production and delivery of the Science-Ready Data Products (SRDPs) arising from the SO observations. The available positions are as follows:  
-  
-1. Data management/data processing postdocs – Closing date: 30th September 2022
-
-There are five postdoctoral positions on offer in this area (at Manchester, Cambridge, Oxford and Imperial College London). One of these is the UK-based data centre manager role; the other four positions are to work on algorithm development and the production of the science-ready data products arising from the SO observations. There is a single application for all five positions. For further details, and to apply, see here: [https://www.jobs.manch](https://www.jobs.manch/)[https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22910](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22910)  
-  
-2. Data Centre Software Engineers – Closing date: 31st August 2022
-
-We are also seeking two software engineers to work in the data centre at Manchester. For further details, and to apply, see here:[https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22746](https://www.jobs.manchester.ac.uk/displayjob.aspx?jobid=22746)  
-  
-3. Postdoc/fellow in KIDs development – Closing date: 16th August 2022
-
-We are seeking a postdoc/fellow to work on Kinetic Inductance Detectors (KIDs) development at Cardiff. For further details, and to apply, see here:  
-[https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30011&siteid=5460#jobDetails=1973431_5460](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30011&siteid=5460#jobDetails=1973431_5460)
 
 ------------------------------------------------------------------------
 
@@ -163,5 +185,7 @@ We seek candidates with experience in instrumentation development, and/or data a
 Candidates with prior expertise in low temperature detectors and readout are particularly encouraged to apply.  Candidates interested in science analyses from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
 
 For further information regarding the positions, please contact [Dr. Zeeshan Ahmed](https://kipac.stanford.edu/people/zeeshan-ahmed) and [Dr. Shawn Henderson](https://kipac.stanford.edu/people/shawn-wesley-henderson). Additionally, several staff scientists and faculty are available to advise on this and related opportunities at KIPAC: [Dr. Kimmy Wu](https://kipac.stanford.edu/people/wl-kimmy-wu), [Dr. Noah Kurinsky](https://kipac.stanford.edu/people/noah-kurinsky-0), [Professor Chao-Lin Kuo](https://kipac.stanford.edu/people/chao-lin-kuo), and [Professor Kent Irwin](https://kipac.stanford.edu/people/kent-irwin).
+
+ 
 
 Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
