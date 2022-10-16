@@ -59,6 +59,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
 - [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
+- [Staff scientist (career-track or career) at LBNL, Dec 1, 2022](#lbnl)
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
@@ -127,6 +128,16 @@ All TCCAP Fellows will benefit from close interaction with TCCAP faculty (Kimber
 
 ------------------------------------------------------------------------
 
+**[Staff scientist (career-track or career) at LBNL, Dec 1, 2022](https://academicjobsonline.org/ajo/jobs/23217)**
+
+The Physics Division at Lawrence Berkeley National Laboratory (LBNL) invites applications from scientists with a record of substantial accomplishment and creative ability for one or more Staff Scientist positions in the Cosmic Microwave Background (CMB) experimental group. The appointment may be either career-track or career, depending on seniority. The career-track Staff Scientist position is a five-year appointment with the expectation of promotion to a career position as Staff Scientist. Applicants should have demonstrated leadership and original achievements in research. We welcome all applicants with exceptional promise to advance the art of experimentation in CMB science; expertise in instrumentation, especially related to the design, construction and operation of microwave telescopes, optics, detectors, readout and related technologies is desirable.
+
+The Fellow will be hired to work in close collaboration with Profs. Katherine Freese and Nicholas Galitzki.
+
+The Staff Scientist is expected to play a leading role in her/his scientific field and will be encouraged to contribute to research that may enable transformational advances or new opportunities in LBNL’s CMB research program and beyond. LBNL has a long tradition of pioneering work developing new detectors, devices, and methods for fundamental physics. LBNL is the lead laboratory of the CMB-S4 project (https://cmb-s4.org) for the roles and responsibilities of the Department of Energy. CMB-S4 is a next generation experiment with multiple telescopes and 500,000 cryogenic superconducting detectors with the potential to transform the field.
+
+------------------------------------------------------------------------
+
 **[Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022, until filled](https://jobregister.aas.org/ad/f68292d1)**
 
 Applications are invited for post-doctoral positions in the Cosmological Physics and Advanced Computing Group (CPAC) Group in Argonne National Laboratory’s High Energy Physics Division. Cosmological research within CPAC covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, redshift-space distortions, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two. Applicants for group-wide positions will be automatically be considered for an additional open position working with Andrew Hearin on forward-modeling galaxy SEDs and the galaxy–halo connection, and Lindsey Bleem on galaxy cluster cosmology; applicants with particular interest in these research areas are encouraged to reach out directly to Hearin and Bleem, respectively.
@@ -141,7 +152,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#88ebe7e6e6e7e4e4f1c8f8e0f1fbe1ebfba6e7fbfda6edecfd).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#2b48444545444747526b5b4352584248580544585e054e4f5e).
 
 ------------------------------------------------------------------------
 
