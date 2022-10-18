@@ -63,6 +63,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
+- [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 
@@ -152,7 +153,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#6a09050404050606132a1a0213190309194405191f440f0e1f).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#bbd8d4d5d5d4d7d7c2fbcbd3c2c8d2d8c895d4c8ce95dedfce).
 
 ------------------------------------------------------------------------
 
@@ -163,6 +164,14 @@ The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)
 The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Rubin Observatory, Simons Observatory, CMB-S4, the LiteBIRD satellite, and COSI (MeV) NASA mission.
 
 Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy/quasar evolution, transients (supernova), numerical simulations, cosmic baryon census with FRBs, high-energy astrophysics, and astroparticle physics. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
+
+------------------------------------------------------------------------
+
+**[Asst Professor in Physics (Astrophysics/Cosmology) at Southern Methodist University, Dec 15, 2022](https://jobregister.aas.org/ad/7d0c5d78)**
+
+The Department of Physics at Southern Methodist University invites applications for a tenure-track faculty position in the area of Astrophysics or Cosmology, broadly defined. While an appointment at the rank of tenure-track Assistant Professor is anticipated, extraordinary candidates at all levels will be considered. Candidates must have a Ph.D. in physics, astronomy, or a closely related field; postdoctoral experience; and a record of research excellence. The successful candidate will develop a vigorous research program, supervise graduate students, and teach at both undergraduate and graduate levels. Faculty are expected to teach and mentor diverse students within the Physics program and throughout the University. The appointment will start in August 2023 or later.
+
+Southern Methodist University is a research intensive, private university centrally located in Dallas, Texas. Current research in the Department of Physics at SMU focuses on the fields of observational and theoretical astrophysics and cosmology, especially in the areas of supermassive black holes, supernovae, early universe cosmology, and large-scale structure. SMU faculty are deeply engaged in DESI, Simons Observatory, and CMB-S4. The department also features strong research programs in experimental and theoretical particle physics. The Department of Physics aims to provide a collegial scientific community with equitable access and participation for all individuals and groups, and recognizes the value of this participation to the quality of our research.
 
 ------------------------------------------------------------------------
 
