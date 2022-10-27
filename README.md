@@ -63,6 +63,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
+- [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
@@ -153,7 +154,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#88ebe7e6e6e7e4e4f1c8f8e0f1fbe1ebfba6e7fbfda6edecfd).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#7a19151414151616033a0a1203091319095415090f541f1e0f).
 
 ------------------------------------------------------------------------
 
@@ -164,6 +165,14 @@ The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)
 The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Rubin Observatory, Simons Observatory, CMB-S4, the LiteBIRD satellite, and COSI (MeV) NASA mission.
 
 Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy/quasar evolution, transients (supernova), numerical simulations, cosmic baryon census with FRBs, high-energy astrophysics, and astroparticle physics. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
+
+------------------------------------------------------------------------
+
+**[Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](https://theapplicantmanager.com/jobs?pos=sm107&fs=1.0em)**
+
+The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. Our group is committed to providing a welcoming and vibrant intellectual environment for all. We are particularly interested in candidates who are underrepresented minorities and in candidates who will foster a commitment to improving diversity, equity, and inclusion in the department.  
+  
+The postdoctoral researcher will play a major role in the development of infrastructure for analysis of CMB data from the Simons Observatory and will also have the opportunity to participate in analysis efforts within the Atacama Cosmology Telescope (ACT) collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST.  The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure as well as those working on galaxy surveys like DES.  Candidates with at least one year of prior experience in CMB analysis will be strongly preferred.
 
 ------------------------------------------------------------------------
 
