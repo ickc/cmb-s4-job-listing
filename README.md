@@ -52,7 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Kavli Institute Fellowships at Cambridge, Oct 24, 2022](#cambridge)
 - [Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022](#chicago)
 - [Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](#expaustin)
 - [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](#schramm)
@@ -65,16 +64,9 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
 - [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
+- [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
-
-------------------------------------------------------------------------
-
-**[Kavli Institute Fellowships at Cambridge, Oct 24, 2022](https://jobregister.aas.org/ad/eb2fffd8)**
-
-The Kavli Institute for Cosmology, Cambridge, is offering one or more Kavli Fellowships in Cosmology and Astrophysics.
-
-Applicants must have a PhD in Astrophysics or a related field, or have submitted their PhD thesis by the start date of the fellowship. We welcome applications from observers and theorists with interests relevant to one or more of the scientific themes of the Kavli Institute (see http://www.kicc.cam.ac.uk), i.e., the cosmic microwave background and the early Universe, the formation and evolution of galaxies and of supermassive black holes, the epoch of cosmic reionization, evolution of the intergalactic medium, the nature of dark matter, large-scale structure and precision cosmology, and gravitational waves.
 
 ------------------------------------------------------------------------
 
@@ -154,7 +146,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#0b68646565646767724b7b6372786268782564787e256e6f7e).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#4625292828292a2a3f06362e3f352f25356829353368232233).
 
 ------------------------------------------------------------------------
 
@@ -191,6 +183,19 @@ Princeton Research Computing are seeking to recruit a computational research su
 The position will involve a variety of work covering aspects of delivery of data and accompanying software both internally and to the public. It will include managing data movement between HPC clusters, upkeep of modules and the database that tracks products; working with the collaborations to prepare public data deliveries, visualizations and tutorials; and installation and deployment of custom map-manipulation software. Working with ACT and SO Data Management team members including Jo Dunkley, Simone Aiola, Matthew Hasselfield, Mathew Madhavacheril, Sigurd Naess & Adri Duivenvoorden, the position will initially focus on the final data releases of the ACT project, then transition to the SO project.
 
 Ideal candidates will have significant experience in using Python for numerical analysis as well as data management tasks in a Unix environment, familiarity with collaborative development tools such as git and github, and significant familiarity with modern HTML and Javascript. Experience with client and server side web application frameworks is valued.
+
+------------------------------------------------------------------------
+
+**[BICEP/Keck postdoc at the University of Minnesota, until filled](https://hr.myu.umn.edu/psc/hrprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=352381&PostingSeq=1&)**
+
+The researcher will work with Prof. Pryke on the BICEP/Keck experiements. These are state of the art Cosmic Microwave Background polarimeters located at the South Pole in Antarctica. Over the past decade these experiments have recorded large amounts of data. The analysis of this data through to publishable scientific results is an enormous effort, and a collaborative enterprise. The collaboration consists of UMN, Harvard, Caltech and Stanford.  
+  
+Job Duties with percentages  
+The researcher’s duties will include the following:  
+15% Hardware and instrument development work in the lab at UMN or at collaborating institutions.  
+25% Deployment to South Pole in Antarctica to install, upgrade, integrate, comission and calibrate the BICEP/Keck experiments on site.  
+50% Developing and running the BICEP/Keck data analysis pipeline from raw data through to final science results. Internal documentation of this work and participation in regular meetings related to it, both in person and online.  
+10% Mentoring of undergraduates or graduate students on the above projects related to the UMN BICEP/Keck group.
 
 ------------------------------------------------------------------------
 
