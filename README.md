@@ -59,6 +59,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
 - [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
 - [Staff scientist (career-track or career) at LBNL, Dec 1, 2022](#lbnl)
+- [Asst professor in theoretical cosmology at Boston Univ., Dec 1, 2022](#boston)
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
@@ -132,6 +133,16 @@ The Staff Scientist is expected to play a leading role in her/his scientific fie
 
 ------------------------------------------------------------------------
 
+**[Asst professor in theoretical cosmology at Boston Univ., Dec 1, 2022](https://academicjobsonline.org/ajo/jobs/22339)**
+
+The Department of Physics at Boston University seeks applications for a tenure track Assistant Professor position in Theoretical Cosmology, to begin on July 1, 2023. This position is one of a number of positions that will be associated with a new Cosmology Initiative involving the Department of Physics and the Department of Astronomy (see also https://academicjobsonline.org/ajo/jobs/22338). Searches to fill the first two positions are being carried out in AY22/23, and a search to fill a third position is anticipated for AY23/24.
+
+Applications are sought from researchers in all areas of theoretical cosmology, including those whose broad approach is at the intersection of cosmology, quantum field theory, and particle physics. The successful candidates will be early-career scientists who will lead robust research programs and participate fully in the teaching missions at the introductory, majors, and graduate levels in the Astronomy or Physics departments.
+
+The Physics Department are committed to valuing the principles of inclusion, equity, and diversity in all academic and research settings at Boston University through building a collegial and supportive community of scholars and students. Inquiries may be directed to Academic Administrator Robyn Kinch ([\[email protected\]](/cdn-cgi/l/email-protection)), Department of Physics.
+
+------------------------------------------------------------------------
+
 **[Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022, until filled](https://jobregister.aas.org/ad/f68292d1)**
 
 Applications are invited for post-doctoral positions in the Cosmological Physics and Advanced Computing Group (CPAC) Group in Argonne National Laboratory’s High Energy Physics Division. Cosmological research within CPAC covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, redshift-space distortions, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two. Applicants for group-wide positions will be automatically be considered for an additional open position working with Andrew Hearin on forward-modeling galaxy SEDs and the galaxy–halo connection, and Lindsey Bleem on galaxy cluster cosmology; applicants with particular interest in these research areas are encouraged to reach out directly to Hearin and Bleem, respectively.
@@ -146,7 +157,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#4625292828292a2a3f06362e3f352f25356829353368232233).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#0f6c606161606363764f7f67767c666c7c21607c7a216a6b7a).
 
 ------------------------------------------------------------------------
 
