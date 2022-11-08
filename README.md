@@ -54,7 +54,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022](#chicago)
 - [Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](#expaustin)
-- [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](#schramm)
+- [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022\</a](#schramm)
+- [Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022\</a](#slac)
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
 - [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
@@ -101,6 +102,16 @@ Fermilab is pleased to invite applications for the David N. Schramm Postdoctoral
 The Schramm Fellowship is aimed at recent PhD recipients with a proven research record and prior experience in experimental particle astrophysics, cosmology, or closely related fields. This position provides the opportunity to bridge existing experimental efforts and participate in the development of new experimental projects. The successful candidate is expected to do original research that will capitalize on the scientific, computing, engineering, and technical expertise available at Fermilab.
 
 The successful candidate will be hosted by the Fermilab Cosmic Physics Center (FCPC). The FCPC plays a critical role in a wide range of experimental efforts in the disciplines of dark energy (DES, DESI, and Rubin LSST), cosmic microwave background (SPT-3G and CMB- S4), and dark matter direct detection (ADMX, SuperCDMS, SENSEI, and Oscura), as well as hosting an active group in theoretical astrophysics and cosmology. The Schramm Fellowship provides the opportunity to participate in the development of new projects targeting dark energy, dark matter, early-universe physics, and related detector R&D leveraging the strengths of Fermilab.
+
+------------------------------------------------------------------------
+
+**[Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022](https://jobregister.aas.org/ad/beb75d0d)**
+
+The Particle Physics & Astrophysics (PPA) Department at SLAC National Accelerator Laboratory/Stanford University seeks applicants for a tenure-track assistant professor appointment in any area of physics pursued by SLAC’s Cosmic Frontier program and the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC). The successful applicant should demonstrate the potential to lead an outstanding experimental, observational, or theoretical research program in one or more of the areas of dark energy, dark matter, inflation, structure formation, or other emerging areas in the Cosmic Frontier. Additionally, they should possess good communication skills and a commitment to effective mentoring.
+
+SLAC’s current program includes a broad theory program in particle astrophysics, cosmology, and fundamental physics; cosmology research with the Vera C. Rubin’s Observatory Legacy Survey of Space & Time, the Dark Energy Spectroscopic Instrument, and CMB-S4; and dark matter searches with LZ, Super-CDMS, Dark Matter Radio and a future G3 liquid Xenon experiment (see: https://www6.slac.stanford.edu/research/astrophysics-and-cosmology). We welcome candidates who would bring additional dimensions or directions to our program. A broad astrophysics and cosmology program at Stanford and SLAC is pursued under the auspices of the Kavli Institute for Particle Astrophysics and Cosmology; see [kipac.stanford.edu](http://kipac.stanford.edu).
+
+Exceptional applicants at the associate or full professor level may also be considered, as well as applicants in other science areas pursued by SLAC’s PPA Department (see <https://www6.slac.stanford.edu/research>).
 
 ------------------------------------------------------------------------
 
@@ -158,7 +169,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#c9aaa6a7a7a6a5a5b089b9a1b0baa0aabae7a6babce7acadbc).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#c0a3afaeaeafacacb980b0a8b9b3a9a3b3eeafb3b5eea5a4b5).
 
 ------------------------------------------------------------------------
 
@@ -208,7 +219,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#bdd3d6cfdcded5fdced4cecedc93d4c9)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#3a5451485b59527a495349495b14534e)).
 
 ------------------------------------------------------------------------
 
