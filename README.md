@@ -54,8 +54,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022](#chicago)
 - [Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](#expaustin)
-- [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022\</a](#schramm)
-- [Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022\</a](#slac)
+- [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](#schramm)
+- [Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022](#slac)
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
 - [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
@@ -169,7 +169,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#086b67666667646471487860717b616b7b26677b7d266d6c7d).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#d6b5b9b8b8b9babaaf96a6beafa5bfb5a5f8b9a5a3f8b3b2a3).
 
 ------------------------------------------------------------------------
 
@@ -219,7 +219,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#731d180112101b33001a0000125d1a07)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#06686d7467656e46756f757567286f72)).
 
 ------------------------------------------------------------------------
 
