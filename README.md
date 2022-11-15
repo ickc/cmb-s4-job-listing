@@ -52,8 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022](#chicago)
-- [Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](#expaustin)
 - [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](#schramm)
 - [Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022](#slac)
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
@@ -64,34 +62,13 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
+- [Three positions on SO:UK SATs at U. Manchester, Dec 6-9, 2022](#manchester)
 - [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
 - [Postdoc at SISSA, Dec 30, 2022](#sissa)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
-
-------------------------------------------------------------------------
-
-**Multiple postdocs at U. Chicago, Oct 31 – Nov 6, 2022**
-
-[KICP Fellowship](https://kicp-fellowship.uchicago.edu/) (Deadline Oct 31) – KICP is an interdisciplinary environment that brings together physicists and astronomers ranging from experimentalists to observers, simulators, and theorists, to stimulate new ideas and push the forefront of cosmological research. Areas of active study include (but are not limited to) theoretical cosmology theory, observational cosmology, particle astrophysics, dark matter searches, and instrumentation.
-
-[Margaret Burbidge Fellowship](https://astro-fellowship.uchicago.edu/) (Deadline Oct 31) – Open to all areas of astronomy and astrophysics including theory, simulation, observation, and instrumentation. Areas of active study include (but are not limited to) exoplanets, Galactic and extragalactic astronomy, high-energy astrophysics, cosmology, and computational astrophysics.
-
-[Brinson Prize Fellowship](https://www.stsci.edu/stsci-research/fellowships/brinson-prize-fellowship-program) (Deadline Nov 3) – Open to all areas of astronomy and astrophysics, but with a focus on supporting research in observational cosmology, particularly complementing and capitalizing on space science, including topics such as the first stars, the cosmic distance scale, and the development of large-scale structure. The Brinson Prize Fellowship can be taken to one of four institutions including UChicago.
-
-[The Enrico Fermi, Robert R. McCormick, & Mafalda and Reinhard Oehme Postdoctoral Research Fellowships](https://academicjobsonline.org/ajo/jobs/22604) (Deadline Nov 6) The Enrico Fermi Institute is an interdisciplinary research unit encompassing topics including: string theory and theoretical high-energy physics, experimental high-energy physics, theoretical astrophysics and cosmology, experimental particle astrophysics, infrared and optical astronomy, cosmic microwave background observations, general relativity and gravitational waves, and cosmochemistry.
-
-[Instrumentation Postdoc](https://academicjobsonline.org/ajo/jobs/22567) (Deadline Oct 31) – This is a position working with Alex Drlica-Wagner and the instrumentation groups at UChicago and Fermilab to demonstrate the capabilities of novel ultra-low noise Skipper CCDs for applications in optical/near-infrared astronomy with future NASA/DOE missions. The position will involve a combination of laboratory testing, instrument construction, and data collection/analysis using the SOAR Integral Field Spectrograph.
-
-------------------------------------------------------------------------
-
-**[Experimental Cosmology postdoc at UT Austin, Nov 1, 2022](https://academicjobsonline.org/ajo/jobs/23091)**
-
-A postdoctoral position in experimental cosmology is available within the Department of Physics at the University of Texas at Austin. Candidates with experience in experimental physics or astrophysics are encouraged to apply. Particular areas of interest include millimeter/submillimeter optical metrology, cryogenics, instrument field-deployment, and balloon-borne experiments. The position will involve a combination of laboratory testing, instrument design and fabrication, and data collection/analysis.
-
-The successful candidate will work with Prof. Nicholas Galitzki on one of several projects: \* Development of the cryogenic camera, optical system, and associated metrology techniques for the proposed Balloon-borne Large Aperture Submillimeter Telescope Observatory (BLAST-Obs). \* Research opportunities within the CMB-S4 collaboration, specifically with the small aperture telescope design and associated technologies. \* Research focused on the implementation of the Simons Observatory small aperture telescope field calibration and the development of the associated pipeline and analysis software using data from on-site calibration and observations.
 
 ------------------------------------------------------------------------
 
@@ -169,7 +146,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#97f4f8f9f9f8fbfbeed7e7ffeee4fef4e4b9f8e4e2b9f2f3e2).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#6c0f030202030000152c1c04151f050f1f42031f1942090819).
 
 ------------------------------------------------------------------------
 
@@ -180,6 +157,18 @@ The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU)
 The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Rubin Observatory, Simons Observatory, CMB-S4, the LiteBIRD satellite, and COSI (MeV) NASA mission.
 
 Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy/quasar evolution, transients (supernova), numerical simulations, cosmic baryon census with FRBs, high-energy astrophysics, and astroparticle physics. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
+
+------------------------------------------------------------------------
+
+**Three positions on SO:UK SATs at U Manchester, Dec 6-9, 2022**
+
+The Jodrell Bank Centre for Astrophysics at The University of Manchester is advertising three openings in CMB instrumentation. All positions are to work as part of the SO:UK team on the development of two additional Small Aperture Telescopes (SATs) for Simons Observatory.
+
+Firstly, we are looking for someone with significant experience to take a leadership role in the overall delivery of the two-SAT program, including the full system testing of both receivers at Jodrell Bank Observatory as well as the site development in Chile. The successful applicant will be appointed as a Senior Research Fellow and the advert (due date Dec 9) is here: <https://www.jobs.ac.uk/job/CUX443/senior-research-fellow-simons-observatory-uk-project>
+
+The second opening is for a postdoctoral research associate to work on two specific aspects of the instrument development: (i) setting the requirements for, and then validating the performance of, the Kinetic Inductance Detectors (KIDs) and their associated readout and (ii) implementation and testing of the half-wave plate rotation mechanism for both SATs. The advert (due date Dec 9) is here: <https://www.jobs.ac.uk/job/CUX477/research-associate-simons-observatoryuk-project>
+
+The third opening is for a skilled machinist (Senior Technician) to support the project, to be based in the mechanical workshop at Jodrell Bank Observatory. The advert (due date Dec 6) is here: <https://www.jobs.ac.uk/job/CUX489/senior-technician-simons-observatoryuk-project>
 
 ------------------------------------------------------------------------
 
@@ -219,7 +208,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#ec82879e8d8f84ac9f859f9f8dc28598)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#fd93968f9c9e95bd8e948e8e9cd39489)).
 
 ------------------------------------------------------------------------
 
