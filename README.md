@@ -66,6 +66,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
 - [Postdoc at SISSA, Dec 30, 2022](#sissa)
+- [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
@@ -146,7 +147,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#086b67666667646471487860717b616b7b26677b7d266d6c7d).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#583b37363637343421182830212b313b2b76372b2d763d3c2d).
 
 ------------------------------------------------------------------------
 
@@ -198,6 +199,22 @@ Ideal candidates will have significant experience in using Python for numerical 
 
 ------------------------------------------------------------------------
 
+**[Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](https://www.uc.cl/en/academic-units/escuela-de-ingenieria/)**
+
+The School of Engineering at the Pontificia Universidad Católica de Chile, one of the leading engineering academic institutions in Latin America, invites highly qualified candidates to apply for a full-time faculty position at the Assistant or Associate level in the area of Astronomical Instrumentation (AI) at the Department of Electrical Engineering. Exceptional candidates in other areas of electrical engineering will be considered as well. The applicants must have a demonstrated ability and commitment to excellence in independent research and teaching. Previous experience in teaching and research, having led or participated in research and development projects, and having a technological or experimental approach based on the foundations of the discipline are desired.
+
+The successful candidate is expected to carry out teaching not only in AI but also in topics related to the fundamentals of instrumentation, such as electromagnetics, electronics, control, and optics. Research topics other than AI, are also welcomed, especially with other disciplines of engineering, physics and astronomy. Main Duties: High quality teaching at undergraduate and graduate levels primarily at the Department of Electrical Engineering and conducting independent research are mandatory. Additional duties include knowledge transfer and outreach.
+
+Requirements: Applicants are required to hold a Ph.D. degree in Electrical Engineering, Electrical and Computer Engineering, Physics, Astrophysics, or related fields at the time of hiring. The search is open to all areas of astronomical instrumentation, defined as experimental hardware and software developments for the study of the cosmos and aerospace exploration. These areas include but are not limited to: visible and near-infrared spectroscopy and imaging, adaptive optics, millimetric astronomy, data processing and astronomical simulations based on high performance computing. The successful candidate will be affiliated with the Center of Astro Engineering (AIUC, www.aiuc.puc.cl), an interdisciplinary initiative of the Faculties of Engineering and Physics, created to promote the development of astronomical technology in Chile, taking advantage of the presence of major international observatories in the country.
+
+Candidates do not need to be fluent in Spanish at the time of application but should be willing to learn and teach in the language within two years. Fluency in English is a requirement.
+
+Applicants must demonstrate a strong commitment to all aspects of academic life and public good of the institution. They must be highly motivated to continuously improve their teaching skills, have a genuine interest in getting involved with our graduate programs (specially the doctoral program) and be able to develop and maintain an active research agenda leading to high quality publications, securing research grants, generating and participating in interdisciplinary projects, leading scientific and industry-liaison initiatives, strengthening and creating national and international academic networks, etc. The successful candidates may also be expected to create new undergraduate and graduate courses and teach traditional courses in related areas.
+
+The Chilean scientific community has access to world class astronomical facilities present in the country, 10% of the observing time of all telescopes installed in Chile is reserved to the Chilean community.
+
+------------------------------------------------------------------------
+
 **[Postdoc at SISSA, Dec 30, 2022](https://academicjobsonline.org/ajo/jobs/23549)**
 
 The Astrophysics & Cosmology Group ([www.sissa.it/ap](http://www.sissa.it/ap)) of the International School for Advanced Studies of Trieste (SISSA, Italy) is looking for Post-Doc researchers in the area of Cosmic Microwave Background Polarization Anisotropies and Cross-Correlation with the Large Scale Structure (Euclid), for 2 years to start in 2023.
@@ -208,7 +225,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#c6a8adb4a7a5ae86b5afb5b5a7e8afb2)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#3b5550495a58537b485248485a15524f)).
 
 ------------------------------------------------------------------------
 
