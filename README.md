@@ -147,7 +147,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#c4a7abaaaaaba8a8bd84b4acbdb7ada7b7eaabb7b1eaa1a0b1).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#9cfff3f2f2f3f0f0e5dcecf4e5eff5ffefb2f3efe9b2f9f8e9).
 
 ------------------------------------------------------------------------
 
@@ -199,7 +199,7 @@ Ideal candidates will have significant experience in using Python for numerical 
 
 ------------------------------------------------------------------------
 
-**[Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](https://www.uc.cl/en/academic-units/escuela-de-ingenieria/)**
+**[Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](https://jobregister.aas.org/ad/0c8be06a)**
 
 The School of Engineering at the Pontificia Universidad Católica de Chile, one of the leading engineering academic institutions in Latin America, invites highly qualified candidates to apply for a full-time faculty position at the Assistant or Associate level in the area of Astronomical Instrumentation (AI) at the Department of Electrical Engineering. Exceptional candidates in other areas of electrical engineering will be considered as well. The applicants must have a demonstrated ability and commitment to excellence in independent research and teaching. Previous experience in teaching and research, having led or participated in research and development projects, and having a technological or experimental approach based on the foundations of the discipline are desired.
 
@@ -225,7 +225,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#355b5e4754565d75465c4646541b5c41)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#523c392033313a12213b2121337c3b26)).
 
 ------------------------------------------------------------------------
 
