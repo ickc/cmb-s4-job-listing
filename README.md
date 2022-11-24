@@ -52,7 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](#schramm)
 - [Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022](#slac)
 - [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
 - [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
@@ -65,22 +64,13 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Three positions on SO:UK SATs at U. Manchester, Dec 6-9, 2022](#manchester)
 - [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
+- [Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](#asu)
 - [Postdoc at SISSA, Dec 30, 2022](#sissa)
 - [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 - [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**[David N. Schramm Postdoctoral Fellowship at Fermilab, Nov 15, 2022](https://academicjobsonline.org/ajo/jobs/23080)**
-
-Fermilab is pleased to invite applications for the David N. Schramm Postdoctoral Fellowship in experimental particle astrophysics and cosmology.
-
-The Schramm Fellowship is aimed at recent PhD recipients with a proven research record and prior experience in experimental particle astrophysics, cosmology, or closely related fields. This position provides the opportunity to bridge existing experimental efforts and participate in the development of new experimental projects. The successful candidate is expected to do original research that will capitalize on the scientific, computing, engineering, and technical expertise available at Fermilab.
-
-The successful candidate will be hosted by the Fermilab Cosmic Physics Center (FCPC). The FCPC plays a critical role in a wide range of experimental efforts in the disciplines of dark energy (DES, DESI, and Rubin LSST), cosmic microwave background (SPT-3G and CMB- S4), and dark matter direct detection (ADMX, SuperCDMS, SENSEI, and Oscura), as well as hosting an active group in theoretical astrophysics and cosmology. The Schramm Fellowship provides the opportunity to participate in the development of new projects targeting dark energy, dark matter, early-universe physics, and related detector R&D leveraging the strengths of Fermilab.
 
 ------------------------------------------------------------------------
 
@@ -148,7 +138,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#2f4c404141404343566f5f47565c464c5c01405c5a014a4b5a).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#6a09050404050606132a1a0213190309194405191f440f0e1f).
 
 ------------------------------------------------------------------------
 
@@ -190,6 +180,14 @@ Southern Methodist University is a research intensive, private university centra
 
 ------------------------------------------------------------------------
 
+**Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022**
+
+The Department of Physics in The College of Liberal Arts and Sciences invites applications for a postdoctoral position to work with Professor Simon Foreman on research in cosmology. The primary focus of this position will be on topics relevant to 21cm intensity mapping with the Canadian Hydrogen Intensity Mapping Experiment (CHIME, https://chime-experiment.ca) and upcoming Canadian Hydrogen Observatory and Radio-transient Detector (CHORD, https://arxiv.org/abs/1911.01777), such as the development of novel analysis techniques and theoretical descriptions of expected measurements. However, the successful candidate will have the freedom to also pursue other topics in cosmology relevant to the interests of Prof. Foreman and others at ASU, including but not limited to large-scale structure, gravitational lensing, the cosmic microwave background, and connections between cosmological observables and fundamental physics.
+
+The successful candidate with become part of ASU’s Cosmology Initiative, which bridges the Department of Physics and the School of Earth and Space Exploration and spans experimental, observational, computational, and theoretical cosmology. The Cosmology Initiative includes research into the epoch of reionization with low-frequency radio observations (Judd Bowman, Danny Jacobs), the cosmic microwave background (Alexander van Engelen, Philip Mauskopf), theoretical cosmology (Matthew Baumgart, Damien Easson, Cynthia Keeler, Maulik Parikh, Tanmay Vachaspati), and other topics, and the successful candidate will be encouraged to interact with these and other researchers at ASU. This position will benefit from significant computing support, via ASU Research Computing resources and a group allocation for the CHIME Collaboration on a large external cluster..
+
+------------------------------------------------------------------------
+
 **[Computational research support engineer at Princeton, until filled](https://act.princeton.edu/job-opportunities)**
 
 Princeton Research Computing are seeking to recruit a computational research support engineer to work on the [Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT) and [Simons Observatory ](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsimonsobservatory.org%2F&data=05%7C01%7Cjjupiter%40princeton.edu%7Cdc321356d980498e579008da71690c77%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637946993240525715%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2Yj32bjJQN0hlPYN9tED8cYuKmsR6bepSPl%2BzpnBA8M%3D&reserved=0)(SO) projects. These projects make high-fidelity microwave maps of half the sky, for a variety of scientific goals from probing the early universe to measuring asteroids in our solar system.
@@ -226,7 +224,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#b0dedbc2d1d3d8f0c3d9c3c3d19ed9c4)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#620c091003010a22110b1111034c0b16)).
 
 ------------------------------------------------------------------------
 
