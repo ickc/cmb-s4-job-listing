@@ -138,7 +138,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#6a09050404050606132a1a0213190309194405191f440f0e1f).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#6c0f030202030000152c1c04151f050f1f42031f1942090819).
 
 ------------------------------------------------------------------------
 
@@ -180,7 +180,7 @@ Southern Methodist University is a research intensive, private university centra
 
 ------------------------------------------------------------------------
 
-**Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022**
+**[Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](https://apply.interfolio.com/115365)**
 
 The Department of Physics in The College of Liberal Arts and Sciences invites applications for a postdoctoral position to work with Professor Simon Foreman on research in cosmology. The primary focus of this position will be on topics relevant to 21cm intensity mapping with the Canadian Hydrogen Intensity Mapping Experiment (CHIME, https://chime-experiment.ca) and upcoming Canadian Hydrogen Observatory and Radio-transient Detector (CHORD, https://arxiv.org/abs/1911.01777), such as the development of novel analysis techniques and theoretical descriptions of expected measurements. However, the successful candidate will have the freedom to also pursue other topics in cosmology relevant to the interests of Prof. Foreman and others at ASU, including but not limited to large-scale structure, gravitational lensing, the cosmic microwave background, and connections between cosmological observables and fundamental physics.
 
@@ -224,7 +224,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#620c091003010a22110b1111034c0b16)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#81efeaf3e0e2e9c1f2e8f2f2e0afe8f5)).
 
 ------------------------------------------------------------------------
 
