@@ -58,7 +58,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
 - [Staff scientist (career-track or career) at LBNL, Dec 1, 2022](#lbnl)
 - [Asst professor in theoretical cosmology at Boston Univ., Dec 1, 2022](#boston)
-- [Computational research support engineer at Princeton, until filled](#princeton)
 - [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
 - [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
 - [Three positions on SO:UK SATs at U. Manchester, Dec 6-9, 2022](#manchester)
@@ -138,7 +137,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#8eede1e0e0e1e2e2f7cefee6f7fde7edfda0e1fdfba0ebeafb).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#d8bbb7b6b6b7b4b4a198a8b0a1abb1bbabf6b7abadf6bdbcad).
 
 ------------------------------------------------------------------------
 
@@ -188,16 +187,6 @@ The successful candidate with become part of ASU’s Cosmology Initiative, which
 
 ------------------------------------------------------------------------
 
-**[Computational research support engineer at Princeton, until filled](https://act.princeton.edu/job-opportunities)**
-
-Princeton Research Computing are seeking to recruit a computational research support engineer to work on the [Atacama Cosmology Telescope](https://act.princeton.edu/) (ACT) and [Simons Observatory ](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fsimonsobservatory.org%2F&data=05%7C01%7Cjjupiter%40princeton.edu%7Cdc321356d980498e579008da71690c77%7C2ff601167431425db5af077d7791bda4%7C0%7C0%7C637946993240525715%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=2Yj32bjJQN0hlPYN9tED8cYuKmsR6bepSPl%2BzpnBA8M%3D&reserved=0)(SO) projects. These projects make high-fidelity microwave maps of half the sky, for a variety of scientific goals from probing the early universe to measuring asteroids in our solar system.
-
-The position will involve a variety of work covering aspects of delivery of data and accompanying software both internally and to the public. It will include managing data movement between HPC clusters, upkeep of modules and the database that tracks products; working with the collaborations to prepare public data deliveries, visualizations and tutorials; and installation and deployment of custom map-manipulation software. Working with ACT and SO Data Management team members including Jo Dunkley, Simone Aiola, Matthew Hasselfield, Mathew Madhavacheril, Sigurd Naess & Adri Duivenvoorden, the position will initially focus on the final data releases of the ACT project, then transition to the SO project.
-
-Ideal candidates will have significant experience in using Python for numerical analysis as well as data management tasks in a Unix environment, familiarity with collaborative development tools such as git and github, and significant familiarity with modern HTML and Javascript. Experience with client and server side web application frameworks is valued.
-
-------------------------------------------------------------------------
-
 **[Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](https://jobregister.aas.org/ad/0c8be06a)**
 
 The School of Engineering at the Pontificia Universidad Católica de Chile, one of the leading engineering academic institutions in Latin America, invites highly qualified candidates to apply for a full-time faculty position at the Assistant or Associate level in the area of Astronomical Instrumentation (AI) at the Department of Electrical Engineering. Exceptional candidates in other areas of electrical engineering will be considered as well. The applicants must have a demonstrated ability and commitment to excellence in independent research and teaching. Previous experience in teaching and research, having led or participated in research and development projects, and having a technological or experimental approach based on the foundations of the discipline are desired.
@@ -224,7 +213,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#4d23263f2c2e250d3e243e3e2c632439)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#a4cacfd6c5c7cce4d7cdd7d7c58acdd0)).
 
 ------------------------------------------------------------------------
 
