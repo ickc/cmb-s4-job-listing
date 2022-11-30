@@ -65,7 +65,9 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
 - [Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](#asu)
 - [Postdoc at SISSA, Dec 30, 2022](#sissa)
+- [Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](#ucr)
 - [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
+- [Postdoc on SO analysis at Princeton, Jan 20, 2023](#princeton)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
@@ -137,7 +139,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#d8bbb7b6b6b7b4b4a198a8b0a1abb1bbabf6b7abadf6bdbcad).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#3d5e525353525151447d4d55444e545e4e13524e4813585948).
 
 ------------------------------------------------------------------------
 
@@ -187,6 +189,14 @@ The successful candidate with become part of ASU’s Cosmology Initiative, which
 
 ------------------------------------------------------------------------
 
+**[Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](https://www.physics.ucr.edu/about/employment-opportunities)**
+
+The Department of Physics and Astronomy at the University of California, Riverside invites highly qualified experimental physicists to apply for an Academic-year tenure-track/tenure position in the fields of Particle Astrophysics, Cosmology and Gravitational Waves. We have recently made new faculty appointments in experimental gravitational waves and experimental dark matter searches and expect to make two more appointments that will complement them.
+
+Candidates should possess a record of demonstrated excellence in research. The successful candidate is expected to establish an outstanding and well-funded research program involving graduate students and postdoctoral scientists, and to contribute to departmental teaching at all levels. We are initiating a new experimental group at UC Riverside to augment and complement ongoing efforts in particle physics and astronomy. We are seeking independent researchers, who will build significant on-campus research efforts involving undergraduates, graduate students and postdocs on the forefront experimental programs in this general area of physics. We anticipate that individual hires may work together or on different experimental projects. We seek individuals with strong academic promise/experience, who can build significant research efforts at UCR in forefront areas that will complement existing programs in our department. 
+
+------------------------------------------------------------------------
+
 **[Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](https://jobregister.aas.org/ad/0c8be06a)**
 
 The School of Engineering at the Pontificia Universidad Católica de Chile, one of the leading engineering academic institutions in Latin America, invites highly qualified candidates to apply for a full-time faculty position at the Assistant or Associate level in the area of Astronomical Instrumentation (AI) at the Department of Electrical Engineering. Exceptional candidates in other areas of electrical engineering will be considered as well. The applicants must have a demonstrated ability and commitment to excellence in independent research and teaching. Previous experience in teaching and research, having led or participated in research and development projects, and having a technological or experimental approach based on the foundations of the discipline are desired.
@@ -203,6 +213,12 @@ The Chilean scientific community has access to world class astronomical faciliti
 
 ------------------------------------------------------------------------
 
+**[Postdoc on SO analysis at Princeton, Jan 20, 2023](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=28501)**
+
+The Department of Physics at Princeton seeks applicants for a postdoctoral research associate or more senior position to work on data analysis with the Simons Observatory (SO) project. SO is a cosmic microwave background survey experiment currently being built for observations from the Atacama Desert in Chile. The SO analysis group at Princeton, led by Jo Dunkley and Simone Aiola, shares responsibility for making and characterizing sky maps for scientific analysis. The successful candidate will contribute to developing and refining pipelines and methods for generating and characterizing the SO maps, as part of the broader SO data analysis efforts. Appointments are for one year, with the possibility for renewal pending satisfactory performance and continued funding for a total of three years.
+
+------------------------------------------------------------------------
+
 **[Postdoc at SISSA, Dec 30, 2022](https://academicjobsonline.org/ajo/jobs/23549)**
 
 The Astrophysics & Cosmology Group ([www.sissa.it/ap](http://www.sissa.it/ap)) of the International School for Advanced Studies of Trieste (SISSA, Italy) is looking for Post-Doc researchers in the area of Cosmic Microwave Background Polarization Anisotropies and Cross-Correlation with the Large Scale Structure (Euclid), for 2 years to start in 2023.
@@ -213,7 +229,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#a4cacfd6c5c7cce4d7cdd7d7c58acdd0)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#4b2520392a28230b382238382a65223f)).
 
 ------------------------------------------------------------------------
 
