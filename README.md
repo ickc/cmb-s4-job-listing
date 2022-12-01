@@ -63,6 +63,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Three positions on SO:UK SATs at U. Manchester, Dec 6-9, 2022](#manchester)
 - [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
+- [3 postdocs in modeling and CMB data analysis in France, Dec 15, 2022](#batman)
 - [Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](#asu)
 - [Postdoc at SISSA, Dec 30, 2022](#sissa)
 - [Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](#ucr)
@@ -139,7 +140,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#3d5e525353525151447d4d55444e545e4e13524e4813585948).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#7b18141515141717023b0b1302081218085514080e551e1f0e).
 
 ------------------------------------------------------------------------
 
@@ -178,6 +179,18 @@ The postdoctoral researcher will play a major role in the development of infrast
 The Department of Physics at Southern Methodist University invites applications for a tenure-track faculty position in the area of Astrophysics or Cosmology, broadly defined. While an appointment at the rank of tenure-track Assistant Professor is anticipated, extraordinary candidates at all levels will be considered. Candidates must have a Ph.D. in physics, astronomy, or a closely related field; postdoctoral experience; and a record of research excellence. The successful candidate will develop a vigorous research program, supervise graduate students, and teach at both undergraduate and graduate levels. Faculty are expected to teach and mentor diverse students within the Physics program and throughout the University. The appointment will start in August 2023 or later.
 
 Southern Methodist University is a research intensive, private university centrally located in Dallas, Texas. Current research in the Department of Physics at SMU focuses on the fields of observational and theoretical astrophysics and cosmology, especially in the areas of supermassive black holes, supernovae, early universe cosmology, and large-scale structure. SMU faculty are deeply engaged in DESI, Simons Observatory, and CMB-S4. The department also features strong research programs in experimental and theoretical particle physics. The Department of Physics aims to provide a collegial scientific community with equitable access and participation for all individuals and groups, and recognizes the value of this participation to the quality of our research.
+
+------------------------------------------------------------------------
+
+**[3 postdocs in modeling and CMB data analysis in France, Dec 15, 2022](https://jobregister.aas.org/ad/f152a0e9)**
+
+The French ANR funded project BATMAN (Better Accuracy and robusTness for Mass Assessment of Neutrino) is inviting applications for three post-doctoral positions in cosmology (two in Orsay, one in Toulouse). The project aims at using the combined current CMB observations with better and coherent modelling of astrophysics signals and systematics to constrain the neutrino mass and extensions of the standard LCDM model. 
+
+Reionisation, large scale structures and CMB at the research institute of space astrophysics (IAS, Orsay, France) to work with Marian Douspis to revisit the constraints on the reionisation history from current observations and how it can be described by a generic model to be used as input in CMB probes of reionisation (TT damping, EE bump, kSZ spectrum), and upcoming 21cm observations. See [Description](https://batman-anr.ias.universite-paris-saclay.fr/sites/batman-anr/files/BATMAN_PostDoc_Reionisation.pdf)
+
+Clusters of galaxies and large scale structures at the Institute of Research in Astrophysics and Planetology (IRAP,Toulouse, France) to work with Etienne Pointecouteau to revisit the state-of-the-art gas model in massive halos to build up coherent models for probes such as tSZ and kSZ power spectra, SZ cluster number counts and kSZ pairwise velocities. See [Description](https://batman-anr.ias.universite-paris-saclay.fr/sites/batman-anr/files/BATMAN_PostDoc_GasPhysics.pdf)
+
+CMB cosmology and neutrino physics (IJCLab, Orsay, France) to work with Matthieu Tristram on the exploitation of the latest CMB measurements to derive robust and precise constraints on the neutrino sector including the neutrino hierarchy but not exclusively. See [Description](https://batman-anr.ias.universite-paris-saclay.fr/sites/batman-anr/files/BATMAN_PostDoc_CMB.pdf)
 
 ------------------------------------------------------------------------
 
@@ -229,7 +242,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#4b2520392a28230b382238382a65223f)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#3d53564f5c5e557d4e544e4e5c135449)).
 
 ------------------------------------------------------------------------
 
