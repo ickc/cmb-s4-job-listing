@@ -71,7 +71,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc on SO analysis at Princeton, Jan 20, 2023](#princeton)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
-- [Postdoctoral positions at Stanford/SLAC, until filled](#slac)
 - [Postdoc at NIST, until filled](#nist)
 
 ------------------------------------------------------------------------
@@ -140,7 +139,7 @@ Postdocs can benefit from strong collaborations with applied mathematicians, com
 
 The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
 
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#7b18141515141717023b0b1302081218085514080e551e1f0e).
+For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#fe9d91909091929287be8e96878d979d8dd0918d8bd09b9a8b).
 
 ------------------------------------------------------------------------
 
@@ -242,7 +241,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#3d53564f5c5e557d4e544e4e5c135449)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#0967627b686a61497a607a7a6827607d)).
 
 ------------------------------------------------------------------------
 
@@ -264,21 +263,6 @@ The researcher’s duties will include the following:
 The Department of Astronomy & Astrophysics at the University of Chicago invites applications for the position of Research Scientist, working in Associate Professor Jeff McMahon’s lab. The primary responsibility for this position involves day-to-day management of the development and fabrication of a novel anti-reflection coating for Cosmic Microwave Background (CMB) instruments in the metamaterial laboratory at the Fermi National Accelerator Laboratory. Duties will include developing and optimizing the process and workflow, ensuring the design, fabrication, and testing of these optics meet the requirements. The Research Scientist will participate directly in this operation through calculations, fabrication, measurements, and analysis, as well as support the PI with mentorship of researchers who will collaborate on the project.
 
 The Research Scientist will also have opportunities to collaborate more broadly in Simons Observatory and other CMB projects. This work could involve instrument development, instrument testing, calibration, and data analysis. The Research Scientist is expected to give public presentations at conferences and help prepare grants and reports on their research.
-
-------------------------------------------------------------------------
-
-**[Postdoctoral positions at Stanford/SLAC, until filled](https://academicjobsonline.org/ajo/jobs/21892)**
-
-Applications are invited for 1-2 postdoctoral positions at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University and the SLAC National Accelerator Laboratory with a focus on Cosmic Microwave Background (CMB) surveys. The positions are primarily intended to expand our work with the CMB experiments BICEP/Keck Array, the South Pole Telescope (SPT), Simons Observatory, and CMB-S4, but also to develop applications and methods in other areas of cosmology and physics.
-
-We seek candidates with experience in instrumentation development, and/or data analysis and simulations in observational cosmology, particle astrophysics, or high-energy physics and expect them to work in one or more of the following areas:
-
-1\. Development of CMB-S4 instrumentation prototypes and software, especially in the area of superconducting transition-edge sensors and their SQUID-amplified readout.  
-2. Application of CMB detector and readout technology in new concepts for low-mass dark matter searches, THz photon sensing, and qubit-based sensors for physics.
-
-Candidates with prior expertise in low temperature detectors and readout are particularly encouraged to apply.  Candidates interested in science analyses from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
-
-For further information regarding the positions, please contact [Dr. Zeeshan Ahmed](https://kipac.stanford.edu/people/zeeshan-ahmed) and [Dr. Shawn Henderson](https://kipac.stanford.edu/people/shawn-wesley-henderson). Additionally, several staff scientists and faculty are available to advise on this and related opportunities at KIPAC: [Dr. Kimmy Wu](https://kipac.stanford.edu/people/wl-kimmy-wu), [Dr. Noah Kurinsky](https://kipac.stanford.edu/people/noah-kurinsky-0), [Professor Chao-Lin Kuo](https://kipac.stanford.edu/people/chao-lin-kuo), and [Professor Kent Irwin](https://kipac.stanford.edu/people/kent-irwin).
 
 ------------------------------------------------------------------------
 
