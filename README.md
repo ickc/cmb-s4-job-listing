@@ -52,14 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022](#slac)
-- [Postdoc fellowships at Kavli IPMU, Dec 1, 2022](#ipmu)
-- [TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](#theoryaustin)
-- [TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](#analysisaustin)
-- [Staff scientist (career-track or career) at LBNL, Dec 1, 2022](#lbnl)
-- [Asst professor in theoretical cosmology at Boston Univ., Dec 1, 2022](#boston)
-- [Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022](#argonne)
-- [Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](#osu)
 - [Three positions on SO:UK SATs at U. Manchester, Dec 6-9, 2022](#manchester)
 - [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
 - [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
@@ -69,87 +61,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](#ucr)
 - [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
 - [Postdoc on SO analysis at Princeton, Jan 20, 2023](#princeton)
+- [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**[Particle Physics and Astrophysics Faculty position at SLAC, Nov 28, 2022](https://jobregister.aas.org/ad/beb75d0d)**
-
-The Particle Physics & Astrophysics (PPA) Department at SLAC National Accelerator Laboratory/Stanford University seeks applicants for a tenure-track assistant professor appointment in any area of physics pursued by SLAC’s Cosmic Frontier program and the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC). The successful applicant should demonstrate the potential to lead an outstanding experimental, observational, or theoretical research program in one or more of the areas of dark energy, dark matter, inflation, structure formation, or other emerging areas in the Cosmic Frontier. Additionally, they should possess good communication skills and a commitment to effective mentoring.
-
-SLAC’s current program includes a broad theory program in particle astrophysics, cosmology, and fundamental physics; cosmology research with the Vera C. Rubin’s Observatory Legacy Survey of Space & Time, the Dark Energy Spectroscopic Instrument, and CMB-S4; and dark matter searches with LZ, Super-CDMS, Dark Matter Radio and a future G3 liquid Xenon experiment (see: https://www6.slac.stanford.edu/research/astrophysics-and-cosmology). We welcome candidates who would bring additional dimensions or directions to our program. A broad astrophysics and cosmology program at Stanford and SLAC is pursued under the auspices of the Kavli Institute for Particle Astrophysics and Cosmology; see [kipac.stanford.edu](http://kipac.stanford.edu).
-
-Exceptional applicants at the associate or full professor level may also be considered, as well as applicants in other science areas pursued by SLAC’s PPA Department (see <https://www6.slac.stanford.edu/research>).
-
-------------------------------------------------------------------------
-
-**[TCAPP postdoc fellowships at UT Austin, Dec 1, 2022](https://academicjobsonline.org/ajo/fellowship/23069)**
-
-The newly established Texas Center for Cosmology and Astroparticle Physics (TCCAP) at The University of Texas at Austin invites applications for its first TCCAP Postdoctoral Fellowships, to start September 2023. The initial appointments are for two years, extendable to a third year, subject to availability of funding and satisfactory performance.
-
-We anticipate 2 to 3 Fellowships in the area of theoretical cosmology, astrophysics, or astroparticle physics (e.g. dark matter, CMB, structure formation, galaxy formation, cosmic dawn, and the 21-cm background). One Fellow will be hired to work in Prof. Kimberly Boddy’s group, and another will be hired to work in Prof. Julian Muñoz’s group. There may be available funding for a separate third Fellowship. Contact Kimberly Boddy and Julian Muñoz ([\[email protected\]](/cdn-cgi/l/email-protection), [\[email protected\]](/cdn-cgi/l/email-protection)) for questions about these positions.
-
-All TCCAP Fellows will benefit from interaction with TCCAP faculty (Kimberly Boddy, Mike Boylan-Kolchin, Volker Bromm, Katherine Freese, Nicholas Galitzki, Julian Muñoz, and Paul Shapiro) and join the excitement of a broad community of active researchers in cosmology and related physics and astrophysics, with additional members of the Physics and Astronomy Departments, including the Weinberg Theory Group, the Center for Gravitational Physics, and McDonald Observatory. Fellows will also have access to the world-class supercomputing facilities of the Texas Advanced Computing Center (TACC).
-
-------------------------------------------------------------------------
-
-**[TCAPP postdoc fellowship for SO data analysis at UT Austin, Dec 1, 2022](https://academicjobsonline.org/ajo/fellowship/23072)**
-
-The newly-established Texas Center for Cosmology and Astroparticle Physics (TCCAP) at The University of Texas at Austin invites applications for one of the inaugural TCCAP Postdoctoral Fellowships, to start September 2023. The candidate will be expected to play a leading role in early cosmological analysis of data from the Simons Observatory (SO), while being involved with other science of similar nature, such as learning about cosmology from a combination of large scale structure and CMB data. The initial appointment is for two years, extendable to a third year, subject to availability of funding and satisfactory performance.
-
-The Fellow will be hired to work in close collaboration with Profs. Katherine Freese and Nicholas Galitzki.
-
-All TCCAP Fellows will benefit from close interaction with TCCAP faculty (Kimberly Boddy, Mike Boylan-Kolchin, Volker Bromm, Katherine Freese, Nicholas Galitzki, Julian Muñoz, and Paul Shapiro) and join the excitement of a broad community of active researchers in cosmology and related physics and astrophysics, with additional members of the Physics and Astronomy Departments, including the Weinberg Theory Group, the Center for Gravitational Physics, and McDonald Observatory. Fellows will also have access to the world-class supercomputing facilities of the Texas Advanced Computing Center (TACC).
-
-------------------------------------------------------------------------
-
-**[Staff scientist (career-track or career) at LBNL, Dec 1, 2022](https://academicjobsonline.org/ajo/jobs/23217)**
-
-The Physics Division at Lawrence Berkeley National Laboratory (LBNL) invites applications from scientists with a record of substantial accomplishment and creative ability for one or more Staff Scientist positions in the Cosmic Microwave Background (CMB) experimental group. The appointment may be either career-track or career, depending on seniority. The career-track Staff Scientist position is a five-year appointment with the expectation of promotion to a career position as Staff Scientist. Applicants should have demonstrated leadership and original achievements in research. We welcome all applicants with exceptional promise to advance the art of experimentation in CMB science; expertise in instrumentation, especially related to the design, construction and operation of microwave telescopes, optics, detectors, readout and related technologies is desirable.
-
-The Fellow will be hired to work in close collaboration with Profs. Katherine Freese and Nicholas Galitzki.
-
-The Staff Scientist is expected to play a leading role in her/his scientific field and will be encouraged to contribute to research that may enable transformational advances or new opportunities in LBNL’s CMB research program and beyond. LBNL has a long tradition of pioneering work developing new detectors, devices, and methods for fundamental physics. LBNL is the lead laboratory of the CMB-S4 project (https://cmb-s4.org) for the roles and responsibilities of the Department of Energy. CMB-S4 is a next generation experiment with multiple telescopes and 500,000 cryogenic superconducting detectors with the potential to transform the field.
-
-------------------------------------------------------------------------
-
-**[Asst professor in theoretical cosmology at Boston Univ., Dec 1, 2022](https://academicjobsonline.org/ajo/jobs/22339)**
-
-The Department of Physics at Boston University seeks applications for a tenure track Assistant Professor position in Theoretical Cosmology, to begin on July 1, 2023. This position is one of a number of positions that will be associated with a new Cosmology Initiative involving the Department of Physics and the Department of Astronomy (see also https://academicjobsonline.org/ajo/jobs/22338). Searches to fill the first two positions are being carried out in AY22/23, and a search to fill a third position is anticipated for AY23/24.
-
-Applications are sought from researchers in all areas of theoretical cosmology, including those whose broad approach is at the intersection of cosmology, quantum field theory, and particle physics. The successful candidates will be early-career scientists who will lead robust research programs and participate fully in the teaching missions at the introductory, majors, and graduate levels in the Astronomy or Physics departments.
-
-The Physics Department are committed to valuing the principles of inclusion, equity, and diversity in all academic and research settings at Boston University through building a collegial and supportive community of scholars and students. Inquiries may be directed to Academic Administrator Robyn Kinch ([\[email protected\]](/cdn-cgi/l/email-protection)), Department of Physics.
-
-------------------------------------------------------------------------
-
-**[Cosmology Post-Doctoral Positions at Argonne, Dec 2, 2022, until filled](https://jobregister.aas.org/ad/f68292d1)**
-
-Applications are invited for post-doctoral positions in the Cosmological Physics and Advanced Computing Group (CPAC) Group in Argonne National Laboratory’s High Energy Physics Division. Cosmological research within CPAC covers theory, modeling, and observations targeted at dark energy, dark matter, primordial fluctuations, inflation, and neutrinos. Theory and modeling activities emphasize multi-wavelength survey science, the galaxy-halo connection, cluster cosmology, and large-scale cosmological simulations. Analysis efforts cover topics such as CMB power spectra, CMB lensing, galaxy clustering, redshift-space distortions, and weak and strong gravitational lensing. The observational focus is on optical sky surveys (DES, DESI, Rubin Obs/LSST, SPHEREx), CMB instrumentation and observations (CMB-S4, SPT), and cross-correlations between the two. Applicants for group-wide positions will be automatically be considered for an additional open position working with Andrew Hearin on forward-modeling galaxy SEDs and the galaxy–halo connection, and Lindsey Bleem on galaxy cluster cosmology; applicants with particular interest in these research areas are encouraged to reach out directly to Hearin and Bleem, respectively.
-
-Staff members include Matt Becker, Amy Bender, Lindsey Bleem, Clarence Chang, JD Emberson, Salman Habib, Katie Harrington, Andrew Hearin, Katrin Heitmann, Eve Kovacs, Patricia Larsen, Adrian Pope, Nesar Ramachandra, Esteban Rangel, and Gensheng Wang. Current postdocs are Alex Alarcon, Michael Buehlmann, Nicholas Frontiere, Riccardo Gualtieri, Florian Keruzore, Zhaodi Pan, Markus Rau, and Gillian Beltz-Mohrmann; the group also includes a number of graduate and undergraduate students.
-
-Postdocs can benefit from strong collaborations with applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to state-of-the-art microfabrication facilities and world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged.
-
-------------------------------------------------------------------------
-
-**[Faculty position in Experimental Astrophysics at Ohio State University, Nov 30, 2022](https://academicjobsonline.org/ajo/jobs/22482)**
-
-The Department of Physics at Ohio State University seeks a tenure-track faculty hire in Experimental Astrophysics. The appointment is effective in the Autumn of 2023 at the the level of Assistant Professor or Associate Professor. Ohio State University and its Center for Cosmology and Astroparticle Physics (CCAPP) have a strong and impactful track record of research and funding in Experimental Astrophysics. The group plays major roles in high energy neutrino and cosmic ray experiments including PUEO, the Askaryan Radio Array, IceCube, RET, and HELIX, and cosmological surveys including SDSS, DES, DESI, LSST/DESC, SPHEREx, and the Nancy Grace Roman Space Telescope. We envision a candidate that will enhance and complement these existing efforts.
-
-For further information, please contact [Klaus Honscheid]() or [Amy Connolly](/cdn-cgi/l/email-protection#b1d2dedfdfdeddddc8f1c1d9c8c2d8d2c29fdec2c49fd4d5c4).
-
-------------------------------------------------------------------------
-
-**[Postdoc fellowships at Kavli IPMU, Dec 1, 2022](https://jobregister.aas.org/ad/e8f09060)**
-
-The Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) invites applications for the Kavli IPMU postdoctoral fellowship program. We intend to appoint several positions in astrophysics and cosmology with 3-year terms.
-
-The mission of Kavli IPMU is to explore fundamental laws of the Universe from a synergistic perspective of mathematics, physics, and astronomy. Kavli IPMU is a leading institute of the ongoing Hyper Suprime-Cam (HSC) imaging survey (<https://hsc.mtk.nao.ac.jp/ssp/>) and the upcoming Prime Focus Spectrograph (PFS) survey (<https://pfs.ipmu.jp/>) with the 8.2m Subaru Telescope. Faculty members at Kavli IPMU are actively involved in experiments such as the Rubin Observatory, Simons Observatory, CMB-S4, the LiteBIRD satellite, and COSI (MeV) NASA mission.
-
-Topics of investigation at Kavli IPMU include theoretical and observational cosmology, galaxy/quasar evolution, transients (supernova), numerical simulations, cosmic baryon census with FRBs, high-energy astrophysics, and astroparticle physics. Large computing resources are available at Kavli IPMU and on the national level. Fellows have access to proprietary-period data of Subaru HSC and PFS. Fellows can apply for observing time on facilities available through the National Astronomical Observatory of Japan (NAOJ), including the 8.2m Subaru Telescope, ALMA, Keck and Gemini Telescopes through the Subaru Time Exchange program. Kavli IPMU provides a stimulating and supportive environment for junior scientists to grow with its mentorship program, large group of postdoctoral scholars, and interdisciplinary research opportunities with scientists from particle physics and mathematics.
 
 ------------------------------------------------------------------------
 
@@ -231,6 +146,12 @@ The Department of Physics at Princeton seeks applicants for a postdoctoral resea
 
 ------------------------------------------------------------------------
 
+**[Postdoc on HIRAX at UKZN, Jan 31, 2023](https://jobregister.aas.org/ad/c5213b1a)**
+
+The Astrophysics Research Centre (ARC) at the University of KwaZulu-Natal (UKZN) is offering postdoctoral research positions in the area of radio astronomy instrumentation and analysis. We seek highly qualified candidates to work on the Hydrogen Intensity and Real-time Analysis eXperiment (HIRAX), a radio telescope array that is being led by UKZN, which has key science goals of 21cm cosmology, transients, pulsars, and hydrogen absorbers. HIRAX will deploy its first dishes at the Karoo site by mid-2023. Successful candidates will have the opportunity to work on a combination of radio hardware design and integration, instrument characterisation, simulations and forecasting, and analysis techniques for large data sets. There are additional opportunities to perform joint work within other ARC research areas, including galaxy evolution, clusters of galaxies, the cosmic microwave background, and theoretical cosmology.
+
+------------------------------------------------------------------------
+
 **[Postdoc at SISSA, Dec 30, 2022](https://academicjobsonline.org/ajo/jobs/23549)**
 
 The Astrophysics & Cosmology Group ([www.sissa.it/ap](http://www.sissa.it/ap)) of the International School for Advanced Studies of Trieste (SISSA, Italy) is looking for Post-Doc researchers in the area of Cosmic Microwave Background Polarization Anisotropies and Cross-Correlation with the Large Scale Structure (Euclid), for 2 years to start in 2023.
@@ -241,7 +162,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#432d283122202b03302a3030226d2a37)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#e28c899083818aa2918b919183cc8b96)).
 
 ------------------------------------------------------------------------
 
