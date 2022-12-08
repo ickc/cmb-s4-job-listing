@@ -62,6 +62,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
 - [Postdoc on SO analysis at Princeton, Jan 20, 2023](#princeton)
 - [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
+- [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
@@ -152,6 +153,12 @@ The Astrophysics Research Centre (ARC) at the University of KwaZulu-Natal (UKZN)
 
 ------------------------------------------------------------------------
 
+**[Postdoc on lunar radio astronomy at Brookhaven, until filled](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-lunar-radio-astronomy-instrumentation-development/3437/40212359728)**
+
+A successful candidate will focus on the LuSEE-Night project, which will land a Dark Ages pathfinder experiment on the far side of the Moon. LuSEE-Night is scheduled to fly on the CS-3 mission of NASA Commercial Lunar Payload Services in the second part of 2025. LuSEE-Night will demonstrate technical feasibility of the low-frequency (0.1-50MHz) radio observations from the far-side of the Moon. It will characterize the lunar far-side as a radio astronomy observatory and identify main sources of systematic errors for high precision observations. We are looking for a physicist to work on hardware, instrument development, and preparation for data analysis. Successful candidate will work with Anže Slosar. You will enjoy a high level of interaction with an international and multi-cultural scientific community.
+
+------------------------------------------------------------------------
+
 **[Postdoc at SISSA, Dec 30, 2022](https://academicjobsonline.org/ajo/jobs/23549)**
 
 The Astrophysics & Cosmology Group ([www.sissa.it/ap](http://www.sissa.it/ap)) of the International School for Advanced Studies of Trieste (SISSA, Italy) is looking for Post-Doc researchers in the area of Cosmic Microwave Background Polarization Anisotropies and Cross-Correlation with the Large Scale Structure (Euclid), for 2 years to start in 2023.
@@ -162,7 +169,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#e28c899083818aa2918b919183cc8b96)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#b1dfdac3d0d2d9f1c2d8c2c2d09fd8c5)).
 
 ------------------------------------------------------------------------
 
