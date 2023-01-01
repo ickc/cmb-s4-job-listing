@@ -52,60 +52,17 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Three positions on SO:UK SATs at U. Manchester, Dec 6-9, 2022](#manchester)
-- [Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](#upenn)
-- [Asst professor in Physics (Astrophysics or Cosmology) at Southern Methodist University, Dec 15, 2022](#smu)
-- [3 postdocs in modeling and CMB data analysis in France, Dec 15, 2022](#batman)
 - [Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](#asu)
 - [Postdoc at SISSA, Dec 30, 2022](#sissa)
 - [Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](#ucr)
 - [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
+- [Fixed term staff position at INFN, Jan 16, 2023](#infn)
 - [Postdoc on SO analysis at Princeton, Jan 20, 2023](#princeton)
 - [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**Three positions on SO:UK SATs at U Manchester, Dec 6-9, 2022**
-
-The Jodrell Bank Centre for Astrophysics at The University of Manchester is advertising three openings in CMB instrumentation. All positions are to work as part of the SO:UK team on the development of two additional Small Aperture Telescopes (SATs) for Simons Observatory.
-
-Firstly, we are looking for someone with significant experience to take a leadership role in the overall delivery of the two-SAT program, including the full system testing of both receivers at Jodrell Bank Observatory as well as the site development in Chile. The successful applicant will be appointed as a Senior Research Fellow and the advert (due date Dec 9) is here: <https://www.jobs.ac.uk/job/CUX443/senior-research-fellow-simons-observatory-uk-project>
-
-The second opening is for a postdoctoral research associate to work on two specific aspects of the instrument development: (i) setting the requirements for, and then validating the performance of, the Kinetic Inductance Detectors (KIDs) and their associated readout and (ii) implementation and testing of the half-wave plate rotation mechanism for both SATs. The advert (due date Dec 9) is here: <https://www.jobs.ac.uk/job/CUX477/research-associate-simons-observatoryuk-project>
-
-The third opening is for a skilled machinist (Senior Technician) to support the project, to be based in the mechanical workshop at Jodrell Bank Observatory. The advert (due date Dec 6) is here: <https://www.jobs.ac.uk/job/CUX489/senior-technician-simons-observatoryuk-project>
-
-------------------------------------------------------------------------
-
-**[Postdoc in Cosmological Data Analysis at Univ. of Pennsylvania, Dec 10, 2022](https://theapplicantmanager.com/jobs?pos=sm107&fs=1.0em)**
-
-The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. Our group is committed to providing a welcoming and vibrant intellectual environment for all. We are particularly interested in candidates who are underrepresented minorities and in candidates who will foster a commitment to improving diversity, equity, and inclusion in the department.  
-  
-The postdoctoral researcher will play a major role in the development of infrastructure for analysis of CMB data from the Simons Observatory and will also have the opportunity to participate in analysis efforts within the Atacama Cosmology Telescope (ACT) collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST.  The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure as well as those working on galaxy surveys like DES.  Candidates with at least one year of prior experience in CMB analysis will be strongly preferred.
-
-------------------------------------------------------------------------
-
-**[Asst Professor in Physics (Astrophysics/Cosmology) at Southern Methodist University, Dec 15, 2022](https://jobregister.aas.org/ad/7d0c5d78)**
-
-The Department of Physics at Southern Methodist University invites applications for a tenure-track faculty position in the area of Astrophysics or Cosmology, broadly defined. While an appointment at the rank of tenure-track Assistant Professor is anticipated, extraordinary candidates at all levels will be considered. Candidates must have a Ph.D. in physics, astronomy, or a closely related field; postdoctoral experience; and a record of research excellence. The successful candidate will develop a vigorous research program, supervise graduate students, and teach at both undergraduate and graduate levels. Faculty are expected to teach and mentor diverse students within the Physics program and throughout the University. The appointment will start in August 2023 or later.
-
-Southern Methodist University is a research intensive, private university centrally located in Dallas, Texas. Current research in the Department of Physics at SMU focuses on the fields of observational and theoretical astrophysics and cosmology, especially in the areas of supermassive black holes, supernovae, early universe cosmology, and large-scale structure. SMU faculty are deeply engaged in DESI, Simons Observatory, and CMB-S4. The department also features strong research programs in experimental and theoretical particle physics. The Department of Physics aims to provide a collegial scientific community with equitable access and participation for all individuals and groups, and recognizes the value of this participation to the quality of our research.
-
-------------------------------------------------------------------------
-
-**[3 postdocs in modeling and CMB data analysis in France, Dec 15, 2022](https://jobregister.aas.org/ad/f152a0e9)**
-
-The French ANR funded project BATMAN (Better Accuracy and robusTness for Mass Assessment of Neutrino) is inviting applications for three post-doctoral positions in cosmology (two in Orsay, one in Toulouse). The project aims at using the combined current CMB observations with better and coherent modelling of astrophysics signals and systematics to constrain the neutrino mass and extensions of the standard LCDM model. 
-
-Reionisation, large scale structures and CMB at the research institute of space astrophysics (IAS, Orsay, France) to work with Marian Douspis to revisit the constraints on the reionisation history from current observations and how it can be described by a generic model to be used as input in CMB probes of reionisation (TT damping, EE bump, kSZ spectrum), and upcoming 21cm observations. See [Description](https://batman-anr.ias.universite-paris-saclay.fr/sites/batman-anr/files/BATMAN_PostDoc_Reionisation.pdf)
-
-Clusters of galaxies and large scale structures at the Institute of Research in Astrophysics and Planetology (IRAP,Toulouse, France) to work with Etienne Pointecouteau to revisit the state-of-the-art gas model in massive halos to build up coherent models for probes such as tSZ and kSZ power spectra, SZ cluster number counts and kSZ pairwise velocities. See [Description](https://batman-anr.ias.universite-paris-saclay.fr/sites/batman-anr/files/BATMAN_PostDoc_GasPhysics.pdf)
-
-CMB cosmology and neutrino physics (IJCLab, Orsay, France) to work with Matthieu Tristram on the exploitation of the latest CMB measurements to derive robust and precise constraints on the neutrino sector including the neutrino hierarchy but not exclusively. See [Description](https://batman-anr.ias.universite-paris-saclay.fr/sites/batman-anr/files/BATMAN_PostDoc_CMB.pdf)
 
 ------------------------------------------------------------------------
 
@@ -141,6 +98,19 @@ The Chilean scientific community has access to world class astronomical faciliti
 
 ------------------------------------------------------------------------
 
+**[Fixed term staff position at INFN, Jan 16, 2023](https://reclutamento.dsi.infn.it)**
+
+The Ferrara division of the Italian Istituto Nazionale di Fisica Nucleare (INFN) is hiring a fixed-term staff member to work within the “Spoke 3 Astrophysics and Cosmos Observations” of the NextGenerationEU-funded project “National Centre for HPC, Big Data and Quantum Computing”. The successful candidate will collaborate closely with Dr. Massimiliano Lattanzi and Dr. Martina Gerbino on tasks related to HPC codes enabling and optimization, Big Data and Machine Learning, with applications to data analysis and scientific exploitation pipelines for future cosmological surveys. Educational background and previous experience in the fields of interest of the National Centre, including with application to different case studies, will be positively evaluated. Expertise in cosmology is definitely welcome but not required. Physicists, engineers and computer scientists are welcome to apply.
+
+The position is for two years. Salary and benefits are equivalent to those of an INFN entry-level permanent researcher (currently ~35000€/year gross salary). Partial tax exemption may be granted to candidates who fulfill certain requirements.  
+Dr. Lattanzi and Dr. Gerbino are members of the Cosmology group at the University of Ferrara (UNIFE). The group is largely involved in synergic activities within the “National Centre for HPC, Big Data and Quantum Computing”. The successful candidate will have the opportunity to collaborate with a recently hired UNIFE fixed-term researcher, Dr. Thejs Brinckmann, on complementary tasks, as well as with the other group members involved in the HPC Centre.
+
+The Ferrara Cosmology group is active in a wide range of complementary areas of research in cosmology, from cosmo-particle to development and validation of data analysis pipelines. The group is deeply involved in several scientific collaborations such as LiteBIRD, Euclid, LSPE, Simons Observatory, CMB-S4. More information about the Cosmology group can be found at <https://www.fe.infn.it/cosmologia/?lang=en>.
+
+The hiring process is handled by the INFN central administration. The candidate is requested to indicate the preference for the INFN Ferrara unit when applying for the position. Candidates will be evaluated on the basis of their CV and of an interview. The interview will be conducted remotely between February 13 and March 15, 2023, exact calendar TBD and communicated to candidates. For further information and how to apply, please check the call: <https://jobs.dsi.infn.it/concorsi/selezione/getfile.php?filename=1645_selezione.pdf>. Unfortunately, the call description is in Italian only. Please feel free to contact Massimiliano Lattanzi ([\[email protected\]]()) and/or Martina Gerbino ([\[email protected\]](/cdn-cgi/l/email-protection#c6a1a3b4a4afa8a9ab86a0a3e8afa8a0a8e8afb2)), should you have any questions. Please note that, however, an English version of the online portal for submissions is available upon selection. Go to [https://reclutamento.dsi.infn.it](https://reclutamento.dsi.infn.it/) and select the English version on the bottom left, then search for the active call n. 25102.
+
+------------------------------------------------------------------------
+
 **[Postdoc on SO analysis at Princeton, Jan 20, 2023](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=28501)**
 
 The Department of Physics at Princeton seeks applicants for a postdoctoral research associate or more senior position to work on data analysis with the Simons Observatory (SO) project. SO is a cosmic microwave background survey experiment currently being built for observations from the Atacama Desert in Chile. The SO analysis group at Princeton, led by Jo Dunkley and Simone Aiola, shares responsibility for making and characterizing sky maps for scientific analysis. The successful candidate will contribute to developing and refining pipelines and methods for generating and characterizing the SO maps, as part of the broader SO data analysis efforts. Appointments are for one year, with the possibility for renewal pending satisfactory performance and continued funding for a total of three years.
@@ -169,7 +139,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#c6a8adb4a7a5ae86b5afb5b5a7e8afb2)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#97f9fce5f6f4ffd7e4fee4e4f6b9fee3)).
 
 ------------------------------------------------------------------------
 
@@ -200,4 +170,4 @@ The Professional Research Experience Program (PREP) encourages applications for 
 
  
 
-Copyright © 2022 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
+Copyright © 2023 · [Parallax Pro CMB-S4](https://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
