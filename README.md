@@ -52,13 +52,8 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](#asu)
-- [Postdoc at SISSA, Dec 30, 2022](#sissa)
-- [Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](#ucr)
-- [Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](#puc)
-- [Fixed term staff position at INFN, Jan 16, 2023](#infn)
-- [Postdoc on SO analysis at Princeton, Jan 20, 2023](#princeton)
 - [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
+- [Postdoctoral Scholar Positions in Cosmic Microwave Background Cosmology / Millimeter-Wave Astrophysics at Florida State University Feb 16, 2023](#fsu)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
@@ -66,60 +61,19 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 ------------------------------------------------------------------------
 
-**[Postdoc in data-driven cosmology at Arizona State University, Dec 23, 2022](https://apply.interfolio.com/115365)**
-
-The Department of Physics in The College of Liberal Arts and Sciences invites applications for a postdoctoral position to work with Professor Simon Foreman on research in cosmology. The primary focus of this position will be on topics relevant to 21cm intensity mapping with the Canadian Hydrogen Intensity Mapping Experiment (CHIME, https://chime-experiment.ca) and upcoming Canadian Hydrogen Observatory and Radio-transient Detector (CHORD, https://arxiv.org/abs/1911.01777), such as the development of novel analysis techniques and theoretical descriptions of expected measurements. However, the successful candidate will have the freedom to also pursue other topics in cosmology relevant to the interests of Prof. Foreman and others at ASU, including but not limited to large-scale structure, gravitational lensing, the cosmic microwave background, and connections between cosmological observables and fundamental physics.
-
-The successful candidate with become part of ASU’s Cosmology Initiative, which bridges the Department of Physics and the School of Earth and Space Exploration and spans experimental, observational, computational, and theoretical cosmology. The Cosmology Initiative includes research into the epoch of reionization with low-frequency radio observations (Judd Bowman, Danny Jacobs), the cosmic microwave background (Alexander van Engelen, Philip Mauskopf), theoretical cosmology (Matthew Baumgart, Damien Easson, Cynthia Keeler, Maulik Parikh, Tanmay Vachaspati), and other topics, and the successful candidate will be encouraged to interact with these and other researchers at ASU. This position will benefit from significant computing support, via ASU Research Computing resources and a group allocation for the CHIME Collaboration on a large external cluster..
-
-------------------------------------------------------------------------
-
-**[Faculty Positions in Particle Astrophysics, Cosmology and Gravitational Waves at UC Riverside, Jan 1, 2023](https://www.physics.ucr.edu/about/employment-opportunities)**
-
-The Department of Physics and Astronomy at the University of California, Riverside invites highly qualified experimental physicists to apply for an Academic-year tenure-track/tenure position in the fields of Particle Astrophysics, Cosmology and Gravitational Waves. We have recently made new faculty appointments in experimental gravitational waves and experimental dark matter searches and expect to make two more appointments that will complement them.
-
-Candidates should possess a record of demonstrated excellence in research. The successful candidate is expected to establish an outstanding and well-funded research program involving graduate students and postdoctoral scientists, and to contribute to departmental teaching at all levels. We are initiating a new experimental group at UC Riverside to augment and complement ongoing efforts in particle physics and astronomy. We are seeking independent researchers, who will build significant on-campus research efforts involving undergraduates, graduate students and postdocs on the forefront experimental programs in this general area of physics. We anticipate that individual hires may work together or on different experimental projects. We seek individuals with strong academic promise/experience, who can build significant research efforts at UCR in forefront areas that will complement existing programs in our department. 
-
-------------------------------------------------------------------------
-
-**[Faculty Position in astronomical instrumentation at PUC, Jan 13, 2023](https://jobregister.aas.org/ad/0c8be06a)**
-
-The School of Engineering at the Pontificia Universidad Católica de Chile, one of the leading engineering academic institutions in Latin America, invites highly qualified candidates to apply for a full-time faculty position at the Assistant or Associate level in the area of Astronomical Instrumentation (AI) at the Department of Electrical Engineering. Exceptional candidates in other areas of electrical engineering will be considered as well. The applicants must have a demonstrated ability and commitment to excellence in independent research and teaching. Previous experience in teaching and research, having led or participated in research and development projects, and having a technological or experimental approach based on the foundations of the discipline are desired.
-
-The successful candidate is expected to carry out teaching not only in AI but also in topics related to the fundamentals of instrumentation, such as electromagnetics, electronics, control, and optics. Research topics other than AI, are also welcomed, especially with other disciplines of engineering, physics and astronomy. Main Duties: High quality teaching at undergraduate and graduate levels primarily at the Department of Electrical Engineering and conducting independent research are mandatory. Additional duties include knowledge transfer and outreach.
-
-Requirements: Applicants are required to hold a Ph.D. degree in Electrical Engineering, Electrical and Computer Engineering, Physics, Astrophysics, or related fields at the time of hiring. The search is open to all areas of astronomical instrumentation, defined as experimental hardware and software developments for the study of the cosmos and aerospace exploration. These areas include but are not limited to: visible and near-infrared spectroscopy and imaging, adaptive optics, millimetric astronomy, data processing and astronomical simulations based on high performance computing. The successful candidate will be affiliated with the Center of Astro Engineering (AIUC, www.aiuc.puc.cl), an interdisciplinary initiative of the Faculties of Engineering and Physics, created to promote the development of astronomical technology in Chile, taking advantage of the presence of major international observatories in the country.
-
-Candidates do not need to be fluent in Spanish at the time of application but should be willing to learn and teach in the language within two years. Fluency in English is a requirement.
-
-Applicants must demonstrate a strong commitment to all aspects of academic life and public good of the institution. They must be highly motivated to continuously improve their teaching skills, have a genuine interest in getting involved with our graduate programs (specially the doctoral program) and be able to develop and maintain an active research agenda leading to high quality publications, securing research grants, generating and participating in interdisciplinary projects, leading scientific and industry-liaison initiatives, strengthening and creating national and international academic networks, etc. The successful candidates may also be expected to create new undergraduate and graduate courses and teach traditional courses in related areas.
-
-The Chilean scientific community has access to world class astronomical facilities present in the country, 10% of the observing time of all telescopes installed in Chile is reserved to the Chilean community.
-
-------------------------------------------------------------------------
-
-**[Fixed term staff position at INFN, Jan 16, 2023](https://reclutamento.dsi.infn.it)**
-
-The Ferrara division of the Italian Istituto Nazionale di Fisica Nucleare (INFN) is hiring a fixed-term staff member to work within the “Spoke 3 Astrophysics and Cosmos Observations” of the NextGenerationEU-funded project “National Centre for HPC, Big Data and Quantum Computing”. The successful candidate will collaborate closely with Dr. Massimiliano Lattanzi and Dr. Martina Gerbino on tasks related to HPC codes enabling and optimization, Big Data and Machine Learning, with applications to data analysis and scientific exploitation pipelines for future cosmological surveys. Educational background and previous experience in the fields of interest of the National Centre, including with application to different case studies, will be positively evaluated. Expertise in cosmology is definitely welcome but not required. Physicists, engineers and computer scientists are welcome to apply.
-
-The position is for two years. Salary and benefits are equivalent to those of an INFN entry-level permanent researcher (currently ~35000€/year gross salary). Partial tax exemption may be granted to candidates who fulfill certain requirements.  
-Dr. Lattanzi and Dr. Gerbino are members of the Cosmology group at the University of Ferrara (UNIFE). The group is largely involved in synergic activities within the “National Centre for HPC, Big Data and Quantum Computing”. The successful candidate will have the opportunity to collaborate with a recently hired UNIFE fixed-term researcher, Dr. Thejs Brinckmann, on complementary tasks, as well as with the other group members involved in the HPC Centre.
-
-The Ferrara Cosmology group is active in a wide range of complementary areas of research in cosmology, from cosmo-particle to development and validation of data analysis pipelines. The group is deeply involved in several scientific collaborations such as LiteBIRD, Euclid, LSPE, Simons Observatory, CMB-S4. More information about the Cosmology group can be found at <https://www.fe.infn.it/cosmologia/?lang=en>.
-
-The hiring process is handled by the INFN central administration. The candidate is requested to indicate the preference for the INFN Ferrara unit when applying for the position. Candidates will be evaluated on the basis of their CV and of an interview. The interview will be conducted remotely between February 13 and March 15, 2023, exact calendar TBD and communicated to candidates. For further information and how to apply, please check the call: <https://jobs.dsi.infn.it/concorsi/selezione/getfile.php?filename=1645_selezione.pdf>. Unfortunately, the call description is in Italian only. Please feel free to contact Massimiliano Lattanzi ([\[email protected\]]()) and/or Martina Gerbino ([\[email protected\]](/cdn-cgi/l/email-protection#02656770606b6c6d6f4264672c6b6c646c2c6b76)), should you have any questions. Please note that, however, an English version of the online portal for submissions is available upon selection. Go to [https://reclutamento.dsi.infn.it](https://reclutamento.dsi.infn.it/) and select the English version on the bottom left, then search for the active call n. 25102.
-
-------------------------------------------------------------------------
-
-**[Postdoc on SO analysis at Princeton, Jan 20, 2023](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=28501)**
-
-The Department of Physics at Princeton seeks applicants for a postdoctoral research associate or more senior position to work on data analysis with the Simons Observatory (SO) project. SO is a cosmic microwave background survey experiment currently being built for observations from the Atacama Desert in Chile. The SO analysis group at Princeton, led by Jo Dunkley and Simone Aiola, shares responsibility for making and characterizing sky maps for scientific analysis. The successful candidate will contribute to developing and refining pipelines and methods for generating and characterizing the SO maps, as part of the broader SO data analysis efforts. Appointments are for one year, with the possibility for renewal pending satisfactory performance and continued funding for a total of three years.
-
-------------------------------------------------------------------------
-
 **[Postdoc on HIRAX at UKZN, Jan 31, 2023](https://jobregister.aas.org/ad/c5213b1a)**
 
 The Astrophysics Research Centre (ARC) at the University of KwaZulu-Natal (UKZN) is offering postdoctoral research positions in the area of radio astronomy instrumentation and analysis. We seek highly qualified candidates to work on the Hydrogen Intensity and Real-time Analysis eXperiment (HIRAX), a radio telescope array that is being led by UKZN, which has key science goals of 21cm cosmology, transients, pulsars, and hydrogen absorbers. HIRAX will deploy its first dishes at the Karoo site by mid-2023. Successful candidates will have the opportunity to work on a combination of radio hardware design and integration, instrument characterisation, simulations and forecasting, and analysis techniques for large data sets. There are additional opportunities to perform joint work within other ARC research areas, including galaxy evolution, clusters of galaxies, the cosmic microwave background, and theoretical cosmology.
+
+------------------------------------------------------------------------
+
+**[Postdoctoral Scholar Positions in Cosmic Microwave Background Cosmology / Millimeter-Wave Astrophysics at Florida State University Feb 16, 2023](https://jobregister.aas.org/ad/26f952cf)**
+
+The Department of Physics at Florida State University invites applicants for two postdoctoral research positions in Cosmic Microwave Background cosmology and millimeter-wave astrophysics. Appointments will begin in Fall 2023 or sooner. Professor Kevin Huffenberger will supervise the positions.
+
+The research will address (1) millimeter-wavelength polarization foregrounds in the Milky Way and their implications for B-mode measurements of gravitational waves from inflation and (2) transients and other point sources in the datasets from the Atacama Cosmology Telescope and the Simons Observatory. The work will support projects externally funded by NASA and NSF.
+
+Other strengths of the FSU astrophysics group include studies of magnetohydrodynamic turbulence via simulations and the physics of stars and supernovae.
 
 ------------------------------------------------------------------------
 
@@ -139,7 +93,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#315f5a435052597142584242501f5845)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#97f9fce5f6f4ffd7e4fee4e4f6b9fee3)).
 
 ------------------------------------------------------------------------
 
