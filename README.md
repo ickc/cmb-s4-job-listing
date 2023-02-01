@@ -54,6 +54,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
 - [Postdoctoral Scholar Positions in Cosmic Microwave Background Cosmology / Millimeter-Wave Astrophysics at Florida State University Feb 16, 2023](#fsu)
+- [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
@@ -77,6 +78,12 @@ Other strengths of the FSU astrophysics group include studies of magnetohydrodyn
 
 ------------------------------------------------------------------------
 
+**[Software Engineer for Simons Observatory at Princeton, until filled](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=28801)**
+
+The department of Physics at Princeton seeks applicants for a research software engineer to work on the Simons Observatory (SO) project. SO is a millimeter-wave survey experiment currently being built for observations from the Atacama Desert in Chile, with a variety of scientific goals from probing the early universe to detecting millimeter-wave transients. The SO data analysis group at Princeton, led by Simone Aiola and Jo Dunkley, shares responsibility for producing and delivering sky maps and light curves for scientific analysis. The position will involve working with the SO Data Management team on topics including automation of the SO pipeline on HPC systems, algorithm development for optimization of research software, packaging and deployment of research software, and aspects of internal and public delivery of the SO data and software. This position is based in Princeton, NJ. Appointments are initially for one year, with the possibility for renewal pending satisfactory performance and continued funding.
+
+------------------------------------------------------------------------
+
 **[Postdoc on lunar radio astronomy at Brookhaven, until filled](https://jobs.bnl.gov/job/upton/postdoctoral-research-associate-lunar-radio-astronomy-instrumentation-development/3437/40212359728)**
 
 A successful candidate will focus on the LuSEE-Night project, which will land a Dark Ages pathfinder experiment on the far side of the Moon. LuSEE-Night is scheduled to fly on the CS-3 mission of NASA Commercial Lunar Payload Services in the second part of 2025. LuSEE-Night will demonstrate technical feasibility of the low-frequency (0.1-50MHz) radio observations from the far-side of the Moon. It will characterize the lunar far-side as a radio astronomy observatory and identify main sources of systematic errors for high precision observations. We are looking for a physicist to work on hardware, instrument development, and preparation for data analysis. Successful candidate will work with Anže Slosar. You will enjoy a high level of interaction with an international and multi-cultural scientific community.
@@ -93,7 +100,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#97f9fce5f6f4ffd7e4fee4e4f6b9fee3)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#7917120b181a11390a100a0a1857100d)).
 
 ------------------------------------------------------------------------
 
