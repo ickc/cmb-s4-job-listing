@@ -54,6 +54,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
 - [Postdoctoral Scholar Positions in Cosmic Microwave Background Cosmology / Millimeter-Wave Astrophysics at Florida State University Feb 16, 2023](#fsu)
+- [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
@@ -75,6 +76,16 @@ The Department of Physics at Florida State University invites applicants for two
 The research will address (1) millimeter-wavelength polarization foregrounds in the Milky Way and their implications for B-mode measurements of gravitational waves from inflation and (2) transients and other point sources in the datasets from the Atacama Cosmology Telescope and the Simons Observatory. The work will support projects externally funded by NASA and NSF.
 
 Other strengths of the FSU astrophysics group include studies of magnetohydrodynamic turbulence via simulations and the physics of stars and supernovae.
+
+------------------------------------------------------------------------
+
+**[Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=206479#jobDetails=2054517_5460)**
+
+The successful applicant will work within the Astronomy Instrumentation Group (AIG) on an exciting and ambitious research programme to develop and deploy full Microwave Kinetic Inductance Detector (MKID) based focal planes as part of the Simons Observatory. The arrays will be integrated into full optical and cryogenic systems being built at Cardiff and will be installed on the Simons Observatory’s 6-m large aperture telescope and two additional small aperture telescopes. This project will be the first deployment of Kinetic Inductance Detectors in a Cosmic Microwave Background (CMB) experiment and will accelerate the use of this technology for future CMB applications.
+
+The successful applicant will work with a team of researchers developing detector technology at Cardiff as well as the wider Simon Observatory Collaboration and will contribute to the development of MKID based multi-chroic and polarisation-sensitive detector modules. The successful applicant will also work closely with senior process engineers working in the new Institute for Compound Semiconductors (ICS) facility at Cardiff to develop the processing techniques and designs required to realise the MKID array architecture and meet the stringent requirements of a world-class observatory.
+
+This post provides a unique opportunity for the successful candidate to demonstrate work on a large-scale and prestigious project as well as creating opportunities for the deployment of MKID technology in future CMB experiments.
 
 ------------------------------------------------------------------------
 
@@ -100,7 +111,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#ee80859c8f8d86ae9d879d9d8fc0879a)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#f09e9b82919398b08399838391de9984)).
 
 ------------------------------------------------------------------------
 
