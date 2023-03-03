@@ -52,30 +52,35 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoc on HIRAX at UKZN, Jan 31, 2023](#hirax)
-- [Postdoctoral Scholar Positions in Cosmic Microwave Background Cosmology / Millimeter-Wave Astrophysics at Florida State University Feb 16, 2023](#fsu)
+- [Postdoctoral research Associate in Instrumentation at Cardiff, Mar 13, 2023](#cardiff2)
 - [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
+- [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
 
-------------------------------------------------------------------------
-
-**[Postdoc on HIRAX at UKZN, Jan 31, 2023](https://jobregister.aas.org/ad/c5213b1a)**
-
-The Astrophysics Research Centre (ARC) at the University of KwaZulu-Natal (UKZN) is offering postdoctoral research positions in the area of radio astronomy instrumentation and analysis. We seek highly qualified candidates to work on the Hydrogen Intensity and Real-time Analysis eXperiment (HIRAX), a radio telescope array that is being led by UKZN, which has key science goals of 21cm cosmology, transients, pulsars, and hydrogen absorbers. HIRAX will deploy its first dishes at the Karoo site by mid-2023. Successful candidates will have the opportunity to work on a combination of radio hardware design and integration, instrument characterisation, simulations and forecasting, and analysis techniques for large data sets. There are additional opportunities to perform joint work within other ARC research areas, including galaxy evolution, clusters of galaxies, the cosmic microwave background, and theoretical cosmology.
+ 
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral Scholar Positions in Cosmic Microwave Background Cosmology / Millimeter-Wave Astrophysics at Florida State University Feb 16, 2023](https://jobregister.aas.org/ad/26f952cf)**
+**[Postdoctoral Research Associate in Instrumention at Cardiff, Mar 13, 2023](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=2056576_5460)**
 
-The Department of Physics at Florida State University invites applicants for two postdoctoral research positions in Cosmic Microwave Background cosmology and millimeter-wave astrophysics. Appointments will begin in Fall 2023 or sooner. Professor Kevin Huffenberger will supervise the positions.
-
-The research will address (1) millimeter-wavelength polarization foregrounds in the Milky Way and their implications for B-mode measurements of gravitational waves from inflation and (2) transients and other point sources in the datasets from the Atacama Cosmology Telescope and the Simons Observatory. The work will support projects externally funded by NASA and NSF.
-
-Other strengths of the FSU astrophysics group include studies of magnetohydrodynamic turbulence via simulations and the physics of stars and supernovae.
+The Astronomy Instrumentation Group at Cardiff University is seeking applications to fill the position of Postdoctoral Research Associate.   
+  
+The research associate will work with a team of researchers developing instrumentation for current and future Cosmic Microwave Background (CMB) experiments, including the Simons Observatory, CMB-S4, and the LiteBIRD satellite mission.  
+  
+This research will cover significant aspects of the design, integration and testing of large ground-based CMB instruments, through to the design, development and qualification of critical optical components for future satellite missions.  
+  
+There will be a particular focus on the development of additional receivers and optics tubes for the Simons Observatory.  
+  
+The research associate will work within the active and diverse Astronomy Instrumentation Group (AIG) at Cardiff. The AIG has a rich heritage in the field of mm and submm instrumentation, making significant contributions to many high-profile ground, balloon and space-based experiments.   
+  
+The research associate will also work in collaboration with colleagues from our industrial partners, QMC Instruments Ltd and Sequestim Ltd, with a view to identifying commercial applications for the research.   
+  
+Applicants are strongly advised to contact the PI Prof Peter Hargrave ahead of application.  
+  
 
 ------------------------------------------------------------------------
 
@@ -86,6 +91,17 @@ The successful applicant will work within the Astronomy Instrumentation Group (A
 The successful applicant will work with a team of researchers developing detector technology at Cardiff as well as the wider Simon Observatory Collaboration and will contribute to the development of MKID based multi-chroic and polarisation-sensitive detector modules. The successful applicant will also work closely with senior process engineers working in the new Institute for Compound Semiconductors (ICS) facility at Cardiff to develop the processing techniques and designs required to realise the MKID array architecture and meet the stringent requirements of a world-class observatory.
 
 This post provides a unique opportunity for the successful candidate to demonstrate work on a large-scale and prestigious project as well as creating opportunities for the deployment of MKID technology in future CMB experiments.
+
+------------------------------------------------------------------------
+
+**[Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 213, 2023](https://my.physics.illinois.edu/submit/)**
+
+The experimental cosmology group at the University of Illinois at Urbana-Champaign, led by Professors Jeff Filippini and Joaquin Vieira, invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will contribute to one or more current efforts:
+
+- Cryogenic camera development and deployment for the Terahertz Intensity Mapper (TIM). TIM is a KID spectrometer that will measure cosmic star formation history through a path-breaking measurement of line-intensity mapping from an Antarctic balloon.
+- Next-generation measurements of the cosmic microwave background. The group is developing readout and optics for CMB-S4 (next-generation ground-based program) and instrumentation for Taurus (ultra-long-duration balloon mission to measure reionization and Galactic foregrounds). Analysis opportunities are available on current CMB data sets, including data from the December 2022 science flight of SPIDER.
+
+The successful candidate may also participate in the group’s broader analysis and instrumentation efforts, and in their own related projects. Please contact Prof. Filippini ([\[email protected\]]()) with inquiries.
 
 ------------------------------------------------------------------------
 
@@ -111,7 +127,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#92fcf9e0f3f1fad2e1fbe1e1f3bcfbe6)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#a9c7c2dbc8cac1e9dac0dadac887c0dd)).
 
 ------------------------------------------------------------------------
 
