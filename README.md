@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoctoral research Associate in Instrumentation at Cardiff, Mar 13, 2023](#cardiff2)
 - [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
+- [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
@@ -94,7 +95,7 @@ This post provides a unique opportunity for the successful candidate to demonstr
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 213, 2023](https://my.physics.illinois.edu/submit/)**
+**[Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](https://my.physics.illinois.edu/submit/)**
 
 The experimental cosmology group at the University of Illinois at Urbana-Champaign, led by Professors Jeff Filippini and Joaquin Vieira, invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will contribute to one or more current efforts:
 
@@ -102,6 +103,16 @@ The experimental cosmology group at the University of Illinois at Urbana-Champai
 - Next-generation measurements of the cosmic microwave background. The group is developing readout and optics for CMB-S4 (next-generation ground-based program) and instrumentation for Taurus (ultra-long-duration balloon mission to measure reionization and Galactic foregrounds). Analysis opportunities are available on current CMB data sets, including data from the December 2022 science flight of SPIDER.
 
 The successful candidate may also participate in the group’s broader analysis and instrumentation efforts, and in their own related projects. Please contact Prof. Filippini ([\[email protected\]]()) with inquiries.
+
+.
+
+------------------------------------------------------------------------
+
+**[Faculty position in Physics at SISSA, May 19, 2023](https://academicjobsonline.org/ajo/jobs/24553)**
+
+The Physics Area at the “Scuola Internazionale Superiore di Studi Avanzati” (SISSA) in Trieste, Italy, invites expressions of interest for a faculty position from outstanding female candidates with a strong research record in any of the fields covered by the Area (Astrophysics and Cosmology, Astroparticle Physics, Condensed Matter Physics, Statistical Physics, Statistical Physics of Biological Systems, Theoretical and Scientific Data Science, Theoretical Particle Physics). The appointment procedure will be activated at the assistant professor, tenure-track, level\*.
+
+The successful candidate is expected to work as an independent principal investigator, promoting and leading research activities to complement the current expertise of the present SISSA groups, as well as to attract external funds, take an active part in the SISSA PhD teaching programme, and supervise graduate students (selected on a competitive basis and funded by bursaries provided by SISSA).
 
 ------------------------------------------------------------------------
 
@@ -127,7 +138,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#1c72776e7d7f745c6f756f6f7d327568)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#f39d988192909bb3809a808092dd9a87)).
 
 ------------------------------------------------------------------------
 
