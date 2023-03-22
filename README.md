@@ -53,6 +53,7 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Postdoctoral research Associate in Instrumentation at Cardiff, Mar 13, 2023](#cardiff2)
+- [Postdoctoral research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](#manchester)
 - [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
@@ -92,6 +93,12 @@ The successful applicant will work within the Astronomy Instrumentation Group (A
 The successful applicant will work with a team of researchers developing detector technology at Cardiff as well as the wider Simon Observatory Collaboration and will contribute to the development of MKID based multi-chroic and polarisation-sensitive detector modules. The successful applicant will also work closely with senior process engineers working in the new Institute for Compound Semiconductors (ICS) facility at Cardiff to develop the processing techniques and designs required to realise the MKID array architecture and meet the stringent requirements of a world-class observatory.
 
 This post provides a unique opportunity for the successful candidate to demonstrate work on a large-scale and prestigious project as well as creating opportunities for the deployment of MKID technology in future CMB experiments.
+
+------------------------------------------------------------------------
+
+**[Postdoctoral Research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](https://www.jobs.manchester.ac.uk/displayjob.aspx?isPreview=Yes&jobid=25047&advert=external)**
+
+The Jodrell Bank Centre for Astrophysics (JBCA), part of the department of Physics & Astronomy, seeks a Post-Doctoral Research Associate(s) to work in the area of CMB foregrounds. Manchester has significant involvement in several leading CMB and foreground experiments including the C-Band All-Sky Survey (C-BASS), Simons Observatory (SO), and JAXA’s LiteBird space mission. We are leading several areas, with a particular emphasis on astrophysical foregrounds and systematic effects mitigation. The focus will be on understanding and quantifying foregrounds emission using the latest data (e.g. C-BASS and COMAP), both for CMB foreground removal and for understanding the interstellar medium (e.g. emission mechanisms, Galactic structure, Galactic magnetic field, star formation). Ideally, we are looking for someone who crosses the divide between CMB cosmology and astrophysical foregrounds research. In particular, we are looking to develop a foregrounds pipeline for the LiteBird mission. The successful candidate(s) will have the opportunity to work on one or more of our projects, collaborating with our other postdocs/students, depending on their interest and skills.
 
 ------------------------------------------------------------------------
 
@@ -138,7 +145,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#224c495043414a62514b5151430c4b56)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#b0dedbc2d1d3d8f0c3d9c3c3d19ed9c4)).
 
 ------------------------------------------------------------------------
 
