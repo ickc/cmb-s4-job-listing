@@ -38,7 +38,7 @@ CMB-S4 Next Generation CMB Experiment
 - [/ news /](https://cmb-s4.org/news/)
   - [events](https://cmb-s4.org/news/events/)
   - [press](https://cmb-s4.org/news/press/)
-  - [publications](https://cmb-s4.org/team/publications/)
+  - [publications](https://cmb-s4.org/news/publications/)
 - [/ governance /](https://cmb-s4.org/governance/)
   - [overview](https://cmb-s4.org/governance/)
   - [code of conduct](https://cmb-s4.org/governance/code-of-conduct/)
@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoctoral research Associate in Instrumentation at Cardiff, Mar 13, 2023](#cardiff2)
 - [Postdoctoral research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](#manchester)
 - [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
+- [Postdoctoral Research Associate at Cardiff, Apr 14, 2023](#cardiff3)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
@@ -102,6 +103,18 @@ The Jodrell Bank Centre for Astrophysics (JBCA), part of the department of Physi
 
 ------------------------------------------------------------------------
 
+**[Postdoctoral Research Associate at Cardiff, Apr 14, 2023](https://jobregister.aas.org/ad/6ee56e4f)**
+
+The Astronomy Instrumentation Group (AIG) at Cardiff University is seeking applications for a new postdoctoral research associate in experimental cosmology. This position forms a central part of a UKRI Future Leaders Fellowship to develop and demonstrate novel superconducting detector technology and measurement techniques for line intensity mapping (LIM) at millimetre and sub-millimetre wavelengths (mm-LIM).
+
+LIM is an emerging observational technique that can provide a new probe of large- scale structure (LSS) throughout the history of the Universe. LIM uses low angular resolution, spectroscopic observations of atomic or molecular emission lines to trace the large-scale fluctuations in the matter distribution. Knowledge of the rest-frame wavelength uniquely maps the spectral direction to redshift, leading to a rich astrophysical dataset that can be used to map the 3D distribution of LSS out to high-redshift.
+
+The goal of this project is to establish mm-LIM as an independent probe of astrophysics and cosmology using large-format arrays of thin-film superconducting spectrometers. As the successful candidate, you will have the opportunity to engage with all aspects of the design, fabrication, testing, integration, and deployment of the first generation of ground-based instruments optimised for mm-LIM. Prior experience in these areas would be desirable, but not a requirement.
+
+Working closely with PI Dr Pete Barry, you will join the SPT-SLIM collaboration, an international effort to construct a mm-LIM camera for the South Pole Telescope that is scheduled for its first deployment in Autumn/Winter 2023. You’ll also become a member of the MUSCAT collaboration, a bilateral partnership between UK and Mexican institutions to coordinate one of the primary receivers at the 50-m Large Millimeter Telescope in Mexico. Through these major projects, you’ll have access to a range of opportunities to undertake lead roles in the technical design, manufacture, characterisation, and deployment of novel spectroscopic focal plane technology, all the way through to the development of the data analysis pipelines and final science data products.
+
+------------------------------------------------------------------------
+
 **[Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](https://my.physics.illinois.edu/submit/)**
 
 The experimental cosmology group at the University of Illinois at Urbana-Champaign, led by Professors Jeff Filippini and Joaquin Vieira, invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will contribute to one or more current efforts:
@@ -145,7 +158,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#4e20253c2f2d260e3d273d3d2f60273a)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#c9a7a2bba8aaa189baa0babaa8e7a0bd)).
 
 ------------------------------------------------------------------------
 
