@@ -35,7 +35,8 @@ CMB-S4 Next Generation CMB Experiment
   - [teachers](https://cmb-s4.org/outreach/teachers/)
   - [students](https://cmb-s4.org/outreach/students/)
   - [scientist profiles](https://cmb-s4.org/outreach/scientist-of-the-week/)
-- [/ news /](https://cmb-s4.org/news/)
+- [/ news & publications /](https://cmb-s4.org/news/)
+  - [news](https://cmb-s4.org/news/)
   - [events](https://cmb-s4.org/news/events/)
   - [press](https://cmb-s4.org/news/press/)
   - [publications](https://cmb-s4.org/news/publications/)
@@ -158,7 +159,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#c9a7a2bba8aaa189baa0babaa8e7a0bd)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#6806031a090b00281b011b1b0946011c)).
 
 ------------------------------------------------------------------------
 
