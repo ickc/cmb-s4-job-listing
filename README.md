@@ -53,10 +53,10 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoctoral research Associate in Instrumentation at Cardiff, Mar 13, 2023](#cardiff2)
 - [Postdoctoral research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](#manchester)
 - [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
 - [Postdoctoral Research Associate at Cardiff, Apr 14, 2023](#cardiff3)
+- [Research fellow in Cosmology at Sussex, May 2, 2023](#sussex)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
@@ -64,27 +64,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
-
- 
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Research Associate in Instrumention at Cardiff, Mar 13, 2023](https://krb-sjobs.brassring.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=6#jobDetails=2056576_5460)**
-
-The Astronomy Instrumentation Group at Cardiff University is seeking applications to fill the position of Postdoctoral Research Associate.   
-  
-The research associate will work with a team of researchers developing instrumentation for current and future Cosmic Microwave Background (CMB) experiments, including the Simons Observatory, CMB-S4, and the LiteBIRD satellite mission.  
-  
-This research will cover significant aspects of the design, integration and testing of large ground-based CMB instruments, through to the design, development and qualification of critical optical components for future satellite missions.  
-  
-There will be a particular focus on the development of additional receivers and optics tubes for the Simons Observatory.  
-  
-The research associate will work within the active and diverse Astronomy Instrumentation Group (AIG) at Cardiff. The AIG has a rich heritage in the field of mm and submm instrumentation, making significant contributions to many high-profile ground, balloon and space-based experiments.   
-  
-The research associate will also work in collaboration with colleagues from our industrial partners, QMC Instruments Ltd and Sequestim Ltd, with a view to identifying commercial applications for the research.   
-  
-Applicants are strongly advised to contact the PI Prof Peter Hargrave ahead of application.  
-  
 
 ------------------------------------------------------------------------
 
@@ -113,6 +92,14 @@ LIM is an emerging observational technique that can provide a new probe of large
 The goal of this project is to establish mm-LIM as an independent probe of astrophysics and cosmology using large-format arrays of thin-film superconducting spectrometers. As the successful candidate, you will have the opportunity to engage with all aspects of the design, fabrication, testing, integration, and deployment of the first generation of ground-based instruments optimised for mm-LIM. Prior experience in these areas would be desirable, but not a requirement.
 
 Working closely with PI Dr Pete Barry, you will join the SPT-SLIM collaboration, an international effort to construct a mm-LIM camera for the South Pole Telescope that is scheduled for its first deployment in Autumn/Winter 2023. You’ll also become a member of the MUSCAT collaboration, a bilateral partnership between UK and Mexican institutions to coordinate one of the primary receivers at the 50-m Large Millimeter Telescope in Mexico. Through these major projects, you’ll have access to a range of opportunities to undertake lead roles in the technical design, manufacture, characterisation, and deployment of novel spectroscopic focal plane technology, all the way through to the development of the data analysis pipelines and final science data products.
+
+------------------------------------------------------------------------
+
+**[Research fellow in Cosmology at Sussex, May 2, 2023](https://www.sussex.ac.uk/about/jobs/research-fellow-cosmology-ref-10864)**
+
+We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
+
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#5e2d702937323537302d1e2d2b2d2d3b26703f3d702b35)) for informal enquiries.
 
 ------------------------------------------------------------------------
 
@@ -159,7 +146,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#46282d3427252e06352f353527682f32)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#137d786172707b53607a6060723d7a67)).
 
 ------------------------------------------------------------------------
 
