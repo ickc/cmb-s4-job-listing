@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoctoral research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](#manchester)
 - [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
 - [Postdoctoral Research Associate at Cardiff, Apr 14, 2023](#cardiff3)
+- [Research Scientist at NCSA, Apr 15, 2023](#ncsa)
 - [Research fellow in Cosmology at Sussex, May 2, 2023](#sussex)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
@@ -95,11 +96,17 @@ Working closely with PI Dr Pete Barry, you will join the SPT-SLIM collaboration,
 
 ------------------------------------------------------------------------
 
+**[Research Scientist at NCSA, Apr 15, 2023](https://illinois.csod.com/ux/ats/careersite/1/home/requisition/3094?c=illinois)**
+
+The National Center for Supercomputing Applications (NCSA) seeks a Research Scientist to join the Astronomy Group. NCSA uses a variety of local, national and cloud-based resources, as well as intellectual resources, to enable large scale observational science, such as the Dark Energy Survey (DES), Rubin Observatory, South Pole Telescope (SPT), CMB-Stage IV, and a number of future projects in development. The scientist will: support, build, and operate ambitious data systems for observational astronomy; engage in scientific collaborations and also the data science and engineering communities to help improve the state-of-the-art in data toolkits and techniques for observational survey science; develop and support challenging data production systems and apply data science techniques to current and future large observational programs; process and analyze data and participate in the overall operations and success of NCSA projects.
+
+------------------------------------------------------------------------
+
 **[Research fellow in Cosmology at Sussex, May 2, 2023](https://www.sussex.ac.uk/about/jobs/research-fellow-cosmology-ref-10864)**
 
 We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
 
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#f487da839d989f9d9a87b487818787918cda9597da819f)) for informal enquiries.
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#384b164f51545351564b784b4d4b4b5d4016595b164d53)) for informal enquiries.
 
 ------------------------------------------------------------------------
 
@@ -146,7 +153,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#90fefbe2f1f3f8d0e3f9e3e3f1bef9e4)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#127c796073717a52617b6161733c7b66)).
 
 ------------------------------------------------------------------------
 
