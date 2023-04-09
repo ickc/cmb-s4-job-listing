@@ -60,6 +60,8 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Research fellow in Cosmology at Sussex, May 2, 2023](#sussex)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
+- [South Pole Telescope winter overs, until filled](#spt)
+- [Science Machinist at South Pole, until filled](#machine)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
@@ -106,7 +108,7 @@ The National Center for Supercomputing Applications (NCSA) seeks a Research Scie
 
 We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
 
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#89faa7fee0e5e2e0e7fac9fafcfafaecf1a7e8eaa7fce2)) for informal enquiries.
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#790a570e10151210170a390a0c0a0a1c0157181a570c12)) for informal enquiries.
 
 ------------------------------------------------------------------------
 
@@ -119,7 +121,17 @@ The experimental cosmology group at the University of Illinois at Urbana-Champai
 
 The successful candidate may also participate in the group’s broader analysis and instrumentation efforts, and in their own related projects. Please contact Prof. Filippini ([\[email protected\]]()) with inquiries.
 
-.
+------------------------------------------------------------------------
+
+**[South Pole Science Machinist, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/South-Pole-Machinist_JR21077)**
+
+The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required.
+
+------------------------------------------------------------------------
+
+**[SPT winter overs, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR21076)**
+
+The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months, is required.
 
 ------------------------------------------------------------------------
 
@@ -153,7 +165,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#b9d7d2cbd8dad1f9cad0cacad897d0cd)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#86e8edf4e7e5eec6f5eff5f5e7a8eff2)).
 
 ------------------------------------------------------------------------
 
