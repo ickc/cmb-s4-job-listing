@@ -54,29 +54,19 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Postdoctoral research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](#manchester)
-- [Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](#cardiff)
 - [Postdoctoral Research Associate at Cardiff, Apr 14, 2023](#cardiff3)
 - [Research Scientist at NCSA, Apr 15, 2023](#ncsa)
 - [Research fellow in Cosmology at Sussex, May 2, 2023](#sussex)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [South Pole Telescope winter overs, until filled](#spt)
+- [BICEP winter overs, until filled](#bicep)
 - [Science Machinist at South Pole, until filled](#machine)
 - [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc on lunar radio astronomy at Brookhaven, until filled](#lunar)
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Research Associate in Detector Development at Cardiff, Mar 22, 2023](https://krb-sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=30011&siteid=5460&PageType=searchResults&SearchType=linkquery&LinkID=206479#jobDetails=2054517_5460)**
-
-The successful applicant will work within the Astronomy Instrumentation Group (AIG) on an exciting and ambitious research programme to develop and deploy full Microwave Kinetic Inductance Detector (MKID) based focal planes as part of the Simons Observatory. The arrays will be integrated into full optical and cryogenic systems being built at Cardiff and will be installed on the Simons Observatory’s 6-m large aperture telescope and two additional small aperture telescopes. This project will be the first deployment of Kinetic Inductance Detectors in a Cosmic Microwave Background (CMB) experiment and will accelerate the use of this technology for future CMB applications.
-
-The successful applicant will work with a team of researchers developing detector technology at Cardiff as well as the wider Simon Observatory Collaboration and will contribute to the development of MKID based multi-chroic and polarisation-sensitive detector modules. The successful applicant will also work closely with senior process engineers working in the new Institute for Compound Semiconductors (ICS) facility at Cardiff to develop the processing techniques and designs required to realise the MKID array architecture and meet the stringent requirements of a world-class observatory.
-
-This post provides a unique opportunity for the successful candidate to demonstrate work on a large-scale and prestigious project as well as creating opportunities for the deployment of MKID technology in future CMB experiments.
 
 ------------------------------------------------------------------------
 
@@ -108,7 +98,7 @@ The National Center for Supercomputing Applications (NCSA) seeks a Research Scie
 
 We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
 
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#8dfea3fae4e1e6e4e3fecdfef8fefee8f5a3eceea3f8e6)) for informal enquiries.
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#9eedb0e9f7f2f5f7f0eddeedebededfbe6b0fffdb0ebf5)) for informal enquiries.
 
 ------------------------------------------------------------------------
 
@@ -132,6 +122,14 @@ The South Pole Machinist operates and maintains the MAPO machine shop, which is 
 **[SPT winter overs, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR21076)**
 
 The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months, is required.
+
+------------------------------------------------------------------------
+
+**[BICEP winter overs, until filled](https://hr.myu.umn.edu/psc/hrprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=355090&PostingSeq=1&)**
+
+The BICEP winter-over scientists will start work in fall 2023 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2024. Once the austral summer team leaves the site in February 2024, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
+
+The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 ------------------------------------------------------------------------
 
@@ -165,7 +163,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#a8c6c3dac9cbc0e8dbc1dbdbc986c1dc)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#9ff1f4edfefcf7dfecf6ececfeb1f6eb)).
 
 ------------------------------------------------------------------------
 
