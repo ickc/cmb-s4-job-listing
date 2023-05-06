@@ -53,10 +53,8 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoctoral research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](#manchester)
-- [Postdoctoral Research Associate at Cardiff, Apr 14, 2023](#cardiff3)
-- [Research Scientist at NCSA, Apr 15, 2023](#ncsa)
 - [Research fellow in Cosmology at Sussex, May 2, 2023](#sussex)
+- [Computational Dat Science Research Specialist at UCSD, May 9, 2023](#ucsd)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [South Pole Telescope winter overs, until filled](#spt)
@@ -70,35 +68,21 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral Research Associate in CMB Foregrounds at Manchester, Mar 31, 2023](https://www.jobs.manchester.ac.uk/displayjob.aspx?isPreview=Yes&jobid=25047&advert=external)**
-
-The Jodrell Bank Centre for Astrophysics (JBCA), part of the department of Physics & Astronomy, seeks a Post-Doctoral Research Associate(s) to work in the area of CMB foregrounds. Manchester has significant involvement in several leading CMB and foreground experiments including the C-Band All-Sky Survey (C-BASS), Simons Observatory (SO), and JAXA’s LiteBird space mission. We are leading several areas, with a particular emphasis on astrophysical foregrounds and systematic effects mitigation. The focus will be on understanding and quantifying foregrounds emission using the latest data (e.g. C-BASS and COMAP), both for CMB foreground removal and for understanding the interstellar medium (e.g. emission mechanisms, Galactic structure, Galactic magnetic field, star formation). Ideally, we are looking for someone who crosses the divide between CMB cosmology and astrophysical foregrounds research. In particular, we are looking to develop a foregrounds pipeline for the LiteBird mission. The successful candidate(s) will have the opportunity to work on one or more of our projects, collaborating with our other postdocs/students, depending on their interest and skills.
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Research Associate at Cardiff, Apr 14, 2023](https://jobregister.aas.org/ad/6ee56e4f)**
-
-The Astronomy Instrumentation Group (AIG) at Cardiff University is seeking applications for a new postdoctoral research associate in experimental cosmology. This position forms a central part of a UKRI Future Leaders Fellowship to develop and demonstrate novel superconducting detector technology and measurement techniques for line intensity mapping (LIM) at millimetre and sub-millimetre wavelengths (mm-LIM).
-
-LIM is an emerging observational technique that can provide a new probe of large- scale structure (LSS) throughout the history of the Universe. LIM uses low angular resolution, spectroscopic observations of atomic or molecular emission lines to trace the large-scale fluctuations in the matter distribution. Knowledge of the rest-frame wavelength uniquely maps the spectral direction to redshift, leading to a rich astrophysical dataset that can be used to map the 3D distribution of LSS out to high-redshift.
-
-The goal of this project is to establish mm-LIM as an independent probe of astrophysics and cosmology using large-format arrays of thin-film superconducting spectrometers. As the successful candidate, you will have the opportunity to engage with all aspects of the design, fabrication, testing, integration, and deployment of the first generation of ground-based instruments optimised for mm-LIM. Prior experience in these areas would be desirable, but not a requirement.
-
-Working closely with PI Dr Pete Barry, you will join the SPT-SLIM collaboration, an international effort to construct a mm-LIM camera for the South Pole Telescope that is scheduled for its first deployment in Autumn/Winter 2023. You’ll also become a member of the MUSCAT collaboration, a bilateral partnership between UK and Mexican institutions to coordinate one of the primary receivers at the 50-m Large Millimeter Telescope in Mexico. Through these major projects, you’ll have access to a range of opportunities to undertake lead roles in the technical design, manufacture, characterisation, and deployment of novel spectroscopic focal plane technology, all the way through to the development of the data analysis pipelines and final science data products.
-
-------------------------------------------------------------------------
-
-**[Research Scientist at NCSA, Apr 15, 2023](https://illinois.csod.com/ux/ats/careersite/1/home/requisition/3094?c=illinois)**
-
-The National Center for Supercomputing Applications (NCSA) seeks a Research Scientist to join the Astronomy Group. NCSA uses a variety of local, national and cloud-based resources, as well as intellectual resources, to enable large scale observational science, such as the Dark Energy Survey (DES), Rubin Observatory, South Pole Telescope (SPT), CMB-Stage IV, and a number of future projects in development. The scientist will: support, build, and operate ambitious data systems for observational astronomy; engage in scientific collaborations and also the data science and engineering communities to help improve the state-of-the-art in data toolkits and techniques for observational survey science; develop and support challenging data production systems and apply data science techniques to current and future large observational programs; process and analyze data and participate in the overall operations and success of NCSA projects.
-
-------------------------------------------------------------------------
-
 **[Research fellow in Cosmology at Sussex, May 2, 2023](https://www.sussex.ac.uk/about/jobs/research-fellow-cosmology-ref-10864)**
 
 We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
 
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#98ebb6eff1f4f3f1f6ebd8ebedebebfde0b6f9fbb6edf3)) for informal enquiries.
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#9cefb2ebf5f0f7f5f2efdcefe9efeff9e4b2fdffb2e9f7)) for informal enquiries.
+
+------------------------------------------------------------------------
+
+**[Computational Data Science Research Specialist at UCSD, May 9, 2023](https://employment.ucsd.edu/computational-data-science-research-specialist-122513/job/24545464)**
+
+The incumbent’s primary role is to work in long-term collaborations supporting the work of Domain Scientists using the SDSC systems focused on High Performance Computing (Expanse) and GPU/Deep Learning (Voyager and National Resource Platform HPC Subsystem).
+
+The incumbent should have a background as a computational scientist in any scientific domain and know how to leverage that experience to interface with scientists in other disciplines to jointly bring a research project to fruition. Under the direction of the “Scientific Computing Applications” lead, this position exercises independent judgment in developing methods, techniques, guidelines and evaluation criteria for obtaining results on project activities, milestones, and deliverables, showing in depth ability to successfully work on concurrent projects and advanced skills in independently resolving complex computing and data problems.
+
+Additionally, they will independently design, implement, debug, benchmark and/or profile software projects in the domain of High Performance Computing, High Throughput Computing or Cloud Computing, relying on knowledge of multiple areas within: Parallel programming (MPI / OpenMP) in Python, C++ or FORTRAN, debugging and benchmarking of parallel software, SLURM, Software development best practices (Version control, Continuous Integration, Packaging, Writing documentation), Deep learning, Docker or Singularity Containers, Cloud Computing (creating Virtual Machines on AWS, Google Cloud or similar), Kubernetes, GPU programming with CUDA, data processing, metadata handling, optimization of disk access.
 
 ------------------------------------------------------------------------
 
@@ -163,7 +147,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#a1cfcad3c0c2c9e1d2c8d2d2c08fc8d5)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#7a1411081b19123a091309091b54130e)).
 
 ------------------------------------------------------------------------
 
