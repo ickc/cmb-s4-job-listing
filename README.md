@@ -57,6 +57,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Computational Dat Science Research Specialist at UCSD, May 9, 2023](#ucsd)
 - [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
+- [Faculty Position at the Institute of Astrophysics at PUC, May 31, 2023](#puc)
 - [South Pole Telescope winter overs, until filled](#spt)
 - [BICEP winter overs, until filled](#bicep)
 - [Science Machinist at South Pole, until filled](#machine)
@@ -72,7 +73,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
 
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#196a376e70757270776a596a6c6a6a7c6137787a376c72)) for informal enquiries.
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#fc8fd28b95909795928fbc8f898f8f9984d29d9fd28997)) for informal enquiries.
 
 ------------------------------------------------------------------------
 
@@ -94,6 +95,16 @@ The experimental cosmology group at the University of Illinois at Urbana-Champai
 - Next-generation measurements of the cosmic microwave background. The group is developing readout and optics for CMB-S4 (next-generation ground-based program) and instrumentation for Taurus (ultra-long-duration balloon mission to measure reionization and Galactic foregrounds). Analysis opportunities are available on current CMB data sets, including data from the December 2022 science flight of SPIDER.
 
 The successful candidate may also participate in the group’s broader analysis and instrumentation efforts, and in their own related projects. Please contact Prof. Filippini ([\[email protected\]]()) with inquiries.
+
+------------------------------------------------------------------------
+
+**[Faculty position at the Institute of Astrophysics at PUC, May 31, 2023](https://jobregister.aas.org/ad/47934ae5)**
+
+The Institute of Astrophysics (IA) at Pontificia Universidad Católica de Chile (PUC) invites applications to fill at least one faculty position at the assistant or associate professor level, depending on qualifications, beginning as early as possible and no later than March 2024. The requirements are a Ph.D. degree in astronomy/astrophysics or related fields, as well as a demonstrated ability and commitment to excellence in independent research and teaching. The search is open to all areas of astrophysics research and instrumentation, including interdisciplinary research.
+
+The successful candidate(s) are expected to join the research and teaching activities at the Institute of Astrophysics and interact closely with students. The Institute hosts an active and dynamic international community comprised of 16 faculty, ~60 graduate students, and 20+ postdocs, carrying out research in cosmology, extragalactic and Galactic astronomy, stellar astrophysics, astrochemistry, planetary sciences, astronomical instrumentation, high-energy astrophysics, theoretical astrophysics, and numerical simulations. Applicants working in all areas of astrophysics are welcome to apply. The Institute has a vibrant scientific life, including a strong visitor program, weekly seminars, and colloquia, and daily astro-ph discussions. This cultivates a rich academic and social experience and allows for plenty of opportunities for networking and collaboration at many levels.
+
+As a member of the faculty, the successful applicant(s) will have access to the Chilean 10% of the telescope time in all the international observatories in Chile, including VLT, Gemini, Magellan, CTIO, SOAR, APEX, and ALMA, and future observatories such as Rubin Observatory, CTA, ELT, and GMT. In addition, the Institute hosts several high-performance computers for numerical simulations and high-volume data reduction. Teaching duties are mainly focused on astrophysics, both at the undergraduate and graduate levels. The candidates ideally should be able to teach in Spanish within approximately a year, although this is not a stringent requisite.
 
 ------------------------------------------------------------------------
 
@@ -147,7 +158,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#1d73766f7c7e755d6e746e6e7c337469)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#620c091003010a22110b1111034c0b16)).
 
 ------------------------------------------------------------------------
 
