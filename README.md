@@ -73,7 +73,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
 
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#8af9a4fde3e6e1e3e4f9caf9fff9f9eff2a4ebe9a4ffe1)) for informal enquiries.
+Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#cfbce1b8a6a3a4a6a1bc8fbcbabcbcaab7e1aeace1baa4)) for informal enquiries.
 
 ------------------------------------------------------------------------
 
@@ -158,7 +158,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#046a6f7665676c44776d7777652a6d70)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#8de3e6ffeceee5cdfee4fefeeca3e4f9)).
 
 ------------------------------------------------------------------------
 
