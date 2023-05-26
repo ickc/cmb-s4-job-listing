@@ -53,11 +53,10 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Research fellow in Cosmology at Sussex, May 2, 2023](#sussex)
-- [Computational Dat Science Research Specialist at UCSD, May 9, 2023](#ucsd)
-- [Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](#uiuc)
 - [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [Faculty Position at the Institute of Astrophysics at PUC, May 31, 2023](#puc)
+- [CCAT Postdoc at UBC, Jul 1, 2023](#ubc)
+- [Research Software Engineer at Penn, until filled](#penn)
 - [South Pole Telescope winter overs, until filled](#spt)
 - [BICEP winter overs, until filled](#bicep)
 - [Science Machinist at South Pole, until filled](#machine)
@@ -69,35 +68,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 ------------------------------------------------------------------------
 
-**[Research fellow in Cosmology at Sussex, May 2, 2023](https://www.sussex.ac.uk/about/jobs/research-fellow-cosmology-ref-10864)**
-
-We invite applications for a Postdoctoral Research Fellowships in Cosmology at the University of Sussex.  We are seeking a talented and creative cosmologist with demonstrably strong contributions to research at doctoral or post-doctoral level. Of particular interest are applicants to work with to work with Antony Lewis in the field of theoretical and numerical cosmology, esp. CMB and CMB lensing, and work related to Simons Observatory, CMB-S4 and/or LiteBird. However, outstanding applications will be considered in any relevant area of cosmology. 
-
-Please contact Prof. Antony Lewis ([\[email protected\]]()) or Dr Stephen Wilkins ([\[email protected\]](/cdn-cgi/l/email-protection#097a277e60656260677a497a7c7a7a6c7127686a277c62)) for informal enquiries.
-
-------------------------------------------------------------------------
-
-**[Computational Data Science Research Specialist at UCSD, May 9, 2023](https://employment.ucsd.edu/computational-data-science-research-specialist-122513/job/24545464)**
-
-The incumbent’s primary role is to work in long-term collaborations supporting the work of Domain Scientists using the SDSC systems focused on High Performance Computing (Expanse) and GPU/Deep Learning (Voyager and National Resource Platform HPC Subsystem).
-
-The incumbent should have a background as a computational scientist in any scientific domain and know how to leverage that experience to interface with scientists in other disciplines to jointly bring a research project to fruition. Under the direction of the “Scientific Computing Applications” lead, this position exercises independent judgment in developing methods, techniques, guidelines and evaluation criteria for obtaining results on project activities, milestones, and deliverables, showing in depth ability to successfully work on concurrent projects and advanced skills in independently resolving complex computing and data problems.
-
-Additionally, they will independently design, implement, debug, benchmark and/or profile software projects in the domain of High Performance Computing, High Throughput Computing or Cloud Computing, relying on knowledge of multiple areas within: Parallel programming (MPI / OpenMP) in Python, C++ or FORTRAN, debugging and benchmarking of parallel software, SLURM, Software development best practices (Version control, Continuous Integration, Packaging, Writing documentation), Deep learning, Docker or Singularity Containers, Cloud Computing (creating Virtual Machines on AWS, Google Cloud or similar), Kubernetes, GPU programming with CUDA, data processing, metadata handling, optimization of disk access.
-
-------------------------------------------------------------------------
-
-**[Postdoctoral Research Associate in Experimental Cosmology at UIUC, May 13, 2023](https://my.physics.illinois.edu/submit/)**
-
-The experimental cosmology group at the University of Illinois at Urbana-Champaign, led by Professors Jeff Filippini and Joaquin Vieira, invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will contribute to one or more current efforts:
-
-- Cryogenic camera development and deployment for the Terahertz Intensity Mapper (TIM). TIM is a KID spectrometer that will measure cosmic star formation history through a path-breaking measurement of line-intensity mapping from an Antarctic balloon.
-- Next-generation measurements of the cosmic microwave background. The group is developing readout and optics for CMB-S4 (next-generation ground-based program) and instrumentation for Taurus (ultra-long-duration balloon mission to measure reionization and Galactic foregrounds). Analysis opportunities are available on current CMB data sets, including data from the December 2022 science flight of SPIDER.
-
-The successful candidate may also participate in the group’s broader analysis and instrumentation efforts, and in their own related projects. Please contact Prof. Filippini ([\[email protected\]]()) with inquiries.
-
-------------------------------------------------------------------------
-
 **[Faculty position at the Institute of Astrophysics at PUC, May 31, 2023](https://jobregister.aas.org/ad/47934ae5)**
 
 The Institute of Astrophysics (IA) at Pontificia Universidad Católica de Chile (PUC) invites applications to fill at least one faculty position at the assistant or associate professor level, depending on qualifications, beginning as early as possible and no later than March 2024. The requirements are a Ph.D. degree in astronomy/astrophysics or related fields, as well as a demonstrated ability and commitment to excellence in independent research and teaching. The search is open to all areas of astrophysics research and instrumentation, including interdisciplinary research.
@@ -105,6 +75,32 @@ The Institute of Astrophysics (IA) at Pontificia Universidad Católica de Chile 
 The successful candidate(s) are expected to join the research and teaching activities at the Institute of Astrophysics and interact closely with students. The Institute hosts an active and dynamic international community comprised of 16 faculty, ~60 graduate students, and 20+ postdocs, carrying out research in cosmology, extragalactic and Galactic astronomy, stellar astrophysics, astrochemistry, planetary sciences, astronomical instrumentation, high-energy astrophysics, theoretical astrophysics, and numerical simulations. Applicants working in all areas of astrophysics are welcome to apply. The Institute has a vibrant scientific life, including a strong visitor program, weekly seminars, and colloquia, and daily astro-ph discussions. This cultivates a rich academic and social experience and allows for plenty of opportunities for networking and collaboration at many levels.
 
 As a member of the faculty, the successful applicant(s) will have access to the Chilean 10% of the telescope time in all the international observatories in Chile, including VLT, Gemini, Magellan, CTIO, SOAR, APEX, and ALMA, and future observatories such as Rubin Observatory, CTA, ELT, and GMT. In addition, the Institute hosts several high-performance computers for numerical simulations and high-volume data reduction. Teaching duties are mainly focused on astrophysics, both at the undergraduate and graduate levels. The candidates ideally should be able to teach in Spanish within approximately a year, although this is not a stringent requisite.
+
+------------------------------------------------------------------------
+
+**[CCAT Postdoc at UBC, Jul 1, 2023]()**
+
+Applications are invited for a postdoctoral research position in experimental cosmology and astrophysics at the University of British Columbia in Vancouver, BC. Members of our group study the CMB and astrophysics as participants in the South Pole Telescope (SPT, https://pole.uchicago.edu/), CCAT-(https://www.ccatobservatory.org/), Polarbear/Simons-Array, ACT, and CMB-S4 collaborations.
+
+UBC is funded to build the polarization sensitive, 850GHz (350um) MKID-based camera for the CCAT-telescope. The successful applicant will have the opportunity to actively contribute to the design, construction and testing of the detectors and instrument, with close collaboration with the Cornell CCAT group. The applicant will also have opportunities for cosmological/astrophysical analysis of data from the SPT-3G receiver and Polarbear-2/SA, as well as in technology development for CMB-S4.
+
+Candidates are expected to have earned or be close to earning a Ph.D. in Physics or Astronomy, to be experienced with relevant instrumentation (e.g. cryogenics, low-temperature detectors, superconducting electronics) and data analysis techniques, and to have strong oral and written communication skills. Applicants are encouraged to contact Prof. Chapman for further details.
+
+Applications along with three letters of reference should be submitted electronically directly to Scott Chapman at [\[email protected\]](/cdn-cgi/l/email-protection) Include a cover letter, CV, publication list, brief description of research interests. All applications received by July1 will receive full consideration; however, applications will continue to be received until the position is filled.
+
+------------------------------------------------------------------------
+
+**[Research Software Engineer at Penn, until filled](https://wd1.myworkdaysite.com/en-US/recruiting/upenn/careers-at-penn/job/Research-Software-Engineer---Systems-Architect_JR00072709)**
+
+The Center for Particle Cosmology (CfPC) at the University of Pennsylvania is seeking applicants for a research software engineer and/or systems architect in scientific computing. We are interested in candidates with a keen interest in data-driven astrophysics and a strong background in software development.
+
+The Center for Particle Cosmology (CfPC) will be undertaking a massive effort in big-data survey cosmology over the next decade with new data from the Advanced Simons Observatory (ASO), the Rubin Observatory and the Roman Space Telescope. The successful candidate will contribute to the development of software infrastructure for ASO and possibly one or more other surveys. Depending on interest, the research engineer will also have other opportunities for career development, including leading and co-authoring scientific publications, advising students and teaching courses. Key responsibilities of the engineer will include automation of data reduction pipelines as well as front-end web development for visualizing pipelines and their associated astrophysical data-sets.
+
+------------------------------------------------------------------------
+
+**[SPT winter overs, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/South-Pole/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR21076)**
+
+The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months, is required.
 
 ------------------------------------------------------------------------
 
@@ -158,7 +154,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#d2bcb9a0b3b1ba92a1bba1a1b3fcbba6)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#b4dadfc6d5d7dcf4c7ddc7c7d59addc0)).
 
 ------------------------------------------------------------------------
 
