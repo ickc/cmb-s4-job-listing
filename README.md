@@ -53,9 +53,9 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Faculty Position in Physics at SISSA, May 19, 2023](#sissa)
 - [Faculty Position at the Institute of Astrophysics at PUC, May 31, 2023](#puc)
 - [CCAT Postdoc at UBC, Jul 1, 2023](#ubc)
+- [CPAC Postdoc at Argonne, Jul 18, 2023](#argonne)
 - [Research Software Engineer at Penn, until filled](#penn)
 - [South Pole Telescope winter overs, until filled](#spt)
 - [BICEP winter overs, until filled](#bicep)
@@ -87,6 +87,14 @@ UBC is funded to build the polarization sensitive, 850GHz (350um) MKID-based cam
 Candidates are expected to have earned or be close to earning a Ph.D. in Physics or Astronomy, to be experienced with relevant instrumentation (e.g. cryogenics, low-temperature detectors, superconducting electronics) and data analysis techniques, and to have strong oral and written communication skills. Applicants are encouraged to contact Prof. Chapman for further details.
 
 Applications along with three letters of reference should be submitted electronically directly to Scott Chapman at [\[email protected\]](/cdn-cgi/l/email-protection) Include a cover letter, CV, publication list, brief description of research interests. All applications received by July1 will receive full consideration; however, applications will continue to be received until the position is filled.
+
+------------------------------------------------------------------------
+
+**[CPAC Postdoc at Argonne, Jul 18, 2023](https://jobregister.aas.org/ad/c7e638d5)**
+
+The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with flexibility) of Fall 2023, is renewable annually for up to three years based on satisfactory performance.
+
+Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged.
 
 ------------------------------------------------------------------------
 
@@ -124,14 +132,6 @@ The BICEP3 and BICEP Array telescopes represent an investment of approximately $
 
 ------------------------------------------------------------------------
 
-**[Faculty position in Physics at SISSA, May 19, 2023](https://academicjobsonline.org/ajo/jobs/24553)**
-
-The Physics Area at the “Scuola Internazionale Superiore di Studi Avanzati” (SISSA) in Trieste, Italy, invites expressions of interest for a faculty position from outstanding female candidates with a strong research record in any of the fields covered by the Area (Astrophysics and Cosmology, Astroparticle Physics, Condensed Matter Physics, Statistical Physics, Statistical Physics of Biological Systems, Theoretical and Scientific Data Science, Theoretical Particle Physics). The appointment procedure will be activated at the assistant professor, tenure-track, level\*.
-
-The successful candidate is expected to work as an independent principal investigator, promoting and leading research activities to complement the current expertise of the present SISSA groups, as well as to attract external funds, take an active part in the SISSA PhD teaching programme, and supervise graduate students (selected on a competitive basis and funded by bursaries provided by SISSA).
-
-------------------------------------------------------------------------
-
 **[Software Engineer for Simons Observatory at Princeton, until filled](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=28801)**
 
 The department of Physics at Princeton seeks applicants for a research software engineer to work on the Simons Observatory (SO) project. SO is a millimeter-wave survey experiment currently being built for observations from the Atacama Desert in Chile, with a variety of scientific goals from probing the early universe to detecting millimeter-wave transients. The SO data analysis group at Princeton, led by Simone Aiola and Jo Dunkley, shares responsibility for producing and delivering sky maps and light curves for scientific analysis. The position will involve working with the SO Data Management team on topics including automation of the SO pipeline on HPC systems, algorithm development for optimization of research software, packaging and deployment of research software, and aspects of internal and public delivery of the SO data and software. This position is based in Princeton, NJ. Appointments are initially for one year, with the possibility for renewal pending satisfactory performance and continued funding.
@@ -154,7 +154,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#f09e9b82919398b08399838391de9984)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#5f31342d3e3c371f2c362c2c3e71362b)).
 
 ------------------------------------------------------------------------
 
