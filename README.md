@@ -54,9 +54,9 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Faculty Position at the Institute of Astrophysics at PUC, May 31, 2023](#puc)
 - [CCAT Postdoc at UBC, Jul 1, 2023](#ubc)
 - [CPAC Postdoc at Argonne, Jul 18, 2023](#argonne)
+- [PhD positions at U Ferrara, Jul 27, 2023](#ferrara)
 - [Research Software Engineer at Penn, until filled](#penn)
 - [South Pole Telescope winter overs, until filled](#spt)
 - [BICEP winter overs, until filled](#bicep)
@@ -66,16 +66,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [BICEP/Keck postdoc at the University of Minnesota, until filled](#minnesota)
 - [Research Scientist in meta-material coatings at FNAL, until filled](#meta)
 - [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**[Faculty position at the Institute of Astrophysics at PUC, May 31, 2023](https://jobregister.aas.org/ad/47934ae5)**
-
-The Institute of Astrophysics (IA) at Pontificia Universidad Católica de Chile (PUC) invites applications to fill at least one faculty position at the assistant or associate professor level, depending on qualifications, beginning as early as possible and no later than March 2024. The requirements are a Ph.D. degree in astronomy/astrophysics or related fields, as well as a demonstrated ability and commitment to excellence in independent research and teaching. The search is open to all areas of astrophysics research and instrumentation, including interdisciplinary research.
-
-The successful candidate(s) are expected to join the research and teaching activities at the Institute of Astrophysics and interact closely with students. The Institute hosts an active and dynamic international community comprised of 16 faculty, ~60 graduate students, and 20+ postdocs, carrying out research in cosmology, extragalactic and Galactic astronomy, stellar astrophysics, astrochemistry, planetary sciences, astronomical instrumentation, high-energy astrophysics, theoretical astrophysics, and numerical simulations. Applicants working in all areas of astrophysics are welcome to apply. The Institute has a vibrant scientific life, including a strong visitor program, weekly seminars, and colloquia, and daily astro-ph discussions. This cultivates a rich academic and social experience and allows for plenty of opportunities for networking and collaboration at many levels.
-
-As a member of the faculty, the successful applicant(s) will have access to the Chilean 10% of the telescope time in all the international observatories in Chile, including VLT, Gemini, Magellan, CTIO, SOAR, APEX, and ALMA, and future observatories such as Rubin Observatory, CTA, ELT, and GMT. In addition, the Institute hosts several high-performance computers for numerical simulations and high-volume data reduction. Teaching duties are mainly focused on astrophysics, both at the undergraduate and graduate levels. The candidates ideally should be able to teach in Spanish within approximately a year, although this is not a stringent requisite.
 
 ------------------------------------------------------------------------
 
@@ -96,6 +86,12 @@ Applications along with three letters of reference should be submitted electroni
 The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with flexibility) of Fall 2023, is renewable annually for up to three years based on satisfactory performance.
 
 Our postdocs can benefit from strong collaborations with cosmologists, applied mathematicians, computer scientists, device physicists, materials scientists, and statisticians; they will also have access to world-leading supercomputing resources. Interactions with research groups at Fermilab, the University of Chicago, and Northwestern University are highly encouraged.
+
+------------------------------------------------------------------------
+
+**[PhD positions at U Ferrara, Jul 27, 2023](https://www.unife.it/studenti/dottorato/it/concorsi/concorso-per-titoli-e-colloquio-per-laccesso-al-39deg-ciclo)**
+
+The call for the 39th PhD Program in Physics at the University of Ferrara is now open. The PhD program is for 3 years. There are 21 positions available with scholarships. Five (5) of them are without a pre-defined research theme attached (the successful candidate is free to join one of the research groups active in Ferrara, including the Ferrara Cosmology group). One position with scholarship is reserved to the Ferrara Cosmology group for activities in the broad area of “Precision constraints from space borne observations of the cosmic microwave background and of the large scale structure of the Universe”.
 
 ------------------------------------------------------------------------
 
@@ -155,7 +151,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#e38d889182808ba3908a909082cd8a97)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#77191c0516141f37041e040416591e03)).
 
 ------------------------------------------------------------------------
 
