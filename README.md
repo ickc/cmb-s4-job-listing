@@ -129,7 +129,7 @@ The BICEP3 and BICEP Array telescopes represent an investment of approximately $
 
 ------------------------------------------------------------------------
 
-**[Software Engineer for Simons Observatory at Princeton, until filled](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=28801)**
+**[Software Engineer for Simons Observatory at Princeton, until filled](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=30721)**
 
 The department of Physics at Princeton seeks applicants for a research software engineer to work on the Simons Observatory (SO) project. SO is a millimeter-wave survey experiment currently being built for observations from the Atacama Desert in Chile, with a variety of scientific goals from probing the early universe to detecting millimeter-wave transients. The SO data analysis group at Princeton, led by Simone Aiola and Jo Dunkley, shares responsibility for producing and delivering sky maps and light curves for scientific analysis. The position will involve working with the SO Data Management team on topics including automation of the SO pipeline on HPC systems, algorithm development for optimization of research software, packaging and deployment of research software, and aspects of internal and public delivery of the SO data and software. This position is based in Princeton, NJ. Appointments are initially for one year, with the possibility for renewal pending satisfactory performance and continued funding.
 
@@ -151,7 +151,7 @@ to possess a robust expertise concerning CMB data analysis, with a particular fo
 
 SISSA is committed to promoting equality and diversity. All qualified applicants will receive consideration and will not be discriminated against on the basis of race, color, sex, sexual orientation, gender identity, religion, disability, age, or national or ethnic origin. SISSA is an institute with exclusive focus on research and PhD education in Physics, Mathematics and Neurosciences, located in the beautiful seaside city of Trieste, in the North-Eastern tip of Italy, enjoying excellent quality of life and great outdoors. We have strong collaborative links with the Institute for Fundamental Physics of the Universe (IFPU, www.ifpu.it/), the Abdus Salam International Centre for Theoretical Physics (www.ictp.it), the National Institute for Astrophysics (INAF; Observatory of Trieste, www.oats.inaf.it/index.php/en/) and the National Institute for Nuclear Physics (INFN; Trieste Section www.ts.infn.it/en/), as well as many other national and international institutions.
 
-For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#67090c1506040f27140e141406490e13)).
+For further information please contact Carlo Baccigalupi and Nicoletta Krachmalnicoff ([\[email protected\]](), [\[email protected\]](/cdn-cgi/l/email-protection#a5cbced7c4c6cde5d6ccd6d6c48bccd1)).
 
 ------------------------------------------------------------------------
 
