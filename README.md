@@ -54,16 +54,8 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [PhD positions at U Ferrara, Jul 27, 2023](#ferrara)
 - [BICEP winter overs, until filled](#bicep)
-- [Software Engineer for Simons Observatory at Princeton, until filled](#sosoft)
 - [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**[PhD positions at U Ferrara, Jul 27, 2023](https://www.unife.it/studenti/dottorato/it/concorsi/concorso-per-titoli-e-colloquio-per-laccesso-al-39deg-ciclo)**
-
-The call for the 39th PhD Program in Physics at the University of Ferrara is now open. The PhD program is for 3 years. There are 21 positions available with scholarships. Five (5) of them are without a pre-defined research theme attached (the successful candidate is free to join one of the research groups active in Ferrara, including the Ferrara Cosmology group). One position with scholarship is reserved to the Ferrara Cosmology group for activities in the broad area of “Precision constraints from space borne observations of the cosmic microwave background and of the large scale structure of the Universe”.
 
 ------------------------------------------------------------------------
 
@@ -72,12 +64,6 @@ The call for the 39th PhD Program in Physics at the University of Ferrara is now
 The BICEP winter-over scientists will start work in fall 2023 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2024. Once the austral summer team leaves the site in February 2024, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
 
 The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
-
-------------------------------------------------------------------------
-
-**[Software Engineer for Simons Observatory at Princeton, until filled](https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=30721)**
-
-The department of Physics at Princeton seeks applicants for a research software engineer to work on the Simons Observatory (SO) project. SO is a millimeter-wave survey experiment currently being built for observations from the Atacama Desert in Chile, with a variety of scientific goals from probing the early universe to detecting millimeter-wave transients. The SO data analysis group at Princeton, led by Simone Aiola and Jo Dunkley, shares responsibility for producing and delivering sky maps and light curves for scientific analysis. The position will involve working with the SO Data Management team on topics including automation of the SO pipeline on HPC systems, algorithm development for optimization of research software, packaging and deployment of research software, and aspects of internal and public delivery of the SO data and software. This position is based in Princeton, NJ. Appointments are initially for one year, with the possibility for renewal pending satisfactory performance and continued funding.
 
 ------------------------------------------------------------------------
 
