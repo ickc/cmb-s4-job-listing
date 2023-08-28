@@ -52,8 +52,17 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
+- [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
+
+------------------------------------------------------------------------
+
+**[Chamberlain fellowships at LBNL, Oct 15, 2023](https://academicjobsonline.org/ajo/jobs/25429)**
+
+The [Physics](https://www.physics.lbl.gov/) Division at Lawrence Berkeley National Laboratory (Berkeley Lab) announces the competition for the 2024 Owen Chamberlain Fellowships in Experimental Particle Physics and Cosmology. The Fellowship is named after Berkeley Nobel Laureate Owen Chamberlain, who, together with Emilio Segrè, Clyde Wiegand, and Thomas Ypsilantis, discovered the anti-proton at the Berkeley Bevatron in 1955.  
+
+The Physics Division has a long tradition of advanced instrument and detector development, computational research (including machine learning), cosmology simulation and analysis, quantum information (sensing and computing), detector R&D, and microelectronics.  Our experimental portfolio encompasses high-energy collider physics (ATLAS), neutrino physics (DUNE), direct detection of dark matter (LZ and TESSERACT), rare and precision physics (Mu2e), and experimental cosmology (DESI, Rubin Observatory DESC, Type Ia Supernovæ, Simons Observatory, and CMB-S4). For an overview of the research activities at the lab, please see [www.physics.lbl.gov](http://www.physics.lbl.gov).
 
 ------------------------------------------------------------------------
 
