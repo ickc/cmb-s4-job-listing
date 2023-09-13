@@ -52,9 +52,18 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
+- [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
+
+------------------------------------------------------------------------
+
+**[QUP postdoctoral fellows for LiteBIRD, until filled](https://academicjobsonline.org/ajo/jobs/25277)**
+
+ We seek candidates interested in cosmic microwave background experiments with extensive experience in cryogenic instrumentation. The successful candidates will work with QUP Senior Scientist and project manager of QUP’s LiteBIRD activity, Hiroki Akamatsu, whose research focuses on developing CMB instrumentation for JAXA’s L-class mission LiteBIRD aiming for primordial gravitational-wave search. Our postdoctoral fellows are for three years, with the possibility of a 2-year renewal based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs, and are provided with salaries comparable to those at other prestigious institutions. We may offer a higher position, at the rank of assistant professor, for five years with the possibility of a 2-year renewal to outstanding candidates.
+
+ The primary research topic of the new position is the construction and accurate characterization of the LiteBIRD low-frequency telescope Focal Plane Unit (FPU). The focal plane subassembly will be based on Transition Edge Sensors bolometers and Digital Frequency Multiplexing technology. We expect to build and characterize the prototype (demonstration model) by 2026. We seek ambitious, highly motivated, and result-driven scientists. Applicants should have a Ph.D. in Physics/Engineering or a related field by the time the appointment begins. Excellent cryogenics instrumentation experiences are essential. A good command of the English language is necessary, and the fellow should be able to work independently and in a team.
 
 ------------------------------------------------------------------------
 
