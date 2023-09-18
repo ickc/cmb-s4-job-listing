@@ -52,8 +52,9 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
+- [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
+- [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
 
@@ -72,6 +73,21 @@ This page is for advertising positions related to CMB research broadly defined, 
 The [Physics](https://www.physics.lbl.gov/) Division at Lawrence Berkeley National Laboratory (Berkeley Lab) announces the competition for the 2024 Owen Chamberlain Fellowships in Experimental Particle Physics and Cosmology. The Fellowship is named after Berkeley Nobel Laureate Owen Chamberlain, who, together with Emilio Segrè, Clyde Wiegand, and Thomas Ypsilantis, discovered the anti-proton at the Berkeley Bevatron in 1955.  
 
 The Physics Division has a long tradition of advanced instrument and detector development, computational research (including machine learning), cosmology simulation and analysis, quantum information (sensing and computing), detector R&D, and microelectronics.  Our experimental portfolio encompasses high-energy collider physics (ATLAS), neutrino physics (DUNE), direct detection of dark matter (LZ and TESSERACT), rare and precision physics (Mu2e), and experimental cosmology (DESI, Rubin Observatory DESC, Type Ia Supernovæ, Simons Observatory, and CMB-S4). For an overview of the research activities at the lab, please see [www.physics.lbl.gov](http://www.physics.lbl.gov).
+
+------------------------------------------------------------------------
+
+**[Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](https://jobregister.aas.org/ad/7292b1bb)**
+
+We invite applications for a postdoctoral position at the Kavli Institute of Particle Astrophysics and Cosmology (KIPAC) at Stanford University and SLAC National Accelerator Laboratory with a focus on cosmology using millimeter-wave line intensity mapping (LIM).
+
+We are developing LIM as a new technique to probe the large-scale structure of the universe at high redshifts. As a lead institution in the SPT-SLIM collaboration—a pathfinder for LIM using on-chip spectrometers—our group is involved in all aspects of the experiment. We seek candidates interested in any of the following areas:
+
+- Design and fabrication of superconducting spectrometer arrays, including R&D on new materials and spectrometer architectures in the Stanford Nanofabrication Facility.
+- Characterization of spectrometer arrays, and operations and deployment of SPT-SLIM to the South Pole.
+- Pipeline development and analysis of LIM data to constrain cosmology and astrophysics, including testing foreground and signal separation techniques.
+- Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
+
+Previous experience in mm-wave instrumentation, thin-film superconducting device fabrication, or LIM/CMB analysis is desirable but not required. In addition to the international SPT-SLIM team, successful candidates will also have the opportunity to interact with KIPAC/SLAC scientists working on CMB (BICEP, SO, CMB-S4) and galaxy surveys (Rubin/LSST).
 
 ------------------------------------------------------------------------
 
