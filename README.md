@@ -52,11 +52,20 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
+- [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
+
+------------------------------------------------------------------------
+
+**[Faculty position at FCFM, University of Chile, Oct 10, 2023](https://concurso-academico.uchile.cl/Postulacion/FM2304)**
+
+The Faculty of Physical and Mathematical Sciences at the University of Chile announces an exclusive competition for women to fill one academic position as a full-time (44 hrs.) regular career appointment in the Physics Department. This position is open to all areas of physics, and applicants working in cosmology, for instance CMB physics, are encouraged. Our department ([https://dfi.uchile.cl](https://dfi.uchile.cl/)) hosts a Cosmology Group with two professors (Domenico Sapone and Gonzalo Palma) and several graduate students. The position involves a strong commitment to research, both individual and collaborative, undergraduate and postgraduate teaching, and it is expected that the selected candidate will maintain an active connection with society in their respective field. All of this through research and development projects, participation in postgraduate courses or diplomas, and/or outreach activities.
+
+ 
 
 ------------------------------------------------------------------------
 
