@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
+- [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
@@ -97,6 +98,12 @@ We are developing LIM as a new technique to probe the large-scale structure of t
 - Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
 
 Previous experience in mm-wave instrumentation, thin-film superconducting device fabrication, or LIM/CMB analysis is desirable but not required. In addition to the international SPT-SLIM team, successful candidates will also have the opportunity to interact with KIPAC/SLAC scientists working on CMB (BICEP, SO, CMB-S4) and galaxy surveys (Rubin/LSST).
+
+------------------------------------------------------------------------
+
+**[Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](https://physics.case.edu/nagy/contact/postdoc/)**
+
+Applications are invited for a postdoctoral position in the Physics Department at Case Western Reserve University to work on CMB instrumentation and/or data analysis. The group is led by Profs. Johanna Nagy and John Ruhl and offers opportunities to work on SPIDER, Taurus, and CMB-S4. Projects can be tailored to suit the interests of the candidate.  More information can be found at [https://physics.case.edu/nagy/contact/postdoc/](https://physics.case.edu/nagy/contact/postdoc).
 
 ------------------------------------------------------------------------
 
