@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
+- [Faculty position at Cornel University, Nov 15, 2023](#cornell)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [BICEP winter overs, until filled](#bicep)
@@ -98,6 +99,12 @@ We are developing LIM as a new technique to probe the large-scale structure of t
 - Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
 
 Previous experience in mm-wave instrumentation, thin-film superconducting device fabrication, or LIM/CMB analysis is desirable but not required. In addition to the international SPT-SLIM team, successful candidates will also have the opportunity to interact with KIPAC/SLAC scientists working on CMB (BICEP, SO, CMB-S4) and galaxy surveys (Rubin/LSST).
+
+------------------------------------------------------------------------
+
+**[Faculty position at Cornell University, Nov 15, 2023](https://academicjobsonline.org/ajo/jobs/25604)**
+
+The Astronomy Department at Cornell University invites applications for a tenure-track faculty position at the assistant professor level. We seek new colleagues to join our Department and the university community. We encourage candidates who demonstrate outstanding research and commitment to teaching and community development within observational astronomy, especially extragalactic, to apply. Successful candidates will have a research program that enhances Cornell’s high-visibility program by either building on current strengths or introducing new directions that complement areas of ongoing work. Current Department members use a wide range of space- and ground-based astronomical facilities and are actively engaged in developing the CCAT Observatory, which includes the 6-meter aperture Fred Young Submillimeter Telescope (FYST) operating on Cerro Chajnantor in Chile overlooking the Atacama Large Millimeter Array (ALMA).
 
 ------------------------------------------------------------------------
 
