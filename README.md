@@ -55,7 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
-- [Faculty position at Cornel University, Nov 15, 2023](#cornell)
+- [Faculty position at Cornell University, Nov 15, 2023](#cornell)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [BICEP winter overs, until filled](#bicep)
