@@ -54,9 +54,12 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
+- [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
+- [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
+- [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
@@ -87,6 +90,22 @@ The Physics Division has a long tradition of advanced instrument and detector de
 
 ------------------------------------------------------------------------
 
+**Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023**
+
+The Department of Astronomy and Astrophysics (DAA; [https://www.tifr.res.in/~daa/](https://www.tifr.res.in/~daa)) at the Tata Institute of Fundamental Research (TIFR), Mumbai invites applications from qualified candidates for Visiting Fellow (post-doctoral) positions. The research interests pursued at DAA are diverse and include projects involving instrument-building (Infrared, X-Ray & Radio), observational, theoretical, and computational efforts. The science topics pursued in the department include extrasolar planets, star and planet formation, interstellar medium, star clusters, stellar dynamics, resolved transients, fast radio bursts, gravitational waves, seismology, Solar astrophysics, black holes, pulsars and accreting neutron stars, compact-object binaries, X-ray astronomy including science from AstroSat data, gravitational waves including science using InPTA, IPTA, and LIGO-Virgo-KAGRA data, cosmology, CMB data analysis, multi-messenger astronomy, and astronomical big data analysis using machine learning techniques. This position allows the fellows to pursue their own research projects independently, although they are welcome to collaborate with any faculty in the department.
+
+The application should include a 
+
+- cover letter, 
+- research proposal (should include past research expertise, future research plans at TIFR), 
+- CV, 
+- publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
+- names and contact information of three referees. 
+
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#ceaaafafbea1bdbaaaa1ad8ea9a3afa7a2e0ada1a3). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+
+------------------------------------------------------------------------
+
 **[Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](https://jobregister.aas.org/ad/7292b1bb)**
 
 We invite applications for a postdoctoral position at the Kavli Institute of Particle Astrophysics and Cosmology (KIPAC) at Stanford University and SLAC National Accelerator Laboratory with a focus on cosmology using millimeter-wave line intensity mapping (LIM).
@@ -111,6 +130,20 @@ The Astronomy Department at Cornell University invites applications for a tenure
 **[Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](https://physics.case.edu/nagy/contact/postdoc/)**
 
 Applications are invited for a postdoctoral position in the Physics Department at Case Western Reserve University to work on CMB instrumentation and/or data analysis. The group is led by Profs. Johanna Nagy and John Ruhl and offers opportunities to work on SPIDER, Taurus, and CMB-S4. Projects can be tailored to suit the interests of the candidate.  More information can be found at [https://physics.case.edu/nagy/contact/postdoc/](https://physics.case.edu/nagy/contact/postdoc).
+
+.
+
+------------------------------------------------------------------------
+
+**[PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
+
+A PhD student position in experimental astrophysics with a focus on the development of next-generation microwave telescopes is open for applications. The program will take place within the Physics Department at the University of Iceland. The position is funded for three years with funds from the European Research Council. Among other projects, the PhD student will take a leadership role in the design of a next-generation NASA balloon-borne telescope, designed to measure the polarization of the cosmic microwave background (CMB).
+
+------------------------------------------------------------------------
+
+**[Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
+
+A full time postdoctoral researcher position at the Science Institute, University of Iceland with a focus on the development of next-generation microwave telescopes is open for applications. The researcher will join the CMBeam project team which is funded for three years through a grant from the European Research Council.
 
 ------------------------------------------------------------------------
 
