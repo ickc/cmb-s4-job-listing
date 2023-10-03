@@ -57,11 +57,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
+- [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
-- [BICEP winter overs, until filled](#bicep)
 - [Postdoc at NIST, until filled](#nist)
 
 ------------------------------------------------------------------------
@@ -102,7 +102,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#ceaaafafbea1bdbaaaa1ad8ea9a3afa7a2e0ada1a3). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#7f1b1e1e0f100c0b1b101c3f18121e1613511c1012). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -127,11 +127,19 @@ The Astronomy Department at Cornell University invites applications for a tenure
 
 ------------------------------------------------------------------------
 
+**[Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](https://jobregister.aas.org/ad/6772d9ff)**
+
+The Department of Physics at Southern Methodist University invites applications for a tenure-track faculty position in the area of Astrophysics or Cosmology, broadly defined.  Candidates must have: a Ph.D. in physics, astronomy, or a closely related field; postdoctoral experience; and a record of research excellence. The successful candidate will develop a vigorous research program, supervise graduate students, and teach at both undergraduate and graduate levels. Faculty are expected to teach and mentor diverse students within the Physics program and throughout the University. The appointment will start in August 2024 or later.
+
+ 
+
+Applications must be submitted via lnterfolio [http://apply.interfolio.com/132829](http://apply.interfolio.com/132829 "http://apply.interfolio.com/132829") and should include a cover letter, research statement, statement addressing teaching and mentoring, curriculum vitae, and at least three confidential letters of reference. Review of applications will begin October 22, 2023. To ensure full consideration, the application should be received by November 20, 2023, but the committee will continue to accept applications until the position is filled. Questions or inquiries may be directed to the search chair, Dr. Robert Kehoe ([\[email protected\]]( "mailto:kehoe@smu.edu")).
+
+------------------------------------------------------------------------
+
 **[Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](https://physics.case.edu/nagy/contact/postdoc/)**
 
 Applications are invited for a postdoctoral position in the Physics Department at Case Western Reserve University to work on CMB instrumentation and/or data analysis. The group is led by Profs. Johanna Nagy and John Ruhl and offers opportunities to work on SPIDER, Taurus, and CMB-S4. Projects can be tailored to suit the interests of the candidate.  More information can be found at [https://physics.case.edu/nagy/contact/postdoc/](https://physics.case.edu/nagy/contact/postdoc).
-
-.
 
 ------------------------------------------------------------------------
 
@@ -144,14 +152,6 @@ A PhD student position in experimental astrophysics with a focus on the developm
 **[Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
 
 A full time postdoctoral researcher position at the Science Institute, University of Iceland with a focus on the development of next-generation microwave telescopes is open for applications. The researcher will join the CMBeam project team which is funded for three years through a grant from the European Research Council.
-
-------------------------------------------------------------------------
-
-**[BICEP winter overs, until filled](https://hr.myu.umn.edu/psc/hrprd/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=1&FOCUS=Applicant&JobOpeningId=355090&PostingSeq=1&)**
-
-The BICEP winter-over scientists will start work in fall 2023 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2024. Once the austral summer team leaves the site in February 2024, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
-
-The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 ------------------------------------------------------------------------
 
