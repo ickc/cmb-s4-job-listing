@@ -54,6 +54,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
+- [Wilson fellowship\] at Fermilab, Oct 27, 2023](#wilson)
 - [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
@@ -61,6 +62,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
+- [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [Postdoc at NIST, until filled](#nist)
 
@@ -69,8 +71,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 **[Faculty position at FCFM, University of Chile, Oct 10, 2023](https://concurso-academico.uchile.cl/Postulacion/FM2304)**
 
 The Faculty of Physical and Mathematical Sciences at the University of Chile announces an exclusive competition for women to fill one academic position as a full-time (44 hrs.) regular career appointment in the Physics Department. This position is open to all areas of physics, and applicants working in cosmology, for instance CMB physics, are encouraged. Our department ([https://dfi.uchile.cl](https://dfi.uchile.cl/)) hosts a Cosmology Group with two professors (Domenico Sapone and Gonzalo Palma) and several graduate students. The position involves a strong commitment to research, both individual and collaborative, undergraduate and postgraduate teaching, and it is expected that the selected candidate will maintain an active connection with society in their respective field. All of this through research and development projects, participation in postgraduate courses or diplomas, and/or outreach activities.
-
- 
 
 ------------------------------------------------------------------------
 
@@ -90,7 +90,13 @@ The Physics Division has a long tradition of advanced instrument and detector de
 
 ------------------------------------------------------------------------
 
-**Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023**
+**[Wilson fellowship at Fermilab, Oct 27, 2023](https://www.fnal.gov/pub/forphysicists/fellowships/robert_wilson/)**
+
+The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the [Fermilab particle physics](https://urldefense.com/v3/__https://www.fnal.gov/pub/science/particle-physics/index.html__;!!PhOWcWs!wAsjvIxvcEl3HVTQyk81qVoHE6DVZDMIAvJ21KVb3kVaV2-Rmyk-00nqbyItcgouleK2BqzZP7GrWofzTph0unIq9XcgPQ$ "https://www.fnal.gov/pub/science/particle-physics/index.html") experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments.
+
+------------------------------------------------------------------------
+
+**[Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](https://inspirehep.net/jobs/2705304)**
 
 The Department of Astronomy and Astrophysics (DAA; [https://www.tifr.res.in/~daa/](https://www.tifr.res.in/~daa)) at the Tata Institute of Fundamental Research (TIFR), Mumbai invites applications from qualified candidates for Visiting Fellow (post-doctoral) positions. The research interests pursued at DAA are diverse and include projects involving instrument-building (Infrared, X-Ray & Radio), observational, theoretical, and computational efforts. The science topics pursued in the department include extrasolar planets, star and planet formation, interstellar medium, star clusters, stellar dynamics, resolved transients, fast radio bursts, gravitational waves, seismology, Solar astrophysics, black holes, pulsars and accreting neutron stars, compact-object binaries, X-ray astronomy including science from AstroSat data, gravitational waves including science using InPTA, IPTA, and LIGO-Virgo-KAGRA data, cosmology, CMB data analysis, multi-messenger astronomy, and astronomical big data analysis using machine learning techniques. This position allows the fellows to pursue their own research projects independently, although they are welcome to collaborate with any faculty in the department.
 
@@ -102,7 +108,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#7f1b1e1e0f100c0b1b101c3f18121e1613511c1012). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#a7c3c6c6d7c8d4d3c3c8c4e7c0cac6cecb89c4c8ca). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -152,6 +158,12 @@ A PhD student position in experimental astrophysics with a focus on the developm
 **[Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
 
 A full time postdoctoral researcher position at the Science Institute, University of Iceland with a focus on the development of next-generation microwave telescopes is open for applications. The researcher will join the CMBeam project team which is funded for three years through a grant from the European Research Council.
+
+------------------------------------------------------------------------
+
+**[Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](https://jobregister.aas.org/ad/c7e638d5)**
+
+The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with flexibility) of Fall 2023, is renewable annually for up to three years based on satisfactory performance.
 
 ------------------------------------------------------------------------
 
