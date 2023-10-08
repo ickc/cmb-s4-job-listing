@@ -108,7 +108,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#90f4f1f1e0ffe3e4f4fff3d0f7fdf1f9fcbef3fffd). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#14707575647b6760707b77547379757d783a777b79). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
