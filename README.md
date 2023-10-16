@@ -57,11 +57,13 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Wilson fellowship\] at Fermilab, Oct 27, 2023](#wilson)
 - [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
+- [Open rank faculty position at UIUC, Nov 8, 2023](#uiuc)
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
 - [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
+- [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [Postdoc at NIST, until filled](#nist)
@@ -108,7 +110,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#2f4b4e4e5f405c5b4b404c6f48424e4643014c4042). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#31555050415e4245555e5271565c50585d1f525e5c). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -124,6 +126,18 @@ We are developing LIM as a new technique to probe the large-scale structure of t
 - Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
 
 Previous experience in mm-wave instrumentation, thin-film superconducting device fabrication, or LIM/CMB analysis is desirable but not required. In addition to the international SPT-SLIM team, successful candidates will also have the opportunity to interact with KIPAC/SLAC scientists working on CMB (BICEP, SO, CMB-S4) and galaxy surveys (Rubin/LSST).
+
+------------------------------------------------------------------------
+
+**[Open rank faculty position at UIUC, Nov 8, 2023](https://jobregister.aas.org/ad/ebd1724b)**
+
+The Astronomy Department at the University of Illinois at Urbana-Champaign invites applications for a full-time, Assistant, Associate, or Full Professor faculty position (tenure line) beginning as soon as August 16, 2024. The area of scientific focus is open to all areas of astronomy/astrophysics/cosmology. The department is involved in several major astrophysical surveys, and has vibrant research programs that span cosmology, compact objects, galaxies, stars, planets, computational and data-intensive astronomy. We are open to diversifying these research areas. We particularly encourage applications from candidates who can contribute, through their research, teaching, and service, to furthering inclusive excellence in the Department and the Illinois community.
+
+The Astronomy Department has strong ties to the highly-ranked departments of Physics and Chemistry, the College of Engineering, and the National Center for Supercomputing Applications (NCSA). Our campus supports crosscutting astrophysics research through the Center for AstroPhysical Surveys (CAPS) that advances astrophysical survey science efforts across campus, and the Illinois Center for Advanced Studies of the Universe (ICASU) that supports interdisciplinary inquiry in fundamental physics.
+
+The Illinois College of Liberal Arts and Sciences is a world leader in research, teaching, and public engagement. Faculty in the College create knowledge, address critical societal needs through the transfer and application of knowledge, and prepare students for lives of impact in the state, nation, and globally. To meet these objectives, the College embraces and values diversity and difference through hiring faculty candidates who can contribute through their research, teaching, and/or service to the diversity and excellence of the Illinois community.
+
+ 
 
 ------------------------------------------------------------------------
 
@@ -158,6 +172,16 @@ A PhD student position in experimental astrophysics with a focus on the developm
 **[Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
 
 A full time postdoctoral researcher position at the Science Institute, University of Iceland with a focus on the development of next-generation microwave telescopes is open for applications. The researcher will join the CMBeam project team which is funded for three years through a grant from the European Research Council.
+
+------------------------------------------------------------------------
+
+**[CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](https://jobregister.aas.org/ad/c72e94b6)**
+
+The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomputer Applications (NCSA) and the University of Illinois at Urbana-Champaign invite applications from Ph.D. scientists for the CAPS postdoctoral fellowship. This independent fellowship is for 3 years and offers a competitive salary, benefits, and research funds.
+
+This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (Rubin) and the Legacy Survey of Space and Time (LSST), South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of Rubin. Illinois is an institutional member of the SPT collaboration and participates in the design and planning for CMB-S4.
+
+The selected candidate will be part of the Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/).
 
 ------------------------------------------------------------------------
 
