@@ -61,6 +61,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
 - [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
+- [Richard S Morrison Postdoctoral fellowshop at CWRU, Dec 1, 2023](#morrison)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
@@ -110,7 +111,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#31555050415e4245555e5271565c50585d1f525e5c). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#4b2f2a2a3b24383f2f24280b2c262a222765282426). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -160,6 +161,16 @@ Applications must be submitted via lnterfolio [http://apply.interfolio.com/1328
 **[Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](https://physics.case.edu/nagy/contact/postdoc/)**
 
 Applications are invited for a postdoctoral position in the Physics Department at Case Western Reserve University to work on CMB instrumentation and/or data analysis. The group is led by Profs. Johanna Nagy and John Ruhl and offers opportunities to work on SPIDER, Taurus, and CMB-S4. Projects can be tailored to suit the interests of the candidate.  More information can be found at [https://physics.case.edu/nagy/contact/postdoc/](https://physics.case.edu/nagy/contact/postdoc).
+
+------------------------------------------------------------------------
+
+**[Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](https://academicjobsonline.org/ajo/fellowship/26249)**
+
+The The Particle Physics, Astrophysics and Cosmology group at Case Western Reserve University anticipates offering the Richard S. Morrison Post-Doctoral (Term) Fellowship, open to theoretical and computational cosmologists. 
+
+The position is expected to start no later than Oct. 1, 2024 (earlier/later start date may be negotiated). Applications with a CV, publication list, statement of research interests & three letters of recommendation should be submitted through Academic Jobs Online at **[https://academicjobsonline.org/ajo/fellowship/26249](https://academicjobsonline.org/ajo/fellowship/26249)**. If electronic submission is not possible, paper applications may be sent to “Richard Morrison Post-Doctoral Fellowship Search c/o G. Starkman,” Dept. of Physics, Case Western Reserve University, 10900 Euclid Ave, Cleveland, Ohio 44106-7079 USA. Review of applications will begin on a rolling basis Dec 1, 2024. The position will be open until filled.\</p
+
+Information about the research interests of the Particle Physics, Astrophysics and Cosmology group is on the Department of Physics webpage. Questions may be directed to Glenn Starkman at [\[email protected\]](https://academicjobsonline.org/ajo/fellowship/glenn.starkmanzz??case.edu). The successful applicant is likely to be interested in close collaboration with him and other colleagues in theoretical and experimental cosmology, especially Craig Copi, Kurt Hinterbichler, Johanna Nagy and John Ruhl, on CMB data analysis, as well as in collaboration with colleagues at Imperial College London, University of Pittsburgh, and Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe. Candidates with expertise in Machine Learning or other advanced numerical techniques are particularly encouraged to apply. 
 
 ------------------------------------------------------------------------
 
