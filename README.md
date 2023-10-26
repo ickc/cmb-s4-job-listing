@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [Wilson fellowship\] at Fermilab, Oct 27, 2023](#wilson)
 - [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
+- [Four Postdoc positions in Simons Observatory Data Management](#sodm)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
 - [Open rank faculty position at UIUC, Nov 8, 2023](#uiuc)
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
@@ -111,7 +112,22 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#4d292c2c3d223e3929222e0d2a202c2421632e2220). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#e0848181908f9394848f83a0878d81898cce838f8d). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+
+------------------------------------------------------------------------
+
+**Four postdoc positions in Simons Observatory Data Management**
+
+The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented postdoctoral researchers to work on the SO Large-Aperture Telescope (LAT) pipeline development and demonstration on data, including: simulations, low-level TOD analysis, map-making, and systematics studies. The main focus of these positions is to enhance the current capabilities of the SO pipeline to reach the requirements of the Advanced Simons Observatory (ASO) program.
+
+The available positions are:
+
+- [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#56253b253f3b3938163038373a78313920)) 
+- [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
+- [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
+
+For general questions, please email Simone Aiola ([\[email protected\]]()).
 
 ------------------------------------------------------------------------
 
