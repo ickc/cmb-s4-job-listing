@@ -66,6 +66,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
+- [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 - [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
 - [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
 - [Postdoc at NIST, until filled](#nist)
@@ -112,7 +113,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#d6b2b7b7a6b9a5a2b2b9b596b1bbb7bfbaf8b5b9bb). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#7c181d1d0c130f0818131f3c1b111d1510521f1311). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -123,7 +124,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#3d4e504e545052537d5b535c51135a524b)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#26554b554f4b4948664048474a08414950)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -209,6 +210,37 @@ The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomp
 This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (Rubin) and the Legacy Survey of Space and Time (LSST), South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of Rubin. Illinois is an institutional member of the SPT collaboration and participates in the design and planning for CMB-S4.
 
 The selected candidate will be part of the Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/).
+
+------------------------------------------------------------------------
+
+**Multiple postdocs on BROWSEPOL, until filled**
+
+The Cosmology groups at the University of Ferrara (UNIFE), University of Padova (UNIPD) and at the   
+Observatory of Astrophysics and Space Science of Bologna (INAF), invite expressions of interest for three post-doc positions at each location, for two years.   
+  
+The positions are funded by the PRIN project “BROWSEPOL: Beyond standaRd mOdel With coSmic   
+microwavE background POLarization”. BROWSEPOL aims at the theoretical and phenomenological   
+investigation of fundamental physics signatures beyond the standard cosmological model, including, e.g.,   
+signatures of parity violation arising in the context of Cosmic Birefringence or in other observables.   
+  
+The research work will be focused on the development of theoretical models (related to inflationary or late   
+time universe physics) and new predictions of the corresponding CMB phenomenology, on the   
+implementation of new analysis techniques to CMB polarization data, as well as on the forecasts for next-  
+generation CMB experiments focused on B-modes, including SO, CMB-S4 and LiteBIRD.    
+  
+All the research work will be carried on in strong synergy by the three above mentioned units through   
+closely connected activities. The successful applicants will benefit from a lively and stimulating   
+environment at all three locations as they will become part of active cosmology groups composed of   
+several staff, postdocs, PhD and undergraduate students. The position in Padua   
+([https://www.dfa.unipd.it/en/research/research-areas-and-groups/astronomy-astrophysics-and-physics-](https://www.dfa.unipd.it/en/research/research-areas-and-groups/astronomy-astrophysics-and-physics-)  
+of-the-earth-and-planets/theoretical-astrophysics-and-cosmology) will be supervised by Prof. Nicola   
+Bartolo ([\[email protected\]]()), the one in Ferrara ([www.fe.infn.it/cosmologia](http://www.fe.infn.it/cosmologia)) by Prof. Paolo Natoli   
+([\[email protected\]]()) and the one in Bologna ([https://www.oas.inaf.it/it/ricerca/m1-it/cmb-it/](https://www.oas.inaf.it/it/ricerca/m1-it/cmb-it/)) by Dr.   
+Alessandro Gruppuso ([\[email protected\]]()).
+
+Those interested should write an email to any supervisor above, including a short CV (maximum 2 pages),   
+a complete list of publications and the names and email addresses of up to three referees who might be   
+asked to provide a letter of reference.
 
 ------------------------------------------------------------------------
 
