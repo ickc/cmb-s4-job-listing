@@ -54,6 +54,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
 - [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
+- [Faculty position in multi-messenger astro and particle physics at SISSA, Oct 15, 2023](#sissa)
 - [Wilson fellowship\] at Fermilab, Oct 27, 2023](#wilson)
 - [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Four Postdoc positions in Simons Observatory Data Management](#sodm)
@@ -63,6 +64,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [Richard S Morrison Postdoctoral fellowshop at CWRU, Dec 1, 2023](#morrison)
+- [CMB Divisional Fellow at LBNL, Dec 1, 2023](#lbnl)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
@@ -95,6 +97,14 @@ The Physics Division has a long tradition of advanced instrument and detector de
 
 ------------------------------------------------------------------------
 
+**[Faculty position in multi-messenger astro and particle physics at SISSA, Oct 15, 2023](https://academicjobsonline.org/ajo/jobs/24931)**
+
+The Astroparticle Physics and Astrophysics & Cosmology groups at the “Scuola Internazionale Superiore di Studi Avanzati” (SISSA) in Trieste, Italy, invite expressions of interest for a faculty position from outstanding candidates with a strong research record in multi-messenger astronomy and astrophysics, including gravitational waves, neutrinos, gamma rays, galactic and extragalactic cosmic rays, mm-wave transient studies, electromagnetic waves, as well as related plasma processes.  The appointment procedure will be activated at the assistant professor, tenure-track, level.
+
+The International School for Advanced Studies (SISSA) is a leading research and training institution (PhD School) located in Trieste, Italy. The campus is in a green area on the hills close to Trieste and is efficiently connected to the city by public transport. SISSA offers to its community top tier research facilities (e.g. High Performance Computing facilities) and services (canteen and kindergarten services located on site). The Physics Area at SISSA has connections with the International Centre for Theoretical Physics (ICTP), the National Institute for Nuclear Physics (INFN), the National Institute for Astrophysics (INAF) and the National Council for Research (CNR). SISSA is also a founding member of several research Institutes such as IFPU, IGAP and TQT. More information on research in Physics at SISSA can be found at www.sissa.it.
+
+------------------------------------------------------------------------
+
 **[Wilson fellowship at Fermilab, Oct 27, 2023](https://www.fnal.gov/pub/forphysicists/fellowships/robert_wilson/)**
 
 The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the [Fermilab particle physics](https://urldefense.com/v3/__https://www.fnal.gov/pub/science/particle-physics/index.html__;!!PhOWcWs!wAsjvIxvcEl3HVTQyk81qVoHE6DVZDMIAvJ21KVb3kVaV2-Rmyk-00nqbyItcgouleK2BqzZP7GrWofzTph0unIq9XcgPQ$ "https://www.fnal.gov/pub/science/particle-physics/index.html") experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments.
@@ -113,7 +123,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#7c181d1d0c130f0818131f3c1b111d1510521f1311). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#d2b6b3b3a2bda1a6b6bdb192b5bfb3bbbefcb1bdbf). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -124,7 +134,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#26554b554f4b4948664048474a08414950)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#37445a445e5a5859775159565b19505841)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -187,7 +197,17 @@ The The Particle Physics, Astrophysics and Cosmology group at Case Western Rese
 
 The position is expected to start no later than Oct. 1, 2024 (earlier/later start date may be negotiated). Applications with a CV, publication list, statement of research interests & three letters of recommendation should be submitted through Academic Jobs Online at **[https://academicjobsonline.org/ajo/fellowship/26249](https://academicjobsonline.org/ajo/fellowship/26249)**. If electronic submission is not possible, paper applications may be sent to “Richard Morrison Post-Doctoral Fellowship Search c/o G. Starkman,” Dept. of Physics, Case Western Reserve University, 10900 Euclid Ave, Cleveland, Ohio 44106-7079 USA. Review of applications will begin on a rolling basis Dec 1, 2024. The position will be open until filled.\</p
 
-Information about the research interests of the Particle Physics, Astrophysics and Cosmology group is on the Department of Physics webpage. Questions may be directed to Glenn Starkman at [\[email protected\]](https://academicjobsonline.org/ajo/fellowship/glenn.starkmanzz??case.edu). The successful applicant is likely to be interested in close collaboration with him and other colleagues in theoretical and experimental cosmology, especially Craig Copi, Kurt Hinterbichler, Johanna Nagy and John Ruhl, on CMB data analysis, as well as in collaboration with colleagues at Imperial College London, University of Pittsburgh, and Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe. Candidates with expertise in Machine Learning or other advanced numerical techniques are particularly encouraged to apply. 
+Information about the research interests of the Particle Physics, Astrophysics and Cosmology group is on the Department of Physics webpage. Questions may be directed to Glenn Starkman at [\[email protected\]](https://academicjobsonline.org/ajo/fellowship/glenn.starkmanzz??case.edu). The successful applicant is likely to be interested in close collaboration with him and other colleagues in theoretical and experimental cosmology, especially Craig Copi, Kurt Hinterbichler, Johanna Nagy and John Ruhl, on CMB data analysis, as well as in collaboration with colleagues at Imperial College London, University of Pittsburgh, and Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe. Candidates with expertise in Machine Learning or other advanced numerical techniques are particularly encouraged to apply.
+
+------------------------------------------------------------------------
+
+**[CMB Divisional Fellow at LBNL, Dec 1, 2023](https://jobs.lbl.gov/jobs/cosmic-microwave-background-divisional-fellow-6145)**
+
+The [Physics Division](https://www.physics.lbl.gov/) at Lawrence Berkeley National Laboratory ([LBNL](https://www.lbl.gov/)) has an opening for a Cosmic Microwave Background Divisional Fellow who will make substantial contributions to the design, construction, operations and scientific analyses of the CMB-S4 project; collaborate with the scientific staff within the Division, the Laboratory and the international community; and supervise postdoctoral fellows and students. The Divisional Fellow position is an approximate equivalent to a tenure track junior faculty position.  
+
+The Physics Division invites applications from candidates with a record of accomplishment, creative ability, and outstanding promise in the field of Cosmic Microwave Background (CMB) cosmology. The appointment will be as a career-track position of up to five years with the expectation of promotion to a career position as a Senior Scientist. Exceptionally qualified scientists can be considered for appointment directly to Senior Scientist. 
+
+A successful candidate should have an outstanding and broad program in cosmology with a research focus in the area of the Cosmic Microwave Background (CMB). We welcome applicants with expertise in any of the areas of instrumentation, simulation, data management and/or analysis. The candidate is expected to interact with both the theoretical and experimental communities at Berkeley and beyond and have a commitment to encouraging equity and inclusion. Additional criteria in the search are potential for leadership in the field, ability to mentor early career scientists, and service in the scientific community. 
 
 ------------------------------------------------------------------------
 
