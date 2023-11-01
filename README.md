@@ -52,10 +52,7 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Faculty position at FCFM, University of Chile, Oct 10, 2023](#chile)
-- [Chamberlain fellowships at LBNL, Oct 15, 2023](#chamberlain)
 - [Faculty position in multi-messenger astro and particle physics at SISSA, Oct 15, 2023](#sissa)
-- [Wilson fellowship\] at Fermilab, Oct 27, 2023](#wilson)
 - [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Four Postdoc positions in Simons Observatory Data Management](#sodm)
 - [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
@@ -63,10 +60,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
 - [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
-- [Richard S Morrison Postdoctoral fellowshop at CWRU, Dec 1, 2023](#morrison)
+- [Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](#morrison)
 - [CMB Divisional Fellow at LBNL, Dec 1, 2023](#lbnl)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
+- [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 - [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
@@ -75,25 +73,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 ------------------------------------------------------------------------
 
-**[Faculty position at FCFM, University of Chile, Oct 10, 2023](https://concurso-academico.uchile.cl/Postulacion/FM2304)**
-
-The Faculty of Physical and Mathematical Sciences at the University of Chile announces an exclusive competition for women to fill one academic position as a full-time (44 hrs.) regular career appointment in the Physics Department. This position is open to all areas of physics, and applicants working in cosmology, for instance CMB physics, are encouraged. Our department ([https://dfi.uchile.cl](https://dfi.uchile.cl/)) hosts a Cosmology Group with two professors (Domenico Sapone and Gonzalo Palma) and several graduate students. The position involves a strong commitment to research, both individual and collaborative, undergraduate and postgraduate teaching, and it is expected that the selected candidate will maintain an active connection with society in their respective field. All of this through research and development projects, participation in postgraduate courses or diplomas, and/or outreach activities.
-
-------------------------------------------------------------------------
-
 **[QUP postdoctoral fellows for LiteBIRD, until filled](https://academicjobsonline.org/ajo/jobs/25277)**
 
  We seek candidates interested in cosmic microwave background experiments with extensive experience in cryogenic instrumentation. The successful candidates will work with QUP Senior Scientist and project manager of QUP’s LiteBIRD activity, Hiroki Akamatsu, whose research focuses on developing CMB instrumentation for JAXA’s L-class mission LiteBIRD aiming for primordial gravitational-wave search. Our postdoctoral fellows are for three years, with the possibility of a 2-year renewal based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs, and are provided with salaries comparable to those at other prestigious institutions. We may offer a higher position, at the rank of assistant professor, for five years with the possibility of a 2-year renewal to outstanding candidates.
 
  The primary research topic of the new position is the construction and accurate characterization of the LiteBIRD low-frequency telescope Focal Plane Unit (FPU). The focal plane subassembly will be based on Transition Edge Sensors bolometers and Digital Frequency Multiplexing technology. We expect to build and characterize the prototype (demonstration model) by 2026. We seek ambitious, highly motivated, and result-driven scientists. Applicants should have a Ph.D. in Physics/Engineering or a related field by the time the appointment begins. Excellent cryogenics instrumentation experiences are essential. A good command of the English language is necessary, and the fellow should be able to work independently and in a team.
-
-------------------------------------------------------------------------
-
-**[Chamberlain fellowships at LBNL, Oct 15, 2023](https://academicjobsonline.org/ajo/jobs/25429)**
-
-The [Physics](https://www.physics.lbl.gov/) Division at Lawrence Berkeley National Laboratory (Berkeley Lab) announces the competition for the 2024 Owen Chamberlain Fellowships in Experimental Particle Physics and Cosmology. The Fellowship is named after Berkeley Nobel Laureate Owen Chamberlain, who, together with Emilio Segrè, Clyde Wiegand, and Thomas Ypsilantis, discovered the anti-proton at the Berkeley Bevatron in 1955.  
-
-The Physics Division has a long tradition of advanced instrument and detector development, computational research (including machine learning), cosmology simulation and analysis, quantum information (sensing and computing), detector R&D, and microelectronics.  Our experimental portfolio encompasses high-energy collider physics (ATLAS), neutrino physics (DUNE), direct detection of dark matter (LZ and TESSERACT), rare and precision physics (Mu2e), and experimental cosmology (DESI, Rubin Observatory DESC, Type Ia Supernovæ, Simons Observatory, and CMB-S4). For an overview of the research activities at the lab, please see [www.physics.lbl.gov](http://www.physics.lbl.gov).
 
 ------------------------------------------------------------------------
 
@@ -123,7 +107,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#d2b6b3b3a2bda1a6b6bdb192b5bfb3bbbefcb1bdbf). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#02666363726d7176666d6142656f636b6e2c616d6f). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -134,7 +118,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#37445a445e5a5859775159565b19505841)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#7e0d130d171311103e18101f1250191108)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -220,6 +204,14 @@ A PhD student position in experimental astrophysics with a focus on the developm
 **[Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
 
 A full time postdoctoral researcher position at the Science Institute, University of Iceland with a focus on the development of next-generation microwave telescopes is open for applications. The researcher will join the CMBeam project team which is funded for three years through a grant from the European Research Council.
+
+------------------------------------------------------------------------
+
+**[Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](https://academicjobsonline.org/ajo/jobs/26451)**
+
+The Astrophysics & Cosmology Group at SISSA (Trieste, Italy; www.sissa.it/ap) invites applications for two Post-Doctoral Positions with the European Program RadioForegrounds+ (<https://research.iac.es/proyecto/radioforegroundsplus/>), within the New Horizons Space Program, which will last for three years starting on January 1st, 2024. The aim of the project is to provide the best possible characterization of the physical properties of polarized emissions in the microwave domain, together with an unprecedentedly thorough description of the intensity signal. This legacy information will be essential for future sub-orbital or satellite experiments targeting the B-Mode of Cosmic Microwave Anisotropies for the measurement of Cosmological Gravitational Waves and Lensing.
+
+Positions can start anytime in 2024. The program is coordinated by CSIC-IFCA (Santander), and includes, in addition to SISSA, IAC in Spain, CNRS in France, Universities of Manchester and Oxford in UK. Post-Doc positions will be available at all nodes. Applicants at SISSA are expected to work on the exploitation of current modeling and data analysis for predicting the detectability of B-Modes in forthcoming observations.
 
 ------------------------------------------------------------------------
 
