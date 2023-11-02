@@ -62,6 +62,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](#morrison)
 - [CMB Divisional Fellow at LBNL, Dec 1, 2023](#lbnl)
+- [Tenure-track Assistant Professor of Astrophysics, University of Cincinnati, Dec 15, 2023](#cincinnati)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
@@ -107,7 +108,7 @@ The application should include a 
 - publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
 - names and contact information of three referees. 
 
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#02666363726d7176666d6142656f636b6e2c616d6f). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#d7b3b6b6a7b8a4a3b3b8b497b0bab6bebbf9b4b8ba). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
 
 ------------------------------------------------------------------------
 
@@ -118,7 +119,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#7e0d130d171311103e18101f1250191108)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#0a796779636765644a6c646b66246d657c)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -191,7 +192,19 @@ The [Physics Division](https://www.physics.lbl.gov/) at Lawrence Berkeley Nati
 
 The Physics Division invites applications from candidates with a record of accomplishment, creative ability, and outstanding promise in the field of Cosmic Microwave Background (CMB) cosmology. The appointment will be as a career-track position of up to five years with the expectation of promotion to a career position as a Senior Scientist. Exceptionally qualified scientists can be considered for appointment directly to Senior Scientist. 
 
-A successful candidate should have an outstanding and broad program in cosmology with a research focus in the area of the Cosmic Microwave Background (CMB). We welcome applicants with expertise in any of the areas of instrumentation, simulation, data management and/or analysis. The candidate is expected to interact with both the theoretical and experimental communities at Berkeley and beyond and have a commitment to encouraging equity and inclusion. Additional criteria in the search are potential for leadership in the field, ability to mentor early career scientists, and service in the scientific community. 
+A successful candidate should have an outstanding and broad program in cosmology with a research focus in the area of the Cosmic Microwave Background (CMB). We welcome applicants with expertise in any of the areas of instrumentation, simulation, data management and/or analysis. The candidate is expected to interact with both the theoretical and experimental communities at Berkeley and beyond and have a commitment to encouraging equity and inclusion. Additional criteria in the search are potential for leadership in the field, ability to mentor early career scientists, and service in the scientific community.
+
+------------------------------------------------------------------------
+
+**[Tenure-track Assistant Professor of Astrophysics, University of Cincinnati,  Dec 15, 2023](https://jobs.uc.edu/job/Cincinnati-Assistant-Professor%2C-Astrophysics%2C-College-of-Arts-and-Sciences-OH-45201/1093111900/)**
+
+The University of Cincinnati Department of Physics invites applications for a tenure-track Assistant Professor position. The department aims to bring in a new faculty member to complement existing strengths in observational astrophysics and cosmology. The selected candidate will be expected to establish a robust, funded research program that incorporates both undergraduate and graduate student researchers, be an effective teacher for both undergraduate and graduate courses, and contribute positively to an inclusive department culture. The ideal starting date for this position is August 2024.  
+  
+The University of Cincinnati is an urban, R1 public institution with an enrollment of \>50,000 students located in the middle of the city. Cincinnati is a growing, lively, walkable, and affordable city. It is also home to Cincinnati Observatory, the first public observatory in the United States, as well as a flourishing arts, music, and festival scene, and dozens of museums.  
+  
+The Department of Physics supports thriving undergraduate and graduate programs. Areas of active research include astrophysics, high energy physics, condensed matter physics, and physics education research. We are committed to supporting inclusive education and fostering a welcoming environment. We participate in the American Physical Society (APS) Bridge Program, as well as the APS Inclusion, Diversity and Equity Alliance (IDEA) network.  
+  
+For additional information, contact the search committee chair, Prof. Colin Bischoff, at [\[email protected\]](). Review of applications will begin on December 15, 2023, and will continue until the position is filled.
 
 ------------------------------------------------------------------------
 
