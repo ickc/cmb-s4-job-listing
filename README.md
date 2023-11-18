@@ -52,20 +52,18 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Faculty position in multi-messenger astro and particle physics at SISSA, Oct 15, 2023](#sissa)
-- [Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](#tifr)
 - [Four Postdoc positions in Simons Observatory Data Management](#sodm)
-- [Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](#slaclim)
-- [Open rank faculty position at UIUC, Nov 8, 2023](#uiuc)
 - [Faculty position at Cornell University, Nov 15, 2023](#cornell)
 - [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](#morrison)
-- [CMB Divisional Fellow at LBNL, Dec 1, 2023](#lbnl)
+- [CMB Divisional Fellow at LBNL, Dec 7, 2023](#lbnl)
+- [Phonon Postdoc at LBNL, Dec 1, 2023](#lbnlphonon)
 - [Tenure-track Assistant Professor of Astrophysics, University of Cincinnati, Dec 15, 2023](#cincinnati)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
+- [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 - [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
@@ -80,35 +78,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
  The primary research topic of the new position is the construction and accurate characterization of the LiteBIRD low-frequency telescope Focal Plane Unit (FPU). The focal plane subassembly will be based on Transition Edge Sensors bolometers and Digital Frequency Multiplexing technology. We expect to build and characterize the prototype (demonstration model) by 2026. We seek ambitious, highly motivated, and result-driven scientists. Applicants should have a Ph.D. in Physics/Engineering or a related field by the time the appointment begins. Excellent cryogenics instrumentation experiences are essential. A good command of the English language is necessary, and the fellow should be able to work independently and in a team.
 
-------------------------------------------------------------------------
-
-**[Faculty position in multi-messenger astro and particle physics at SISSA, Oct 15, 2023](https://academicjobsonline.org/ajo/jobs/24931)**
-
-The Astroparticle Physics and Astrophysics & Cosmology groups at the “Scuola Internazionale Superiore di Studi Avanzati” (SISSA) in Trieste, Italy, invite expressions of interest for a faculty position from outstanding candidates with a strong research record in multi-messenger astronomy and astrophysics, including gravitational waves, neutrinos, gamma rays, galactic and extragalactic cosmic rays, mm-wave transient studies, electromagnetic waves, as well as related plasma processes.  The appointment procedure will be activated at the assistant professor, tenure-track, level.
-
-The International School for Advanced Studies (SISSA) is a leading research and training institution (PhD School) located in Trieste, Italy. The campus is in a green area on the hills close to Trieste and is efficiently connected to the city by public transport. SISSA offers to its community top tier research facilities (e.g. High Performance Computing facilities) and services (canteen and kindergarten services located on site). The Physics Area at SISSA has connections with the International Centre for Theoretical Physics (ICTP), the National Institute for Nuclear Physics (INFN), the National Institute for Astrophysics (INAF) and the National Council for Research (CNR). SISSA is also a founding member of several research Institutes such as IFPU, IGAP and TQT. More information on research in Physics at SISSA can be found at www.sissa.it.
-
-------------------------------------------------------------------------
-
-**[Wilson fellowship at Fermilab, Oct 27, 2023](https://www.fnal.gov/pub/forphysicists/fellowships/robert_wilson/)**
-
-The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the [Fermilab particle physics](https://urldefense.com/v3/__https://www.fnal.gov/pub/science/particle-physics/index.html__;!!PhOWcWs!wAsjvIxvcEl3HVTQyk81qVoHE6DVZDMIAvJ21KVb3kVaV2-Rmyk-00nqbyItcgouleK2BqzZP7GrWofzTph0unIq9XcgPQ$ "https://www.fnal.gov/pub/science/particle-physics/index.html") experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments.
-
-------------------------------------------------------------------------
-
-**[Postdoc position(s) in Cosmology at Department of Astronomy and Astrophysics, TIFR (Mumbai, India), Nov 1, 2023](https://inspirehep.net/jobs/2705304)**
-
-The Department of Astronomy and Astrophysics (DAA; [https://www.tifr.res.in/~daa/](https://www.tifr.res.in/~daa)) at the Tata Institute of Fundamental Research (TIFR), Mumbai invites applications from qualified candidates for Visiting Fellow (post-doctoral) positions. The research interests pursued at DAA are diverse and include projects involving instrument-building (Infrared, X-Ray & Radio), observational, theoretical, and computational efforts. The science topics pursued in the department include extrasolar planets, star and planet formation, interstellar medium, star clusters, stellar dynamics, resolved transients, fast radio bursts, gravitational waves, seismology, Solar astrophysics, black holes, pulsars and accreting neutron stars, compact-object binaries, X-ray astronomy including science from AstroSat data, gravitational waves including science using InPTA, IPTA, and LIGO-Virgo-KAGRA data, cosmology, CMB data analysis, multi-messenger astronomy, and astronomical big data analysis using machine learning techniques. This position allows the fellows to pursue their own research projects independently, although they are welcome to collaborate with any faculty in the department.
-
-The application should include a 
-
-- cover letter, 
-- research proposal (should include past research expertise, future research plans at TIFR), 
-- CV, 
-- publication list (in addition to all publications, include ORCID ID and link to applicant’s ADS listing), and 
-- names and contact information of three referees. 
-
-Interested applicants should collate all material into a single PDF and send it to [\[email protected\]]() and CC to [\[email protected\]](/cdn-cgi/l/email-protection#167277776679656272797556717b777f7a3875797b). If the interested applicant already has a specific faculty in mind for collaboration, it is alright to contact that faculty as well, but a formal application must be sent to the above-mentioned email(s) to be considered for these positions.
+ 
 
 ------------------------------------------------------------------------
 
@@ -119,38 +89,11 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#10637d63797d7f7e50767e717c3e777f66)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#51223c22383c3e3f11373f303d7f363e27)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
 For general questions, please email Simone Aiola ([\[email protected\]]()).
-
-------------------------------------------------------------------------
-
-**[Postdoc at KIPAC/SLAC with a focus on cosmology with millimeter-wave line intensity mapping, Nov 3, 2023](https://jobregister.aas.org/ad/7292b1bb)**
-
-We invite applications for a postdoctoral position at the Kavli Institute of Particle Astrophysics and Cosmology (KIPAC) at Stanford University and SLAC National Accelerator Laboratory with a focus on cosmology using millimeter-wave line intensity mapping (LIM).
-
-We are developing LIM as a new technique to probe the large-scale structure of the universe at high redshifts. As a lead institution in the SPT-SLIM collaboration—a pathfinder for LIM using on-chip spectrometers—our group is involved in all aspects of the experiment. We seek candidates interested in any of the following areas:
-
-- Design and fabrication of superconducting spectrometer arrays, including R&D on new materials and spectrometer architectures in the Stanford Nanofabrication Facility.
-- Characterization of spectrometer arrays, and operations and deployment of SPT-SLIM to the South Pole.
-- Pipeline development and analysis of LIM data to constrain cosmology and astrophysics, including testing foreground and signal separation techniques.
-- Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
-
-Previous experience in mm-wave instrumentation, thin-film superconducting device fabrication, or LIM/CMB analysis is desirable but not required. In addition to the international SPT-SLIM team, successful candidates will also have the opportunity to interact with KIPAC/SLAC scientists working on CMB (BICEP, SO, CMB-S4) and galaxy surveys (Rubin/LSST).
-
-------------------------------------------------------------------------
-
-**[Open rank faculty position at UIUC, Nov 8, 2023](https://jobregister.aas.org/ad/ebd1724b)**
-
-The Astronomy Department at the University of Illinois at Urbana-Champaign invites applications for a full-time, Assistant, Associate, or Full Professor faculty position (tenure line) beginning as soon as August 16, 2024. The area of scientific focus is open to all areas of astronomy/astrophysics/cosmology. The department is involved in several major astrophysical surveys, and has vibrant research programs that span cosmology, compact objects, galaxies, stars, planets, computational and data-intensive astronomy. We are open to diversifying these research areas. We particularly encourage applications from candidates who can contribute, through their research, teaching, and service, to furthering inclusive excellence in the Department and the Illinois community.
-
-The Astronomy Department has strong ties to the highly-ranked departments of Physics and Chemistry, the College of Engineering, and the National Center for Supercomputing Applications (NCSA). Our campus supports crosscutting astrophysics research through the Center for AstroPhysical Surveys (CAPS) that advances astrophysical survey science efforts across campus, and the Illinois Center for Advanced Studies of the Universe (ICASU) that supports interdisciplinary inquiry in fundamental physics.
-
-The Illinois College of Liberal Arts and Sciences is a world leader in research, teaching, and public engagement. Faculty in the College create knowledge, address critical societal needs through the transfer and application of knowledge, and prepare students for lives of impact in the state, nation, and globally. To meet these objectives, the College embraces and values diversity and difference through hiring faculty candidates who can contribute through their research, teaching, and/or service to the diversity and excellence of the Illinois community.
-
- 
 
 ------------------------------------------------------------------------
 
@@ -196,6 +139,16 @@ A successful candidate should have an outstanding and broad program in cosmology
 
 ------------------------------------------------------------------------
 
+**[Phonon postdoc at LBNL, Dec 1, 2023](https://academicjobsonline.org/ajo/jobs/26504)**
+
+The [Physics](https://www.physics.lbl.gov/) Division at Lawrence Berkeley National Laboratory (Berkeley Lab) has an opening for a **Postdoctoral Scholar** to work on the project titled “Phonon Control for Next-Generation Superconducting Systems and Sensors” under the guidance of the group leader. Their focus will be on the development of two main applications using ultrahigh-frequency phononics tools.
+
+The first application aims to use phonon traps to enhance the performance of superconducting qubits in quantum processors. The scholar will utilize simulations to inform the design of phonon cloaking, collaborate with microfabrication engineers to produce the device, and conduct tests in the lab to assess its functionality.
+
+The second application seeks to improve the performance of superconducting sensors, including Transition Edge and Microwave Kinetic Inductance, for high-energy physics experiments through controlled phonon propagation. Directing phonons in a targeted manner can significantly boost the sensitivity of these systems, potentially transforming fields like the search for low-mass dark matter and paving the way for new applications.
+
+------------------------------------------------------------------------
+
 **[Tenure-track Assistant Professor of Astrophysics, University of Cincinnati,  Dec 15, 2023](https://jobs.uc.edu/job/Cincinnati-Assistant-Professor%2C-Astrophysics%2C-College-of-Arts-and-Sciences-OH-45201/1093111900/)**
 
 The University of Cincinnati Department of Physics invites applications for a tenure-track Assistant Professor position. The department aims to bring in a new faculty member to complement existing strengths in observational astrophysics and cosmology. The selected candidate will be expected to establish a robust, funded research program that incorporates both undergraduate and graduate student researchers, be an effective teacher for both undergraduate and graduate courses, and contribute positively to an inclusive department culture. The ideal starting date for this position is August 2024.  
@@ -225,6 +178,21 @@ A full time postdoctoral researcher position at the Science Institute, Universit
 The Astrophysics & Cosmology Group at SISSA (Trieste, Italy; www.sissa.it/ap) invites applications for two Post-Doctoral Positions with the European Program RadioForegrounds+ (<https://research.iac.es/proyecto/radioforegroundsplus/>), within the New Horizons Space Program, which will last for three years starting on January 1st, 2024. The aim of the project is to provide the best possible characterization of the physical properties of polarized emissions in the microwave domain, together with an unprecedentedly thorough description of the intensity signal. This legacy information will be essential for future sub-orbital or satellite experiments targeting the B-Mode of Cosmic Microwave Anisotropies for the measurement of Cosmological Gravitational Waves and Lensing.
 
 Positions can start anytime in 2024. The program is coordinated by CSIC-IFCA (Santander), and includes, in addition to SISSA, IAC in Spain, CNRS in France, Universities of Manchester and Oxford in UK. Post-Doc positions will be available at all nodes. Applicants at SISSA are expected to work on the exploitation of current modeling and data analysis for predicting the detectability of B-Modes in forthcoming observations.
+
+------------------------------------------------------------------------
+
+**[Experimental cosmology postdoc at UIUC, Jan 16, 2024](https://my.physics.illinois.edu/submit/go.asp?id=1843)**
+
+The University of Illinois at Urbana-Champaign invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will join the research group of Professor [Jeff Filippini](https://physics.illinois.edu/people/directory/profile/jpf), as well as the broader Illinois Center for Advanced Studies of the Universe ([ICASU](https://icasu.illinois.edu/)).
+
+Current opportunities include: 
+
+- Analysis of new data from the SPIDER balloon experiment, which observed the CMB and Galactic dust polarization from 90-280 GHz in 2022-23.
+- Commissioning of the Terahertz Intensity Mapper (TIM), a balloon-borne instrument to measure cosmic star formation history using \[CII\] line-intensity mapping.
+- Development of next-generation cosmic microwave background instruments on the ground (CMB-S4) and balloons (Taurus).
+- Related analysis, forecasting, and technology development. 
+
+Please contact **Prof. Filippini** ([\[email protected\]]()) with questions. 
 
 ------------------------------------------------------------------------
 
