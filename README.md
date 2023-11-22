@@ -89,7 +89,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#d8abb5abb1b5b7b698beb6b9b4f6bfb7ae)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#7d0e100e141012133d1b131c11531a120b)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -129,7 +129,7 @@ Information about the research interests of the Particle Physics, Astrophysics a
 
 ------------------------------------------------------------------------
 
-**[CMB Divisional Fellow at LBNL, Dec 1, 2023](https://jobs.lbl.gov/jobs/cosmic-microwave-background-divisional-fellow-6145)**
+**[CMB Divisional Fellow at LBNL, Dec 7, 2023](https://jobs.lbl.gov/jobs/cosmic-microwave-background-divisional-fellow-6145)**
 
 The [Physics Division](https://www.physics.lbl.gov/) at Lawrence Berkeley National Laboratory ([LBNL](https://www.lbl.gov/)) has an opening for a Cosmic Microwave Background Divisional Fellow who will make substantial contributions to the design, construction, operations and scientific analyses of the CMB-S4 project; collaborate with the scientific staff within the Division, the Laboratory and the international community; and supervise postdoctoral fellows and students. The Divisional Fellow position is an approximate equivalent to a tenure track junior faculty position.  
 
