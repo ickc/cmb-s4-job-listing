@@ -64,6 +64,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
 - [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
+- [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 - [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
@@ -89,7 +90,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#addec0dec4c0c2c3edcbc3ccc183cac2db)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#394a544a50545657795f575855175e564f)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -192,7 +193,19 @@ Current opportunities include: 
 - Development of next-generation cosmic microwave background instruments on the ground (CMB-S4) and balloons (Taurus).
 - Related analysis, forecasting, and technology development. 
 
-Please contact **Prof. Filippini** ([\[email protected\]]()) with questions. 
+Please contact **Prof. Filippini** ([\[email protected\]]()) with questions.
+
+------------------------------------------------------------------------
+
+[Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](https://academicjobsonline.org/ajo/jobs/26647)
+
+We seek candidates for the rank of associate professor or assistant professor in experimental cosmology and astrophysics using low-temperature detectors. We are interested in outstanding scientists with excellent track records and international recognition. The position is for five years, with the possibility of renewal or promotion to a tenured position([\*](https://www.jsps.go.jp/english/e-toplevel/data/04_centers3/4_e_QUP.pdf)) based on satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salaries are comparable to those at other prestigious institutions. Financial support for starting-up research will also be provided. The appointee will work with one or more of the following PIs in QUP’s low-temperature research cluster: Maurice Garcia-Sciveres, Masaya Hasegawa, Kaori Hattori, Masashi Hazumi, Adrian Lee, and Noriko Yamasaki. Projects in which the PIs are involved include LiteBIRD, low-mass dark matter search with TES, solar axion search, Simons Array, and Simons Observatory. 
+
+Applicants should have a Ph.D. in Physics or a related field and more than three years of working experience after receiving a Ph.D. with an outstanding record in experimental cosmology, particle physics, or related fields.
+
+ 
+
+As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. We will build a diverse community of scientists and strongly encourage female and international applicants. About 40% of initial PIs at QUP are female.
 
 ------------------------------------------------------------------------
 
