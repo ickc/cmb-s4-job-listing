@@ -64,20 +64,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
 - [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
+- [Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](#ucb)
 - [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
-- [Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](#argonne)
-- [QUP postdoctoral fellows for LiteBIRD, until filled](#qup)
-- [Postdoc at NIST, until filled](#nist)
-
-------------------------------------------------------------------------
-
-**[QUP postdoctoral fellows for LiteBIRD, until filled](https://academicjobsonline.org/ajo/jobs/25277)**
-
- We seek candidates interested in cosmic microwave background experiments with extensive experience in cryogenic instrumentation. The successful candidates will work with QUP Senior Scientist and project manager of QUP’s LiteBIRD activity, Hiroki Akamatsu, whose research focuses on developing CMB instrumentation for JAXA’s L-class mission LiteBIRD aiming for primordial gravitational-wave search. Our postdoctoral fellows are for three years, with the possibility of a 2-year renewal based upon satisfactory job performance, continuing availability of funds, and ongoing operational needs, and are provided with salaries comparable to those at other prestigious institutions. We may offer a higher position, at the rank of assistant professor, for five years with the possibility of a 2-year renewal to outstanding candidates.
-
- The primary research topic of the new position is the construction and accurate characterization of the LiteBIRD low-frequency telescope Focal Plane Unit (FPU). The focal plane subassembly will be based on Transition Edge Sensors bolometers and Digital Frequency Multiplexing technology. We expect to build and characterize the prototype (demonstration model) by 2026. We seek ambitious, highly motivated, and result-driven scientists. Applicants should have a Ph.D. in Physics/Engineering or a related field by the time the appointment begins. Excellent cryogenics instrumentation experiences are essential. A good command of the English language is necessary, and the fellow should be able to work independently and in a team.
 
  
 
@@ -90,7 +80,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#77041a041e1a1819371119161b59101801)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#21524c52484c4e4f61474f404d0f464e57)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -197,6 +187,12 @@ Please contact **Prof. Filippini** ([\[email protected\]]()) with questions.
 
 ------------------------------------------------------------------------
 
+**[Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](https://aprecruit.berkeley.edu/JPF04149)**
+
+There are two positions open at QUP satellite location at U.C. Berkeley to work on LiteBIRD: (1) a postdoc position and (2) a Project Scientist position.  The University ad for the Project Scientist position is linked here:  [https://aprecruit.berkeley.edu/JPF04149](https://aprecruit.berkeley.edu/JPF04149).  LiteBIRD is a selected JAXA-led CMB space mission that is in pre-phase A currently with collaborating institutions in Japan, Europe, Canada, and the U.S.  Launch is scheduled for Japanese fiscal year 2032.   The Berkeley satellite of QUP is leading the detector and cold readout development for LiteBIRD and both positions are to work in these areas in conjunction with QUP at KEK Japan.  The detector arrays will be fabricated at U.C. Berkeley and NIST.   The cold readout electronics will be developed at U.C. Berkeley and Lawrence Berkeley National Laboratory. For the project scientist position, please respond to the ad directly.  For the postdoc position, please send a CV and arrange for at least three letters of recommendation to be sent, both to Professor Adrian Lee at [\[email protected\]]().  Applications are due 1/20, but interviews can start before that date.
+
+------------------------------------------------------------------------
+
 [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](https://academicjobsonline.org/ajo/jobs/26647)
 
 We seek candidates for the rank of associate professor or assistant professor in experimental cosmology and astrophysics using low-temperature detectors. We are interested in outstanding scientists with excellent track records and international recognition. The position is for five years, with the possibility of renewal or promotion to a tenured position([\*](https://www.jsps.go.jp/english/e-toplevel/data/04_centers3/4_e_QUP.pdf)) based on satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salaries are comparable to those at other prestigious institutions. Financial support for starting-up research will also be provided. The appointee will work with one or more of the following PIs in QUP’s low-temperature research cluster: Maurice Garcia-Sciveres, Masaya Hasegawa, Kaori Hattori, Masashi Hazumi, Adrian Lee, and Noriko Yamasaki. Projects in which the PIs are involved include LiteBIRD, low-mass dark matter search with TES, solar axion search, Simons Array, and Simons Observatory. 
@@ -247,18 +243,6 @@ Alessandro Gruppuso ([\[email protected\]]()).
 Those interested should write an email to any supervisor above, including a short CV (maximum 2 pages),   
 a complete list of publications and the names and email addresses of up to three referees who might be   
 asked to provide a letter of reference.
-
-------------------------------------------------------------------------
-
-**[Postdoc in galaxy clusters and SZ cosmology at Argonne, until filled](https://jobregister.aas.org/ad/c7e638d5)**
-
-The Cosmological Physics and Advanced Computing (CPAC) group at Argonne invites applicants for a postdoctoral associate to conduct research on topics related to galaxy clusters and SZ cosmology from CMB surveys. The successful applicant will be expected to work on projects connected to the SPT-3G and CMB-S4 cluster cosmology efforts, related cross-correlation activities with DES and Rubin’s LSST, as well as to explore their own independent research program. The position, with an anticipated start date (with flexibility) of Fall 2023, is renewable annually for up to three years based on satisfactory performance.
-
-------------------------------------------------------------------------
-
-**[Postdoc at NIST, until filled](https://jobs.colorado.edu/jobs/JobDetail/?jobId=44413)**
-
-The Professional Research Experience Program (PREP) encourages applications for a Postdoctoral Associate/Research Associate! The Long-wavelength Project within the Quantum Sensors Group in the Quantum Electromagnetics Division on NIST’s Physical Measurement Laboratory seeks a researcher to join a multi-person team to develop microwave kinetic inductance detectors and other novel devices for applications at millimeter to far-infrared wavelengths.
 
  
 
