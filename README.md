@@ -53,8 +53,6 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Four Postdoc positions in Simons Observatory Data Management](#sodm)
-- [Faculty position at Cornell University, Nov 15, 2023](#cornell)
-- [Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](#smu)
 - [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
 - [Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](#morrison)
 - [CMB Divisional Fellow at LBNL, Dec 7, 2023](#lbnl)
@@ -80,27 +78,11 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#21524c52484c4e4f61474f404d0f464e57)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#02716f716b6f6d6c42646c636e2c656d74)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
 For general questions, please email Simone Aiola ([\[email protected\]]()).
-
-------------------------------------------------------------------------
-
-**[Faculty position at Cornell University, Nov 15, 2023](https://academicjobsonline.org/ajo/jobs/25604)**
-
-The Astronomy Department at Cornell University invites applications for a tenure-track faculty position at the assistant professor level. We seek new colleagues to join our Department and the university community. We encourage candidates who demonstrate outstanding research and commitment to teaching and community development within observational astronomy, especially extragalactic, to apply. Successful candidates will have a research program that enhances Cornell’s high-visibility program by either building on current strengths or introducing new directions that complement areas of ongoing work. Current Department members use a wide range of space- and ground-based astronomical facilities and are actively engaged in developing the CCAT Observatory, which includes the 6-meter aperture Fred Young Submillimeter Telescope (FYST) operating on Cerro Chajnantor in Chile overlooking the Atacama Large Millimeter Array (ALMA).
-
-------------------------------------------------------------------------
-
-**[Faculty position in Astrophysics and Cosmology at Southern Methodist University, Nov 20, 2023](https://jobregister.aas.org/ad/6772d9ff)**
-
-The Department of Physics at Southern Methodist University invites applications for a tenure-track faculty position in the area of Astrophysics or Cosmology, broadly defined.  Candidates must have: a Ph.D. in physics, astronomy, or a closely related field; postdoctoral experience; and a record of research excellence. The successful candidate will develop a vigorous research program, supervise graduate students, and teach at both undergraduate and graduate levels. Faculty are expected to teach and mentor diverse students within the Physics program and throughout the University. The appointment will start in August 2024 or later.
-
- 
-
-Applications must be submitted via lnterfolio [http://apply.interfolio.com/132829](http://apply.interfolio.com/132829 "http://apply.interfolio.com/132829") and should include a cover letter, research statement, statement addressing teaching and mentoring, curriculum vitae, and at least three confidential letters of reference. Review of applications will begin October 22, 2023. To ensure full consideration, the application should be received by November 20, 2023, but the committee will continue to accept applications until the position is filled. Questions or inquiries may be directed to the search chair, Dr. Robert Kehoe ([\[email protected\]]( "mailto:kehoe@smu.edu")).
 
 ------------------------------------------------------------------------
 
