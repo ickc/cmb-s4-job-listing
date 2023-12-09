@@ -61,6 +61,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
+- [Tenure-track Assistant professor in astrophysics at Illinois Institute of Technology, Dec 31, 2023](#iit)
 - [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
 - [Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](#ucb)
 - [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
@@ -78,7 +79,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#f1829c82989c9e9fb1979f909ddf969e87)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#80f3edf3e9edefeec0e6eee1ecaee7eff6)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
@@ -151,6 +152,16 @@ A full time postdoctoral researcher position at the Science Institute, Universit
 The Astrophysics & Cosmology Group at SISSA (Trieste, Italy; www.sissa.it/ap) invites applications for two Post-Doctoral Positions with the European Program RadioForegrounds+ (<https://research.iac.es/proyecto/radioforegroundsplus/>), within the New Horizons Space Program, which will last for three years starting on January 1st, 2024. The aim of the project is to provide the best possible characterization of the physical properties of polarized emissions in the microwave domain, together with an unprecedentedly thorough description of the intensity signal. This legacy information will be essential for future sub-orbital or satellite experiments targeting the B-Mode of Cosmic Microwave Anisotropies for the measurement of Cosmological Gravitational Waves and Lensing.
 
 Positions can start anytime in 2024. The program is coordinated by CSIC-IFCA (Santander), and includes, in addition to SISSA, IAC in Spain, CNRS in France, Universities of Manchester and Oxford in UK. Post-Doc positions will be available at all nodes. Applicants at SISSA are expected to work on the exploitation of current modeling and data analysis for predicting the detectability of B-Modes in forthcoming observations.
+
+------------------------------------------------------------------------
+
+**[Tenure-track Assistant Professor of Astrophysics, Illinois Institute of Technology,  Dec 31, 2023](https://iit7.peopleadmin.com/postings/10070)**
+
+Illinois Institute of Technology is accepting applications for a tenure-track assistant professor position specializing in astronomy and astrophysics. The academic appointment for the position will be in the Illinois Tech Department of Physics with an expected start date of August 15, 2024.
+
+Illinois Tech is a private Ph.D.-granting research university with world-renowned programs in engineering, computing, architecture, the sciences, humanities and social sciences, psychology, business, law, and design. It is ranked \#98 in the 2024 U.S. News and World Report National Universities category and \#1 in the state of Illinois and \#23 nationally in the Wall Street Journal America’s Best Colleges 2024. Founded in 1890, Illinois Tech was built on the promise to provide access to higher education for students from all different backgrounds and to make a difference in the world through technology-oriented education. This guiding mission and purpose – where students, including those underrepresented in technology, could prepare for meaningful roles in a changing industrial society and achieve professional and economic advancement – remains just as relevant today. As such, diversity and inclusion are part of the day-to-day experience at Illinois Tech and a central component of its culture. Illinois Tech is home to a diverse and global student population, is committed to providing opportunities to enhance the diversity of its faculty and staff, and strongly encourages applicants from all backgrounds to apply for this position, especially those underrepresented in the field.
+
+A successful candidate will be expected to develop an internationally recognized astronomy or astrophysics research program, attract external research funding to support their program, advise undergraduate students, supervise graduate student MS/PhD research, and teach physics or astrophysics courses at the graduate and undergraduate levels.
 
 ------------------------------------------------------------------------
 
