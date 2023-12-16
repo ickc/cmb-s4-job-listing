@@ -53,19 +53,18 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Four Postdoc positions in Simons Observatory Data Management](#sodm)
-- [Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](#cwru)
-- [Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](#morrison)
 - [CMB Divisional Fellow at LBNL, Dec 7, 2023](#lbnl)
-- [Phonon Postdoc at LBNL, Dec 1, 2023](#lbnlphonon)
 - [Tenure-track Assistant Professor of Astrophysics, University of Cincinnati, Dec 15, 2023](#cincinnati)
 - [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
 - [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
 - [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
 - [Tenure-track Assistant professor in astrophysics at Illinois Institute of Technology, Dec 31, 2023](#iit)
+- [Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 10, 2024](#chicago)
 - [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
 - [Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](#ucb)
 - [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
+- [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 
  
@@ -79,27 +78,11 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#40332d33292d2f2e00262e212c6e272f36)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#77041a041e1a1819371119161b59101801)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
 For general questions, please email Simone Aiola ([\[email protected\]]()).
-
-------------------------------------------------------------------------
-
-**[Postdoc in CMB instrumentation/analysis at CWRU, Dec 1, 2023](https://physics.case.edu/nagy/contact/postdoc/)**
-
-Applications are invited for a postdoctoral position in the Physics Department at Case Western Reserve University to work on CMB instrumentation and/or data analysis. The group is led by Profs. Johanna Nagy and John Ruhl and offers opportunities to work on SPIDER, Taurus, and CMB-S4. Projects can be tailored to suit the interests of the candidate.  More information can be found at [https://physics.case.edu/nagy/contact/postdoc/](https://physics.case.edu/nagy/contact/postdoc).
-
-------------------------------------------------------------------------
-
-**[Richard S Morrison Postdoctoral fellowship at CWRU, Dec 1, 2023](https://academicjobsonline.org/ajo/fellowship/26249)**
-
-The The Particle Physics, Astrophysics and Cosmology group at Case Western Reserve University anticipates offering the Richard S. Morrison Post-Doctoral (Term) Fellowship, open to theoretical and computational cosmologists. 
-
-The position is expected to start no later than Oct. 1, 2024 (earlier/later start date may be negotiated). Applications with a CV, publication list, statement of research interests & three letters of recommendation should be submitted through Academic Jobs Online at **[https://academicjobsonline.org/ajo/fellowship/26249](https://academicjobsonline.org/ajo/fellowship/26249)**. If electronic submission is not possible, paper applications may be sent to “Richard Morrison Post-Doctoral Fellowship Search c/o G. Starkman,” Dept. of Physics, Case Western Reserve University, 10900 Euclid Ave, Cleveland, Ohio 44106-7079 USA. Review of applications will begin on a rolling basis Dec 1, 2024. The position will be open until filled.\</p
-
-Information about the research interests of the Particle Physics, Astrophysics and Cosmology group is on the Department of Physics webpage. Questions may be directed to Glenn Starkman at [\[email protected\]](https://academicjobsonline.org/ajo/fellowship/glenn.starkmanzz??case.edu). The successful applicant is likely to be interested in close collaboration with him and other colleagues in theoretical and experimental cosmology, especially Craig Copi, Kurt Hinterbichler, Johanna Nagy and John Ruhl, on CMB data analysis, as well as in collaboration with colleagues at Imperial College London, University of Pittsburgh, and Institute for Theoretical Physics (Madrid) on cosmic topology, CMB anomalies and other large-scale properties of the Universe. Candidates with expertise in Machine Learning or other advanced numerical techniques are particularly encouraged to apply.
 
 ------------------------------------------------------------------------
 
@@ -110,16 +93,6 @@ The [Physics Division](https://www.physics.lbl.gov/) at Lawrence Berkeley Nati
 The Physics Division invites applications from candidates with a record of accomplishment, creative ability, and outstanding promise in the field of Cosmic Microwave Background (CMB) cosmology. The appointment will be as a career-track position of up to five years with the expectation of promotion to a career position as a Senior Scientist. Exceptionally qualified scientists can be considered for appointment directly to Senior Scientist. 
 
 A successful candidate should have an outstanding and broad program in cosmology with a research focus in the area of the Cosmic Microwave Background (CMB). We welcome applicants with expertise in any of the areas of instrumentation, simulation, data management and/or analysis. The candidate is expected to interact with both the theoretical and experimental communities at Berkeley and beyond and have a commitment to encouraging equity and inclusion. Additional criteria in the search are potential for leadership in the field, ability to mentor early career scientists, and service in the scientific community.
-
-------------------------------------------------------------------------
-
-**[Phonon postdoc at LBNL, Dec 1, 2023](https://academicjobsonline.org/ajo/jobs/26504)**
-
-The [Physics](https://www.physics.lbl.gov/) Division at Lawrence Berkeley National Laboratory (Berkeley Lab) has an opening for a **Postdoctoral Scholar** to work on the project titled “Phonon Control for Next-Generation Superconducting Systems and Sensors” under the guidance of the group leader. Their focus will be on the development of two main applications using ultrahigh-frequency phononics tools.
-
-The first application aims to use phonon traps to enhance the performance of superconducting qubits in quantum processors. The scholar will utilize simulations to inform the design of phonon cloaking, collaborate with microfabrication engineers to produce the device, and conduct tests in the lab to assess its functionality.
-
-The second application seeks to improve the performance of superconducting sensors, including Transition Edge and Microwave Kinetic Inductance, for high-energy physics experiments through controlled phonon propagation. Directing phonons in a targeted manner can significantly boost the sensitivity of these systems, potentially transforming fields like the search for low-mass dark matter and paving the way for new applications.
 
 ------------------------------------------------------------------------
 
@@ -165,6 +138,12 @@ A successful candidate will be expected to develop an internationally recognized
 
 ------------------------------------------------------------------------
 
+**[Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 10, 2024](https://jobregister.aas.org/ad/b034ad8d)**
+
+The South Pole Telescope project invites applications for a postdoctoral position in the Department of Astronomy & Astrophysics and the Kavli Institute for Cosmological Physics at the University of Chicago. The position will focus on analysis of cosmic microwave background (CMB) data from the SPT-3G camera. SPT-3G is the largest currently operating CMB camera, and data from the camera is being used to create the deepest wide-area CMB maps yet produced and to place unprecedentedly tight constraints on cosmological parameters. The successful candidate will take a leadership role in creating maps and other intermediate data products from raw SPT-3G data and participate in post-map analyses such as power spectrum estimation, CMB lensing potential reconstruction, and constraining cosmological parameters. The candidate will play a key role in analyzing the new SPT-3G Wide survey, which complements the ultra-deep Main 1500-square-degree survey and will result in major gains in cosmological constraints.
+
+------------------------------------------------------------------------
+
 **[Experimental cosmology postdoc at UIUC, Jan 16, 2024](https://my.physics.illinois.edu/submit/go.asp?id=1843)**
 
 The University of Illinois at Urbana-Champaign invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will join the research group of Professor [Jeff Filippini](https://physics.illinois.edu/people/directory/profile/jpf), as well as the broader Illinois Center for Advanced Studies of the Universe ([ICASU](https://icasu.illinois.edu/)).
@@ -205,6 +184,16 @@ The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomp
 This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (Rubin) and the Legacy Survey of Space and Time (LSST), South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of Rubin. Illinois is an institutional member of the SPT collaboration and participates in the design and planning for CMB-S4.
 
 The selected candidate will be part of the Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/).
+
+------------------------------------------------------------------------
+
+**[Operations Project Scientist position at Harvard University, until filled](https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25240&siteid=5341#jobDetails=1999514_5341)**
+
+The Harvard Cosmic Microwave Background (CMB) group invites applications for a scientist position to pursue research related to conducting Cosmic Microwave Background measurements with the BICEP Array telescopes and the CMB Stage 4 experiment.  
+  
+The Operations Project Scientist will independently coordinate and execute the range of complex research activities essential to remote operation of our observatories, including planning and optimizing our surveys and seasonal on-site activities, managing data flow and documentation, designing analysis algorithms, and providing training and guidance to researchers.  The successful candidate will also participate in science analyses in support of our current observations and will play a leading role in developing operations expertise to meet the needs of next-generation millimeter-wave observatories such as CMB-S4.  
+  
+The role requires long-duration travel (~2-3 months) to the South Pole (~10,000 feet altitude) to participate in field operations of the BICEP/Keck telescopes.  Applications will be reviewed as they are received.  Start date is negotiable, and will be no later than Fall 2024 but with earlier start desirable.
 
 ------------------------------------------------------------------------
 
