@@ -44,7 +44,7 @@ CMB-S4 Next Generation CMB Experiment
   - [code of conduct](https://cmb-s4.org/governance/code-of-conduct/)
   - [bylaws](https://cmb-s4.org/governance/bylaws/)
   - [acknowledgements](https://cmb-s4.org/governance/acknowledgements/)
-- [/ team login /](https://cmb-s4.org/?page_id=17)
+- [/ team page /](https://cmb-s4.org/team-page)
 - [English](#pll_switcher)
   - [Español](https://cmb-s4.org/es/equipo/ofertas-de-empleo/)
 
@@ -78,7 +78,7 @@ The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented p
 The available positions are:
 
 - [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#7f0c120c161210113f19111e1351181009)) 
+- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#d1a2bca2b8bcbebf91b7bfb0bdffb6bea7)) 
 - [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
 - [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
 
