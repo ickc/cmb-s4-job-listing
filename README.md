@@ -52,12 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Four Postdoc positions in Simons Observatory Data Management](#sodm)
-- [CMB Divisional Fellow at LBNL, Dec 7, 2023](#lbnl)
-- [Tenure-track Assistant Professor of Astrophysics, University of Cincinnati, Dec 15, 2023](#cincinnati)
-- [PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](#phdiceland)
-- [Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](#iceland)
-- [Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](#radiosissa)
 - [Tenure-track Assistant professor in astrophysics at Illinois Institute of Technology, Dec 31, 2023](#iit)
 - [Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 10, 2024](#chicago)
 - [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
@@ -68,63 +62,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 
  
-
-------------------------------------------------------------------------
-
-**Four postdoc positions in Simons Observatory Data Management**
-
-The Simons Observatory (SO) Data Management (DM) is looking to hire 4 talented postdoctoral researchers to work on the SO Large-Aperture Telescope (LAT) pipeline development and demonstration on data, including: simulations, low-level TOD analysis, map-making, and systematics studies. The main focus of these positions is to enhance the current capabilities of the SO pipeline to reach the requirements of the Advanced Simons Observatory (ASO) program.
-
-The available positions are:
-
-- [Low-level TOD analysis at Yale](https://jobregister.aas.org/ad/35c712a8) (contact: Laura Newburgh, [\[email protected\]]())
-- [Systematics mitigation at U.Chicago](https://academicjobsonline.org/ajo/jobs/25660) (contacts: Jeff McMahon, [\[email protected\]]() and Sara Simon, [\[email protected\]](/cdn-cgi/l/email-protection#542739273d393b3a14323a35387a333b22)) 
-- [Analysis and simulations at UC Berkeley](https://aprecruit.berkeley.edu/JPF04190) (contact: Ted Kisner, [\[email protected\]]())
-- [Analysis and Map-making at Princeton](https://www.princeton.edu/acad-positions/position/32069) (contact: Jo Dunkley, [\[email protected\]]()) 
-
-For general questions, please email Simone Aiola ([\[email protected\]]()).
-
-------------------------------------------------------------------------
-
-**[CMB Divisional Fellow at LBNL, Dec 7, 2023](https://jobs.lbl.gov/jobs/cosmic-microwave-background-divisional-fellow-6145)**
-
-The [Physics Division](https://www.physics.lbl.gov/) at Lawrence Berkeley National Laboratory ([LBNL](https://www.lbl.gov/)) has an opening for a Cosmic Microwave Background Divisional Fellow who will make substantial contributions to the design, construction, operations and scientific analyses of the CMB-S4 project; collaborate with the scientific staff within the Division, the Laboratory and the international community; and supervise postdoctoral fellows and students. The Divisional Fellow position is an approximate equivalent to a tenure track junior faculty position.  
-
-The Physics Division invites applications from candidates with a record of accomplishment, creative ability, and outstanding promise in the field of Cosmic Microwave Background (CMB) cosmology. The appointment will be as a career-track position of up to five years with the expectation of promotion to a career position as a Senior Scientist. Exceptionally qualified scientists can be considered for appointment directly to Senior Scientist. 
-
-A successful candidate should have an outstanding and broad program in cosmology with a research focus in the area of the Cosmic Microwave Background (CMB). We welcome applicants with expertise in any of the areas of instrumentation, simulation, data management and/or analysis. The candidate is expected to interact with both the theoretical and experimental communities at Berkeley and beyond and have a commitment to encouraging equity and inclusion. Additional criteria in the search are potential for leadership in the field, ability to mentor early career scientists, and service in the scientific community.
-
-------------------------------------------------------------------------
-
-**[Tenure-track Assistant Professor of Astrophysics, University of Cincinnati,  Dec 15, 2023](https://jobs.uc.edu/job/Cincinnati-Assistant-Professor%2C-Astrophysics%2C-College-of-Arts-and-Sciences-OH-45201/1093111900/)**
-
-The University of Cincinnati Department of Physics invites applications for a tenure-track Assistant Professor position. The department aims to bring in a new faculty member to complement existing strengths in observational astrophysics and cosmology. The selected candidate will be expected to establish a robust, funded research program that incorporates both undergraduate and graduate student researchers, be an effective teacher for both undergraduate and graduate courses, and contribute positively to an inclusive department culture. The ideal starting date for this position is August 2024.  
-  
-The University of Cincinnati is an urban, R1 public institution with an enrollment of \>50,000 students located in the middle of the city. Cincinnati is a growing, lively, walkable, and affordable city. It is also home to Cincinnati Observatory, the first public observatory in the United States, as well as a flourishing arts, music, and festival scene, and dozens of museums.  
-  
-The Department of Physics supports thriving undergraduate and graduate programs. Areas of active research include astrophysics, high energy physics, condensed matter physics, and physics education research. We are committed to supporting inclusive education and fostering a welcoming environment. We participate in the American Physical Society (APS) Bridge Program, as well as the APS Inclusion, Diversity and Equity Alliance (IDEA) network.  
-  
-For additional information, contact the search committee chair, Prof. Colin Bischoff, at [\[email protected\]](). Review of applications will begin on December 15, 2023, and will continue until the position is filled.
-
-------------------------------------------------------------------------
-
-**[PhD in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
-
-A PhD student position in experimental astrophysics with a focus on the development of next-generation microwave telescopes is open for applications. The program will take place within the Physics Department at the University of Iceland. The position is funded for three years with funds from the European Research Council. Among other projects, the PhD student will take a leadership role in the design of a next-generation NASA balloon-borne telescope, designed to measure the polarization of the cosmic microwave background (CMB).
-
-------------------------------------------------------------------------
-
-**[Postdoc in experimental astrophysics at the University of Iceland, Dec 15, 2023](https://english.hi.is/vacancies)**
-
-A full time postdoctoral researcher position at the Science Institute, University of Iceland with a focus on the development of next-generation microwave telescopes is open for applications. The researcher will join the CMBeam project team which is funded for three years through a grant from the European Research Council.
-
-------------------------------------------------------------------------
-
-**[Two postdocs in RadioForegrounds+ at SISSA, Dec 15, 2023](https://academicjobsonline.org/ajo/jobs/26451)**
-
-The Astrophysics & Cosmology Group at SISSA (Trieste, Italy; www.sissa.it/ap) invites applications for two Post-Doctoral Positions with the European Program RadioForegrounds+ (<https://research.iac.es/proyecto/radioforegroundsplus/>), within the New Horizons Space Program, which will last for three years starting on January 1st, 2024. The aim of the project is to provide the best possible characterization of the physical properties of polarized emissions in the microwave domain, together with an unprecedentedly thorough description of the intensity signal. This legacy information will be essential for future sub-orbital or satellite experiments targeting the B-Mode of Cosmic Microwave Anisotropies for the measurement of Cosmological Gravitational Waves and Lensing.
-
-Positions can start anytime in 2024. The program is coordinated by CSIC-IFCA (Santander), and includes, in addition to SISSA, IAC in Spain, CNRS in France, Universities of Manchester and Oxford in UK. Post-Doc positions will be available at all nodes. Applicants at SISSA are expected to work on the exploitation of current modeling and data analysis for predicting the detectability of B-Modes in forthcoming observations.
 
 ------------------------------------------------------------------------
 
@@ -228,4 +165,4 @@ asked to provide a letter of reference.
 
  
 
-Copyright © 2023 · [Parallax Pro CMB-S4](http://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
+Copyright © 2024 · [Parallax Pro CMB-S4](http://my.studiopress.com/themes/parallax/) on [Genesis Framework](https://www.studiopress.com/) · [WordPress](https://wordpress.org/) · [Log in](https://cmb-s4.org/wp-login.php)
