@@ -53,7 +53,7 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [Tenure-track Assistant professor in astrophysics at Illinois Institute of Technology, Dec 31, 2023](#iit)
-- [Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 10, 2024](#chicago)
+- [Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 12, 2024](#chicago)
 - [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
 - [Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](#ucb)
 - [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
@@ -75,7 +75,7 @@ A successful candidate will be expected to develop an internationally recognized
 
 ------------------------------------------------------------------------
 
-**[Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 10, 2024](https://jobregister.aas.org/ad/b034ad8d)**
+**[Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 12, 2024](https://jobregister.aas.org/ad/b034ad8d)**
 
 The South Pole Telescope project invites applications for a postdoctoral position in the Department of Astronomy & Astrophysics and the Kavli Institute for Cosmological Physics at the University of Chicago. The position will focus on analysis of cosmic microwave background (CMB) data from the SPT-3G camera. SPT-3G is the largest currently operating CMB camera, and data from the camera is being used to create the deepest wide-area CMB maps yet produced and to place unprecedentedly tight constraints on cosmological parameters. The successful candidate will take a leadership role in creating maps and other intermediate data products from raw SPT-3G data and participate in post-map analyses such as power spectrum estimation, CMB lensing potential reconstruction, and constraining cosmological parameters. The candidate will play a key role in analyzing the new SPT-3G Wide survey, which complements the ultra-deep Main 1500-square-degree survey and will result in major gains in cosmological constraints.
 
