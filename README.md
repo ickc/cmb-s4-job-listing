@@ -52,12 +52,10 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Tenure-track Assistant professor in astrophysics at Illinois Institute of Technology, Dec 31, 2023](#iit)
-- [Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 12, 2024](#chicago)
-- [Experimental cosmology postdoc at UIUC, Jan 16, 2024](#uiuc)
-- [Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](#ucb)
 - [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
+- [Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](#iac)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
+- [Postdoc in CMB Research at IJCLab, Mar 1, 2024](#ijclab)
 - [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 
@@ -65,44 +63,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 ------------------------------------------------------------------------
 
-**[Tenure-track Assistant Professor of Astrophysics, Illinois Institute of Technology,  Dec 31, 2023](https://iit7.peopleadmin.com/postings/10070)**
-
-Illinois Institute of Technology is accepting applications for a tenure-track assistant professor position specializing in astronomy and astrophysics. The academic appointment for the position will be in the Illinois Tech Department of Physics with an expected start date of August 15, 2024.
-
-Illinois Tech is a private Ph.D.-granting research university with world-renowned programs in engineering, computing, architecture, the sciences, humanities and social sciences, psychology, business, law, and design. It is ranked \#98 in the 2024 U.S. News and World Report National Universities category and \#1 in the state of Illinois and \#23 nationally in the Wall Street Journal America’s Best Colleges 2024. Founded in 1890, Illinois Tech was built on the promise to provide access to higher education for students from all different backgrounds and to make a difference in the world through technology-oriented education. This guiding mission and purpose – where students, including those underrepresented in technology, could prepare for meaningful roles in a changing industrial society and achieve professional and economic advancement – remains just as relevant today. As such, diversity and inclusion are part of the day-to-day experience at Illinois Tech and a central component of its culture. Illinois Tech is home to a diverse and global student population, is committed to providing opportunities to enhance the diversity of its faculty and staff, and strongly encourages applicants from all backgrounds to apply for this position, especially those underrepresented in the field.
-
-A successful candidate will be expected to develop an internationally recognized astronomy or astrophysics research program, attract external research funding to support their program, advise undergraduate students, supervise graduate student MS/PhD research, and teach physics or astrophysics courses at the graduate and undergraduate levels.
-
-------------------------------------------------------------------------
-
-**[Postdoctoral researcher in CMB Data Analysis with the South Pole Telescope at U Chicago, Jan 12, 2024](https://jobregister.aas.org/ad/b034ad8d)**
-
-The South Pole Telescope project invites applications for a postdoctoral position in the Department of Astronomy & Astrophysics and the Kavli Institute for Cosmological Physics at the University of Chicago. The position will focus on analysis of cosmic microwave background (CMB) data from the SPT-3G camera. SPT-3G is the largest currently operating CMB camera, and data from the camera is being used to create the deepest wide-area CMB maps yet produced and to place unprecedentedly tight constraints on cosmological parameters. The successful candidate will take a leadership role in creating maps and other intermediate data products from raw SPT-3G data and participate in post-map analyses such as power spectrum estimation, CMB lensing potential reconstruction, and constraining cosmological parameters. The candidate will play a key role in analyzing the new SPT-3G Wide survey, which complements the ultra-deep Main 1500-square-degree survey and will result in major gains in cosmological constraints.
-
-------------------------------------------------------------------------
-
-**[Experimental cosmology postdoc at UIUC, Jan 16, 2024](https://my.physics.illinois.edu/submit/go.asp?id=1843)**
-
-The University of Illinois at Urbana-Champaign invites applications for one or more postdoctoral positions in experimental cosmology. The successful candidate will join the research group of Professor [Jeff Filippini](https://physics.illinois.edu/people/directory/profile/jpf), as well as the broader Illinois Center for Advanced Studies of the Universe ([ICASU](https://icasu.illinois.edu/)).
-
-Current opportunities include: 
-
-- Analysis of new data from the SPIDER balloon experiment, which observed the CMB and Galactic dust polarization from 90-280 GHz in 2022-23.
-- Commissioning of the Terahertz Intensity Mapper (TIM), a balloon-borne instrument to measure cosmic star formation history using \[CII\] line-intensity mapping.
-- Development of next-generation cosmic microwave background instruments on the ground (CMB-S4) and balloons (Taurus).
-- Related analysis, forecasting, and technology development. 
-
-Please contact **Prof. Filippini** ([\[email protected\]]()) with questions.
-
-------------------------------------------------------------------------
-
-**[Two positions on LiteBIRD at UC Berkeley, Jan 20, 2024](https://aprecruit.berkeley.edu/JPF04149)**
-
-There are two positions open at QUP satellite location at U.C. Berkeley to work on LiteBIRD: (1) a postdoc position and (2) a Project Scientist position.  The University ad for the Project Scientist position is linked here:  [https://aprecruit.berkeley.edu/JPF04149](https://aprecruit.berkeley.edu/JPF04149).  LiteBIRD is a selected JAXA-led CMB space mission that is in pre-phase A currently with collaborating institutions in Japan, Europe, Canada, and the U.S.  Launch is scheduled for Japanese fiscal year 2032.   The Berkeley satellite of QUP is leading the detector and cold readout development for LiteBIRD and both positions are to work in these areas in conjunction with QUP at KEK Japan.  The detector arrays will be fabricated at U.C. Berkeley and NIST.   The cold readout electronics will be developed at U.C. Berkeley and Lawrence Berkeley National Laboratory. For the project scientist position, please respond to the ad directly.  For the postdoc position, please send a CV and arrange for at least three letters of recommendation to be sent, both to Professor Adrian Lee at [\[email protected\]]().  Applications are due 1/20, but interviews can start before that date.
-
-------------------------------------------------------------------------
-
-[Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](https://academicjobsonline.org/ajo/jobs/26647)
+ [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](https://academicjobsonline.org/ajo/jobs/26647)
 
 We seek candidates for the rank of associate professor or assistant professor in experimental cosmology and astrophysics using low-temperature detectors. We are interested in outstanding scientists with excellent track records and international recognition. The position is for five years, with the possibility of renewal or promotion to a tenured position([\*](https://www.jsps.go.jp/english/e-toplevel/data/04_centers3/4_e_QUP.pdf)) based on satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salaries are comparable to those at other prestigious institutions. Financial support for starting-up research will also be provided. The appointee will work with one or more of the following PIs in QUP’s low-temperature research cluster: Maurice Garcia-Sciveres, Masaya Hasegawa, Kaori Hattori, Masashi Hazumi, Adrian Lee, and Noriko Yamasaki. Projects in which the PIs are involved include LiteBIRD, low-mass dark matter search with TES, solar axion search, Simons Array, and Simons Observatory. 
 
@@ -114,6 +75,18 @@ As a WPI research center, QUP is designed to establish an international environm
 
 ------------------------------------------------------------------------
 
+[Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](https://research.iac.es/proyecto/radioforegroundsplus/pages/jobs.php)
+
+The Observational Cosmology and Instrumentation Group of the Instituto de Física de Cantabria (IFCA; Santander, Spain) offers one postdoctoral position to work on the RadioForegroundsPlus project of the Horizon Europe Program (Grant Agreement number 101135036). All the relevant information about the project (including other job opportunities) can be found at:
+
+https://research.iac.es/proyecto/radioforegroundsplus/
+
+The aim of the project is to provide the best possible characterization of the physical properties of polarized emissions in the microwave domain, together with an unprecedentedly thorough description of the intensity signal. This legacy information will be essential for future sub-orbital or satellite experiments targeting the B-Mode of Cosmic Microwave Anisotropies for the measurement of background of primordial gravitational waves. The project is coordinated by IFCA-CSIC and it also includes IAC (Spain), SISSA (Italy), CNRS (France), Univ. of Oxford (UK) and Univ. of Manchester (UK). Postdoc positions are expected to be available at all nodes.
+
+The successful candidate is expected to work in the development and application of advanced tools for component separation with the aim to provide foreground maps and catalogues of point sources from low frequency surveys (QUIJOTE, C-BASS, S-PASS) in conjunction with Planck, WMAP and other ancillary data. Experience on component separation (using e.g. parametric methods, linear techniques or machine learning) is particularly desirable. The candidate will closely work with other members of the group and, in particular, with Dr. Belén Barreiro and Dr. Mathieu Remazeilles. Collaboration with researchers from other nodes of the project is also expected.
+
+------------------------------------------------------------------------
+
 **[CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](https://jobregister.aas.org/ad/c72e94b6)**
 
 The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomputer Applications (NCSA) and the University of Illinois at Urbana-Champaign invite applications from Ph.D. scientists for the CAPS postdoctoral fellowship. This independent fellowship is for 3 years and offers a competitive salary, benefits, and research funds.
@@ -121,6 +94,22 @@ The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomp
 This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (Rubin) and the Legacy Survey of Space and Time (LSST), South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of Rubin. Illinois is an institutional member of the SPT collaboration and participates in the design and planning for CMB-S4.
 
 The selected candidate will be part of the Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/).
+
+------------------------------------------------------------------------
+
+**[Postdoc in CMB Research at IJCLab, Mar 1, 2024](https://inspirehep.net/jobs/2748994)**
+
+The [CMB team](https://a2c.ijclab.in2p3.fr/a2c-home-fr/cmb-home-en/) at the Irène Joliot-Curie 2 Infinities Physics Laboratory (IJCLab) is offering a post-doc position as part of the “IN2P3 Fellowships des 2 infinis” program.
+
+ 
+
+The team is made up of 4 permanent researchers (2 research directors, 1 research fellow and 1 lecturer), a post-doctoral student and a PhD student, and specialises in the analysis and scientific exploitation of cosmic microwave background (CMB) measurements. The team’s researchers study the observational constraints on the Standard Model of Cosmology (𝛬CDM) and its extensions, the neutrino sector, reionisation, dark matter, and inflationary models. Having played an active part in Planck, its members are now involved in the Simons Observatory (first light expected in 2024) and CMB-S4 (first light in 2034) ground-based experiments, and in the future LiteBIRD space mission (launch planned for 2033).
+
+ 
+
+The team brings together a wide range of skills in the processing and interpretation of CMB data, with internationally recognised expertise in estimators of angular spectra, likelihood functions and phenomenological studies linked to inflation, the neutrino sector and gravitational lensing effects. The team would like to strengthen its expertise in the analysis and interpretation of CMB data, both on large scales (Planck, LiteBIRD) and on the ground (Simons-Observatory and preparation for CMB-S4).
+
+ 
 
 ------------------------------------------------------------------------
 
