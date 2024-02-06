@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](#iac)
 - [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Postdoc in CMB Research at IJCLab, Mar 1, 2024](#ijclab)
+- [Postdoc at Duke University, until filled](#duke)
 - [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 
@@ -109,7 +110,13 @@ The team is made up of 4 permanent researchers (2 research directors, 1 research
 
 The team brings together a wide range of skills in the processing and interpretation of CMB data, with internationally recognised expertise in estimators of angular spectra, likelihood functions and phenomenological studies linked to inflation, the neutrino sector and gravitational lensing effects. The team would like to strengthen its expertise in the analysis and interpretation of CMB data, both on large scales (Planck, LiteBIRD) and on the ground (Simons-Observatory and preparation for CMB-S4).
 
- 
+------------------------------------------------------------------------
+
+**[Postdoc at Duke University, until filled](https://academicjobsonline.org/ajo/jobs/26059)**
+
+The cosmology group at Duke University invites applications for a postdoctoral position in the area of cosmology (experimental, observational and theoretical), time-domain and galaxy cluster astrophysics, and new techniques in statistical and image analysis. The cosmology group is composed of Profs. Arun Kannawadi, Dan Scolnic, Michael Troxel, Eve Vavagiakis and Chris Walter, working on current and next generation experiments, including CCAT, CMB-S4, the Dark Energy Survey, Hyper-Suprime Cam Subaru Strategic Program, the Nancy Grace Roman Space Telescope, the Rubin Observatory LSST, and the Simons Observatory. The Duke cosmology group currently consists of about ten PhD students and four postdocs or research scientists, and will continue to grow and expand. We are committed to building a group that is inclusive and representative of our community. For this reason, we strongly encourage applicants who come from groups that are historically underrepresented in physics departments.
+
+This researcher would work with Prof. Eve Vavagiakis to support CCAT, the Simons Observatory, and/or CMB-S4, with opportunities for joint analyses with data from the Atacama Cosmology Telescope and optical surveys. The researcher will lead and contribute to projects in a variety of potential topics, including the development of new instrumentation and superconducting detector technologies for upcoming surveys, and pipeline development and data analysis for cosmology and astrophysics. Candidates are expected to be experienced with relevant instrumentation (cryogenics, mechanical design, low-temperature electronics, superconducting devices) and data analysis techniques in cosmology/millimeter or submillimeter wave astronomy, and to have strong oral and written communication skills.
 
 ------------------------------------------------------------------------
 
