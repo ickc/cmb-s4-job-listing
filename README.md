@@ -52,27 +52,14 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](#qupprof)
 - [Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](#iac)
-- [CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](#capsuiuc)
 - [Postdoc in CMB Research at IJCLab, Mar 1, 2024](#ijclab)
+- [Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](#ucr)
 - [Postdoc at Duke University, until filled](#duke)
 - [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 
  
-
-------------------------------------------------------------------------
-
- [Assoc. or Asst. Professor in experimental cosmology with low-temperature detectors at QUP, Jan 31, 2024](https://academicjobsonline.org/ajo/jobs/26647)
-
-We seek candidates for the rank of associate professor or assistant professor in experimental cosmology and astrophysics using low-temperature detectors. We are interested in outstanding scientists with excellent track records and international recognition. The position is for five years, with the possibility of renewal or promotion to a tenured position([\*](https://www.jsps.go.jp/english/e-toplevel/data/04_centers3/4_e_QUP.pdf)) based on satisfactory job performance, continuing availability of funds, and ongoing operational needs. Salaries are comparable to those at other prestigious institutions. Financial support for starting-up research will also be provided. The appointee will work with one or more of the following PIs in QUP’s low-temperature research cluster: Maurice Garcia-Sciveres, Masaya Hasegawa, Kaori Hattori, Masashi Hazumi, Adrian Lee, and Noriko Yamasaki. Projects in which the PIs are involved include LiteBIRD, low-mass dark matter search with TES, solar axion search, Simons Array, and Simons Observatory. 
-
-Applicants should have a Ph.D. in Physics or a related field and more than three years of working experience after receiving a Ph.D. with an outstanding record in experimental cosmology, particle physics, or related fields.
-
- 
-
-As a WPI research center, QUP is designed to establish an international environment where more than 30% of researchers are non-Japanese. English is the official language of QUP. We will build a diverse community of scientists and strongly encourage female and international applicants. About 40% of initial PIs at QUP are female.
 
 ------------------------------------------------------------------------
 
@@ -88,16 +75,6 @@ The successful candidate is expected to work in the development and application 
 
 ------------------------------------------------------------------------
 
-**[CAPS postdoctoral fellowship at UIUC, Feb 15, 2024](https://jobregister.aas.org/ad/c72e94b6)**
-
-The Center for AstroPhysical Surveys (CAPS) at the National Center for Supercomputer Applications (NCSA) and the University of Illinois at Urbana-Champaign invite applications from Ph.D. scientists for the CAPS postdoctoral fellowship. This independent fellowship is for 3 years and offers a competitive salary, benefits, and research funds.
-
-This fellowship offers an opportunity to carry out independent research and to be connected with the vibrant research programs in astrophysics at the University of Illinois. Existing research programs at Illinois include the Dark Energy Survey (DES), Vera Rubin Observatory (Rubin) and the Legacy Survey of Space and Time (LSST), South Pole Telescope (SPT), and CMB-S4. NCSA leads data management and processing for the DES project with support from the National Science Foundation and is a partner in the construction and commissioning of Rubin. Illinois is an institutional member of the SPT collaboration and participates in the design and planning for CMB-S4.
-
-The selected candidate will be part of the Center for Astrophysical Surveys (CAPS) at NCSA. NCSA is a hub of transdisciplinary research and digital scholarship where University of Illinois faculty, staff, and students, and collaborators from around the globe, unite to address research grand challenges for the benefit of science and society. There is a strong overlap and synergy between CAPS and the Departments of Astronomy and Physics. More information on CAPS can be found at [caps.ncsa.illinois.edu](http://www.ncsa.illinois.edu/).
-
-------------------------------------------------------------------------
-
 **[Postdoc in CMB Research at IJCLab, Mar 1, 2024](https://inspirehep.net/jobs/2748994)**
 
 The [CMB team](https://a2c.ijclab.in2p3.fr/a2c-home-fr/cmb-home-en/) at the Irène Joliot-Curie 2 Infinities Physics Laboratory (IJCLab) is offering a post-doc position as part of the “IN2P3 Fellowships des 2 infinis” program.
@@ -109,6 +86,14 @@ The team is made up of 4 permanent researchers (2 research directors, 1 research
  
 
 The team brings together a wide range of skills in the processing and interpretation of CMB data, with internationally recognised expertise in estimators of angular spectra, likelihood functions and phenomenological studies linked to inflation, the neutrino sector and gravitational lensing effects. The team would like to strengthen its expertise in the analysis and interpretation of CMB data, both on large scales (Planck, LiteBIRD) and on the ground (Simons-Observatory and preparation for CMB-S4).
+
+------------------------------------------------------------------------
+
+**[Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](https://academicjobsonline.org/ajo/jobs/27217)**
+
+The Department of Physics and Astronomy at the University of California, Riverside (UCR) seeks applications for a postdoctoral position for research in experimental/observational cosmology. This search is a part of a new experimental effort being built at UCR in the general areas of cosmological sciences (gravitational wave, dark matter, neutrino, CMB, and more), currently consisting of Barry Barish, Steve Choi, Jon Richardson, and Shawn Westerdale, and continuing to grow (with new faculty searches ongoing). The theory group is represented by Yanou Cui, Flip Tanedo, Hai-Bo Yu, Simeon Bird, Anson D’Aloisio, and Laura Sales. 
+
+The selected candidate will primarily work with Choi’s group in developing and commissioning new instruments and/or data analyses for a combination of astronomical observatories, including the CCAT Observatory, Atacama Cosmology Telescope, Simons Observatory, and CMB-S4. The initial appointment is for 2 years with possibility for renewal based on satisfactory performance and continued funding. Applicants should have a Ph.D. in physics, astrophysics, or a related field, with experience in astronomical instrumentation and/or cosmological data analyses.
 
 ------------------------------------------------------------------------
 
