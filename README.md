@@ -55,6 +55,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](#iac)
 - [Postdoc in CMB Research at IJCLab, Mar 1, 2024](#ijclab)
 - [Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](#ucr)
+- [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
 - [Postdoc at Duke University, until filled](#duke)
 - [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
@@ -94,6 +95,18 @@ The team brings together a wide range of skills in the processing and interpreta
 The Department of Physics and Astronomy at the University of California, Riverside (UCR) seeks applications for a postdoctoral position for research in experimental/observational cosmology. This search is a part of a new experimental effort being built at UCR in the general areas of cosmological sciences (gravitational wave, dark matter, neutrino, CMB, and more), currently consisting of Barry Barish, Steve Choi, Jon Richardson, and Shawn Westerdale, and continuing to grow (with new faculty searches ongoing). The theory group is represented by Yanou Cui, Flip Tanedo, Hai-Bo Yu, Simeon Bird, Anson D’Aloisio, and Laura Sales. 
 
 The selected candidate will primarily work with Choi’s group in developing and commissioning new instruments and/or data analyses for a combination of astronomical observatories, including the CCAT Observatory, Atacama Cosmology Telescope, Simons Observatory, and CMB-S4. The initial appointment is for 2 years with possibility for renewal based on satisfactory performance and continued funding. Applicants should have a Ph.D. in physics, astrophysics, or a related field, with experience in astronomical instrumentation and/or cosmological data analyses.
+
+------------------------------------------------------------------------
+
+**[Postdoc at KIPAC at Stanford/SLAC, until filled](https://academicjobsonline.org/ajo/jobs/27171)**
+
+Applications are invited for a postdoctoral position at the Kavli Institute for Particle Astrophysics and Cosmology (KIPAC) at Stanford University and the SLAC National Accelerator Laboratory with a focus on instrumentation for Cosmic Microwave Background (CMB) surveys. The position is primarily intended to focus on the development of technology for the CMB-S4 experiment, but also to expand our work with other CMB experiments such as the BICEP/Keck Array, the South Pole Telescope (SPT), and the Simons Observatory. Successful candidates may also contribute to the development of technologies and analysis methods in other areas of cosmology and physics.
+
+We seek a candidate with experience in instrumentation development to work in the following areas: 1. Development of CMB-S4 instrumentation prototypes and software, especially in the area of superconducting transition-edge sensors and their SQUID-amplified readout. 2. Application of CMB detector and readout technology in new concepts for future far -infrared and line intensity mapping surveys, low-mass dark matter searches, THz photon sensing, and quantum sensors for physics.
+
+Candidates with prior expertise in low temperature or superconducting detectors and readout electronics are particularly encouraged to apply. Candidates interested in science analyses for cosmic inflation, CMB lensing and secondaries using data from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
+
+The successful candidate will work with CMB scientists in the aforementioned collaborations and interact with the local CMB and other HEP instrumentation groups, making connections to other exciting opportunities for measurements in cosmology and physics.  KIPAC provides a stimulating intellectual environment for interactions with scientists pursuing observational, experimental, computational, and theoretical research relevant to the above areas. For more information on KIPAC’s research program including CMB, please visit <https://kipac.stanford.edu/research/topics>.
 
 ------------------------------------------------------------------------
 
