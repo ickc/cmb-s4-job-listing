@@ -52,41 +52,14 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](#iac)
-- [Postdoc in CMB Research at IJCLab, Mar 1, 2024](#ijclab)
 - [Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](#ucr)
+- [PhD position on blazars/TDEs at IA-FORTH, May 1, 2024, until filled](#forth)
+- [South Pole Telescope winterover positions, until filled](#spt)
+- [South Pole Science Machinist position, until filled](#spmachine)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
 - [Postdoc at Duke University, until filled](#duke)
 - [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
-
- 
-
-------------------------------------------------------------------------
-
-[Postdoc on RadioForegroundsPlus at Instituto de Fisica de Cantabria, Jan 31, 2024 until filled](https://research.iac.es/proyecto/radioforegroundsplus/pages/jobs.php)
-
-The Observational Cosmology and Instrumentation Group of the Instituto de Física de Cantabria (IFCA; Santander, Spain) offers one postdoctoral position to work on the RadioForegroundsPlus project of the Horizon Europe Program (Grant Agreement number 101135036). All the relevant information about the project (including other job opportunities) can be found at:
-
-https://research.iac.es/proyecto/radioforegroundsplus/
-
-The aim of the project is to provide the best possible characterization of the physical properties of polarized emissions in the microwave domain, together with an unprecedentedly thorough description of the intensity signal. This legacy information will be essential for future sub-orbital or satellite experiments targeting the B-Mode of Cosmic Microwave Anisotropies for the measurement of background of primordial gravitational waves. The project is coordinated by IFCA-CSIC and it also includes IAC (Spain), SISSA (Italy), CNRS (France), Univ. of Oxford (UK) and Univ. of Manchester (UK). Postdoc positions are expected to be available at all nodes.
-
-The successful candidate is expected to work in the development and application of advanced tools for component separation with the aim to provide foreground maps and catalogues of point sources from low frequency surveys (QUIJOTE, C-BASS, S-PASS) in conjunction with Planck, WMAP and other ancillary data. Experience on component separation (using e.g. parametric methods, linear techniques or machine learning) is particularly desirable. The candidate will closely work with other members of the group and, in particular, with Dr. Belén Barreiro and Dr. Mathieu Remazeilles. Collaboration with researchers from other nodes of the project is also expected.
-
-------------------------------------------------------------------------
-
-**[Postdoc in CMB Research at IJCLab, Mar 1, 2024](https://inspirehep.net/jobs/2748994)**
-
-The [CMB team](https://a2c.ijclab.in2p3.fr/a2c-home-fr/cmb-home-en/) at the Irène Joliot-Curie 2 Infinities Physics Laboratory (IJCLab) is offering a post-doc position as part of the “IN2P3 Fellowships des 2 infinis” program.
-
- 
-
-The team is made up of 4 permanent researchers (2 research directors, 1 research fellow and 1 lecturer), a post-doctoral student and a PhD student, and specialises in the analysis and scientific exploitation of cosmic microwave background (CMB) measurements. The team’s researchers study the observational constraints on the Standard Model of Cosmology (𝛬CDM) and its extensions, the neutrino sector, reionisation, dark matter, and inflationary models. Having played an active part in Planck, its members are now involved in the Simons Observatory (first light expected in 2024) and CMB-S4 (first light in 2034) ground-based experiments, and in the future LiteBIRD space mission (launch planned for 2033).
-
- 
-
-The team brings together a wide range of skills in the processing and interpretation of CMB data, with internationally recognised expertise in estimators of angular spectra, likelihood functions and phenomenological studies linked to inflation, the neutrino sector and gravitational lensing effects. The team would like to strengthen its expertise in the analysis and interpretation of CMB data, both on large scales (Planck, LiteBIRD) and on the ground (Simons-Observatory and preparation for CMB-S4).
 
 ------------------------------------------------------------------------
 
@@ -95,6 +68,14 @@ The team brings together a wide range of skills in the processing and interpreta
 The Department of Physics and Astronomy at the University of California, Riverside (UCR) seeks applications for a postdoctoral position for research in experimental/observational cosmology. This search is a part of a new experimental effort being built at UCR in the general areas of cosmological sciences (gravitational wave, dark matter, neutrino, CMB, and more), currently consisting of Barry Barish, Steve Choi, Jon Richardson, and Shawn Westerdale, and continuing to grow (with new faculty searches ongoing). The theory group is represented by Yanou Cui, Flip Tanedo, Hai-Bo Yu, Simeon Bird, Anson D’Aloisio, and Laura Sales. 
 
 The selected candidate will primarily work with Choi’s group in developing and commissioning new instruments and/or data analyses for a combination of astronomical observatories, including the CCAT Observatory, Atacama Cosmology Telescope, Simons Observatory, and CMB-S4. The initial appointment is for 2 years with possibility for renewal based on satisfactory performance and continued funding. Applicants should have a Ph.D. in physics, astrophysics, or a related field, with experience in astronomical instrumentation and/or cosmological data analyses.
+
+------------------------------------------------------------------------
+
+**PhD position on Blazars/TDEs at IA-FORTH, May 1, 2024, until filled**
+
+The Institute of Astrophysics at the Foundation for Research and Technology – Hellas (IA-FORTH) invites applications for a 3-year PhD position broadly on blazars and Tidal Disruption events to work with Dr. Ioannis Liodakis’s group, funded by the ERC Starting Grant BOOTES (Black hOle Optical polarization TimE-domain Survey). BOOTES is focusing on multiwavelength polarization observations of blazars and TDEs trying to understand early accretion disk and jet formation as well particle acceleration and high-energy processes in jets from supermassive black holes. Applicants who can connect their previous research to the objectives of BOOTES are encouraged to apply, but all applications will be considered equally. The PhD projects of the successful applicant will be decided based on their expertise and aspirations for their future academic career. The group is involved in many international collaborations providing networking and mentoring opportunities. The position comes with competitive salary, a generous travel package, and opportunities to spend extended research visits in the US. The expected start date is September 2024 (negotiable).
+
+Please contact [Dr. Liodakis]() for further information and to apply.
 
 ------------------------------------------------------------------------
 
@@ -107,6 +88,26 @@ We seek a candidate with experience in instrumentation development to work in th
 Candidates with prior expertise in low temperature or superconducting detectors and readout electronics are particularly encouraged to apply. Candidates interested in science analyses for cosmic inflation, CMB lensing and secondaries using data from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
 
 The successful candidate will work with CMB scientists in the aforementioned collaborations and interact with the local CMB and other HEP instrumentation groups, making connections to other exciting opportunities for measurements in cosmology and physics.  KIPAC provides a stimulating intellectual environment for interactions with scientists pursuing observational, experimental, computational, and theoretical research relevant to the above areas. For more information on KIPAC’s research program including CMB, please visit <https://kipac.stanford.edu/research/topics>.
+
+------------------------------------------------------------------------
+
+**[South Pole Telescope winterover positions, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR25482)**
+
+The SPT-3G experiment on the 10-meter South Pole Telescope (SPT) is seeking two winter-over scientists for the 2025 Austral winter season.  The SPT Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT telescope and SPT-3G camera, which has 16,000 transition edge sensor (TES) bolometers with frequency bands at 95, 150, and 220 GHz. The winterover team will participate in the preliminarily analysis of SPT-3G data, including on-site map-making and astronomical transient detection alerts, participate in coordinated world-wide observations with the Event Horizon Telescope (EHT) receiver on the SPT, and will be an integral member of the SPT collaboration.  
+
+ 
+
+A continuous stay at the South Pole, lasting approximately eleven months, is required. The candidates will be members of a small community at the South Pole Station that will be isolated for eight months.  During this time, community members participate in a wide range of activities including fire or trauma team, kitchen tasks, general cleaning, and station opening and closing duties. The candidates need to be physically qualified to work at polar and high altitude sites for roughly one year. The successful candidates will attend the NSF contractor orientation program and will be expected to pass physical and psychological evaluations required by the National Science Foundation (NSF) Office of Polar Programs.
+
+------------------------------------------------------------------------
+
+**[South Pole Science Machinist position, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/South-Pole-Machinist_JR25483-1)**
+
+The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities.
+
+ 
+
+A continuous stay at the South Pole, lasting approximately eleven months, is required. The candidates will be members of a small community at the South Pole Station that will be isolated for eight months.  During this time, community members participate in a wide range of activities including fire or trauma team, kitchen tasks, general cleaning, and station opening and closing duties. The candidates need to be physically qualified to work at polar and high altitude sites for roughly one year. The successful candidates will attend the NSF contractor orientation program and will be expected to pass physical and psychological evaluations required by the National Science Foundation (NSF) Office of Polar Programs.
 
 ------------------------------------------------------------------------
 
