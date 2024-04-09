@@ -54,6 +54,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](#ucr)
 - [PhD position on blazars/TDEs at IA-FORTH, May 1, 2024, until filled](#forth)
+- [Postdoc in experimental cosmology at Milano-Bicocca, Italy, May 15, 2024](#milano)
 - [South Pole Telescope winterover positions, until filled](#spt)
 - [South Pole Science Machinist position, until filled](#spmachine)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
@@ -78,6 +79,18 @@ The Institute of Astrophysics at the Foundation for Research and Technology – 
 Please contact [Dr. Liodakis]() for further information and to apply.
 
 ------------------------------------------------------------------------
+
+**Postdoc in experimental cosmology at Milano-Bicocca, Italy, May 15, 2024**
+
+A call of interest for an experimental postdoctoral position at the University of Milano-Bicocca, Italy, funded by the ERC Grant POLOCALC (POLarization Orientation CALibrator for Cosmology).
+
+The successful candidate will work with the local Experimental Cosmology group at Milano-Bicocca to design, build, test, and deploy artificial calibrators flying on drones and balloons within view of the Simons Observatory telescopes (and any other telescope at the Chilean site) to calibrate their polarization-sensitive focal planes. The research activity is mostly experimental and includes: polarized mm-wave sources, polarization angle and beam calibration, optical and mechanical design and assembly, electronic board design and implementation, software tools for controlling the payload and its attitude, photogrammetry, star sensors for attitude control, raw data analysis, drone and tethered balloon systems, deployment at the Atacama site, and data pipeline integration with SO.
+
+The deadline for the call of interest is May 15, 2024. Those interested should write an email to [\[email protected\]](). The official call and selection will follow immediately after.
+
+------------------------------------------------------------------------
+
+ 
 
 **[Postdoc at KIPAC at Stanford/SLAC, until filled](https://academicjobsonline.org/ajo/jobs/27171)**
 
