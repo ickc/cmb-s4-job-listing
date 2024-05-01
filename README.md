@@ -55,10 +55,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](#ucr)
 - [PhD position on blazars/TDEs at IA-FORTH, May 1, 2024, until filled](#forth)
 - [Postdoc in experimental cosmology at Milano-Bicocca, Italy, May 15, 2024](#milano)
+- [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
 - [South Pole Telescope winterover positions, until filled](#spt)
 - [South Pole Science Machinist position, until filled](#spmachine)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
-- [Postdoc at Duke University, until filled](#duke)
 - [Operations Project Scientist position at Harvard University, until filled](#projectharvard)
 - [Multiple Postdocs on BROWSEPOL, until filled](#browsepol)
 
@@ -90,7 +90,25 @@ The deadline for the call of interest is May 15, 2024. Those interested should w
 
 ------------------------------------------------------------------------
 
+**[Postdoc on CMB-S4 detection and data processing chain at APC/LBL, July 11, 2024](https://academicjobsonline.org/ajo/jobs/27549)**
+
+The precise measurement of polarized fluctuations of the Cosmic Microwave Background (CMB) emission is a major objective of modern observational cosmology. So-called primordial B modes of CMB polarization, thought to have been generated in an early phase of cosmic inflation, would provide unique information about the origin of the Universe and fundamental laws of physics at very high energies. The faint amplitude of the expected signals, of order of a few nK, requires highly sensitive observations together with exquisite control of instrumental systematic errors that can be higher by a few orders of magnitude. 
+
  
+
+CMB-S4 (stage 4) is a 4th generation ground-based instrument aiming at observing these signals with ultimate sensitivity. To that effect, the experiment will deploy about 500 000 cryogenic detectors distributed over 85 optics tubes distributed in a few small (SAT) and large (LAT) aperture telescopes, which will observe from Chile and Antarctica. This will make it the largest and most advanced CMB observatory ever constructed. CMB-S4 has recently been ranked as the top priority for the next decade by the US Particle Physics Project Prioritization Panel (P5). 
+
+ 
+
+The unprecedented sensitivity, precision and accuracy of the observations requires precise understanding of the instrument and optimization of the data analysis pipeline. The postdoctoral scholar will work on one or more of the following topics: 
+
+1.  Design and characterization of readout electronics using Application Specific Integrated Circuit (ASIC) and S4 sample detectors. A prototype of this detection chain will be installed and tested at APC in a dilution fridge.
+2.  Development of an optical test bench to measure the response and the bandpass of detectors. An external Fourier Transform Spectrometer will be used together with a dilution fridge equipped with a window and optical filters. The precision of this testbench will have to be consistent with the requirements of CMB-S4.
+3.  CMB-S4 simulation and data analysis to evaluate the scientific impact of instrumental and pipeline design choices and optimize the instrumental efficiency of CMB-S4.
+
+The post-doc will work with the CMB-S4 project and collaboration, and in particular with Damien Prêle and Michel Piat at the APC laboratory in Paris, and with Jacques Delabrouille and Reijo Keskitalo at LBNL in Berkeley. The postdoc is expected to share work between APC, Paris and LBNL, Berkeley, as a function of project needs. 
+
+------------------------------------------------------------------------
 
 **[Postdoc at KIPAC at Stanford/SLAC, until filled](https://academicjobsonline.org/ajo/jobs/27171)**
 
@@ -121,14 +139,6 @@ The South Pole Machinist operates and maintains the MAPO machine shop, which is 
  
 
 A continuous stay at the South Pole, lasting approximately eleven months, is required. The candidates will be members of a small community at the South Pole Station that will be isolated for eight months.  During this time, community members participate in a wide range of activities including fire or trauma team, kitchen tasks, general cleaning, and station opening and closing duties. The candidates need to be physically qualified to work at polar and high altitude sites for roughly one year. The successful candidates will attend the NSF contractor orientation program and will be expected to pass physical and psychological evaluations required by the National Science Foundation (NSF) Office of Polar Programs.
-
-------------------------------------------------------------------------
-
-**[Postdoc at Duke University, until filled](https://academicjobsonline.org/ajo/jobs/26059)**
-
-The cosmology group at Duke University invites applications for a postdoctoral position in the area of cosmology (experimental, observational and theoretical), time-domain and galaxy cluster astrophysics, and new techniques in statistical and image analysis. The cosmology group is composed of Profs. Arun Kannawadi, Dan Scolnic, Michael Troxel, Eve Vavagiakis and Chris Walter, working on current and next generation experiments, including CCAT, CMB-S4, the Dark Energy Survey, Hyper-Suprime Cam Subaru Strategic Program, the Nancy Grace Roman Space Telescope, the Rubin Observatory LSST, and the Simons Observatory. The Duke cosmology group currently consists of about ten PhD students and four postdocs or research scientists, and will continue to grow and expand. We are committed to building a group that is inclusive and representative of our community. For this reason, we strongly encourage applicants who come from groups that are historically underrepresented in physics departments.
-
-This researcher would work with Prof. Eve Vavagiakis to support CCAT, the Simons Observatory, and/or CMB-S4, with opportunities for joint analyses with data from the Atacama Cosmology Telescope and optical surveys. The researcher will lead and contribute to projects in a variety of potential topics, including the development of new instrumentation and superconducting detector technologies for upcoming surveys, and pipeline development and data analysis for cosmology and astrophysics. Candidates are expected to be experienced with relevant instrumentation (cryogenics, mechanical design, low-temperature electronics, superconducting devices) and data analysis techniques in cosmology/millimeter or submillimeter wave astronomy, and to have strong oral and written communication skills.
 
 ------------------------------------------------------------------------
 
