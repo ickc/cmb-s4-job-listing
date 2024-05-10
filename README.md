@@ -55,7 +55,9 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in experimental cosmology at UCR, Apr 30, 2024, until filled](#ucr)
 - [PhD position on blazars/TDEs at IA-FORTH, May 1, 2024, until filled](#forth)
 - [Postdoc in experimental cosmology at Milano-Bicocca, Italy, May 15, 2024](#milano)
+- [Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](#penn)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
+- [BICEP Array winterover positions, until filled](#bicep)
 - [South Pole Telescope winterover positions, until filled](#spt)
 - [South Pole Science Machinist position, until filled](#spmachine)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
@@ -107,6 +109,26 @@ The unprecedented sensitivity, precision and accuracy of the observations requir
 3.  CMB-S4 simulation and data analysis to evaluate the scientific impact of instrumental and pipeline design choices and optimize the instrumental efficiency of CMB-S4.
 
 The post-doc will work with the CMB-S4 project and collaboration, and in particular with Damien Prêle and Michel Piat at the APC laboratory in Paris, and with Jacques Delabrouille and Reijo Keskitalo at LBNL in Berkeley. The postdoc is expected to share work between APC, Paris and LBNL, Berkeley, as a function of project needs. 
+
+------------------------------------------------------------------------
+
+**[Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](https://theapplicantmanager.com/jobs?pos=sm162&fs=1.0em)**
+
+The Center for Particle Cosmology at the University of Pennsylvania is seeking applicants for a postdoctoral researcher focused on software development for astronomical surveys. We are interested in candidates with a keen interest in data-driven astrophysics and a strong background in software development.
+
+The successful candidate will work within the distributed Advanced Simons Observatory (ASO) team, but will be based at the University of Pennsylvania in Philadelphia, PA, USA, under the direct supervision of Dr. Josh Borrow and Prof. Mathew Madhavacheril. This position is primarily technical in nature, with a core focus on software development. As such, we explicitly would like to encourage applications from candidates who are interested in transitioning from a PhD to a role in industry.
+
+The role of the successful candidate will be to build, deploy, and maintain data engineering infrastructure for ASO within the Data Delivery group. This distributed infrastructure is responsible for both internal and public data releases, and ranges from web-based map viewers to large databases of simulation products.
+
+For any questions, please contact Josh Borrow ([\[email protected\]]()). *For best consideration, please apply by May 24, 2024*. The position will remain open until a suitable candidate is found.
+
+------------------------------------------------------------------------
+
+**[BICEP Array winterover positions, until filled](https://hr.myu.umn.edu/jobs/ext/361030)**
+
+The BICEP winter-over scientists will start work in fall 2024 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2025. Once the austral summer team leaves the site in February 2025, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.   
+  
+The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well. 
 
 ------------------------------------------------------------------------
 
