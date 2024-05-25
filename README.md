@@ -56,11 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](#penn)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
 - [BICEP Array winterover positions, until filled](#bicep)
-- [South Pole Telescope winterover positions, until filled](#spt)
-- [South Pole Science Machinist position, until filled](#spmachine)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
-
- 
 
 ------------------------------------------------------------------------
 
@@ -76,21 +72,17 @@ The deadline for the call of interest is May 15, 2024. Those interested should w
 
 **[Postdoc on CMB-S4 detection and data processing chain at APC/LBL, July 11, 2024](https://academicjobsonline.org/ajo/jobs/27549)**
 
-The precise measurement of polarized fluctuations of the Cosmic Microwave Background (CMB) emission is a major objective of modern observational cosmology. So-called primordial B modes of CMB polarization, thought to have been generated in an early phase of cosmic inflation, would provide unique information about the origin of the Universe and fundamental laws of physics at very high energies. The faint amplitude of the expected signals, of order of a few nK, requires highly sensitive observations together with exquisite control of instrumental systematic errors that can be higher by a few orders of magnitude. 
+The precise measurement of polarized fluctuations of the Cosmic Microwave Background (CMB) emission is a major objective of modern observational cosmology. So-called primordial B modes of CMB polarization, thought to have been generated in an early phase of cosmic inflation, would provide unique information about the origin of the Universe and fundamental laws of physics at very high energies. The faint amplitude of the expected signals, of order of a few nK, requires highly sensitive observations together with exquisite control of instrumental systematic errors that can be higher by a few orders of magnitude.
 
- 
+CMB-S4 (stage 4) is a 4th generation ground-based instrument aiming at observing these signals with ultimate sensitivity. To that effect, the experiment will deploy about 500 000 cryogenic detectors distributed over 85 optics tubes distributed in a few small (SAT) and large (LAT) aperture telescopes, which will observe from Chile and Antarctica. This will make it the largest and most advanced CMB observatory ever constructed. CMB-S4 has recently been ranked as the top priority for the next decade by the US Particle Physics Project Prioritization Panel (P5).
 
-CMB-S4 (stage 4) is a 4th generation ground-based instrument aiming at observing these signals with ultimate sensitivity. To that effect, the experiment will deploy about 500 000 cryogenic detectors distributed over 85 optics tubes distributed in a few small (SAT) and large (LAT) aperture telescopes, which will observe from Chile and Antarctica. This will make it the largest and most advanced CMB observatory ever constructed. CMB-S4 has recently been ranked as the top priority for the next decade by the US Particle Physics Project Prioritization Panel (P5). 
-
- 
-
-The unprecedented sensitivity, precision and accuracy of the observations requires precise understanding of the instrument and optimization of the data analysis pipeline. The postdoctoral scholar will work on one or more of the following topics: 
+The unprecedented sensitivity, precision and accuracy of the observations requires precise understanding of the instrument and optimization of the data analysis pipeline. The postdoctoral scholar will work on one or more of the following topics:
 
 1.  Design and characterization of readout electronics using Application Specific Integrated Circuit (ASIC) and S4 sample detectors. A prototype of this detection chain will be installed and tested at APC in a dilution fridge.
 2.  Development of an optical test bench to measure the response and the bandpass of detectors. An external Fourier Transform Spectrometer will be used together with a dilution fridge equipped with a window and optical filters. The precision of this testbench will have to be consistent with the requirements of CMB-S4.
 3.  CMB-S4 simulation and data analysis to evaluate the scientific impact of instrumental and pipeline design choices and optimize the instrumental efficiency of CMB-S4.
 
-The post-doc will work with the CMB-S4 project and collaboration, and in particular with Damien Prêle and Michel Piat at the APC laboratory in Paris, and with Jacques Delabrouille and Reijo Keskitalo at LBNL in Berkeley. The postdoc is expected to share work between APC, Paris and LBNL, Berkeley, as a function of project needs. 
+The post-doc will work with the CMB-S4 project and collaboration, and in particular with Damien Prêle and Michel Piat at the APC laboratory in Paris, and with Jacques Delabrouille and Reijo Keskitalo at LBNL in Berkeley. The postdoc is expected to share work between APC, Paris and LBNL, Berkeley, as a function of project needs.
 
 ------------------------------------------------------------------------
 
@@ -108,9 +100,9 @@ For any questions, please contact Josh Borrow ([\[email protected\]]()). *For b
 
 **[BICEP Array winterover positions, until filled](https://hr.myu.umn.edu/jobs/ext/361030)**
 
-The BICEP winter-over scientists will start work in fall 2024 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2025. Once the austral summer team leaves the site in February 2025, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.   
-  
-The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well. 
+The BICEP winter-over scientists will start work in fall 2024 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2025. Once the austral summer team leaves the site in February 2025, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded. 
+
+The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 ------------------------------------------------------------------------
 
@@ -123,26 +115,6 @@ We seek a candidate with experience in instrumentation development to work in th
 Candidates with prior expertise in low temperature or superconducting detectors and readout electronics are particularly encouraged to apply. Candidates interested in science analyses for cosmic inflation, CMB lensing and secondaries using data from current-generation CMB telescopes will have ample opportunities to engage with local expertise in related areas.
 
 The successful candidate will work with CMB scientists in the aforementioned collaborations and interact with the local CMB and other HEP instrumentation groups, making connections to other exciting opportunities for measurements in cosmology and physics.  KIPAC provides a stimulating intellectual environment for interactions with scientists pursuing observational, experimental, computational, and theoretical research relevant to the above areas. For more information on KIPAC’s research program including CMB, please visit <https://kipac.stanford.edu/research/topics>.
-
-------------------------------------------------------------------------
-
-**[South Pole Telescope winterover positions, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/XMLNAME-10-meter-South-Pole-Telescope-Winter-Over_JR25482)**
-
-The SPT-3G experiment on the 10-meter South Pole Telescope (SPT) is seeking two winter-over scientists for the 2025 Austral winter season.  The SPT Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT telescope and SPT-3G camera, which has 16,000 transition edge sensor (TES) bolometers with frequency bands at 95, 150, and 220 GHz. The winterover team will participate in the preliminarily analysis of SPT-3G data, including on-site map-making and astronomical transient detection alerts, participate in coordinated world-wide observations with the Event Horizon Telescope (EHT) receiver on the SPT, and will be an integral member of the SPT collaboration.  
-
- 
-
-A continuous stay at the South Pole, lasting approximately eleven months, is required. The candidates will be members of a small community at the South Pole Station that will be isolated for eight months.  During this time, community members participate in a wide range of activities including fire or trauma team, kitchen tasks, general cleaning, and station opening and closing duties. The candidates need to be physically qualified to work at polar and high altitude sites for roughly one year. The successful candidates will attend the NSF contractor orientation program and will be expected to pass physical and psychological evaluations required by the National Science Foundation (NSF) Office of Polar Programs.
-
-------------------------------------------------------------------------
-
-**[South Pole Science Machinist position, until filled](https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/South-Pole-Machinist_JR25483-1)**
-
-The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities.
-
- 
-
-A continuous stay at the South Pole, lasting approximately eleven months, is required. The candidates will be members of a small community at the South Pole Station that will be isolated for eight months.  During this time, community members participate in a wide range of activities including fire or trauma team, kitchen tasks, general cleaning, and station opening and closing duties. The candidates need to be physically qualified to work at polar and high altitude sites for roughly one year. The successful candidates will attend the NSF contractor orientation program and will be expected to pass physical and psychological evaluations required by the National Science Foundation (NSF) Office of Polar Programs.
 
  
 
