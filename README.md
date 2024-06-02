@@ -52,7 +52,6 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoc in experimental cosmology at Milano-Bicocca, Italy, May 15, 2024](#milano)
 - [Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](#penn)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
 - [BICEP Array winterover positions, until filled](#bicep)
