@@ -54,18 +54,21 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](#penn)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
+- [Research software enegineer on SO:UK at Manchester, July 5, 2024](#souk)
 - [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
 
+ 
+
 ------------------------------------------------------------------------
 
-**Postdoc in experimental cosmology at Milano-Bicocca, Italy, May 15, 2024**
+**[Research software engineer at SO:UK at Manchester, July 5, 2024](https://www.jobs.manchester.ac.uk/Job/JobDetail?JobId=29238)**
 
-A call of interest for an experimental postdoctoral position at the University of Milano-Bicocca, Italy, funded by the ERC Grant POLOCALC (POLarization Orientation CALibrator for Cosmology).
+The Simons Observatory:UK (SO:UK) collaboration seeks a Software Engineer (SE) to work on the delivery of a UK-based data centre for Simons Observatory (SO). SO is a next-generation Cosmic Microwave Background observatory currently under construction in the Atacama Desert in Chile and due to begin early science operations in early 2023. The successful candidate will work with the SO:UK Data Centre Manager, and with the wider SO:UK team at Manchester, to deliver the UK data centre for this major international project.
 
-The successful candidate will work with the local Experimental Cosmology group at Milano-Bicocca to design, build, test, and deploy artificial calibrators flying on drones and balloons within view of the Simons Observatory telescopes (and any other telescope at the Chilean site) to calibrate their polarization-sensitive focal planes. The research activity is mostly experimental and includes: polarized mm-wave sources, polarization angle and beam calibration, optical and mechanical design and assembly, electronic board design and implementation, software tools for controlling the payload and its attitude, photogrammetry, star sensors for attitude control, raw data analysis, drone and tethered balloon systems, deployment at the Atacama site, and data pipeline integration with SO.
+The SO:UK data centre will be a major data processing hub for SO and will play a central role in the production and validation of SO’s Science-Ready Data Products (SRDPs). The SE position will make central contributions to these tasks. In particular, deploying, optimising and providing workflow management of the data analysis, map-making and simulation pipelines on the SO:UK data centre infrastructure, and contributing to the validation of the SRDPs, notably through analysis of null tests and supporting activities. They SE will also provide software engineering support to the wider SO scientific collaboration by assisting with the optimization and packaging of the SO software stack.
 
-The deadline for the call of interest is May 15, 2024. Those interested should write an email to [\[email protected\]](). The official call and selection will follow immediately after.
+We seek candidates with demonstrated experience in developing pipeline software and managing pipeline workflows for the analysis of data from significant scientific experiments. They should have experience in high-performance and/or high-throughput computing on high-specification hardware. Working as part of the SO Data Management team, the successful candidates will collaborate closely with international SO colleagues in order to deliver on the overall objectives of the SO project.
 
 ------------------------------------------------------------------------
 
