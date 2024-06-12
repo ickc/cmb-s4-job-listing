@@ -52,13 +52,11 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](#penn)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
 - [Research software enegineer on SO:UK at Manchester, July 5, 2024](#souk)
+- [Software developer for ASO at UPenn, until filled](#penn)
 - [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
-
- 
 
 ------------------------------------------------------------------------
 
@@ -88,15 +86,11 @@ The post-doc will work with the CMB-S4 project and collaboration, and in particu
 
 ------------------------------------------------------------------------
 
-**[Postdoc in software development for ASO at Univ. of Pennsylvania, May 24, 2024, until filled](https://theapplicantmanager.com/jobs?pos=sm162&fs=1.0em)**
+**[Software developer for ASO at UPenn, until filled](https://wd1.myworkdaysite.com/recruiting/upenn/careers-at-penn/job/David-Rittenhouse-Laboratory/Sr-Application-Developer---Application-Developer-C--Department-of-Physics-and-Astronomy_JR00091703)**
 
-The Center for Particle Cosmology at the University of Pennsylvania is seeking applicants for a postdoctoral researcher focused on software development for astronomical surveys. We are interested in candidates with a keen interest in data-driven astrophysics and a strong background in software development.
+The Center for Particle Cosmology (CPC) at the Department of Physics and Astronomy facilitates unfettered interactions and collaborations between the traditionally separate groups of particle physics and cosmology. Our mission is the connection of cosmology with new ideas in fundamental physics, directly testable both through the current flux of data from observational cosmology and imminent new particle physics experiments. The CPC is a key contributor to the Simons Observatory (SO), a millimeter-wave survey experiment currently being built for observations from the Atacama Desert in Chile, with a variety of scientific goals from probing the early universe to detecting millimeter-wave transients.
 
-The successful candidate will work within the distributed Advanced Simons Observatory (ASO) team, but will be based at the University of Pennsylvania in Philadelphia, PA, USA, under the direct supervision of Dr. Josh Borrow and Prof. Mathew Madhavacheril. This position is primarily technical in nature, with a core focus on software development. As such, we explicitly would like to encourage applications from candidates who are interested in transitioning from a PhD to a role in industry.
-
-The role of the successful candidate will be to build, deploy, and maintain data engineering infrastructure for ASO within the Data Delivery group. This distributed infrastructure is responsible for both internal and public data releases, and ranges from web-based map viewers to large databases of simulation products.
-
-For any questions, please contact Josh Borrow ([\[email protected\]]()). *For best consideration, please apply by May 24, 2024*. The position will remain open until a suitable candidate is found.
+The role of the successful candidate will be to build, deploy, and maintain the frontends for data engineering infrastructure for the Advanced Simons Observatory within the Data Delivery group. This distributed infrastructure is responsible for both internal and public data releases, and ranges from web-based map viewers to large databases of simulation products.
 
 ------------------------------------------------------------------------
 
