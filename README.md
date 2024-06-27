@@ -52,11 +52,34 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
+- [Faculty position at PUC, Jun 30, 2024](#puc)
+- [Two research fellowships in experimental cosmology at the University of Milano-Bicocca (Italy), Jul 8, 2024](#milano)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
 - [Research software enegineer on SO:UK at Manchester, July 5, 2024](#souk)
 - [Software developer for ASO at UPenn, until filled](#penn)
 - [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
+
+------------------------------------------------------------------------
+
+**[Faculty Position at PUC, Jun 30, 2024](https://astro.uc.cl/noticias/faculty-position-assistant-or-associate-professors-at-the-institute-of-astrophysics-uc-2/)**
+
+The Institute of Astrophysics (IA) at Pontifical Catholic University of Chile (PUC) invites applications to fill at least one faculty position at the assistant or associate professor as a level, on qualifications, beginning as early as possible and not later than August 2025. The requirements are a Ph.D. in astronomy/astrophysics or related fields and a demonstrated ability and commitment to excellence in independent research and teaching. The search is open to all areas of astrophysics research and instrumentation, including interdisciplinary research.
+
+The successful candidate (s) is expected to join the research and teaching activities at the Institute of Astrophysics and interact closely with students. The Institute hosts an active and dynamic international community comprised of 16 faculty, 60 graduate students, and 15 . postdocs, carrying out research in cosmology, extragalactic and Galactic astronomy, stellar astrophysics, astrochemistry, planetary sciences, astronomical instrumentation, high-energy astrophysics, theoretical astrophysics, and numerical simulations. Applicants working in all areas of astrophysics are welcome to apply. The Institute maintains a vibrant scientific atmosphere in its newly renovated building, including a strong visitor program, weekly seminars, colloquia, and daily Astro-phloss. Our environment cultivates a rich academic and social experience and allows substantial networking opportunities and collaboration at many levels. Institute members are part of the French-Chilean Laboratory for Astronomy ([FCLA](http://www.fcla.cl/)).
+
+------------------------------------------------------------------------
+
+**[Two research fellowships in experimental cosmology at the University of Milano-Bicocca (Italy), Jul 8, 2024](https://drive.google.com/open?id=1IupctEHe9JVc8i-hQZit8_MLAcjj-jCu&usp=drive_fs)**
+
+Two 2-year Research Fellowships in experimental cosmology at the Dept. of Physics of the University of Milano-Bicocca (Italy), funded by the ERC POLOCALC project to develop innovative calibration methods with artificial sources flying above telescopes at the Atacama site in Chile, for accurate measurements of the polarised sky in millimetre and submillimetre bands, using drones and tethered balloons.
+
+**Type of activity and required background  
+**Experimental activities in the laboratory and in the field, in particular for design, implementation, characterization, utilization and data-analysis of:  
+1) Light sources in the typical CMB frequency bands, polarized and non-polarized, narrowband and wideband;  
+2) Hardware and software components to couple sources to telescopes, including integration of flight data with observational data, and comparison with simulations;  
+3) Source flight attitude determination and control systems, with photogrammetry algorithms and star sensors;  
+4) Flight systems: drones, tethered balloons and related equipment.
 
 ------------------------------------------------------------------------
 
