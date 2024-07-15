@@ -56,6 +56,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 - [Two research fellowships in experimental cosmology at the University of Milano-Bicocca (Italy), Jul 8, 2024](#milano)
 - [Postdoc on CMB-S4 detection and data processing chain at APC/LBNL, July 11, 2024](#apclbl)
 - [Research software enegineer on SO:UK at Manchester, July 5, 2024](#souk)
+- [PhD in combined data analysis for space missions at SISSA, Aug 1, 2024](#sissa)
 - [Software developer for ASO at UPenn, until filled](#penn)
 - [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
@@ -106,6 +107,14 @@ The unprecedented sensitivity, precision and accuracy of the observations requir
 3.  CMB-S4 simulation and data analysis to evaluate the scientific impact of instrumental and pipeline design choices and optimize the instrumental efficiency of CMB-S4.
 
 The post-doc will work with the CMB-S4 project and collaboration, and in particular with Damien Prêle and Michel Piat at the APC laboratory in Paris, and with Jacques Delabrouille and Reijo Keskitalo at LBNL in Berkeley. The postdoc is expected to share work between APC, Paris and LBNL, Berkeley, as a function of project needs.
+
+------------------------------------------------------------------------
+
+**[PhD in combined data analysis for space missions at SISSA, Aug 1, 2024](https://www.unitn.it/phd-sst/884/details-about-funded-positions-40th-cycle-curriculum-1)**
+
+The scientific case for Probe Combination in Astrophysical and Cosmological observations implies the development of analysis techniques which are capable of combining the different datasets from space missions. The research project concerns these innovative features of the analysis and focuses on the spatial datasets involving stellar populations (GAIA), the distribution of Galaxies in Cosmology (Euclid, JWST), in conjunction with Cosmic Microwave Background (LiteBIRD) and Gravitational Wave Observatories (LISA).
+
+Please contact [Carlo Baccigalupi]() for more information.
 
 ------------------------------------------------------------------------
 
