@@ -54,6 +54,7 @@ CMB-S4 Next Generation CMB Experiment
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
 - [PhD in combined data analysis for space missions at SISSA, Aug 1, 2024](#sissa)
+- [Instrumentation Lab Specialist at UVA, until filled](#uva)
 - [Software developer for ASO at UPenn, until filled](#penn)
 - [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
@@ -65,6 +66,26 @@ This page is for advertising positions related to CMB research broadly defined, 
 The scientific case for Probe Combination in Astrophysical and Cosmological observations implies the development of analysis techniques which are capable of combining the different datasets from space missions. The research project concerns these innovative features of the analysis and focuses on the spatial datasets involving stellar populations (GAIA), the distribution of Galaxies in Cosmology (Euclid, JWST), in conjunction with Cosmic Microwave Background (LiteBIRD) and Gravitational Wave Observatories (LISA).
 
 Please contact [Carlo Baccigalupi]() for more information.
+
+------------------------------------------------------------------------
+
+**[Instrumentation Lab Specialist at UVA, until filled](https://jobs.virginia.edu/us/en/job/R0063623/ASTR-Lab-Specialist-Intermediate)**
+
+The Department of Astronomy at the University of Virginia (UVA) seeks applications for a Lab Specialist Intermediate with advanced training and background in astrophysics instrumentation.
+
+Among their primary responsibilities, the technician is expected to backfill some of the duties of present department staff who have temporarily taken on an increased workload due to ongoing renovations of the facilities at Fan Mountain Observatory.
+
+The successful applicant will therefore actively participate in some or all of the following research activities carried out by the faculty of the UVa Department of Astronomy:
+
+- assist in the development of radio, microwave, and infrared instrumentation for astronomical observatories, including Simons Observatory (Chile), Green Bank Observatory (West Virginia), Apache Point Observatory (New Mexico), and Fan Mountain Observatory (Virginia)
+- analyze data from this instrumentation
+- be available and physically able to work periodically on-site at these observatories (note that the Simons Observatory is located in the high Atacama Desert in Northern Chile at an altitude of 17,000 feet)
+- develop and analyze data from microwave spectrometers used for the search for axions
+- develop polymer ceramic composite materials for cryogenically cooled refractive optics
+- test varieties of kinetic inductance detectors in the laboratory
+- build new readout systems based on field-programmable data arrays.
+
+The Laboratory Specialist Intermediate will report to Bradley Johnson, Associate Professor of Astronomy.
 
 ------------------------------------------------------------------------
 
