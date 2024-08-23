@@ -27,7 +27,7 @@ CMB-S4 Next Generation CMB Experiment
 - [/ outreach /](https://cmb-s4.org/outreach/)
   - [overview](https://cmb-s4.org/outreach/)
   - [upcoming events](https://cmb-s4.org/outreach/upcoming-events/)
-  - [High School Course](https://cmb-s4.org/outreach/high-school-course/)
+  - [high school course](https://cmb-s4.org/outreach/high-school-course/)
   - [scientist profiles](https://cmb-s4.org/outreach/scientist-of-the-week/)
   - [students](https://cmb-s4.org/outreach/students/)
   - [parents](https://cmb-s4.org/outreach/parents/)
