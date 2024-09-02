@@ -53,19 +53,10 @@ CMB-S4 Next Generation CMB Experiment
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to [C. Reichardt]().
 
-- [PhD in combined data analysis for space missions at SISSA, Aug 1, 2024](#sissa)
 - [Instrumentation Lab Specialist at UVA, until filled](#uva)
 - [Software developer for ASO at UPenn, until filled](#penn)
 - [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
-
-------------------------------------------------------------------------
-
-**[PhD in combined data analysis for space missions at SISSA, Aug 1, 2024](https://www.unitn.it/phd-sst/884/details-about-funded-positions-40th-cycle-curriculum-1)**
-
-The scientific case for Probe Combination in Astrophysical and Cosmological observations implies the development of analysis techniques which are capable of combining the different datasets from space missions. The research project concerns these innovative features of the analysis and focuses on the spatial datasets involving stellar populations (GAIA), the distribution of Galaxies in Cosmology (Euclid, JWST), in conjunction with Cosmic Microwave Background (LiteBIRD) and Gravitational Wave Observatories (LISA).
-
-Please contact [Carlo Baccigalupi]() for more information.
 
 ------------------------------------------------------------------------
 
