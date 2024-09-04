@@ -55,7 +55,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 - [Instrumentation Lab Specialist at UVA, until filled](#uva)
 - [Software developer for ASO at UPenn, until filled](#penn)
-- [BICEP Array winterover positions, until filled](#bicep)
 - [Postdoc at KIPAC at Stanford/SLAC, until filled](#kipac)
 
 ------------------------------------------------------------------------
@@ -85,14 +84,6 @@ The Laboratory Specialist Intermediate will report to Bradley Johnson, Associate
 The Center for Particle Cosmology (CPC) at the Department of Physics and Astronomy facilitates unfettered interactions and collaborations between the traditionally separate groups of particle physics and cosmology. Our mission is the connection of cosmology with new ideas in fundamental physics, directly testable both through the current flux of data from observational cosmology and imminent new particle physics experiments. The CPC is a key contributor to the Simons Observatory (SO), a millimeter-wave survey experiment currently being built for observations from the Atacama Desert in Chile, with a variety of scientific goals from probing the early universe to detecting millimeter-wave transients.
 
 The role of the successful candidate will be to build, deploy, and maintain the frontends for data engineering infrastructure for the Advanced Simons Observatory within the Data Delivery group. This distributed infrastructure is responsible for both internal and public data releases, and ranges from web-based map viewers to large databases of simulation products.
-
-------------------------------------------------------------------------
-
-**[BICEP Array winterover positions, until filled](https://hr.myu.umn.edu/jobs/ext/361030)**
-
-The BICEP winter-over scientists will start work in fall 2024 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2025. Once the austral summer team leaves the site in February 2025, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded. 
-
-The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 ------------------------------------------------------------------------
 
