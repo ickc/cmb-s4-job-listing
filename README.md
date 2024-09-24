@@ -369,10 +369,106 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
+PhD student position in observational cosmology at the University of Iceland, Dec 2, 2024
+</li>
+
+<li>
+
+Postdoctoral researcher position in observational cosmology at the University of Iceland, Dec 2, 2024
+</li>
+
+<li>
+
+Postdoctoral Fellow in Experimental Cosmology at Boston University, Dec 15, 2024
+</li>
+
+<li>
+
 Instrumentation Lab Specialist at UVA, until filled
 </li>
 
 </ul>
+
+<hr />
+
+<p>
+
+PhD student position in observational cosmology at the University of Iceland, Dec 2, 2024
+</p>
+
+We are advertising a PhD student position in observational cosmology with a focus on the cosmic microwave background (CMB). The program will take place within the Physics Department at the University of Iceland. The position is funded for a minimum of three years with funds from the European Research Council.
+
+<p>
+
+The PhD student will join the CMBeam project team (http://cmbeam.com/) and the thesis work can have components from a combination of data analysis and various instrumentation efforts. The research will likely be conducted in the context of existing CMB experiments that group members are participating in, including but not limited to the Simons Observatory, the Taurus balloon-borne experiment, SPIDER2, and LiteBIRD.
+</p>
+
+For any questions regarding the position, please contact Jon Gudmundsson (\[email protected\]).
+</p>
+
+<hr />
+
+<p>
+
+Postdoctoral researcher position in observational cosmology at the University of Iceland, Dec 2, 2024
+</p>
+
+We are advertising a postdoctoral researcher position at the Science Institute at the University of Iceland with a focus on observational cosmology. The researcher will join the CMBeam project team (http://cmbeam.com/) funded through a grant from the European Research Council.
+
+The research can have components from data analysis, instrumentation, and microwave measurement techniques. Ideally, these efforts will be conducted in the context of existing cosmic microwave background experiments that group members are participating in, including but not limited to the Simons Observatory, the Taurus balloon-borne experiment, SPIDER2, and the LiteBIRD satellite.
+
+For any questions regarding the position, please contact Jon Gudmundsson (\[email protected\]).
+
+<hr />
+
+<p>
+
+Postdoctoral Fellow in Experimental Cosmology at Boston University Dec 15 2024
+</p>
+
+<p style="font-weight: 400">
+
+The Boston University Department of Physics invites applications for a postdoctoral fellowship in the experimental cosmology group working with Prof. Kirit Karkare.
+</p>
+
+<p style="font-weight: 400">
+
+The BU experimental cosmology group focuses on testing fundamental physics and early-universe astrophysics using observations of the cosmic microwave background (CMB) and high-redshift galaxies with millimeter-wave line intensity mapping (LIM). We are particularly interested in advancing mm-wave LIM as a cosmological probe and constraining inflation with degree-scale CMB polarization. Our work takes place in the BICEP, CMB-S4, SPT-SLIM/SPT-3G+, and SuperSpec collaborations.
+</p>
+
+<p style="font-weight: 400">
+
+We seek candidates interested in any of the following areas:
+</p>
+
+<ul style="font-weight: 400">
+
+<li>
+
+Design, testing, and operation of mm-wave telescopes and detectors, including R&D on superconducting spectrometers for LIM.
+</li>
+
+<li>
+
+Analysis of CMB/LIM data, including constraining instrumental systematics and foreground/signal separation.
+</li>
+
+<li>
+
+Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
+</li>
+
+</ul>
+
+<p style="font-weight: 400">
+
+Previous experience in mm-wave instrumentation or CMB/LIM data analysis is desirable but not required. In addition to our experimental collaborations, successful candidates will also have the opportunity to interact with the growing BU cosmology community (https://sites.bu.edu/cosmology/).
+</p>
+
+<p style="font-weight: 400">
+
+Candidates should have a Ph.D. in physics, astronomy, or a related subject prior to starting the appointment. Applicants should send a CV with publication list, cover letter (2 pages max), statement of research experience and future plans (3 pages max), and arrange for three letters of reference to be sent to \[email protected\] by December 15, 2024. We expect to fill this position no later than Fall 2025.
+</p>
 
 <hr />
 
