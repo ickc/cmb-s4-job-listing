@@ -379,7 +379,12 @@ Postdoctoral researcher position in observational cosmology at the University 
 
 <li>
 
-Postdoctoral Fellow in Experimental Cosmology at Boston University, Dec 15, 2024
+Postdoc in Experimental Cosmology at Boston University, Dec 15, 2024
+</li>
+
+<li>
+
+Asst Professor of Astronomy at the University of Virginia, Dec 15, 2024
 </li>
 
 <li>
@@ -403,6 +408,8 @@ We are advertising a PhD student position in observational cosmology with a focu
 The PhD student will join the CMBeam project team (http://cmbeam.com/) and the thesis work can have components from a combination of data analysis and various instrumentation efforts. The research will likely be conducted in the context of existing CMB experiments that group members are participating in, including but not limited to the Simons Observatory, the Taurus balloon-borne experiment, SPIDER2, and LiteBIRD.
 </p>
 
+<p>
+
 For any questions regarding the position, please contact Jon Gudmundsson (\[email protected\]).
 </p>
 
@@ -423,12 +430,12 @@ For any questions regarding the position, please contact Jon Gudmundsson (\[ema
 
 <p>
 
-Postdoctoral Fellow in Experimental Cosmology at Boston University Dec 15 2024
+Postdoc in experimental cosmology at Boston University, Dec 15, 2024
 </p>
 
 <p style="font-weight: 400">
 
-The Boston University Department of Physics invites applications for a postdoctoral fellowship in the experimental cosmology group working with Prof. Kirit Karkare.
+The Boston University Department of Physics invites applications for a postdoctoral scholar in the experimental cosmology group working with Prof. Kirit Karkare.
 </p>
 
 <p style="font-weight: 400">
@@ -468,6 +475,23 @@ Previous experience in mm-wave instrumentation or CMB/LIM data analysis is desir
 <p style="font-weight: 400">
 
 Candidates should have a Ph.D. in physics, astronomy, or a related subject prior to starting the appointment. Applicants should send a CV with publication list, cover letter (2 pages max), statement of research experience and future plans (3 pages max), and arrange for three letters of reference to be sent to \[email protected\] by December 15, 2024. We expect to fill this position no later than Fall 2025.
+</p>
+
+<hr />
+
+<p>
+
+Asst Professor of Astronomy at the University of Virginia, Dec 15, 2024
+</p>
+
+<p style="font-weight: 400">
+
+The Department of Astronomy at the University of Virginia invites applications for a tenure-track faculty position in cosmology with an emphasis on research areas related to cosmic microwave background (CMB) studies. This position is expected to begin in August 2025. The Department’s current CMB research activities are focused on developing instrumentation; we are looking to expand the scope of this research area to include theory, observation, and data analysis activities. The Department is particularly interested in candidates whose future research plans might leverage the University of Virginia’s membership in Simons Observatory, which is a new CMB experiment in the Atacama Desert in Chile. The review of applications is expected to begin on December 15th, 2024, and will continue until the position is filled.
+</p>
+
+<p>
+
+The successful candidate will join a diverse department with expertise in experimental, theoretical, and observational astronomy, astrophysics, and astrochemistry. The Department is a partner in the new NSF-Simons AI Institute for Cosmic Origins (CosmicAI) and runs the Galaxy Evolution and Cosmology Initiative (GECO), the Virginia Institute for Theoretical Astronomy (VITA), the Virginia Initiative on Cosmic Origins (VICO), and the Virginia Astronomical Instrumentation Laboratory (VAIL). The Department also has strong research ties with the National Radio Astronomy Observatory (NRAO) and the North American ALMA Science Center, which are located on the grounds of the University of Virginia, and the NRAO Central Development Laboratory, which is located nearby in Charlottesville, VA. The Department is also a partner in the Sloan Digital Sky Survey and has guaranteed access to the 2 x 8.4-m Large Binocular Telescope, the 6.5-m MMT, the two 6.5-m Magellan telescopes, and the Astrophysical Research Consortium telescopes at Apache Point Observatory.
 </p>
 
 <hr />
