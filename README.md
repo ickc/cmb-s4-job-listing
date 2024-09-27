@@ -369,6 +369,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
+TCCAP Postdoctoral Fellowship for analysis of early Simons Observatory and other data, Dec 1, 2024
+</li>
+
+<li>
+
 PhD student position in observational cosmology at the University of Iceland, Dec 2, 2024
 </li>
 
@@ -393,6 +398,15 @@ Instrumentation Lab Specialist at UVA, until filled
 </li>
 
 </ul>
+
+<hr />
+
+<p>
+
+TCCAP Postdoctoral Fellowship for analysis of early Simons Observatory and other data, Dec 1, 2024
+</p>
+
+The Texas Center for Cosmology and Astroparticle Physics (TCCAP) at The University of Texas at Austin invites applications for TCCAP Postdoctoral Fellowships, to start September 2025. The candidate will be expected to play a leading role in early cosmological analysis of data from the Simons Observatory (SO), while being involved with other science of similar nature, such as learning about cosmology from a combination of large scale structure and CMB data. The initial appointment is for two years, extendable to a third year, subject to availability of funding and satisfactory performance. The Fellow will be hired to work in close collaboration with Profs. Katherine Freese and Nicholas Galitzki. TCCAP is part of the Weinberg Institute for Theoretical Physics https://weinberg.utexas.edu. All TCCAP Fellows will benefit from close interaction with TCCAP faculty (Kimberly Boddy, Mike Boylan-Kolchin, Volker Bromm, Katherine Freese, Nicholas Galitzki, Julian Muñoz, and Paul Shapiro) and join the excitement of a broad community of active researchers in cosmology and related physics and astrophysics, with additional members of the Physics and Astronomy Departments, including the Weinberg Theory Group, the Center for Gravitational Physics, and McDonald Observatory. Fellows will also have access to the world-class supercomputing facilities of the Texas Advanced Computing Center (TACC).
 
 <hr />
 
