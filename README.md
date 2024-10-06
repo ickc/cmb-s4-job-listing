@@ -411,7 +411,7 @@ Instrumentation Lab Specialist at UVA, until filled
 Postdoc in cosmological survey science and machine learning at Caltech, Nov 15, 2024
 </p>
 
-The Division of Physics, Mathematics, and Astronomy at the California Institute of Technology seeks recent PhD scientists for a postdoctoral position in cosmological survey science and machine learning in Professor Kimmy Wu’s group. Candidates should have or expect to receive a Ph.D. in astrophysics or physics prior to starting their appointment. Experience in joint analysis of cosmic microwave background (CMB) data with other surveys (e.g. photometric, spectroscopic, line intensity mapping) and/or machine learning in the context of survey science/field-level inference will be an asset. Candidates with strong background in optical/LIM surveys or machine learning and an interest in their synergy with CMB observations are encouraged to apply. Please contact Kimmy Wu for more information on this position.
+The Division of Physics, Mathematics, and Astronomy at the California Institute of Technology seeks recent PhD scientists for a postdoctoral position in cosmological survey science and machine learning in Professor Kimmy Wu’s group. Candidates should have or expect to receive a Ph.D. in astrophysics or physics prior to starting their appointment. Experience in joint analysis of cosmic microwave background (CMB) data with other surveys (e.g. photometric, spectroscopic, line intensity mapping) and/or machine learning in the context of survey science/field-level inference will be an asset. Candidates with strong background in optical/LIM surveys or machine learning and an interest in their synergy with CMB observations are encouraged to apply.
 
 <hr />
 
