@@ -399,6 +399,11 @@ Asst Professor of Astronomy at the University of Virginia, Dec 15, 2024
 
 <li>
 
+Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15, 2024
+</li>
+
+<li>
+
 Instrumentation Lab Specialist at UVA, until filled
 </li>
 
@@ -520,6 +525,18 @@ The Department of Astronomy at the University of Virginia invites applications f
 <p>
 
 The successful candidate will join a diverse department with expertise in experimental, theoretical, and observational astronomy, astrophysics, and astrochemistry. The Department is a partner in the new NSF-Simons AI Institute for Cosmic Origins (CosmicAI) and runs the Galaxy Evolution and Cosmology Initiative (GECO), the Virginia Institute for Theoretical Astronomy (VITA), the Virginia Initiative on Cosmic Origins (VICO), and the Virginia Astronomical Instrumentation Laboratory (VAIL). The Department also has strong research ties with the National Radio Astronomy Observatory (NRAO) and the North American ALMA Science Center, which are located on the grounds of the University of Virginia, and the NRAO Central Development Laboratory, which is located nearby in Charlottesville, VA. The Department is also a partner in the Sloan Digital Sky Survey and has guaranteed access to the 2 x 8.4-m Large Binocular Telescope, the 6.5-m MMT, the two 6.5-m Magellan telescopes, and the Astrophysical Research Consortium telescopes at Apache Point Observatory.
+</p>
+
+<hr />
+
+<p>
+
+Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15, 2024
+</p>
+
+<p style="font-weight: 400">
+
+The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. The postdoctoral researcher will play a major role in the analysis of CMB data from the Simons Observatory with focus on simulations, data delivery and science-readiness. The researcher will work closely with Prof. Mathew Madhavacheril and other members of the Simons Observatory collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST. The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure, and galaxy surveys like DES and LSST.
 </p>
 
 <hr />
