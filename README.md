@@ -404,6 +404,11 @@ Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15,
 
 <li>
 
+Two postdocs on the Simons Observatory at UC Berkeley, until filled
+</li>
+
+<li>
+
 Instrumentation Lab Specialist at UVA, until filled
 </li>
 
@@ -537,6 +542,18 @@ Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15,
 <p style="font-weight: 400">
 
 The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. The postdoctoral researcher will play a major role in the analysis of CMB data from the Simons Observatory with focus on simulations, data delivery and science-readiness. The researcher will work closely with Prof. Mathew Madhavacheril and other members of the Simons Observatory collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST. The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure, and galaxy surveys like DES and LSST.
+</p>
+
+<hr />
+
+<p>
+
+Two postdocs on the Simons Observatory at UC Berkeley, until filled
+</p>
+
+<p>
+
+Two postdoctoral positions are available at the U.C. Berkeley Physics Department for research on Simons Observatory for a range of activities including instrument development and data analysis.   Please contact Adrian Lee \[email protected\].
 </p>
 
 <hr />
