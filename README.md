@@ -369,6 +369,16 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
+Research associate/fellow in CMB instrumentation at Manchester (SO: UK), Nov 4, 2024
+</li>
+
+<li>
+
+Research associate in CMB data analysis at Manchester (SO: UK), Nov 4, 2024
+</li>
+
+<li>
+
 Postdoc in cosmological survey science and machine learning at Caltech, Nov 15, 2024
 </li>
 
@@ -413,6 +423,40 @@ Instrumentation Lab Specialist at UVA, until filled
 </li>
 
 </ul>
+
+<hr />
+
+<p>
+
+Research associate/fellow in CMB instrumentation at Manchester (SO: UK), Nov 4, 2024
+</p>
+
+<p>
+
+The Jodrell Bank Centre for Astrophysics seeks to appoint either a Research Associate or a Research Fellow, depending on experience, to work on Instrumentation for the Simons Observatory: UK (SO:UK) project. Simons Observatory (SO) is a next-generation CMB observatory, comprised of a single large aperture telescope (LAT) and multiple small aperture telescopes (SATs). Several SO telescopes are now operational in the Atacama Desert in Chile, with others to be added over the coming 2—3 years. SO:UK is a major UK contribution to SO, delivering two of the SO SATs and a large Data Management effort. The Manchester team is responsible for the first SO:UK SAT.
+</p>
+
+<p>
+
+The successful candidate will work with Prof. Michael Brown, Prof. Lucio Piccirillo and the wider SO:UK team. They will work on the assembly, integration and testing of the first SO:UK SAT at Jodrell Bank Observatory. For appointment as a Research Fellow, they will, additionally, play a key role in coordinating the preparation of the SO:UK site infrastructure. They will join the SO:UK deployment team, travelling to Chile to deploy and commission the receiver. Deployment and commissioning is currently scheduled to be complete before the end of 2026. During subsequent operations, they will work to ensure smooth running of the SO:UK telescopes and will contribute to the SO SATs data analysis effort.
+</p>
+
+<hr />
+
+<p>
+
+Research associate in CMB data analysis at Manchester (SO: UK), Nov 4, 2024
+</p>
+
+<p>
+
+The Jodrell Bank Centre for Astrophysics seeks to appoint one or more Post-Doctoral Research Associates to work on data processing and science analysis for Simons Observatory (SO). SO is a next-generation CMB observatory, comprised of a single large aperture telescope (LAT) and multiple small aperture telescopes (SATs). Several SO telescopes are now operational in the Atacama Desert in Chile, with others to be added over the coming 2—3 years. SO:UK is a major UK contribution to SO, delivering two of the SO SATs and a significant contribution to the SO Data Management. In addition to building the first SO:UK SAT, Manchester hosts the SO:UK data centre, a major hub for SO data processing and analysis.
+</p>
+
+<p>
+
+The successful candidate(s) with work with Prof. Michael Brown, Prof. Richard Battye, Prof. Jens Chluba and the wider Manchester SO data centre and analysis teams on developing analysis techniques aimed at maximising the scientific outcomes of SO. The Manchester team has specific interests in primordial B-mode polarisation analysis using the SO SAT data, and Sunyaev-Zel’dovich analyses with the SO LAT. We invite applications from candidates whose interests align with any of these areas. The successful candidate(s) will work in one or both areas depending on their specific expertise and interests.
+</p>
 
 <hr />
 
