@@ -384,6 +384,16 @@ Postdoc in cosmological survey science and machine learning at Caltech, Nov 15, 
 
 <li>
 
+Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
+</li>
+
+<li>
+
+Faculty Position in Physics at SMU, Dec 1, 2024
+</li>
+
+<li>
+
 TCCAP Postdoctoral Fellowship for analysis of early Simons Observatory and other data, Dec 1, 2024
 </li>
 
@@ -465,7 +475,36 @@ The successful candidate(s) with work with Prof. Michael Brown, Prof. Richard 
 Postdoc in cosmological survey science and machine learning at Caltech, Nov 15, 2024
 </p>
 
+<p>
+
 The Division of Physics, Mathematics, and Astronomy at the California Institute of Technology seeks recent PhD scientists for a postdoctoral position in cosmological survey science and machine learning in Professor Kimmy Wu’s group. Candidates should have or expect to receive a Ph.D. in astrophysics or physics prior to starting their appointment. Experience in joint analysis of cosmic microwave background (CMB) data with other surveys (e.g. photometric, spectroscopic, line intensity mapping) and/or machine learning in the context of survey science/field-level inference will be an asset. Candidates with strong background in optical/LIM surveys or machine learning and an interest in their synergy with CMB observations are encouraged to apply.
+</p>
+
+<hr />
+
+<p>
+
+Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
+</p>
+
+<p>
+
+The Institut de Recherche sur les Lois Fondamentales de l’Univers (IRFU) at CEA Paris-Saclay is opening a 2+1 year research engineer / postdoctoral position in cryogenic instrumentation. Feel free to contact Xavier de la Broïse (\[email protected\]) with questions.
+</p>
+
+<hr />
+
+<p>
+
+Faculty position in Physics at SMU, Dec 1, 2024
+</p>
+
+<p>
+
+The Department of Physics at Southern Methodist University (SMU) invites applications for a tenure-track faculty position in theoretical physics or experimental physics. We seek candidates in areas that enhance and expand on the current research strengths of the department in particle physics, nuclear physics, cosmology, and astrophysics.
+</p>
+
+The successful theorist candidate would complement the existing strengths of the department in particle physics, nuclear physics, cosmology, and astrophysics.  The successful experimental/observational candidates will be expected to develop and lead a strong program in instrumentation in the general areas of particle physics, nuclear physics, cosmology, or astrophysics. Applications from theorists whose research is relevant for proton collider or electron-ion science, and from experimental candidates with experience in opto-electronics are especially encouraged.
 
 <hr />
 
