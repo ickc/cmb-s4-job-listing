@@ -389,6 +389,11 @@ Research engineer/postdoctoral position in cryogenic instrumentation at CEA Pari
 
 <li>
 
+Asst Professor in experimental cosmology at U Chicago, Dec 1, 2024
+</li>
+
+<li>
+
 Faculty Position in Physics at SMU, Dec 1, 2024
 </li>
 
@@ -420,6 +425,11 @@ Asst Professor of Astronomy at the University of Virginia, Dec 15, 2024
 <li>
 
 Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15, 2024
+</li>
+
+<li>
+
+Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 </li>
 
 <li>
@@ -490,6 +500,23 @@ Research engineer/postdoctoral position in cryogenic instrumentation at CEA Pari
 <p>
 
 The Institut de Recherche sur les Lois Fondamentales de l’Univers (IRFU) at CEA Paris-Saclay is opening a 2+1 year research engineer / postdoctoral position in cryogenic instrumentation. Feel free to contact Xavier de la Broïse (\[email protected\]) with questions.
+</p>
+
+<hr />
+
+<p>
+
+Asst Professor in experimental cosmology at U Chicago, Dec 1, 2024
+</p>
+
+<p>
+
+The University of Chicago invites applications at the rank of tenure-track Assistant Professor in the area of experimental cosmology. Appointments may be made in either the Department of Physics or the Department of Astronomy & Astrophysics, or jointly between Physics and Astronomy & Astrophysics as well as the Enrico Fermi Institute.
+</p>
+
+<p>
+
+Department and Institute members play leading roles in a wide range of research projects in cosmology and related fields, including the Giant Magellan Telescope (GMT), the Magellan Telescopes, Dark Energy Survey (DES), Rubin Observatory’s Legacy Survey of Space and Time (LSST), DESI and other spectroscopic surveys, South Pole Telescope (SPT), Simons Observatory (SO), CMB-S4, and many others, as described on the Institute and Department websites (https://efi.uchicago.edu/, https://physics.uchicago.edu, and https://astrophysics.uchicago.edu/).  Faculty in these units at The University of Chicago are also involved in the Kavli Institute for Cosmological Physics, Fermi National Accelerator Laboratory (Fermilab), and Argonne National Laboratory.
 </p>
 
 <hr />
@@ -625,6 +652,18 @@ Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15,
 <p style="font-weight: 400">
 
 The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. The postdoctoral researcher will play a major role in the analysis of CMB data from the Simons Observatory with focus on simulations, data delivery and science-readiness. The researcher will work closely with Prof. Mathew Madhavacheril and other members of the Simons Observatory collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST. The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure, and galaxy surveys like DES and LSST.
+</p>
+
+<hr />
+
+<p>
+
+Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
+</p>
+
+<p style="font-weight: 400">
+
+The successful candidates will join the CMB&CO group at ITA. The candidates will be able to participate in the larger Cosmoglobe project, including analysis on archival data such as Planck, WMAP, and DIRBE, as well as ongoing projects (COMAP and PASIPHAE) and future projects, including the LiteBIRD satellite mission. In addition to the group at ITA, the candidates will participate in research in an international context, representing Origins, Cosmoglobe and UiO at meetings and conferences.
 </p>
 
 <hr />
