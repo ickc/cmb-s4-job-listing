@@ -369,21 +369,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Research associate/fellow in CMB instrumentation at Manchester (SO: UK), Nov 4, 2024
-</li>
-
-<li>
-
-Research associate in CMB data analysis at Manchester (SO: UK), Nov 4, 2024
-</li>
-
-<li>
-
-Postdoc in cosmological survey science and machine learning at Caltech, Nov 15, 2024
-</li>
-
-<li>
-
 Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
 </li>
 
@@ -434,6 +419,11 @@ Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 
 <li>
 
+Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
+</li>
+
+<li>
+
 Two postdocs on the Simons Observatory at UC Berkeley, until filled
 </li>
 
@@ -443,52 +433,6 @@ Instrumentation Lab Specialist at UVA, until filled
 </li>
 
 </ul>
-
-<hr />
-
-<p>
-
-Research associate/fellow in CMB instrumentation at Manchester (SO: UK), Nov 4, 2024
-</p>
-
-<p>
-
-The Jodrell Bank Centre for Astrophysics seeks to appoint either a Research Associate or a Research Fellow, depending on experience, to work on Instrumentation for the Simons Observatory: UK (SO:UK) project. Simons Observatory (SO) is a next-generation CMB observatory, comprised of a single large aperture telescope (LAT) and multiple small aperture telescopes (SATs). Several SO telescopes are now operational in the Atacama Desert in Chile, with others to be added over the coming 2—3 years. SO:UK is a major UK contribution to SO, delivering two of the SO SATs and a large Data Management effort. The Manchester team is responsible for the first SO:UK SAT.
-</p>
-
-<p>
-
-The successful candidate will work with Prof. Michael Brown, Prof. Lucio Piccirillo and the wider SO:UK team. They will work on the assembly, integration and testing of the first SO:UK SAT at Jodrell Bank Observatory. For appointment as a Research Fellow, they will, additionally, play a key role in coordinating the preparation of the SO:UK site infrastructure. They will join the SO:UK deployment team, travelling to Chile to deploy and commission the receiver. Deployment and commissioning is currently scheduled to be complete before the end of 2026. During subsequent operations, they will work to ensure smooth running of the SO:UK telescopes and will contribute to the SO SATs data analysis effort.
-</p>
-
-<hr />
-
-<p>
-
-Research associate in CMB data analysis at Manchester (SO: UK), Nov 4, 2024
-</p>
-
-<p>
-
-The Jodrell Bank Centre for Astrophysics seeks to appoint one or more Post-Doctoral Research Associates to work on data processing and science analysis for Simons Observatory (SO). SO is a next-generation CMB observatory, comprised of a single large aperture telescope (LAT) and multiple small aperture telescopes (SATs). Several SO telescopes are now operational in the Atacama Desert in Chile, with others to be added over the coming 2—3 years. SO:UK is a major UK contribution to SO, delivering two of the SO SATs and a significant contribution to the SO Data Management. In addition to building the first SO:UK SAT, Manchester hosts the SO:UK data centre, a major hub for SO data processing and analysis.
-</p>
-
-<p>
-
-The successful candidate(s) with work with Prof. Michael Brown, Prof. Richard Battye, Prof. Jens Chluba and the wider Manchester SO data centre and analysis teams on developing analysis techniques aimed at maximising the scientific outcomes of SO. The Manchester team has specific interests in primordial B-mode polarisation analysis using the SO SAT data, and Sunyaev-Zel’dovich analyses with the SO LAT. We invite applications from candidates whose interests align with any of these areas. The successful candidate(s) will work in one or both areas depending on their specific expertise and interests.
-</p>
-
-<hr />
-
-<p>
-
-Postdoc in cosmological survey science and machine learning at Caltech, Nov 15, 2024
-</p>
-
-<p>
-
-The Division of Physics, Mathematics, and Astronomy at the California Institute of Technology seeks recent PhD scientists for a postdoctoral position in cosmological survey science and machine learning in Professor Kimmy Wu’s group. Candidates should have or expect to receive a Ph.D. in astrophysics or physics prior to starting their appointment. Experience in joint analysis of cosmic microwave background (CMB) data with other surveys (e.g. photometric, spectroscopic, line intensity mapping) and/or machine learning in the context of survey science/field-level inference will be an asset. Candidates with strong background in optical/LIM surveys or machine learning and an interest in their synergy with CMB observations are encouraged to apply.
-</p>
 
 <hr />
 
@@ -664,6 +608,25 @@ Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 <p style="font-weight: 400">
 
 The successful candidates will join the CMB&CO group at ITA. The candidates will be able to participate in the larger Cosmoglobe project, including analysis on archival data such as Planck, WMAP, and DIRBE, as well as ongoing projects (COMAP and PASIPHAE) and future projects, including the LiteBIRD satellite mission. In addition to the group at ITA, the candidates will participate in research in an international context, representing Origins, Cosmoglobe and UiO at meetings and conferences.
+</p>
+
+<hr />
+
+<p>
+
+Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
+</p>
+
+Applications are invited for the position of Lecturer in Cosmic Microwave Background (CMB) Instrumentation. Lecturer is a permanent academic staff member equivalent to Assistant Professor in the US naming convention.
+
+<p>
+
+The successful candidate will join the Cosmology group of the Jodrell Bank Centre for Astrophysics, part of the Department of Physics and Astronomy. They will play a key role in consolidating and strengthening JBCA’s international leadership position in CMB research, which spans experimental, observational and theoretical areas. CMB is a flagship activity of the JBCA Cosmology group. The group currently leads the UK contribution to Simons Observatory (SO) and is actively planning for lead roles in future CMB projects including CMB-S4, LiteBIRD and a possible future spectral distortions satellite mission. Other CMB projects JBCA is participating in include LSPE, QUBIC, QUIJOTE, COSMO and BISOU. The ideal candidate will contribute to the existing SO instrumentation activity and will play a key role in advancing the Cosmology group’s ambitious plans in this area. They will have an established track record in delivering instrumentation for CMB telescopes, and in developing new techniques in CMB instrumentation, and possibly in other related fields.
+</p>
+
+<p>
+
+The JBCA has close links with, and is co-located with, several institutes at the University that are world-leading in advanced technologies research. These include the National Graphene Institute, The Royce Institute and the Photon Science Institute. In addition, the JBCA has joint research programs with other groups within the Department, particularly the Particle Physics group. Applications from CMB Instrumentalists with research programs that can strengthen such links, e.g. through cross-cutting Quantum Technology programs, are welcomed.
 </p>
 
 <hr />
