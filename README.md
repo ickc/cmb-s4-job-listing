@@ -424,6 +424,11 @@ Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
 
 <li>
 
+NRC Postdoctoral Research Opportunities at NIST, Feb 1, 2025
+</li>
+
+<li>
+
 Two postdocs on the Simons Observatory at UC Berkeley, until filled
 </li>
 
@@ -627,6 +632,23 @@ The successful candidate will join the Cosmology group of the Jodrell Bank Centr
 <p>
 
 The JBCA has close links with, and is co-located with, several institutes at the University that are world-leading in advanced technologies research. These include the National Graphene Institute, The Royce Institute and the Photon Science Institute. In addition, the JBCA has joint research programs with other groups within the Department, particularly the Particle Physics group. Applications from CMB Instrumentalists with research programs that can strengthen such links, e.g. through cross-cutting Quantum Technology programs, are welcomed.
+</p>
+
+<hr />
+
+<p>
+
+NRC Postdoctoral Research Opportunities at NIST, Feb 1, 2025
+</p>
+
+<p dir="ltr">
+
+The National Research Council (NRC) Research Associateship Programs supports 2-year postdoctoral research opportunities to work at the Boulder labs with an annual salary of $82,764.  See the links below for application details.  Application deadlines are Feb 1 and Aug 1, each year.
+</p>
+
+<p dir="ltr">
+
+Diverse research opportunities exist within the theme of cryogenic sensing.  Applications span cosmology, astrophysics, quantum sensing, and metrology.  Relevant technologies include transition-edge-sensor bolometers, microwave kinetic inductance detectors, parametric amplifiers, and squid-based multiplexers.  More information about my group’s research can be found at our website.  If interested in the NRC fellowship, please reach out to me at 303.497.6164 or email \[email protected\], and see the application links below.  This opportunity is limited to US citizens who have held their doctorate for less than 5 years as of the application deadline.
 </p>
 
 <hr />
