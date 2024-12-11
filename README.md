@@ -369,36 +369,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
-</li>
-
-<li>
-
-Asst Professor in experimental cosmology at U Chicago, Dec 1, 2024
-</li>
-
-<li>
-
-Faculty Position in Physics at SMU, Dec 1, 2024
-</li>
-
-<li>
-
-TCCAP Postdoctoral Fellowship for analysis of early Simons Observatory and other data, Dec 1, 2024
-</li>
-
-<li>
-
-PhD student position in observational cosmology at the University of Iceland, Dec 2, 2024
-</li>
-
-<li>
-
-Postdoctoral researcher position in observational cosmology at the University of Iceland, Dec 2, 2024
-</li>
-
-<li>
-
 Postdoc in Experimental Cosmology at Boston University, Dec 15, 2024
 </li>
 
@@ -419,6 +389,21 @@ Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 
 <li>
 
+CMB Postdoc at LBNL, Jan 15, 2025
+</li>
+
+<li>
+
+Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
+</li>
+
+<li>
+
+Postdoc in experimental cosmology at University of Milano-Bicocca, Jan 20, 2025
+</li>
+
+<li>
+
 Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
 </li>
 
@@ -434,7 +419,7 @@ Two postdocs on the Simons Observatory at UC Berkeley, until filled
 
 <li>
 
-Instrumentation Lab Specialist at UVA, until filled
+Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
 </li>
 
 </ul>
@@ -450,78 +435,6 @@ Research engineer/postdoctoral position in cryogenic instrumentation at CEA Pari
 
 The Institut de Recherche sur les Lois Fondamentales de l’Univers (IRFU) at CEA Paris-Saclay is opening a 2+1 year research engineer / postdoctoral position in cryogenic instrumentation. Feel free to contact Xavier de la Broïse (\[email protected\]) with questions.
 </p>
-
-<hr />
-
-<p>
-
-Asst Professor in experimental cosmology at U Chicago, Dec 1, 2024
-</p>
-
-<p>
-
-The University of Chicago invites applications at the rank of tenure-track Assistant Professor in the area of experimental cosmology. Appointments may be made in either the Department of Physics or the Department of Astronomy & Astrophysics, or jointly between Physics and Astronomy & Astrophysics as well as the Enrico Fermi Institute.
-</p>
-
-<p>
-
-Department and Institute members play leading roles in a wide range of research projects in cosmology and related fields, including the Giant Magellan Telescope (GMT), the Magellan Telescopes, Dark Energy Survey (DES), Rubin Observatory’s Legacy Survey of Space and Time (LSST), DESI and other spectroscopic surveys, South Pole Telescope (SPT), Simons Observatory (SO), CMB-S4, and many others, as described on the Institute and Department websites (https://efi.uchicago.edu/, https://physics.uchicago.edu, and https://astrophysics.uchicago.edu/).  Faculty in these units at The University of Chicago are also involved in the Kavli Institute for Cosmological Physics, Fermi National Accelerator Laboratory (Fermilab), and Argonne National Laboratory.
-</p>
-
-<hr />
-
-<p>
-
-Faculty position in Physics at SMU, Dec 1, 2024
-</p>
-
-<p>
-
-The Department of Physics at Southern Methodist University (SMU) invites applications for a tenure-track faculty position in theoretical physics or experimental physics. We seek candidates in areas that enhance and expand on the current research strengths of the department in particle physics, nuclear physics, cosmology, and astrophysics.
-</p>
-
-The successful theorist candidate would complement the existing strengths of the department in particle physics, nuclear physics, cosmology, and astrophysics.  The successful experimental/observational candidates will be expected to develop and lead a strong program in instrumentation in the general areas of particle physics, nuclear physics, cosmology, or astrophysics. Applications from theorists whose research is relevant for proton collider or electron-ion science, and from experimental candidates with experience in opto-electronics are especially encouraged.
-
-<hr />
-
-<p>
-
-TCCAP Postdoctoral Fellowship for analysis of early Simons Observatory and other data, Dec 1, 2024
-</p>
-
-The Texas Center for Cosmology and Astroparticle Physics (TCCAP) at The University of Texas at Austin invites applications for TCCAP Postdoctoral Fellowships, to start September 2025. The candidate will be expected to play a leading role in early cosmological analysis of data from the Simons Observatory (SO), while being involved with other science of similar nature, such as learning about cosmology from a combination of large scale structure and CMB data. The initial appointment is for two years, extendable to a third year, subject to availability of funding and satisfactory performance. The Fellow will be hired to work in close collaboration with Profs. Katherine Freese and Nicholas Galitzki. TCCAP is part of the Weinberg Institute for Theoretical Physics https://weinberg.utexas.edu. All TCCAP Fellows will benefit from close interaction with TCCAP faculty (Kimberly Boddy, Mike Boylan-Kolchin, Volker Bromm, Katherine Freese, Nicholas Galitzki, Julian Muñoz, and Paul Shapiro) and join the excitement of a broad community of active researchers in cosmology and related physics and astrophysics, with additional members of the Physics and Astronomy Departments, including the Weinberg Theory Group, the Center for Gravitational Physics, and McDonald Observatory. Fellows will also have access to the world-class supercomputing facilities of the Texas Advanced Computing Center (TACC).
-
-<hr />
-
-<p>
-
-PhD student position in observational cosmology at the University of Iceland, Dec 2, 2024
-</p>
-
-We are advertising a PhD student position in observational cosmology with a focus on the cosmic microwave background (CMB). The program will take place within the Physics Department at the University of Iceland. The position is funded for a minimum of three years with funds from the European Research Council.
-
-<p>
-
-The PhD student will join the CMBeam project team (http://cmbeam.com/) and the thesis work can have components from a combination of data analysis and various instrumentation efforts. The research will likely be conducted in the context of existing CMB experiments that group members are participating in, including but not limited to the Simons Observatory, the Taurus balloon-borne experiment, SPIDER2, and LiteBIRD.
-</p>
-
-<p>
-
-For any questions regarding the position, please contact Jon Gudmundsson (\[email protected\]).
-</p>
-
-<hr />
-
-<p>
-
-Postdoctoral researcher position in observational cosmology at the University of Iceland, Dec 2, 2024
-</p>
-
-We are advertising a postdoctoral researcher position at the Science Institute at the University of Iceland with a focus on observational cosmology. The researcher will join the CMBeam project team (http://cmbeam.com/) funded through a grant from the European Research Council.
-
-The research can have components from data analysis, instrumentation, and microwave measurement techniques. Ideally, these efforts will be conducted in the context of existing cosmic microwave background experiments that group members are participating in, including but not limited to the Simons Observatory, the Taurus balloon-borne experiment, SPIDER2, and the LiteBIRD satellite.
-
-For any questions regarding the position, please contact Jon Gudmundsson (\[email protected\]).
 
 <hr />
 
@@ -607,6 +520,42 @@ The Department of Physics and Astronomy at the University of Pennsylvania invite
 
 <p>
 
+CMB Postdoc at LBNL, Jan 15, 2025
+</p>
+
+<p style="font-weight: 400">
+
+Berkeley Lab’s Physics Division has an opening for a Postdoctoral Fellow within the Cosmic Microwave Background (CMB) Group. The group has a long history of designing, fielding and analyzing data from CMB experiments. We are building on this experience to ensure the success of current and future CMB experiments. Members of the group have a wide range of expertise from data analysis to instrumentation and are involved in the following CMB experiments: CMB-S4, Simons Observatory and BICEP/Keck. The successful candidate will work on analysis methodology, data analysis and design optimisation/forecasting for current and future CMB experiments.
+</p>
+
+<hr />
+
+<p>
+
+Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
+</p>
+
+<p style="font-weight: 400">
+
+The Department of Astronomy at the University of Virginia (UVA) invites applications for a Postdoctoral Research Associate position in cosmic microwave background (CMB) studies.  The successful candidate will work with Prof. Bradley Johnson on Simons Observatory activities.  Simons Observatory is a new CMB experiment in the Atacama Desert in Chile.  We are particularly interested in applications from candidates who want to focus on research in instrumentation, observation, and low-level data analysis.  Willingness to travel to the observatory in Chile is preferred.  The position is initially for one year but can be renewed annually for up to two additional years given satisfactory performance.
+</p>
+
+<hr />
+
+<p>
+
+Postdoc in experimental cosmology at University of Milano-Bicocca, Jan 20, 2025
+</p>
+
+<p style="font-weight: 400">
+
+The successful candidate will join the CMB&CO group at ITA. The candidates will be able to participate in the larger Cosmoglobe project, including analysis on archival data such as Planck, WMAP, and DIRBE, as well as ongoing projects (COMAP and PASIPHAE) and future projects, including the LiteBIRD satellite mission. In addition to the group at ITA, the candidate will participate in research in an international context, representing Origins, Cosmoglobe and UiO at meetings and conferences.
+</p>
+
+<hr />
+
+<p>
+
 Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 </p>
 
@@ -661,72 +610,6 @@ Two postdocs on the Simons Observatory at UC Berkeley, until filled
 <p>
 
 Two postdoctoral positions are available at the U.C. Berkeley Physics Department for research on Simons Observatory for a range of activities including instrument development and data analysis.   Please contact Adrian Lee \[email protected\].
-</p>
-
-<hr />
-
-<p>
-
-Instrumentation Lab Specialist at UVA, until filled
-</p>
-
-<p>
-
-The Department of Astronomy at the University of Virginia (UVA) seeks applications for a Lab Specialist Intermediate with advanced training and background in astrophysics instrumentation.
-</p>
-
-<p>
-
-Among their primary responsibilities, the technician is expected to backfill some of the duties of present department staff who have temporarily taken on an increased workload due to ongoing renovations of the facilities at Fan Mountain Observatory.
-</p>
-
-<p>
-
-The successful applicant will therefore actively participate in some or all of the following research activities carried out by the faculty of the UVa Department of Astronomy:
-</p>
-
-<ul>
-
-<li>
-
-assist in the development of radio, microwave, and infrared instrumentation for astronomical observatories, including Simons Observatory (Chile), Green Bank Observatory (West Virginia), Apache Point Observatory (New Mexico), and Fan Mountain Observatory (Virginia)
-</li>
-
-<li>
-
-analyze data from this instrumentation
-</li>
-
-<li>
-
-be available and physically able to work periodically on-site at these observatories (note that the Simons Observatory is located in the high Atacama Desert in Northern Chile at an altitude of 17,000 feet)
-</li>
-
-<li>
-
-develop and analyze data from microwave spectrometers used for the search for axions
-</li>
-
-<li>
-
-develop polymer ceramic composite materials for cryogenically cooled refractive optics
-</li>
-
-<li>
-
-test varieties of kinetic inductance detectors in the laboratory
-</li>
-
-<li>
-
-build new readout systems based on field-programmable data arrays.
-</li>
-
-</ul>
-
-<p>
-
-The Laboratory Specialist Intermediate will report to Bradley Johnson, Associate Professor of Astronomy.
 </p>
 
 <p style="font-weight: 400">
