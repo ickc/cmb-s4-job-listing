@@ -393,6 +393,11 @@ Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 
 <li>
 
+Postdoc on SPT at UC Davis, Jan 6, 2025
+</li>
+
+<li>
+
 CMB Postdoc at LBNL, Jan 15, 2025
 </li>
 
@@ -518,6 +523,28 @@ Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15,
 <p style="font-weight: 400">
 
 The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. The postdoctoral researcher will play a major role in the analysis of CMB data from the Simons Observatory with focus on simulations, data delivery and science-readiness. The researcher will work closely with Prof. Mathew Madhavacheril and other members of the Simons Observatory collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST. The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure, and galaxy surveys like DES and LSST.
+</p>
+
+<p style="font-weight: 400">
+
+.
+</p>
+
+<hr />
+
+<p>
+
+Postdoc on SPT at UC Davis, Jan 6, 2025
+</p>
+
+<p style="font-weight: 400">
+
+The Department of Physics and Astronomy at the University of California, Davis invites applications for a postdoctoral fellow position in Professor Lloyd Knox’s Research Group.
+</p>
+
+<p style="font-weight: 400">
+
+The successful candidate will work on analysis of data from the South Pole Telescope (SPT) and have the opportunity to work on additional projects of mutual interest. The SPT Collaboration has been observing with the full SPT-3G camera since 2019. The data collected to date allow for powerful tests of the standard cosmological model, as described in Prabhu et al. (2024), with first results from a subset of these data in Ge et al. (2024). Work on SPT data could include development and application of methods for producing unlensed field spectra and CMB lensing spectra from multi-frequency maps, cosmological interpretation of such power spectra, or a combination of the two. Additional projects of mutual interest would likely have strong connections to testing and building of cosmological models.
 </p>
 
 <hr />
