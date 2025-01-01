@@ -657,7 +657,7 @@ Two postdoctoral positions are available at the U.C. Berkeley Physics Department
 
 <p>
 
-Copyright © 2024 · Parallax Pro CMB-S4 on Genesis Framework · WordPress · Log in
+Copyright © 2025 · Parallax Pro CMB-S4 on Genesis Framework · WordPress · Log in
 </p>
 
 </footer>
