@@ -373,21 +373,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Postdoc in Experimental Cosmology at Boston University, Dec 15, 2024
-</li>
-
-<li>
-
-Asst Professor of Astronomy at the University of Virginia, Dec 15, 2024
-</li>
-
-<li>
-
-Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15, 2024
-</li>
-
-<li>
-
 Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
 </li>
 
@@ -419,6 +404,11 @@ Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
 <li>
 
 NRC Postdoctoral Research Opportunities at NIST, Feb 1, 2025
+</li>
+
+<li>
+
+Postdoc in Experimental Cosmology at UIUC, Feb 7, 2025
 </li>
 
 <li>
@@ -630,6 +620,31 @@ The National Research Council (NRC) Research Associateship Programs supports 2-y
 
 Diverse research opportunities exist within the theme of cryogenic sensing.  Applications span cosmology, astrophysics, quantum sensing, and metrology.  Relevant technologies include transition-edge-sensor bolometers, microwave kinetic inductance detectors, parametric amplifiers, and squid-based multiplexers.  More information about my group’s research can be found at our website.  If interested in the NRC fellowship, please reach out to me at 303.497.6164 or email \[email protected\], and see the application links below.  This opportunity is limited to US citizens who have held their doctorate for less than 5 years as of the application deadline.
 </p>
+
+<hr />
+
+<p>
+
+Postdoc in Experimental Cosmology at UIUC, Feb 7, 2025
+</p>
+
+The University of Illinois Urbana-Champaign invites applications for a postdoctoral position in experimental cosmology. The successful candidate will join the research group of Professor Jeff Filippini, as well as the broader Illinois Center for Advanced Studies of the Universe (ICASU).
+
+Our lab engages in a variety of instrumentation and analysis projects in the CMB and THz bands. We particularly seek candidates interested in:
+
+<ul>
+
+<li>
+
+Analysis of 2015+2023 data from the SPIDER balloon experiment, which observed the CMB and Galactic dust polarization from 90-280 GHz.
+</li>
+
+<li>
+
+Development of next-generation cosmic microwave background instruments on balloon (Taurus) and ground (CMB-S4).
+</li>
+
+</ul>
 
 <hr />
 
