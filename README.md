@@ -373,16 +373,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
-</li>
-
-<li>
-
-Postdoc on SPT at UC Davis, Jan 6, 2025
-</li>
-
-<li>
-
 CMB Postdoc at LBNL, Jan 15, 2025
 </li>
 
@@ -408,7 +398,17 @@ NRC Postdoctoral Research Opportunities at NIST, Feb 1, 2025
 
 <li>
 
+Lederman Fellowship at FermiLab, Feb 6, 2025
+</li>
+
+<li>
+
 Postdoc in Experimental Cosmology at UIUC, Feb 7, 2025
+</li>
+
+<li>
+
+Wilson Fellowship at FermiLab, Feb 14, 2025
 </li>
 
 <li>
@@ -433,108 +433,6 @@ Research engineer/postdoctoral position in cryogenic instrumentation at CEA Pari
 <p>
 
 The Institut de Recherche sur les Lois Fondamentales de l’Univers (IRFU) at CEA Paris-Saclay is opening a 2+1 year research engineer / postdoctoral position in cryogenic instrumentation. Feel free to contact Xavier de la Broïse (\[email protected\]) with questions.
-</p>
-
-<hr />
-
-<p>
-
-Postdoc in experimental cosmology at Boston University, Dec 15, 2024
-</p>
-
-<p style="font-weight: 400">
-
-The Boston University Department of Physics invites applications for a postdoctoral scholar in the experimental cosmology group working with Prof. Kirit Karkare.
-</p>
-
-<p style="font-weight: 400">
-
-The BU experimental cosmology group focuses on testing fundamental physics and early-universe astrophysics using observations of the cosmic microwave background (CMB) and high-redshift galaxies with millimeter-wave line intensity mapping (LIM). We are particularly interested in advancing mm-wave LIM as a cosmological probe and constraining inflation with degree-scale CMB polarization. Our work takes place in the BICEP, CMB-S4, SPT-SLIM/SPT-3G+, and SuperSpec collaborations.
-</p>
-
-<p style="font-weight: 400">
-
-We seek candidates interested in any of the following areas:
-</p>
-
-<ul style="font-weight: 400">
-
-<li>
-
-Design, testing, and operation of mm-wave telescopes and detectors, including R&D on superconducting spectrometers for LIM.
-</li>
-
-<li>
-
-Analysis of CMB/LIM data, including constraining instrumental systematics and foreground/signal separation.
-</li>
-
-<li>
-
-Developing the science case, instrument concept, and analysis techniques for future LIM experiments.
-</li>
-
-</ul>
-
-<p style="font-weight: 400">
-
-Previous experience in mm-wave instrumentation or CMB/LIM data analysis is desirable but not required. In addition to our experimental collaborations, successful candidates will also have the opportunity to interact with the growing BU cosmology community (https://sites.bu.edu/cosmology/).
-</p>
-
-<p style="font-weight: 400">
-
-Candidates should have a Ph.D. in physics, astronomy, or a related subject prior to starting the appointment. Applicants should send a CV with publication list, cover letter (2 pages max), statement of research experience and future plans (3 pages max), and arrange for three letters of reference to be sent to \[email protected\] by December 15, 2024. We expect to fill this position no later than Fall 2025.
-</p>
-
-<hr />
-
-<p>
-
-Asst Professor of Astronomy at the University of Virginia, Dec 15, 2024
-</p>
-
-<p style="font-weight: 400">
-
-The Department of Astronomy at the University of Virginia invites applications for a tenure-track faculty position in cosmology with an emphasis on research areas related to cosmic microwave background (CMB) studies. This position is expected to begin in August 2025. The Department’s current CMB research activities are focused on developing instrumentation; we are looking to expand the scope of this research area to include theory, observation, and data analysis activities. The Department is particularly interested in candidates whose future research plans might leverage the University of Virginia’s membership in Simons Observatory, which is a new CMB experiment in the Atacama Desert in Chile. The review of applications is expected to begin on December 15th, 2024, and will continue until the position is filled.
-</p>
-
-<p>
-
-The successful candidate will join a diverse department with expertise in experimental, theoretical, and observational astronomy, astrophysics, and astrochemistry. The Department is a partner in the new NSF-Simons AI Institute for Cosmic Origins (CosmicAI) and runs the Galaxy Evolution and Cosmology Initiative (GECO), the Virginia Institute for Theoretical Astronomy (VITA), the Virginia Initiative on Cosmic Origins (VICO), and the Virginia Astronomical Instrumentation Laboratory (VAIL). The Department also has strong research ties with the National Radio Astronomy Observatory (NRAO) and the North American ALMA Science Center, which are located on the grounds of the University of Virginia, and the NRAO Central Development Laboratory, which is located nearby in Charlottesville, VA. The Department is also a partner in the Sloan Digital Sky Survey and has guaranteed access to the 2 x 8.4-m Large Binocular Telescope, the 6.5-m MMT, the two 6.5-m Magellan telescopes, and the Astrophysical Research Consortium telescopes at Apache Point Observatory.
-</p>
-
-<hr />
-
-<p>
-
-Postdoc in cosmological data analysis at the University of Pennsylvania, Dec 15, 2024
-</p>
-
-<p style="font-weight: 400">
-
-The Department of Physics and Astronomy at the University of Pennsylvania invites applications for a postdoctoral research position in cosmological data analysis. The postdoctoral researcher will play a major role in the analysis of CMB data from the Simons Observatory with focus on simulations, data delivery and science-readiness. The researcher will work closely with Prof. Mathew Madhavacheril and other members of the Simons Observatory collaboration. The Penn cosmology group has an active presence in a number of other cosmological surveys, including the Dark Energy Survey (DES) and the Rubin Observatory LSST. The candidate will have the opportunity to collaborate with faculty and postdoctoral researchers at the University of Pennsylvania, including those working on CMB theory and analysis, CMB instrumentation and site infrastructure, and galaxy surveys like DES and LSST.
-</p>
-
-<p style="font-weight: 400">
-
-.
-</p>
-
-<hr />
-
-<p>
-
-Postdoc on SPT at UC Davis, Jan 6, 2025
-</p>
-
-<p style="font-weight: 400">
-
-The Department of Physics and Astronomy at the University of California, Davis invites applications for a postdoctoral fellow position in Professor Lloyd Knox’s Research Group.
-</p>
-
-<p style="font-weight: 400">
-
-The successful candidate will work on analysis of data from the South Pole Telescope (SPT) and have the opportunity to work on additional projects of mutual interest. The SPT Collaboration has been observing with the full SPT-3G camera since 2019. The data collected to date allow for powerful tests of the standard cosmological model, as described in Prabhu et al. (2024), with first results from a subset of these data in Ge et al. (2024). Work on SPT data could include development and application of methods for producing unlensed field spectra and CMB lensing spectra from multi-frequency maps, cosmological interpretation of such power spectra, or a combination of the two. Additional projects of mutual interest would likely have strong connections to testing and building of cosmological models.
 </p>
 
 <hr />
@@ -577,18 +475,6 @@ The successful candidate will join the CMB&CO group at ITA. The candidates will 
 
 <p>
 
-Postdoc in cosmology at ITA (one or two positions), Jan 3, 2025
-</p>
-
-<p style="font-weight: 400">
-
-The successful candidates will join the CMB&CO group at ITA. The candidates will be able to participate in the larger Cosmoglobe project, including analysis on archival data such as Planck, WMAP, and DIRBE, as well as ongoing projects (COMAP and PASIPHAE) and future projects, including the LiteBIRD satellite mission. In addition to the group at ITA, the candidates will participate in research in an international context, representing Origins, Cosmoglobe and UiO at meetings and conferences.
-</p>
-
-<hr />
-
-<p>
-
 Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
 </p>
 
@@ -625,6 +511,15 @@ Diverse research opportunities exist within the theme of cryogenic sensing.  Ap
 
 <p>
 
+Lederman fellowship at FermiLab, Feb 6, 2025
+</p>
+
+The Lederman Fellowship at Fermilab is intended to attract exceptional postdoctoral candidates who have demonstrated outstanding ability in research and who, in addition, have a strong interest in education and outreach. In general, Lederman Fellows are free to choose any area in Fermilab’s broad experimental program for performing their research, including neutrino physics, research on the CMS experiment at the LHC and proposed future colliders, astroparticle physics, intensity frontier experiments such as Mu2e, quantum information science, and quantum sensor research. This year we are particularly interested in applications focused on neutrino and collider physics.
+
+<hr />
+
+<p>
+
 Postdoc in Experimental Cosmology at UIUC, Feb 7, 2025
 </p>
 
@@ -645,6 +540,15 @@ Development of next-generation cosmic microwave background instruments on balloo
 </li>
 
 </ul>
+
+<hr />
+
+<p>
+
+Wilson fellowship at FermiLab, Feb 14, 2025
+</p>
+
+The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the Fermilab particle physics experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments. This year we are particularly interested in applications focused on neutrino and collider physics.
 
 <hr />
 
