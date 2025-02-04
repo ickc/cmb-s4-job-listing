@@ -371,30 +371,9 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <ul>
 
-<li>
+<li style="list-style-type: none">
 
-CMB Postdoc at LBNL, Jan 15, 2025
-</li>
-
-<li>
-
-Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
-</li>
-
-<li>
-
-Postdoc in experimental cosmology at University of Milano-Bicocca, Jan 20, 2025
-</li>
-
-<li>
-
-Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
-</li>
-
-<li>
-
-NRC Postdoctoral Research Opportunities at NIST, Feb 1, 2025
-</li>
+<ul>
 
 <li>
 
@@ -418,34 +397,14 @@ Two postdocs on the Simons Observatory at UC Berkeley, until filled
 
 <li>
 
-Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
+Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
 </li>
 
 </ul>
 
-<hr />
+</li>
 
-<p>
-
-Research engineer/postdoctoral position in cryogenic instrumentation at CEA Paris-Saclay, Nov 18, 2024, until filled
-</p>
-
-<p>
-
-The Institut de Recherche sur les Lois Fondamentales de l’Univers (IRFU) at CEA Paris-Saclay is opening a 2+1 year research engineer / postdoctoral position in cryogenic instrumentation. Feel free to contact Xavier de la Broïse (\[email protected\]) with questions.
-</p>
-
-<hr />
-
-<p>
-
-CMB Postdoc at LBNL, Jan 15, 2025
-</p>
-
-<p style="font-weight: 400">
-
-Berkeley Lab’s Physics Division has an opening for a Postdoctoral Fellow within the Cosmic Microwave Background (CMB) Group. The group has a long history of designing, fielding and analyzing data from CMB experiments. We are building on this experience to ensure the success of current and future CMB experiments. Members of the group have a wide range of expertise from data analysis to instrumentation and are involved in the following CMB experiments: CMB-S4, Simons Observatory and BICEP/Keck. The successful candidate will work on analysis methodology, data analysis and design optimisation/forecasting for current and future CMB experiments.
-</p>
+</ul>
 
 <hr />
 
@@ -456,55 +415,7 @@ Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
 
 <p style="font-weight: 400">
 
-The Department of Astronomy at the University of Virginia (UVA) invites applications for a Postdoctoral Research Associate position in cosmic microwave background (CMB) studies.  The successful candidate will work with Prof. Bradley Johnson on Simons Observatory activities.  Simons Observatory is a new CMB experiment in the Atacama Desert in Chile.  We are particularly interested in applications from candidates who want to focus on research in instrumentation, observation, and low-level data analysis.  Willingness to travel to the observatory in Chile is preferred.  The position is initially for one year but can be renewed annually for up to two additional years given satisfactory performance.
-</p>
-
-<hr />
-
-<p>
-
-Postdoc in experimental cosmology at University of Milano-Bicocca, Jan 20, 2025
-</p>
-
-<p style="font-weight: 400">
-
-The successful candidate will join the CMB&CO group at ITA. The candidates will be able to participate in the larger Cosmoglobe project, including analysis on archival data such as Planck, WMAP, and DIRBE, as well as ongoing projects (COMAP and PASIPHAE) and future projects, including the LiteBIRD satellite mission. In addition to the group at ITA, the candidate will participate in research in an international context, representing Origins, Cosmoglobe and UiO at meetings and conferences.
-</p>
-
-<hr />
-
-<p>
-
-Lecturer in CMB instrumentation at Manchester, Jan 31, 2025
-</p>
-
-Applications are invited for the position of Lecturer in Cosmic Microwave Background (CMB) Instrumentation. Lecturer is a permanent academic staff member equivalent to Assistant Professor in the US naming convention.
-
-<p>
-
-The successful candidate will join the Cosmology group of the Jodrell Bank Centre for Astrophysics, part of the Department of Physics and Astronomy. They will play a key role in consolidating and strengthening JBCA’s international leadership position in CMB research, which spans experimental, observational and theoretical areas. CMB is a flagship activity of the JBCA Cosmology group. The group currently leads the UK contribution to Simons Observatory (SO) and is actively planning for lead roles in future CMB projects including CMB-S4, LiteBIRD and a possible future spectral distortions satellite mission. Other CMB projects JBCA is participating in include LSPE, QUBIC, QUIJOTE, COSMO and BISOU. The ideal candidate will contribute to the existing SO instrumentation activity and will play a key role in advancing the Cosmology group’s ambitious plans in this area. They will have an established track record in delivering instrumentation for CMB telescopes, and in developing new techniques in CMB instrumentation, and possibly in other related fields.
-</p>
-
-<p>
-
-The JBCA has close links with, and is co-located with, several institutes at the University that are world-leading in advanced technologies research. These include the National Graphene Institute, The Royce Institute and the Photon Science Institute. In addition, the JBCA has joint research programs with other groups within the Department, particularly the Particle Physics group. Applications from CMB Instrumentalists with research programs that can strengthen such links, e.g. through cross-cutting Quantum Technology programs, are welcomed.
-</p>
-
-<hr />
-
-<p>
-
-NRC Postdoctoral Research Opportunities at NIST, Feb 1, 2025
-</p>
-
-<p dir="ltr">
-
-The National Research Council (NRC) Research Associateship Programs supports 2-year postdoctoral research opportunities to work at the Boulder labs with an annual salary of $82,764.  See the links below for application details.  Application deadlines are Feb 1 and Aug 1, each year.
-</p>
-
-<p dir="ltr">
-
-Diverse research opportunities exist within the theme of cryogenic sensing.  Applications span cosmology, astrophysics, quantum sensing, and metrology.  Relevant technologies include transition-edge-sensor bolometers, microwave kinetic inductance detectors, parametric amplifiers, and squid-based multiplexers.  More information about my group’s research can be found at our website.  If interested in the NRC fellowship, please reach out to me at 303.497.6164 or email \[email protected\], and see the application links below.  This opportunity is limited to US citizens who have held their doctorate for less than 5 years as of the application deadline.
+The Department of Astronomy at the University of Virginia (UVA) invites applications for a Postdoctoral Research Associate position in cosmic microwave background (CMB) studies.  The successful candidate will work with Prof. Bradley Johnson on Simons Observatory activities.  Simons Observatory is a new CMB experiment in the Atacama Desert in Chile.  We are particularly interested in applications from candidates who want to focus on research in instrumentation, observation, and low-level data analysis.  Willingness to travel to the observatory in Chile is preferred.  The position is initially for one year but can be renewed annually for up to two additional years given satisfactory performance.
 </p>
 
 <hr />
