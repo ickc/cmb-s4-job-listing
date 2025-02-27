@@ -377,27 +377,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Lederman Fellowship at FermiLab, Feb 6, 2025
-</li>
-
-<li>
-
-Postdoc in Experimental Cosmology at UIUC, Feb 7, 2025
-</li>
-
-<li>
-
-Wilson Fellowship at FermiLab, Feb 14, 2025
-</li>
-
-<li>
-
-Two postdocs on the Simons Observatory at UC Berkeley, until filled
-</li>
-
-<li>
-
-Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
+Postdoc in CMB experimentation at UC Berkeley, Mar 14, 2025
 </li>
 
 </ul>
@@ -410,68 +390,15 @@ Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
 
 <p>
 
-Postdoc in CMB studies at UVA, Jan 15, 2025, until filled
+Postdoc in CMB experimentation at UC Berkeley, Mar 14, 2025
 </p>
 
-<p style="font-weight: 400">
+<section class="markdown">
 
-The Department of Astronomy at the University of Virginia (UVA) invites applications for a Postdoctoral Research Associate position in cosmic microwave background (CMB) studies.  The successful candidate will work with Prof. Bradley Johnson on Simons Observatory activities.  Simons Observatory is a new CMB experiment in the Atacama Desert in Chile.  We are particularly interested in applications from candidates who want to focus on research in instrumentation, observation, and low-level data analysis.  Willingness to travel to the observatory in Chile is preferred.  The position is initially for one year but can be renewed annually for up to two additional years given satisfactory performance.
-</p>
+The Department of Physics at the University of California, Berkeley seeks applications for a Postdoctoral researcher in the area of cosmic microwave background experiment.This position will be in Adrian Lee’s group in the Physics Department of UC Berkeley. The group focuses on observations of the cosmic microwave background (CMB)​ research specifically focused on CMB anisotropies.​The ​successful candidate will work to analyze science data and identify, model, simulate and mitigate important instrumental effects that limit our ability to extract cosmology results from Simons Observatory data.​ ​They will also contribute to efforts to account for these effects in automated data reduction processes.
+</section>
 
 <hr />
-
-<p>
-
-Lederman fellowship at FermiLab, Feb 6, 2025
-</p>
-
-The Lederman Fellowship at Fermilab is intended to attract exceptional postdoctoral candidates who have demonstrated outstanding ability in research and who, in addition, have a strong interest in education and outreach. In general, Lederman Fellows are free to choose any area in Fermilab’s broad experimental program for performing their research, including neutrino physics, research on the CMS experiment at the LHC and proposed future colliders, astroparticle physics, intensity frontier experiments such as Mu2e, quantum information science, and quantum sensor research. This year we are particularly interested in applications focused on neutrino and collider physics.
-
-<hr />
-
-<p>
-
-Postdoc in Experimental Cosmology at UIUC, Feb 7, 2025
-</p>
-
-The University of Illinois Urbana-Champaign invites applications for a postdoctoral position in experimental cosmology. The successful candidate will join the research group of Professor Jeff Filippini, as well as the broader Illinois Center for Advanced Studies of the Universe (ICASU).
-
-Our lab engages in a variety of instrumentation and analysis projects in the CMB and THz bands. We particularly seek candidates interested in:
-
-<ul>
-
-<li>
-
-Analysis of 2015+2023 data from the SPIDER balloon experiment, which observed the CMB and Galactic dust polarization from 90-280 GHz.
-</li>
-
-<li>
-
-Development of next-generation cosmic microwave background instruments on balloon (Taurus) and ground (CMB-S4).
-</li>
-
-</ul>
-
-<hr />
-
-<p>
-
-Wilson fellowship at FermiLab, Feb 14, 2025
-</p>
-
-The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two (2) years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the Fermilab particle physics experiment of the candidate’s choice. The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments. This year we are particularly interested in applications focused on neutrino and collider physics.
-
-<hr />
-
-<p>
-
-Two postdocs on the Simons Observatory at UC Berkeley, until filled
-</p>
-
-<p>
-
-Two postdoctoral positions are available at the U.C. Berkeley Physics Department for research on Simons Observatory for a range of activities including instrument development and data analysis.   Please contact Adrian Lee \[email protected\].
-</p>
 
 <p style="font-weight: 400">
 
