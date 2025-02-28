@@ -380,6 +380,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 Postdoc in CMB experimentation at UC Berkeley, Mar 14, 2025
 </li>
 
+<li>
+
+Postdoc in Neutrino physics with LArTPCs at Fermilab, Mar 24, 2025
+</li>
+
 </ul>
 
 </li>
@@ -396,6 +401,27 @@ Postdoc in CMB experimentation at UC Berkeley, Mar 14, 2025
 <section class="markdown">
 
 The Department of Physics at the University of California, Berkeley seeks applications for a Postdoctoral researcher in the area of cosmic microwave background experiment.This position will be in Adrian Lee’s group in the Physics Department of UC Berkeley. The group focuses on observations of the cosmic microwave background (CMB)​ research specifically focused on CMB anisotropies.​The ​successful candidate will work to analyze science data and identify, model, simulate and mitigate important instrumental effects that limit our ability to extract cosmology results from Simons Observatory data.​ ​They will also contribute to efforts to account for these effects in automated data reduction processes.
+</p>
+
+<hr />
+
+<p>
+
+Postdoc in Neutrino Physics with LArTPCs at Fermilab, Mar 24, 2025
+</p>
+
+Fermilab is America’s outstanding laboratory for particle physics and accelerator research, funded by the U.S. Department of Energy. We support discovery science experiments in Illinois and at locations around the world. Fermilab’s Neutrino Division has a strong and exciting research program with major commitments to a diverse range of current and future neutrino experiments including DUNE, NOvA, MicroBooNE, SBN (SBND and ICARUS detectors). 
+
+Additional information on the Fermilab neutrino program can be found here: http://neutrinophysics.fnal.gov/. ;
+
+ 
+
+Neutrino Division seeks highly qualified and motivated candidates for Postdoctoral Research Associate positions to conduct their primary research in Neutrino Physics with liquid argon Time Projection Chambers (LArTPCs), including simulation, data reconstruction and analysis, detector construction and operation, and R&D with test-stand and test-beam experiments. 
+
+ 
+
+The successful candidates will have the opportunity to participate and play an important role in the long-baseline neutrino experiment DUNE as well as the Short Baseline Neutrino Program and LAr TPC R&D. Every effort will be made to guide Fermilab Research Associates in designing their research programs and maintaining support so that they have the opportunity to produce physics results and pursue their interests. 
+
 </section>
 
 <hr />
