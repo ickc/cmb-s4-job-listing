@@ -361,12 +361,17 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Postdoc in CMB experimentation at UC Berkeley, Mar 14, 2025
+BICEP Array winter-over scientists, until filled
 </li>
 
 <li>
 
-Postdoc in Neutrino physics with LArTPCs at Fermilab, Mar 24, 2025
+South Pole Machinist, until filled
+</li>
+
+<li>
+
+10-m South Pole Telescope winter-overs, until filled
 </li>
 
 </ul>
@@ -379,32 +384,39 @@ Postdoc in Neutrino physics with LArTPCs at Fermilab, Mar 24, 2025
 
 <p>
 
-Postdoc in CMB experimentation at UC Berkeley, Mar 14, 2025
+BICEP Array winter-over scientists, until filled
 </p>
 
 <section class="markdown">
 
-The Department of Physics at the University of California, Berkeley seeks applications for a Postdoctoral researcher in the area of cosmic microwave background experiment.This position will be in Adrian Lee’s group in the Physics Department of UC Berkeley. The group focuses on observations of the cosmic microwave background (CMB)​ research specifically focused on CMB anisotropies.​The ​successful candidate will work to analyze science data and identify, model, simulate and mitigate important instrumental effects that limit our ability to extract cosmology results from Simons Observatory data.​ ​They will also contribute to efforts to account for these effects in automated data reduction processes.
+The BICEP winter-over scientists will start work in fall 2025 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2026. Once the austral summer team leaves the site in February 2026, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles require exceptionally stable individuals who are self-motivated and able to communicate and take direction well.The School of Physics and Astronomy is looking to hire two full-time scientists to work on a cosmic microwave background polarization experiment located at the Amundsen-Scott South Pole Station. The BICEP telescopes make groundbreaking measurements of the polarization of the cosmic microwave background (CMB) radiation left over from the Big Bang birth of the Universe. The South Pole Station supports a summer population of approximately 110 and a winter population of 40. During the winter season (northern hemisphere summer) travel to/from the base is not possible for eight months due to the extreme cold. Two winter-over scientists are needed to maintain and operate the BICEP Array and BICEP3 telescopes during the winter observing season.
 </p>
 
 <hr />
 
 <p>
 
-Postdoc in Neutrino Physics with LArTPCs at Fermilab, Mar 24, 2025
+South Pole Machinist, until filled
 </p>
 
-Fermilab is America’s outstanding laboratory for particle physics and accelerator research, funded by the U.S. Department of Energy. We support discovery science experiments in Illinois and at locations around the world. Fermilab’s Neutrino Division has a strong and exciting research program with major commitments to a diverse range of current and future neutrino experiments including DUNE, NOvA, MicroBooNE, SBN (SBND and ICARUS detectors). 
+<section class="markdown">
 
-Additional information on the Fermilab neutrino program can be found here: http://neutrinophysics.fnal.gov/. ;
+The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required. The position begins 1/15/26 and ends 11/30/26.
+</p>
 
- 
+<hr />
 
-Neutrino Division seeks highly qualified and motivated candidates for Postdoctoral Research Associate positions to conduct their primary research in Neutrino Physics with liquid argon Time Projection Chambers (LArTPCs), including simulation, data reconstruction and analysis, detector construction and operation, and R&D with test-stand and test-beam experiments. 
+<p>
 
- 
+10-m South Pole Telescope winter-overs, until filled
+</p>
 
-The successful candidates will have the opportunity to participate and play an important role in the long-baseline neutrino experiment DUNE as well as the Short Baseline Neutrino Program and LAr TPC R&D. Every effort will be made to guide Fermilab Research Associates in designing their research programs and maintaining support so that they have the opportunity to produce physics results and pursue their interests. 
+<section class="markdown">
+
+The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months.
+</section>
+
+</section>
 
 </section>
 
