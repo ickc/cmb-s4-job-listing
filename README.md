@@ -443,6 +443,16 @@ Copyright © 2025 · Parallax Pro CMB-S4 on Genesis Framework · WordPress · L
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 
+<script type="text/javascript" id="pll_cookie_script-js-after">
+/* <![CDATA[ */
+(function() {
+                var expirationDate = new Date();
+                expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+                document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; domain=cmb-s4.org; secure; SameSite=Lax";
+            }());
+/* ]]> */
+</script>
+
 <script type="text/javascript" src="https://cmb-s4.org/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
 
 <script type="text/javascript" src="https://cmb-s4.org/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.10" id="superfish-js"></script>
@@ -458,14 +468,6 @@ var genesis_responsive_menu = {"mainMenu":"Menu","subMenu":"Submenu","menuClasse
 </script>
 
 <script type="text/javascript" src="https://cmb-s4.org/wp-content/themes/parallax-pro-cmb-s4/js/responsive-menus.min.js?ver=1.3.4" id="parallax-responsive-menu-js"></script>
-
-<script type="text/javascript">
-(function() {
-                var expirationDate = new Date();
-                expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
-                document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; domain=cmb-s4.org; secure; SameSite=Lax";
-            }());
-&#10;</script>
 
 </body>
 
