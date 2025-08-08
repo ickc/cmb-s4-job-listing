@@ -355,19 +355,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <ul>
 
-<li>
-
-BICEP Array winter-over scientists, until filled
-</li>
-
-<li>
-
-South Pole Machinist, until filled
-</li>
-
-<li>
-
-10-m South Pole Telescope winter-overs, until filled
 </li>
 
 </ul>
@@ -375,35 +362,6 @@ South Pole Machinist, until filled
 </li>
 
 </ul>
-
-<hr />
-
-BICEP Array winter-over scientists, until filled
-
-<section class="markdown">
-
-The BICEP winter-over scientists will start work in fall 2025 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2026. Once the austral summer team leaves the site in February 2026, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles require exceptionally stable individuals who are self-motivated and able to communicate and take direction well.The School of Physics and Astronomy is looking to hire two full-time scientists to work on a cosmic microwave background polarization experiment located at the Amundsen-Scott South Pole Station. The BICEP telescopes make groundbreaking measurements of the polarization of the cosmic microwave background (CMB) radiation left over from the Big Bang birth of the Universe. The South Pole Station supports a summer population of approximately 110 and a winter population of 40. During the winter season (northern hemisphere summer) travel to/from the base is not possible for eight months due to the extreme cold. Two winter-over scientists are needed to maintain and operate the BICEP Array and BICEP3 telescopes during the winter observing season.
-
-<hr />
-
-South Pole Machinist, until filled
-
-<section class="markdown">
-
-The South Pole Machinist operates and maintains the MAPO machine shop, which is located in the Dark Sector Laboratory of the NSF Amundsen-Scott research station at the South Pole in Antarctica. The Machinist works as part of a team to provide on-site machinist services to scientists and engineers from several universities. A continuous stay at the South Pole, lasting approximately eleven months, is required. The position begins 1/15/26 and ends 11/30/26.
-
-<hr />
-
-10-m South Pole Telescope winter-overs, until filled
-
-<section class="markdown">
-
-The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT. The crew will participate in the preliminary analysis of the astronomical data and is an integral part of the SPT collaboration. A continuous stay at the South Pole, lasting approximately twelve months.
-</section>
-
-</section>
-
-</section>
 
 <hr />
 
@@ -417,6 +375,8 @@ The 10-meter South Pole Telescope (SPT) Winter-Over will be a member of a two-pe
 
 </main>
 
+</div>
+
 <footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter">
 
 <p>
@@ -425,6 +385,8 @@ Copyright © 2025 · Parallax Pro CMB-S4 on Genesis Framework · WordPress · L
 </p>
 
 </footer>
+
+</div>
 
 <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
 
