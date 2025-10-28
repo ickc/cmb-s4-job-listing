@@ -356,6 +356,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 Postdoc in Millimetre Time Domain Astronomy & AGN Astrophysics at U Toronto, 10/6/2025
 </li>
 
+<li>
+
+Wilson Fellowship at FermiLab, 12/1/2025
+</li>
+
 </ul>
 
 <hr />
@@ -365,6 +370,20 @@ Postdoc in Millimetre Time Domain Astronomy & AGN Astrophysics at U Toronto, 10/
 The University of Toronto invites applications for a postdoctoral research position with Prof. Adam Hincks and his group in the area of millimetre (mm) time domain science and active galactic nuclei (AGN) observational astrophysics. The successful candidate will join an exciting research programme that uses cosmic microwave background (CMB) survey data from the Atacama Cosmology Telescope and the Simons Observatory to observe blazars in the time domain in order to study the physics of AGN jets and to search for supermassive black hole binaries (SMBHB). A fraction of time (20%) will be allocated for the successful candidate to pursue personal research interests.
 
 Applicants with experience analysing time series (especially light curves), working with CMB or other wide-field survey data, and/or expertise in AGN and SMBHB physics are especially encouraged to apply. Demonstrated skills in coding, collaborative software development and oral and written communication are assets. Applicants must have a PhD in astrophysics, physics or a related field by the time the appointment starts.
+
+<hr />
+
+Wilson Fellowship at FermiLab, 12/1/2025
+
+<p style="font-weight: 400">
+
+The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the Fermilab particle physics experiment of the candidate’s choice.
+</p>
+
+<p style="font-weight: 400">
+
+The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments. This year we are particularly interested in applications focused on neutrino, muon and collider physics.
+</p>
 
 <p style="font-weight: 400">
 
