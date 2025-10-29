@@ -353,23 +353,10 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Postdoc in Millimetre Time Domain Astronomy & AGN Astrophysics at U Toronto, 10/6/2025
-</li>
-
-<li>
-
 Wilson Fellowship at FermiLab, 12/1/2025
 </li>
 
 </ul>
-
-<hr />
-
-Postdoc in Millimetre Time Domain Astronomy & AGN Astrophysics at U Toronto, 10/6/2025
-
-The University of Toronto invites applications for a postdoctoral research position with Prof. Adam Hincks and his group in the area of millimetre (mm) time domain science and active galactic nuclei (AGN) observational astrophysics. The successful candidate will join an exciting research programme that uses cosmic microwave background (CMB) survey data from the Atacama Cosmology Telescope and the Simons Observatory to observe blazars in the time domain in order to study the physics of AGN jets and to search for supermassive black hole binaries (SMBHB). A fraction of time (20%) will be allocated for the successful candidate to pursue personal research interests.
-
-Applicants with experience analysing time series (especially light curves), working with CMB or other wide-field survey data, and/or expertise in AGN and SMBHB physics are especially encouraged to apply. Demonstrated skills in coding, collaborative software development and oral and written communication are assets. Applicants must have a PhD in astrophysics, physics or a related field by the time the appointment starts.
 
 <hr />
 
