@@ -349,7 +349,14 @@ Job listings
 </header>
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to C. Reichardt.
+
+ 
 <ul>
+
+<li>
+
+Cosmology postdoc at IAS, Universite Paris-Saclay, 11/30/2025
+</li>
 
 <li>
 
@@ -357,6 +364,19 @@ Wilson Fellowship at FermiLab, 12/1/2025
 </li>
 
 </ul>
+
+ 
+
+<hr />
+
+Cosmology postdoc at IAS, Universite Paris-Saclay, 11/30/2025
+
+<p style="font-weight: 400">
+
+The Institut d’Astrophysique Spatiale (IAS) at Université Paris-Saclay invites applications for a postdoctoral position within its cosmology team. The successful candidate will conduct research in CMB and/or large-scale structure cosmology and data analysis, with potential involvement in the Simons Observatory and Euclid projects,  as well as in other projects with strong participation from the group (e.g. BISOU/FOSSIL, SKA).
+</p>
+
+ 
 
 <hr />
 
@@ -370,6 +390,10 @@ The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of e
 <p style="font-weight: 400">
 
 The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments. This year we are particularly interested in applications focused on neutrino, muon and collider physics.
+</p>
+
+<p style="font-weight: 400">
+
 </p>
 
 <p style="font-weight: 400">
