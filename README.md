@@ -363,6 +363,11 @@ Cosmology postdoc at IAS, Universite Paris-Saclay, 11/30/2025
 Wilson Fellowship at FermiLab, 12/1/2025
 </li>
 
+<li>
+
+Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/2025
+</li>
+
 </ul>
 
  
@@ -390,6 +395,17 @@ The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of e
 <p style="font-weight: 400">
 
 The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments. This year we are particularly interested in applications focused on neutrino, muon and collider physics.
+</p>
+
+ 
+
+<hr />
+
+Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/2025
+
+<p style="font-weight: 400">
+
+The Research Associate will repurpose 3.5-meter mm-wave telescopes of the Sunyaev-Zeldovich Array (SZA) at Caltech’s Owens Valley Radio Observatory and use them to search nearby galaxies for transient events at high radio frequencies. The applicant must have experience with radio astronomy instrumentation. The successful candidate will be based (at least initially) at the observatory located near Bishop, CA, which hosts several other radio astronomy projects.
 </p>
 
 <p style="font-weight: 400">
