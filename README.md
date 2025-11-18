@@ -365,6 +365,11 @@ Wilson Fellowship at FermiLab, 12/1/2025
 
 <li>
 
+Cosmology postdoc at University of Melbourne, 12/18/2025
+</li>
+
+<li>
+
 Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/2025
 </li>
 
@@ -398,6 +403,19 @@ The Fermilab experimental program includes collider and cosmic physics, studies 
 </p>
 
  
+
+<hr />
+
+Cosmology postdoc at University of Melbourne, 12/18/2025
+
+<p style="font-weight: 400">
+
+The University of Melbourne invites applications for a postdoctoral position to work on observations of CMB polarization with the South Pole Telescope. The successful candidate will contribute to delensing and the search for inflationary gravitational waves, as well as projects. A fraction of time will be available for independent research projects.
+</p>
+
+<p style="font-weight: 400">
+
+</p>
 
 <hr />
 
