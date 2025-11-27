@@ -373,6 +373,11 @@ Cosmology postdoc at University of Melbourne, 12/18/2025
 Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/2025
 </li>
 
+<li>
+
+SO postdoc at the Simons Foundation, 1/15/2026
+</li>
+
 </ul>
 
  
@@ -429,6 +434,20 @@ The Research Associate will repurpose 3.5-meter mm-wave telescopes of the Sunyae
 <p style="font-weight: 400">
 
 </p>
+
+<hr />
+
+SO postdoc at the Simons Foundation, 1/15/2026
+
+The CMB Analysis and Simulations (CMBAS) group invites applications for a Flatiron Software Research Fellow (FSRF) to contribute to the Simons Observatory (SO) project’s data analysis efforts.
+
+The Simons Observatory is a next-generation cosmic microwave background (CMB) experiment located in Chile’s Atacama Desert. It consists of one Large-Aperture Telescope (LAT) and three Small-Aperture Telescopes (SATs), all of which have achieved first light and are now transitioning toward full science operations.
+
+SO is entering an exciting new phase of expansion. A National Science Foundation–funded upgrade will significantly increase the LAT’s mapping speed and broaden its science reach to include the transient sky. A complementary upgrade, supported by UK and Japanese partners, will double the number of SATs, further enhancing the observatory’s sensitivity and scientific potential.
+
+The CMBAS group is led by David Spergel, President of the Simons Foundation, with Simone Aiola heading the CMB data analysis effort and serving as the SO Data Manager and a member of the Observatory Execution Office, coordinating all software activities across the collaboration. Francisco Villaescusa-Navarro leads the group’s simulation development program.
+
+Flatiron Software Research Fellows will play a key role in developing and refining the pipelines and analysis methods used to generate and characterize the SO’s scientific data products. CMBAS welcomes applicants interested in machine learning (ML) and artificial intelligence (AI) applications.
 
 <p style="font-weight: 400">
 
