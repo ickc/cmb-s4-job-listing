@@ -378,6 +378,11 @@ Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/
 SO postdoc at the Simons Foundation, 1/15/2026
 </li>
 
+<li>
+
+Numerical cosmology postdoc at University of Melbourne, 1/31/2026
+</li>
+
 </ul>
 
  
@@ -448,6 +453,23 @@ SO is entering an exciting new phase of expansion. A National Science Foundation
 The CMBAS group is led by David Spergel, President of the Simons Foundation, with Simone Aiola heading the CMB data analysis effort and serving as the SO Data Manager and a member of the Observatory Execution Office, coordinating all software activities across the collaboration. Francisco Villaescusa-Navarro leads the group’s simulation development program.
 
 Flatiron Software Research Fellows will play a key role in developing and refining the pipelines and analysis methods used to generate and characterize the SO’s scientific data products. CMBAS welcomes applicants interested in machine learning (ML) and artificial intelligence (AI) applications.
+
+ 
+
+<hr />
+
+Numerical cosmology postdoc at University of Melbourne, 1/31/2025
+
+<p dir="ltr">
+
+The Astrophysics Group at the University of Melbourne invites applications for a research fellow in numerical cosmology working with Dr Hayley Macpherson. The position will provide the opportunity for a highly motivated postdoctoral researcher to make contributions to the field of inhomogeneous cosmology via state-of-the-art numerical relativity simulations of large-scale structure formation. Experience using and manipulating simulated cosmological data will be valuable. A fraction of the time will be available for independent research projects.
+</p>
+
+A key focus of the position is in studying nonlinear relativistic effects in CMB lensing, with a primary focus on the generation of B-modes from non-primordial sources. The successful applicant will use a numerical relativity + general-relativistic ray tracing framework to calculate the B-modes generated via lensing of the CMB due to large-scale structure. They will compare this effect to widely-adopted approximations for the signal to precisely determine the accuracy of current CMB de-lensing methods—especially determining whether the resulting primordial signal could be contaminated by higher-order general-relativistic effects.
+
+<p style="font-weight: 400">
+
+</p>
 
 <p style="font-weight: 400">
 
