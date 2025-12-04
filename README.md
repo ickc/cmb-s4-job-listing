@@ -349,19 +349,7 @@ Job listings
 </header>
 
 This page is for advertising positions related to CMB research broadly defined, e.g., postdocs, faculty, laboratory and technical positions. To post positions, please send the description and link to C. Reichardt.
-
- 
 <ul>
-
-<li>
-
-Cosmology postdoc at IAS, Universite Paris-Saclay, 11/30/2025
-</li>
-
-<li>
-
-Wilson Fellowship at FermiLab, 12/1/2025
-</li>
 
 <li>
 
@@ -383,34 +371,17 @@ SO postdoc at the Simons Foundation, 1/15/2026
 Numerical cosmology postdoc at University of Melbourne, 1/31/2026
 </li>
 
+<li>
+
+Post-baccalaureate research fellow in experimental cosmology at Harvard, until filled
+</li>
+
+<li>
+
+Postdoc in CMB instrumentation and observational cosmology at Harvard, until filled
+</li>
+
 </ul>
-
- 
-
-<hr />
-
-Cosmology postdoc at IAS, Universite Paris-Saclay, 11/30/2025
-
-<p style="font-weight: 400">
-
-The Institut d’Astrophysique Spatiale (IAS) at Université Paris-Saclay invites applications for a postdoctoral position within its cosmology team. The successful candidate will conduct research in CMB and/or large-scale structure cosmology and data analysis, with potential involvement in the Simons Observatory and Euclid projects,  as well as in other projects with strong participation from the group (e.g. BISOU/FOSSIL, SKA).
-</p>
-
- 
-
-<hr />
-
-Wilson Fellowship at FermiLab, 12/1/2025
-
-<p style="font-weight: 400">
-
-The Wilson Fellowship at Fermilab seeks applications from Ph.D. physicists of exceptional talent with at least two years of experience beyond Ph.D. The Fellowship is awarded on a competitive basis and is intended to support outstanding assistant professor-level physicists early in their careers. It provides unique opportunities for self-directed research in experimental physics through work on the Fermilab particle physics experiment of the candidate’s choice.
-</p>
-
-<p style="font-weight: 400">
-
-The Fermilab experimental program includes collider and cosmic physics, studies of neutrinos, muons, and research at the intersection of high energy physics and quantum information science, as well as R&D and planning for future experiments. This year we are particularly interested in applications focused on neutrino, muon and collider physics.
-</p>
 
  
 
@@ -467,9 +438,35 @@ The Astrophysics Group at the University of Melbourne invites applications for a
 
 A key focus of the position is in studying nonlinear relativistic effects in CMB lensing, with a primary focus on the generation of B-modes from non-primordial sources. The successful applicant will use a numerical relativity + general-relativistic ray tracing framework to calculate the B-modes generated via lensing of the CMB due to large-scale structure. They will compare this effect to widely-adopted approximations for the signal to precisely determine the accuracy of current CMB de-lensing methods—especially determining whether the resulting primordial signal could be contaminated by higher-order general-relativistic effects.
 
-<p style="font-weight: 400">
+ 
 
+<hr />
+
+Post-baccalaureate research fellow in experimental cosmology at Harvard, until filled
+
+<p dir="ltr">
+
+Our lab is seeking highly motivated post-baccalaureate individuals to join our team in advancing the next generation of Cosmic Microwave Background (CMB) experiments. This is intended to be a full-time, paid position offering immersive, hands-on experience at the intersection of physics, astronomy, and engineering.
 </p>
+
+In this role, you won’t just contribute to lab work—you will help build instruments that become part of real, field-deployed microwave telescopes. Your efforts will directly influence hardware that travels to the South Pole and other observatories, enabling some of the most sensitive measurements ever made of the early universe. From early design and prototyping to refining and validating components for deployment, your work will have a tangible impact on experiments used by the global cosmology community to push the boundaries of our understanding of the cosmos.
+
+Most opportunities are intended for one-year term positions (though shorter arrangements may be possible), ideal for recent graduates looking to deepen their research skills before pursuing graduate study. We’re looking for individuals who are dependable, detail-oriented, and excited about experimental work. Experience with hardware, coding, or laboratory instrumentation is a plus, but above all, we value curiosity, follow-through, and a collaborative spirit.
+
+ 
+
+<hr />
+
+Postdoc in CMB instrumentation and observational cosmology at Harvard, until filled
+
+<p dir="ltr">
+
+We are seeking ambitious postdoctoral researchers to join our experimental cosmology group, working at the forefront of Cosmic Microwave Background (CMB) science. Opportunities center on instrumentation and observational efforts connected to the BICEP Array and South Pole telescope upgrades, projects that embody the aspirational CMB program and will play a key role in deepening our understanding of the early universe over the coming decade.
+</p>
+
+This role offers the opportunity to lead and contribute to the design, development, and deployment of cutting-edge CMB instrumentation, as well as to participate in data collection, analysis, and interpretation aimed at probing the early universe and testing inflationary cosmology.
+
+We’re looking for candidates with a Ph.D. in physics, astronomy, engineering, or a related field, and a strong background in experimental research. Prior experience with cryogenics, microwave systems, detector arrays, or related data analysis is especially welcome. Postdoctoral research opportunities offer mentorship, collaboration across institutions, and the chance to shape the direction of next-generation CMB research. These roles offers the opportunity to lead and contribute to the design, development, and deployment of cutting-edge CMB instrumentation, as well as to participate in data collection, analysis, and interpretation aimed at probing the early universe and testing inflationary cosmology. We’re looking for candidates with a Ph.D. in physics, astronomy, engineering, or a related field, and a strong background in experimental research. Prior experience with cryogenics, microwave systems, detector arrays, or related data analysis is especially welcome.
 
 <p style="font-weight: 400">
 
