@@ -353,6 +353,11 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
+Postdoc in Machine Learning in High Energy Physics Detector Operations at Argonne, 12/2/2025, until filled
+</li>
+
+<li>
+
 Cosmology postdoc at University of Melbourne, 12/18/2025
 </li>
 
@@ -384,6 +389,18 @@ Postdoc in CMB instrumentation and observational cosmology at Harvard, until fil
 </ul>
 
  
+
+<hr />
+
+Postdoc in Machine Learning in High Energy Physics Detector Operations at Argonne, 12/2/2025, until filled
+
+The High Energy Physics Division at Argonne National Laboratory invites applications for a postdoctoral research associate position to conduct research in machine learning (ML) for applications in High-Energy Physics (HEP). We seek highly qualified candidates with interest and experience in ML algorithms including unsupervised techniques, time-series modeling, and clustering algorithms. The candidate is expected to lead an effort to prepare generalized ML techniques for data quality monitoring for tasks across multiple HEP experiments. Experiments with Argonne involvement include, but are not limited to, ATLAS at CERN, the South Pole Telescope, and the Simons Observatory.
+
+The candidate is also expected to work closely with computational experts at the Computational Science (CPS) division, designing and executing ML experiments on leadership-class computing facilities such as the Aurora and Polaris supercomputers. Argonne is a multidisciplinary national laboratory and offers an exciting campus atmosphere in which to collaborate on interdisciplinary projects, at both the national and international levels.
+
+<p style="font-weight: 400">
+
+</p>
 
 <hr />
 
