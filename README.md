@@ -358,6 +358,11 @@ SO postdoc at the Simons Foundation, 1/15/2026
 
 <li>
 
+Multiple postdocs in the Neutrino Division at Fermilab, 1/20/2026
+</li>
+
+<li>
+
 Numerical cosmology postdoc at University of Melbourne, 1/31/2026
 </li>
 
@@ -436,6 +441,18 @@ SO is entering an exciting new phase of expansion. A National Science Foundation
 The CMBAS group is led by David Spergel, President of the Simons Foundation, with Simone Aiola heading the CMB data analysis effort and serving as the SO Data Manager and a member of the Observatory Execution Office, coordinating all software activities across the collaboration. Francisco Villaescusa-Navarro leads the group’s simulation development program.
 
 Flatiron Software Research Fellows will play a key role in developing and refining the pipelines and analysis methods used to generate and characterize the SO’s scientific data products. CMBAS welcomes applicants interested in machine learning (ML) and artificial intelligence (AI) applications.
+
+<p style="font-weight: 400">
+
+</p>
+
+<hr />
+
+Multiple postdocs in the Neutrino Division at Fermilab, 1/20/2026
+
+Fermilab is currently accepting applications for multiple Postdoctoral Research Associate positions in the Neutrino Division to conduct their primary research in experimental neutrino physics, including simulation, data reconstruction and analysis, machine learning and AI applications, detector construction and operation, and R&D with test stands and test-beam experiments. Successful candidates will have the opportunity to play an important role in the next-generation long-baseline neutrino experiment, DUNE, as well as the current experimental program including NOvA, the Short Baseline Neutrino Program, and liquid argon TPC R&D.
+
+If you have any questions about the position, please reach out Alex Himmel at \[email protected\].
 
  
 
