@@ -511,7 +511,7 @@ We’re looking for candidates with a Ph.D. in physics, astronomy, engineering,
 
 <p>
 
-Copyright © 2025 · Parallax Pro CMB-S4 on Genesis Framework · WordPress · Log in
+Copyright © 2026 · Parallax Pro CMB-S4 on Genesis Framework · WordPress · Log in
 </p>
 
 </footer>
