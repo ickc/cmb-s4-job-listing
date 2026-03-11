@@ -342,42 +342,7 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/2025
-</li>
-
-<li>
-
-SO postdoc at the Simons Foundation, 1/15/2026
-</li>
-
-<li>
-
-Multiple postdocs in the Neutrino Division at Fermilab, 1/20/2026
-</li>
-
-<li>
-
-Numerical cosmology postdoc at University of Melbourne, 1/31/2026
-</li>
-
-<li>
-
-Postdoc in Machine Learning in High Energy Physics Detector Operations at Argonne, 12/2/2025, until filled
-</li>
-
-<li>
-
-Cosmology postdoc at University of Melbourne, 12/18/2025, until filled
-</li>
-
-<li>
-
-Post-baccalaureate research fellow in experimental cosmology at Harvard, until filled
-</li>
-
-<li>
-
-Postdoc in CMB instrumentation and observational cosmology at Harvard, until filled
+South Pole 2027 winter-overs, until filled
 </li>
 
 </ul>
@@ -386,110 +351,17 @@ Postdoc in CMB instrumentation and observational cosmology at Harvard, until fil
 
 <hr />
 
-Postdoc in Machine Learning in High Energy Physics Detector Operations at Argonne, 12/2/2025, until filled
+South Pole 2027 winter-overs, until filled
 
-The High Energy Physics Division at Argonne National Laboratory invites applications for a postdoctoral research associate position to conduct research in machine learning (ML) for applications in High-Energy Physics (HEP). We seek highly qualified candidates with interest and experience in ML algorithms including unsupervised techniques, time-series modeling, and clustering algorithms. The candidate is expected to lead an effort to prepare generalized ML techniques for data quality monitoring for tasks across multiple HEP experiments. Experiments with Argonne involvement include, but are not limited to, ATLAS at CERN, the South Pole Telescope, and the Simons Observatory.
+The SPT-3G experiment on the 10-meter South Pole Telescope (SPT) is seeking two winter-over scientists for the 2027 Austral winter season.  The SPT Winter-Over will be a member of a two-person crew located at the NSF Amundsen-Scott South Pole research station in Antarctica. The crew will be responsible for the hands-on maintenance and operation of the SPT telescope and SPT-3G camera, which has 16,000 transition edge sensor (TES) bolometers with frequency bands at 95, 150, and 220 GHz. The winterover team will participate in the preliminarily analysis of SPT-3G data, including on-site map-making and astronomical transient detection alerts, participate in coordinated world-wide observations with the Event Horizon Telescope (EHT) receiver on the SPT, and will be an integral member of the SPT collaboration.
 
-The candidate is also expected to work closely with computational experts at the Computational Science (CPS) division, designing and executing ML experiments on leadership-class computing facilities such as the Aurora and Polaris supercomputers. Argonne is a multidisciplinary national laboratory and offers an exciting campus atmosphere in which to collaborate on interdisciplinary projects, at both the national and international levels.
+A continuous stay at the South Pole, lasting approximately eleven months, is required. The candidates will be members of a small community at the South Pole Station that will be isolated for eight months.  During this time, community members participate in a wide range of activities including fire or trauma team, kitchen tasks, general cleaning, and station opening and closing duties. The candidates need to be physically qualified to work at polar and high altitude sites for roughly one year. The successful candidates will attend the NSF contractor orientation program and will be expected to pass physical and psychological evaluations required by the National Science Foundation (NSF) Office of Polar Programs.
 
-<p style="font-weight: 400">
+2027 South Pole Telescope (SPT) position
 
-</p>
-
-<hr />
-
-Cosmology postdoc at University of Melbourne, 12/18/2025
-
-<p style="font-weight: 400">
-
-The University of Melbourne invites applications for a postdoctoral position to work on observations of CMB polarization with the South Pole Telescope. The successful candidate will contribute to delensing and the search for inflationary gravitational waves, as well as projects. A fraction of time will be available for independent research projects.
-</p>
-
-<p style="font-weight: 400">
-
-</p>
-
-<hr />
-
-Research Associate in mm-wave Instrumentation and Transient Astrophysics, 12/31/2025
-
-<p style="font-weight: 400">
-
-The Research Associate will repurpose 3.5-meter mm-wave telescopes of the Sunyaev-Zeldovich Array (SZA) at Caltech’s Owens Valley Radio Observatory and use them to search nearby galaxies for transient events at high radio frequencies. The applicant must have experience with radio astronomy instrumentation. The successful candidate will be based (at least initially) at the observatory located near Bishop, CA, which hosts several other radio astronomy projects.
-</p>
-
-<p style="font-weight: 400">
-
-</p>
-
-<hr />
-
-SO postdoc at the Simons Foundation, 1/15/2026
-
-The CMB Analysis and Simulations (CMBAS) group invites applications for a Flatiron Software Research Fellow (FSRF) to contribute to the Simons Observatory (SO) project’s data analysis efforts.
-
-The Simons Observatory is a next-generation cosmic microwave background (CMB) experiment located in Chile’s Atacama Desert. It consists of one Large-Aperture Telescope (LAT) and three Small-Aperture Telescopes (SATs), all of which have achieved first light and are now transitioning toward full science operations.
-
-SO is entering an exciting new phase of expansion. A National Science Foundation–funded upgrade will significantly increase the LAT’s mapping speed and broaden its science reach to include the transient sky. A complementary upgrade, supported by UK and Japanese partners, will double the number of SATs, further enhancing the observatory’s sensitivity and scientific potential.
-
-The CMBAS group is led by David Spergel, President of the Simons Foundation, with Simone Aiola heading the CMB data analysis effort and serving as the SO Data Manager and a member of the Observatory Execution Office, coordinating all software activities across the collaboration. Francisco Villaescusa-Navarro leads the group’s simulation development program.
-
-Flatiron Software Research Fellows will play a key role in developing and refining the pipelines and analysis methods used to generate and characterize the SO’s scientific data products. CMBAS welcomes applicants interested in machine learning (ML) and artificial intelligence (AI) applications.
-
-<p style="font-weight: 400">
-
-</p>
-
-<hr />
-
-Multiple postdocs in the Neutrino Division at Fermilab, 1/20/2026
-
-Fermilab is currently accepting applications for multiple Postdoctoral Research Associate positions in the Neutrino Division to conduct their primary research in experimental neutrino physics, including simulation, data reconstruction and analysis, machine learning and AI applications, detector construction and operation, and R&D with test stands and test-beam experiments. Successful candidates will have the opportunity to play an important role in the next-generation long-baseline neutrino experiment, DUNE, as well as the current experimental program including NOvA, the Short Baseline Neutrino Program, and liquid argon TPC R&D.
-
-If you have any questions about the position, please reach out Alex Himmel at \[email protected\].
+2027 Science Machinist position
 
  
-
-<hr />
-
-Numerical cosmology postdoc at University of Melbourne, 1/31/2025
-
-<p dir="ltr">
-
-The Astrophysics Group at the University of Melbourne invites applications for a research fellow in numerical cosmology working with Dr Hayley Macpherson. The position will provide the opportunity for a highly motivated postdoctoral researcher to make contributions to the field of inhomogeneous cosmology via state-of-the-art numerical relativity simulations of large-scale structure formation. Experience using and manipulating simulated cosmological data will be valuable. A fraction of the time will be available for independent research projects.
-</p>
-
-A key focus of the position is in studying nonlinear relativistic effects in CMB lensing, with a primary focus on the generation of B-modes from non-primordial sources. The successful applicant will use a numerical relativity + general-relativistic ray tracing framework to calculate the B-modes generated via lensing of the CMB due to large-scale structure. They will compare this effect to widely-adopted approximations for the signal to precisely determine the accuracy of current CMB de-lensing methods—especially determining whether the resulting primordial signal could be contaminated by higher-order general-relativistic effects.
-
- 
-
-<hr />
-
-Post-baccalaureate research fellow in experimental cosmology at Harvard, until filled
-
-<p dir="ltr">
-
-Our lab is seeking highly motivated post-baccalaureate individuals to join our team in advancing the next generation of Cosmic Microwave Background (CMB) experiments. This is intended to be a full-time, paid position offering immersive, hands-on experience at the intersection of physics, astronomy, and engineering.
-</p>
-
-In this role, you won’t just contribute to lab work—you will help build instruments that become part of real, field-deployed microwave telescopes. Your efforts will directly influence hardware that travels to the South Pole and other observatories, enabling some of the most sensitive measurements ever made of the early universe. From early design and prototyping to refining and validating components for deployment, your work will have a tangible impact on experiments used by the global cosmology community to push the boundaries of our understanding of the cosmos.
-
-Most opportunities are intended for one-year term positions (though shorter arrangements may be possible), ideal for recent graduates looking to deepen their research skills before pursuing graduate study. We’re looking for individuals who are dependable, detail-oriented, and excited about experimental work. Experience with hardware, coding, or laboratory instrumentation is a plus, but above all, we value curiosity, follow-through, and a collaborative spirit.
-
- 
-
-<hr />
-
-Postdoc in CMB instrumentation and observational cosmology at Harvard, until filled
-
-<p dir="ltr">
-
-We are seeking ambitious postdoctoral researchers to join our experimental cosmology group, working at the forefront of Cosmic Microwave Background (CMB) science. Opportunities center on instrumentation and observational efforts connected to the BICEP Array and South Pole telescope upgrades, projects that embody the aspirational CMB program and will play a key role in deepening our understanding of the early universe over the coming decade.
-</p>
-
-This role offers the opportunity to lead and contribute to the design, development, and deployment of cutting-edge CMB instrumentation, as well as to participate in data collection, analysis, and interpretation aimed at probing the early universe and testing inflationary cosmology.
-
-We’re looking for candidates with a Ph.D. in physics, astronomy, engineering, or a related field, and a strong background in experimental research. Prior experience with cryogenics, microwave systems, detector arrays, or related data analysis is especially welcome. Postdoctoral research opportunities offer mentorship, collaboration across institutions, and the chance to shape the direction of next-generation CMB research. These roles offers the opportunity to lead and contribute to the design, development, and deployment of cutting-edge CMB instrumentation, as well as to participate in data collection, analysis, and interpretation aimed at probing the early universe and testing inflationary cosmology. We’re looking for candidates with a Ph.D. in physics, astronomy, engineering, or a related field, and a strong background in experimental research. Prior experience with cryogenics, microwave systems, detector arrays, or related data analysis is especially welcome.
 
 <p style="font-weight: 400">
 
