@@ -342,12 +342,23 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
+Postdoc in CMB science with Simons Observatory at Sussex, 22 Apr 2026
+</li>
+
+<li>
+
 South Pole 2027 winter-overs, until filled
 </li>
 
 </ul>
 
  
+
+<hr />
+
+Postdoc in CMB science with Simons Observatory at Sussex, 22 Apr 2026
+
+Work on Simons Observatory (SO) related theory and data analysis, especially CMB lensing, power spectra, likelihoods and parameters, or related topics. You will work with a small team locally lead by Antony Lewis as well as the wider SO collaboration, while also having some time to drive your own research directions.
 
 <hr />
 
