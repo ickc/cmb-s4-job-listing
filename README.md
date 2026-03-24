@@ -428,7 +428,7 @@ var genesis_responsive_menu = {"mainMenu":"Menu","subMenu":"Submenu","menuClasse
 <script type="text/javascript" src="https://cmb-s4.org/wp-content/themes/parallax-pro-cmb-s4/js/responsive-menus.min.js?ver=1.3.4" id="parallax-responsive-menu-js"></script>
 
 <script id="wp-emoji-settings" type="application/json">
-{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://cmb-s4.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.1"}}
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://cmb-s4.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
 </script>
 
 <script type="module">
