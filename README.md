@@ -342,11 +342,6 @@ This page is for advertising positions related to CMB research broadly defined, 
 
 <li>
 
-Postdoc in CMB science with Simons Observatory at Sussex, 22 Apr 2026
-</li>
-
-<li>
-
 BICEP 2027 winter-overs, until filled
 </li>
 
@@ -357,21 +352,13 @@ South Pole 2027 winter-overs, until filled
 
 </ul>
 
- 
-
-<hr />
-
-Postdoc in CMB science with Simons Observatory at Sussex, 22 Apr 2026
-
-Work on Simons Observatory (SO) related theory and data analysis, especially CMB lensing, power spectra, likelihoods and parameters, or related topics. You will work with a small team locally lead by Antony Lewis as well as the wider SO collaboration, while also having some time to drive your own research directions.
-
 <hr />
 
 BICEP 2027 winter-overs, until filled
 
 The BICEP winter-over scientists will start work in fall 2026 and deploy to the South Pole via New Zealand in late October or early November. They will remain at the South Pole through the Antarctic winter, until November 2027. Once the austral summer team leaves the site in February 2027, the two-person winter-over team is responsible for maintaining and operating the BICEP telescopes while science data is being recorded.
 
-The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well. 
+The BICEP3 and BICEP Array telescopes represent an investment of approximately $30 million and 50-person years of effort by a collaboration of more than 30 people. The team plans carefully for every eventuality and many spare parts are kept on site. Nevertheless, the possibility for failure due to human error exists and has occurred in the past. Poor judgment or decision-making could result in the experiment being interrupted for the remainder of the winter season, resulting in major implied costs and loss of scientific competitiveness. The winter-over scientists will receive considerable support and guidance via internet and satellite telephone communications. Nevertheless, these roles requires exceptionally stable individuals who are self-motivated and able to communicate and take direction well.
 
 <hr />
 
